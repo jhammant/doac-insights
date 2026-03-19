@@ -24,7 +24,8 @@ def build_web():
         'contrarian.json',
         'topics.json',
         'top_insights.json',
-        'expertise.json'
+        'expertise.json',
+        'guests.json'
     ]
 
     copied = 0

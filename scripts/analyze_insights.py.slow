@@ -1,0 +1,456 @@
+#!/usr/bin/env python3
+"""
+Cross-episode analysis: Find consensus patterns, contradictions, and common themes.
+Enhanced version with specific claims and deduplication.
+"""
+
+import json
+from pathlib import Path
+from collections import defaultdict, Counter
+import re
+from difflib import SequenceMatcher
+
+INSIGHTS_DIR = Path(__file__).parent.parent / "data" / "insights"
+ANALYSIS_DIR = Path(__file__).parent.parent / "data" / "analysis"
+
+
+def load_all_insights():
+    """Load all insight files."""
+    insights = []
+    for file in INSIGHTS_DIR.glob("*.json"):
+        if 'sample' not in file.name:
+            with open(file, 'r') as f:
+                insights.append(json.load(f))
+    return insights
+
+
+def similarity_score(text1, text2):
+    """Calculate similarity between two texts (0-1)."""
+    return SequenceMatcher(None, text1.lower(), text2.lower()).ratio()
+
+
+def analyze_topics(all_insights):
+    """Analyze topic distribution across episodes."""
+    topic_counts = Counter()
+    topic_episodes = defaultdict(list)
+
+    for insight in all_insights:
+        episode_id = insight['episode_id']
+        for topic in insight.get('topics', []):
+            topic_counts[topic] += 1
+            topic_episodes[topic].append({
+                'id': episode_id,
+                'title': insight['episode_title'],
+                'guest': insight['guest_name']
+            })
+
+    return {
+        'topic_counts': dict(topic_counts.most_common()),
+        'topic_episodes': {k: v for k, v in topic_episodes.items()}
+    }
+
+
+def find_consensus_patterns(all_insights, min_guests=5, similarity_threshold=0.75):
+    """
+    Find SPECIFIC insights that appear across multiple episodes.
+    Groups similar insights together and requires multiple guests to independently validate them.
+    Enhanced to require more specificity - higher threshold and more guests.
+    """
+    # Extract all insights with their sources
+    insight_db = []
+    for data in all_insights:
+        for insight in data.get('key_insights', []):
+            insight_text = insight['insight']
+
+            # Filter out vague/generic insights before clustering
+            # Require insights to be substantial (not just topic mentions)
+            word_count = len(insight_text.split())
+            if word_count < 10:  # Skip very short insights
+                continue
+
+            # Skip insights that are just topic labels
+            generic_patterns = ['importance of', 'the role of', 'about', 'discussing', 'topic:', 'focus on']
+            if any(pattern in insight_text.lower()[:30] for pattern in generic_patterns):
+                continue
+
+            insight_db.append({
+                'text': insight_text,
+                'quote': insight.get('quote', ''),
+                'importance': insight.get('importance', 'medium'),
+                'episode_id': data['episode_id'],
+                'episode_title': data['episode_title'],
+                'guest': data['guest_name'],
+                'topics': data.get('topics', []),
+                'episode_url': data.get('episode_url', '')
+            })
+
+    # Group similar insights using semantic clustering
+    clusters = []
+    processed = set()
+
+    for i, insight in enumerate(insight_db):
+        if i in processed:
+            continue
+
+        # Start a new cluster with this insight
+        cluster = {
+            'representative_text': insight['text'],
+            'insights': [insight],
+            'guests': {insight['guest']},
+            'episodes': {insight['episode_id']},
+            'urls': {insight['episode_url']} if insight['episode_url'] else set()
+        }
+        processed.add(i)
+
+        # Find similar insights
+        for j, other in enumerate(insight_db):
+            if j in processed or j == i:
+                continue
+
+            # Don't cluster from same episode
+            if other['episode_id'] == insight['episode_id']:
+                continue
+
+            # Don't cluster from same guest (ensures cross-validation)
+            if other['guest'] == insight['guest']:
+                continue
+
+            # Check similarity - requires higher threshold for specificity
+            if similarity_score(insight['text'], other['text']) >= similarity_threshold:
+                cluster['insights'].append(other)
+                cluster['guests'].add(other['guest'])
+                cluster['episodes'].add(other['episode_id'])
+                if other['episode_url']:
+                    cluster['urls'].add(other['episode_url'])
+                processed.add(j)
+
+        # Only keep clusters validated by multiple guests (increased from 3 to 5)
+        if len(cluster['guests']) >= min_guests:
+            clusters.append(cluster)
+
+    # Sort by guest count (more validation = higher rank)
+    clusters.sort(key=lambda x: len(x['guests']), reverse=True)
+
+    # Format for output
+    consensus_patterns = []
+    for cluster in clusters:
+        # Get most common topics
+        all_topics = []
+        for ins in cluster['insights']:
+            all_topics.extend(ins['topics'])
+        topic_counter = Counter(all_topics)
+
+        consensus_patterns.append({
+            'claim': cluster['representative_text'],
+            'guest_count': len(cluster['guests']),
+            'episode_count': len(cluster['episodes']),
+            'guests': sorted(list(cluster['guests']))[:15],  # Limit to 15 guests for display
+            'topics': [t for t, _ in topic_counter.most_common(3)],
+            'examples': [
+                {
+                    'guest': ins['guest'],
+                    'quote': ins['quote'],
+                    'episode_title': ins['episode_title'],
+                    'episode_url': ins.get('episode_url', '')
+                }
+                for ins in cluster['insights'][:5]  # Top 5 examples
+            ],
+            'episode_urls': list(cluster['urls'])[:5]  # Sample URLs
+        })
+
+    return consensus_patterns
+
+
+def deduplicate_advice(all_insights, similarity_threshold=0.7):
+    """
+    Deduplicate advice items by clustering similar recommendations.
+    Show who endorsed each piece of advice.
+    """
+    advice_db = []
+    for data in all_insights:
+        for advice in data.get('actionable_advice', []):
+            advice_db.append({
+                'advice': advice.get('advice', ''),
+                'how_to': advice.get('how_to', ''),
+                'episode_id': data['episode_id'],
+                'episode_title': data['episode_title'],
+                'guest': data['guest_name'],
+                'topics': data.get('topics', []),
+                'episode_url': data.get('episode_url', '')
+            })
+
+    # Cluster similar advice
+    clusters = []
+    processed = set()
+
+    for i, advice in enumerate(advice_db):
+        if i in processed or not advice['advice']:
+            continue
+
+        cluster = {
+            'advice': advice['advice'],
+            'how_to': advice['how_to'],
+            'guests': [advice['guest']],
+            'episodes': [advice['episode_id']],
+            'episode_titles': [advice['episode_title']],
+            'episode_urls': [advice['episode_url']] if advice['episode_url'] else [],
+            'topics': advice['topics']
+        }
+        processed.add(i)
+
+        # Find similar advice
+        for j, other in enumerate(advice_db):
+            if j in processed or j == i:
+                continue
+
+            if similarity_score(advice['advice'], other['advice']) >= similarity_threshold:
+                if other['guest'] not in cluster['guests']:
+                    cluster['guests'].append(other['guest'])
+                if other['episode_id'] not in cluster['episodes']:
+                    cluster['episodes'].append(other['episode_id'])
+                    cluster['episode_titles'].append(other['episode_title'])
+                    if other['episode_url']:
+                        cluster['episode_urls'].append(other['episode_url'])
+                processed.add(j)
+
+        clusters.append(cluster)
+
+    # Sort by number of guests endorsing
+    clusters.sort(key=lambda x: len(x['guests']), reverse=True)
+
+    # Format output
+    deduplicated_advice = []
+    for cluster in clusters:
+        deduplicated_advice.append({
+            'advice': cluster['advice'],
+            'how_to': cluster['how_to'],
+            'endorsed_by': len(cluster['guests']),
+            'guests': cluster['guests'][:10],  # Top 10 guests
+            'episode_count': len(cluster['episodes']),
+            'episode_urls': cluster['episode_urls'][:5],  # Sample URLs
+            'topics': cluster['topics']
+        })
+
+    return deduplicated_advice
+
+
+def score_contrarian_claim(claim_data):
+    """
+    Score contrarian claims by specificity and surprise factor.
+    Higher score = more interesting/specific.
+    """
+    if isinstance(claim_data, dict):
+        claim_text = claim_data.get('claim', '')
+    else:
+        claim_text = str(claim_data)
+
+    score = 0
+
+    # Longer, more detailed claims are more interesting
+    word_count = len(claim_text.split())
+    score += min(word_count / 10, 5)  # Max 5 points
+
+    # Contains numbers/data = more specific
+    if re.search(r'\d+', claim_text):
+        score += 2
+
+    # Contains specific terms suggesting research
+    research_terms = ['study', 'research', 'data', 'evidence', 'proven', 'experiment']
+    if any(term in claim_text.lower() for term in research_terms):
+        score += 2
+
+    # Penalize vague language
+    vague_terms = ['might', 'maybe', 'possibly', 'could', 'may']
+    if any(term in claim_text.lower() for term in vague_terms):
+        score -= 1
+
+    return max(score, 0)
+
+
+def filter_contrarian_claims(all_insights, top_n=100):
+    """Collect and filter contrarian claims to top N most interesting."""
+    contrarian = []
+
+    for data in all_insights:
+        for claim in data.get('contrarian_claims', []):
+            contrarian.append({
+                'claim': claim,
+                'episode_id': data['episode_id'],
+                'episode_title': data['episode_title'],
+                'guest': data['guest_name'],
+                'episode_url': data.get('episode_url', ''),
+                'score': score_contrarian_claim(claim)
+            })
+
+    # Sort by score and take top N
+    contrarian.sort(key=lambda x: x['score'], reverse=True)
+    return contrarian[:top_n]
+
+
+def analyze_guest_expertise(all_insights):
+    """Categorize guests by expertise area with episode counts."""
+    expertise_map = defaultdict(list)
+    guest_episode_count = defaultdict(int)
+
+    for data in all_insights:
+        expertise = data.get('expertise_area', 'Unknown')
+        guest = data['guest_name']
+
+        expertise_map[expertise].append({
+            'guest': guest,
+            'episode_id': data['episode_id'],
+            'episode_title': data['episode_title']
+        })
+
+        guest_episode_count[guest] += 1
+
+    return {
+        'by_expertise': dict(expertise_map),
+        'guest_episode_counts': dict(guest_episode_count)
+    }
+
+
+def build_guest_directory(all_insights):
+    """Build a comprehensive guest directory."""
+    guests = defaultdict(lambda: {
+        'episodes': [],
+        'topics': set(),
+        'insights_count': 0,
+        'advice_count': 0,
+        'expertise': 'Unknown'
+    })
+
+    for data in all_insights:
+        guest = data['guest_name']
+
+        guests[guest]['episodes'].append({
+            'id': data['episode_id'],
+            'title': data['episode_title'],
+            'url': data.get('episode_url', '')
+        })
+
+        guests[guest]['topics'].update(data.get('topics', []))
+        guests[guest]['insights_count'] += len(data.get('key_insights', []))
+        guests[guest]['advice_count'] += len(data.get('actionable_advice', []))
+        guests[guest]['expertise'] = data.get('expertise_area', 'Unknown')
+
+    # Convert sets to lists for JSON serialization
+    guest_list = []
+    for guest_name, data in guests.items():
+        guest_list.append({
+            'name': guest_name,
+            'episode_count': len(data['episodes']),
+            'episodes': data['episodes'],
+            'topics': sorted(list(data['topics'])),
+            'insights_count': data['insights_count'],
+            'advice_count': data['advice_count'],
+            'expertise': data['expertise']
+        })
+
+    # Sort by episode count
+    guest_list.sort(key=lambda x: x['episode_count'], reverse=True)
+
+    return guest_list
+
+
+def generate_top_insights(all_insights, top_n=50):
+    """Generate a ranked list of top insights across all episodes."""
+    all_insights_list = []
+
+    for data in all_insights:
+        for insight in data.get('key_insights', []):
+            all_insights_list.append({
+                'insight': insight['insight'],
+                'quote': insight.get('quote', ''),
+                'importance': insight.get('importance', 'medium'),
+                'episode_id': data['episode_id'],
+                'episode_title': data['episode_title'],
+                'guest': data['guest_name'],
+                'episode_url': data.get('episode_url', ''),
+                'topics': data.get('topics', [])
+            })
+
+    # Sort by importance (high > medium > low)
+    importance_rank = {'high': 3, 'medium': 2, 'low': 1}
+    all_insights_list.sort(
+        key=lambda x: importance_rank.get(x['importance'], 0),
+        reverse=True
+    )
+
+    return all_insights_list[:top_n]
+
+
+def run_analysis():
+    """Run all analyses and save results."""
+    ANALYSIS_DIR.mkdir(parents=True, exist_ok=True)
+
+    print("Loading insights...")
+    all_insights = load_all_insights()
+    print(f"Loaded {len(all_insights)} episodes")
+
+    # Topic analysis
+    print("\nAnalyzing topics...")
+    topic_analysis = analyze_topics(all_insights)
+    with open(ANALYSIS_DIR / "topics.json", 'w') as f:
+        json.dump(topic_analysis, f, indent=2)
+    print(f"  Found {len(topic_analysis['topic_counts'])} unique topics")
+
+    # Consensus patterns (ENHANCED - more specific)
+    print("\nFinding SPECIFIC consensus patterns...")
+    consensus = find_consensus_patterns(all_insights, min_guests=3)
+    with open(ANALYSIS_DIR / "consensus.json", 'w') as f:
+        json.dump(consensus, f, indent=2)
+    print(f"  Found {len(consensus)} specific consensus claims (3+ guests)")
+
+    # Actionable advice (ENHANCED - deduplicated)
+    print("\nDeduplicating actionable advice...")
+    advice = deduplicate_advice(all_insights)
+    with open(ANALYSIS_DIR / "advice.json", 'w') as f:
+        json.dump(advice, f, indent=2)
+    print(f"  Deduplicated to {len(advice)} unique advice items")
+
+    # Contrarian views (ENHANCED - filtered to top 100)
+    print("\nFiltering top contrarian claims...")
+    contrarian = filter_contrarian_claims(all_insights, top_n=100)
+    with open(ANALYSIS_DIR / "contrarian.json", 'w') as f:
+        json.dump(contrarian, f, indent=2)
+    print(f"  Selected top {len(contrarian)} most interesting contrarian claims")
+
+    # Guest expertise
+    print("\nAnalyzing guest expertise...")
+    expertise = analyze_guest_expertise(all_insights)
+    with open(ANALYSIS_DIR / "expertise.json", 'w') as f:
+        json.dump(expertise, f, indent=2)
+    print(f"  Categorized {len(expertise['by_expertise'])} expertise areas")
+
+    # Guest directory (NEW)
+    print("\nBuilding guest directory...")
+    guests = build_guest_directory(all_insights)
+    with open(ANALYSIS_DIR / "guests.json", 'w') as f:
+        json.dump(guests, f, indent=2)
+    print(f"  Created directory of {len(guests)} guests")
+
+    # Top insights
+    print("\nGenerating top insights...")
+    top_insights = generate_top_insights(all_insights, top_n=50)
+    with open(ANALYSIS_DIR / "top_insights.json", 'w') as f:
+        json.dump(top_insights, f, indent=2)
+    print(f"  Selected top {len(top_insights)} insights")
+
+    # Summary stats
+    print("\n" + "="*60)
+    print("ANALYSIS COMPLETE")
+    print("="*60)
+    print(f"Results saved to: {ANALYSIS_DIR}")
+    print(f"\nFiles generated:")
+    print(f"  - topics.json: Topic distribution and episodes")
+    print(f"  - consensus.json: Specific claims validated by 3+ guests")
+    print(f"  - advice.json: Deduplicated actionable advice with endorsements")
+    print(f"  - contrarian.json: Top 100 most interesting contrarian claims")
+    print(f"  - expertise.json: Guest expertise categories")
+    print(f"  - guests.json: Complete guest directory")
+    print(f"  - top_insights.json: Top 50 ranked insights")
+
+
+if __name__ == "__main__":
+    run_analysis()

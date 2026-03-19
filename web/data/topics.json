@@ -1,17 +1,17 @@
 {
   "topic_counts": {
-    "mindset": 768,
-    "habits": 719,
-    "psychology": 691,
-    "relationships": 617,
-    "business": 484,
-    "health": 464,
-    "leadership": 347,
+    "mindset": 765,
+    "habits": 714,
+    "psychology": 689,
+    "relationships": 616,
+    "business": 482,
+    "health": 461,
+    "leadership": 346,
     "communication": 334,
-    "science": 249,
-    "productivity": 244,
-    "money": 210,
-    "fitness": 142,
+    "science": 247,
+    "productivity": 242,
+    "money": 209,
+    "fitness": 141,
     "technology": 134,
     "creativity": 117,
     "spirituality": 90,
@@ -122,7 +122,7 @@
       {
         "id": "the-top-7-belly-fat-burning-hacks-for-2024-that-are-proven-to-work",
         "title": "The Diary Of A CEO with Steven Bartlett - The Top 7 Belly Fat Burning Hacks For 2024 That Are PROVEN To Work!",
-        "guest": null
+        "guest": "Steven Bartlett"
       },
       {
         "id": "gary-neville-from-football-legend-to-building-a-business-empire",
@@ -172,12 +172,7 @@
       {
         "id": "moment-212-the-dangerous-truth-behind-sugar-free",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 212: The Dangerous Truth Behind \u201cSugar Free\u201d!",
-        "guest": "Unclear from transcript"
-      },
-      {
-        "id": "sample002",
-        "title": "E195: The Exercise Neuroscientist: NEW RESEARCH, The Shocking Link Between Exercise And Dementia!",
-        "guest": "Not specified in text"
+        "guest": "Dr. Tim Spector"
       },
       {
         "id": "lucy-hale-opens-up-for-the-first-time-about-eating-disorders-relationships-addiction",
@@ -247,7 +242,7 @@
       {
         "id": "moment-132-triple-your-life-expectancy-with-these-3-health-hacks-verified-by-dana-white-gary-brecka",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 132: Triple Your Life Expectancy With These 3 Health Hacks! (Verified By Dana White): Gary Brecka",
-        "guest": "Not specified in the transcript"
+        "guest": "Gary Brecka"
       },
       {
         "id": "the-ageing-doctor-these-are-they-early-signs-of-arthritis-if-you-run-dont-do-this-start-now-the-secret-cause-of-alzheimers",
@@ -407,7 +402,7 @@
       {
         "id": "moment-62-mens-mental-health-isnt-talked-about-enough-heres-why-roman-kemp",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 62 - Mens Mental Health Isn't Talked About Enough, Here\u2019s Why: Roman Kemp",
-        "guest": "Unclear from Transcript"
+        "guest": "Roman Kemp"
       },
       {
         "id": "most-replayed-moment-the-truth-behind-healthy-food-labels-dr-chris-van-tulleken",
@@ -597,7 +592,7 @@
       {
         "id": "moment-110-the-unknown-and-surprising-power-of-physical-touch-dacher-keltner",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 110- The Unknown And Surprising Power Of Physical Touch: Dacher Keltner",
-        "guest": "Not specified in transcript"
+        "guest": "Dacher Keltner"
       },
       {
         "id": "bear-grylls-man-vs-failure-anxiety-imposter-syndrome",
@@ -638,11 +633,6 @@
         "id": "e8-advice-from-elon-musk-warren-buffet-and-steve-jobs",
         "title": "The Diary Of A CEO with Steven Bartlett - E8: Advice from Elon Musk, Warren Buffet and Steve Jobs",
         "guest": "Steven Bartlett"
-      },
-      {
-        "id": "sample001",
-        "title": "E203: Mo Gawdat: A WARNING about Stress, Anxiety & Depression! This Is Causing 70% Of Heart Attacks!",
-        "guest": "Not specified"
       },
       {
         "id": "the-coffee-expert-the-surprising-link-between-coffee-mental-health-depression-heart-disease-james-hoffmann",
@@ -752,7 +742,7 @@
       {
         "id": "most-replayed-moment-the-science-of-building-muscle-faster-with-smarter-training-dr-mike-israetel",
         "title": "The Diary Of A CEO with Steven Bartlett - Most Replayed Moment: The Science Of Building Muscle Faster With Smarter Training - Dr. Mike Israetel",
-        "guest": "Not specified in transcript"
+        "guest": "Dr. Mike Israetel"
       },
       {
         "id": "wim-hof-theyre-lying-to-you-about-disease-inflammation",
@@ -807,7 +797,7 @@
       {
         "id": "moment-21-professor-green-on-the-source-of-your-success",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 21 - Professor Green on The Source Of Your Success",
-        "guest": "Unknown"
+        "guest": "Professor Green"
       },
       {
         "id": "davina-mccall-i-was-doing-cocaine-with-my-mum-at-15",
@@ -867,7 +857,7 @@
       {
         "id": "moment-156-your-stress-is-making-you-fat-sick-heres-how-to-fix-it",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 156: Your Stress Is Making you Fat & Sick... Here's How To Fix It!",
-        "guest": "Not specified"
+        "guest": "Dr. Rangan Chatterjee"
       },
       {
         "id": "the-calories-expert-health-experts-are-wrong-about-calories-the-surprising-benefits-of-diet-coke-the-link-between-obesity-past-abuse",
@@ -957,7 +947,7 @@
       {
         "id": "moment-131-why-you-need-to-start-embracing-all-your-emotions-dr-julie-smith",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 131: Why You Need To Start Embracing ALL Your Emotions: Dr. Julie Smith",
-        "guest": "Unclear from transcript"
+        "guest": "Dr. Julie Smith"
       },
       {
         "id": "moment-174-trauma-doctor-reveals-every-type-of-trauma-its-effects-in-10-minutes",
@@ -1452,7 +1442,7 @@
       {
         "id": "moment-187-the-pregnancy-doctor-reveals-3-ways-to-increase-your-chances-of-pregnancy-naturally",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 187: The Pregnancy Doctor REVEALS 3 Ways To INCREASE Your Chances Of Pregnancy NATURALLY",
-        "guest": "Unclear from the transcript"
+        "guest": "Dr. Natalie Crawford"
       },
       {
         "id": "chris-williamson-the-shocking-new-research-on-why-men-and-women-are-no-longer-compatible",
@@ -1462,7 +1452,7 @@
       {
         "id": "moment-166-what-men-women-need-to-know-about-the-menstrual-cycle-dr-mindy-pelz",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 166: What Men (& Women) NEED To Know About The Menstrual Cycle: Dr Mindy Pelz",
-        "guest": "Not specified in provided content"
+        "guest": "Dr. Mindy Pelz"
       },
       {
         "id": "moment-206-harvard-professor-reveals-the-biggest-lies-about-exercise-weight-loss",
@@ -1770,11 +1760,6 @@
         "guest": "Tim Spector"
       },
       {
-        "id": "sample004",
-        "title": "E178: The Fertility Doctor: Top 5 Things Harming Your Fertility & How To Fix Them!",
-        "guest": "Unknown"
-      },
-      {
         "id": "most-replayed-moment-this-longevity-protocol-actually-works-biohacker-bryan-johnson",
         "title": "The Diary Of A CEO with Steven Bartlett - Most Replayed Moment: This Longevity Protocol Actually Works! - Biohacker Bryan Johnson",
         "guest": "Bryan Johnson"
@@ -2042,7 +2027,7 @@
       {
         "id": "moment-95-a-simple-hack-to-achieve-maximum-happiness-mo-gowdat",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 95 - A Simple Hack To Achieve Maximum Happiness: Mo Gowdat",
-        "guest": "Not specified in transcript"
+        "guest": "Mo Gowdat"
       },
       {
         "id": "moment-198-do-this-to-stop-premature-ageing-daniel-e-lieberman",
@@ -2469,7 +2454,7 @@
       {
         "id": "moment-70-how-jonny-wilkinson-made-it-to-the-top",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 70 - How Jonny Wilkinson Made It To The Top",
-        "guest": "Not specified"
+        "guest": "Jonny Wilkinson"
       },
       {
         "id": "kamala-harris-america-is-at-breaking-point-im-deeply-concerned-about-the-state-of-the-country",
@@ -2479,7 +2464,7 @@
       {
         "id": "the-top-7-belly-fat-burning-hacks-for-2024-that-are-proven-to-work",
         "title": "The Diary Of A CEO with Steven Bartlett - The Top 7 Belly Fat Burning Hacks For 2024 That Are PROVEN To Work!",
-        "guest": null
+        "guest": "Steven Bartlett"
       },
       {
         "id": "gary-neville-from-football-legend-to-building-a-business-empire",
@@ -2549,17 +2534,12 @@
       {
         "id": "moment-212-the-dangerous-truth-behind-sugar-free",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 212: The Dangerous Truth Behind \u201cSugar Free\u201d!",
-        "guest": "Unclear from transcript"
+        "guest": "Dr. Tim Spector"
       },
       {
         "id": "moment-139-your-inner-voice-is-limiting-you-how-to-control-the-negative-inner-thoughts-mo-gowdat",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 139: \"Your Inner Voice Is Limiting You!\" How To Control The Negative Inner Thoughts: Mo Gowdat",
         "guest": "Not Applicable"
-      },
-      {
-        "id": "sample002",
-        "title": "E195: The Exercise Neuroscientist: NEW RESEARCH, The Shocking Link Between Exercise And Dementia!",
-        "guest": "Not specified in text"
       },
       {
         "id": "lucy-hale-opens-up-for-the-first-time-about-eating-disorders-relationships-addiction",
@@ -2659,7 +2639,7 @@
       {
         "id": "moment-132-triple-your-life-expectancy-with-these-3-health-hacks-verified-by-dana-white-gary-brecka",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 132: Triple Your Life Expectancy With These 3 Health Hacks! (Verified By Dana White): Gary Brecka",
-        "guest": "Not specified in the transcript"
+        "guest": "Gary Brecka"
       },
       {
         "id": "the-ageing-doctor-these-are-they-early-signs-of-arthritis-if-you-run-dont-do-this-start-now-the-secret-cause-of-alzheimers",
@@ -2674,7 +2654,7 @@
       {
         "id": "most-replayed-moment-why-youre-never-satisfied-the-4-pillars-of-lasting-happiness",
         "title": "The Diary Of A CEO with Steven Bartlett - Most Replayed Moment: Why You\u2019re Never Satisfied! The 4 Pillars of Lasting Happiness",
-        "guest": "Not specified in the transcript"
+        "guest": "Arthur Brooks"
       },
       {
         "id": "doctor-jordan-peterson-the-number-one-reason-for-divorce-the-one-small-step-you-have-to-take-to-turn-your-whole-life-around",
@@ -2889,7 +2869,7 @@
       {
         "id": "moment-62-mens-mental-health-isnt-talked-about-enough-heres-why-roman-kemp",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 62 - Mens Mental Health Isn't Talked About Enough, Here\u2019s Why: Roman Kemp",
-        "guest": "Unclear from Transcript"
+        "guest": "Roman Kemp"
       },
       {
         "id": "most-replayed-moment-the-truth-behind-healthy-food-labels-dr-chris-van-tulleken",
@@ -2929,7 +2909,7 @@
       {
         "id": "moment-94-doctor-julie-the-one-simplifying-thing-that-will-transform-your-life",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 94 - Doctor Julie: The ONE Simplifying Thing That Will Transform Your Life",
-        "guest": "Not specified in text"
+        "guest": "Dr. Julie Smith"
       },
       {
         "id": "moment-146-3-simple-steps-that-guarantees-ultimate-happiness-jay-shettys-happiness-model",
@@ -3164,7 +3144,7 @@
       {
         "id": "moment-110-the-unknown-and-surprising-power-of-physical-touch-dacher-keltner",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 110- The Unknown And Surprising Power Of Physical Touch: Dacher Keltner",
-        "guest": "Not specified in transcript"
+        "guest": "Dacher Keltner"
       },
       {
         "id": "bear-grylls-man-vs-failure-anxiety-imposter-syndrome",
@@ -3184,7 +3164,7 @@
       {
         "id": "moment-4-how-i-discovered-a-more-grateful-perspective",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 4 - How I Discovered A More Grateful Perspective",
-        "guest": "Unknown"
+        "guest": "Steven Bartlett"
       },
       {
         "id": "the-discipline-expert-the-4-surprising-easy-habits-all-high-achievers-have-based-on-2000-years-of-research-ryan-holiday",
@@ -3210,11 +3190,6 @@
         "id": "e8-advice-from-elon-musk-warren-buffet-and-steve-jobs",
         "title": "The Diary Of A CEO with Steven Bartlett - E8: Advice from Elon Musk, Warren Buffet and Steve Jobs",
         "guest": "Steven Bartlett"
-      },
-      {
-        "id": "sample001",
-        "title": "E203: Mo Gawdat: A WARNING about Stress, Anxiety & Depression! This Is Causing 70% Of Heart Attacks!",
-        "guest": "Not specified"
       },
       {
         "id": "rebel-wilson-i-experimented-with-ozempic-childhood-trauma-was-the-reason-i-couldnt-lose-weight-all-the-truth-about-sacha-baron-cohen",
@@ -3444,12 +3419,12 @@
       {
         "id": "moment-17-russell-kane-reveals-the-simple-path-to-success",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 17 - Russell Kane Reveals The Simple Path To Success",
-        "guest": "Unknown"
+        "guest": "Russell Kane"
       },
       {
         "id": "moment-21-professor-green-on-the-source-of-your-success",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 21 - Professor Green on The Source Of Your Success",
-        "guest": "Unknown"
+        "guest": "Professor Green"
       },
       {
         "id": "moment-24-mary-portas-on-finding-your-truth-when-youre-feeling-lost",
@@ -3574,7 +3549,7 @@
       {
         "id": "moment-156-your-stress-is-making-you-fat-sick-heres-how-to-fix-it",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 156: Your Stress Is Making you Fat & Sick... Here's How To Fix It!",
-        "guest": "Not specified"
+        "guest": "Dr. Rangan Chatterjee"
       },
       {
         "id": "the-calories-expert-health-experts-are-wrong-about-calories-the-surprising-benefits-of-diet-coke-the-link-between-obesity-past-abuse",
@@ -3699,7 +3674,7 @@
       {
         "id": "moment-131-why-you-need-to-start-embracing-all-your-emotions-dr-julie-smith",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 131: Why You Need To Start Embracing ALL Your Emotions: Dr. Julie Smith",
-        "guest": "Unclear from transcript"
+        "guest": "Dr. Julie Smith"
       },
       {
         "id": "moment-10-jake-humphrey-on-the-building-blocks-of-success",
@@ -4009,7 +3984,7 @@
       {
         "id": "moment-203-how-to-actually-become-disciplined-without-willpower-the-leading-behaviour-expert",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 203: How To Actually Become Disciplined WITHOUT Willpower\u2026  The Leading Behaviour Expert",
-        "guest": "Unknown"
+        "guest": "Wendy Wood"
       },
       {
         "id": "orgasm-queen-do-this-for-20-minutes-before-having-sex-have-sex-with-them-like-when-you-first-met-i-never-orgasmed-until-he-tried-this",
@@ -4249,7 +4224,7 @@
       {
         "id": "moment-163-happiness-expert-reveals-the-one-type-of-person-you-should-never-date",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 163: Happiness Expert Reveals The One Type Of Person You Should NEVER Date",
-        "guest": "Unknown"
+        "guest": "Arthur Brooks"
       },
       {
         "id": "paul-brunson-the-7030-body-shape-is-scientifically-the-most-sexy-the-one-question-that-predicts-divorce-the-link-between-childhood-trauma-sex",
@@ -4409,7 +4384,7 @@
       {
         "id": "moment-166-what-men-women-need-to-know-about-the-menstrual-cycle-dr-mindy-pelz",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 166: What Men (& Women) NEED To Know About The Menstrual Cycle: Dr Mindy Pelz",
-        "guest": "Not specified in provided content"
+        "guest": "Dr. Mindy Pelz"
       },
       {
         "id": "moment-105-the-single-biggest-killer-of-relationships-lewis-howes",
@@ -4749,7 +4724,7 @@
       {
         "id": "moment-7-joe-wicks-on-how-to-forgive-set-yourself-free",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 7 - Joe Wicks On How To Forgive & Set Yourself Free",
-        "guest": "Unknown"
+        "guest": "Joe Wicks"
       },
       {
         "id": "how-to-take-full-control-of-your-mind-prof-steve-peters-the-chimp-paradox",
@@ -5189,7 +5164,7 @@
       {
         "id": "moment-83-jay-shettys-4-pillars-for-long-lasting-relationships",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 83 - Jay Shetty's 4 Pillars for Long Lasting Relationships",
-        "guest": "Unknown"
+        "guest": "Jay Shetty"
       },
       {
         "id": "moment-87-dr-aria-on-how-to-get-over-heartbreak",
@@ -5319,7 +5294,7 @@
       {
         "id": "moment-95-a-simple-hack-to-achieve-maximum-happiness-mo-gowdat",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 95 - A Simple Hack To Achieve Maximum Happiness: Mo Gowdat",
-        "guest": "Not specified in transcript"
+        "guest": "Mo Gowdat"
       },
       {
         "id": "moment-25-this-is-how-you-fulfil-your-potential-matthew-syed",
@@ -5769,7 +5744,7 @@
       {
         "id": "moment-200-love-expert-reveals-why-80-of-modern-relationships-fail",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 200: Love Expert Reveals Why 80% Of Modern Relationships Fail",
-        "guest": "Not specified"
+        "guest": "Matthew Hussey"
       },
       {
         "id": "top-neuroscientist-anxiety-is-a-predictive-error-in-the-brain-heres-the-proof-your-brain-is-faking-trauma-your-whole-life-might-be-a-prediction",
@@ -5931,12 +5906,12 @@
       {
         "id": "moment-70-how-jonny-wilkinson-made-it-to-the-top",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 70 - How Jonny Wilkinson Made It To The Top",
-        "guest": "Not specified"
+        "guest": "Jonny Wilkinson"
       },
       {
         "id": "the-top-7-belly-fat-burning-hacks-for-2024-that-are-proven-to-work",
         "title": "The Diary Of A CEO with Steven Bartlett - The Top 7 Belly Fat Burning Hacks For 2024 That Are PROVEN To Work!",
-        "guest": null
+        "guest": "Steven Bartlett"
       },
       {
         "id": "gary-neville-from-football-legend-to-building-a-business-empire",
@@ -5996,7 +5971,7 @@
       {
         "id": "moment-193-hard-work-doesnt-equal-successtry-this-instead-former-netflix-ceo",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 193: Hard Work Doesn't Equal Success\u2026Try This Instead...: Former Netflix CEO",
-        "guest": "Not specified"
+        "guest": "Marc Randolph"
       },
       {
         "id": "the-mental-health-doctor-sitting-is-increasing-your-anxiety-your-phone-is-destroying-your-brain-you-may-have-popcorn-brain",
@@ -6021,17 +5996,12 @@
       {
         "id": "moment-212-the-dangerous-truth-behind-sugar-free",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 212: The Dangerous Truth Behind \u201cSugar Free\u201d!",
-        "guest": "Unclear from transcript"
+        "guest": "Dr. Tim Spector"
       },
       {
         "id": "moment-139-your-inner-voice-is-limiting-you-how-to-control-the-negative-inner-thoughts-mo-gowdat",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 139: \"Your Inner Voice Is Limiting You!\" How To Control The Negative Inner Thoughts: Mo Gowdat",
         "guest": "Not Applicable"
-      },
-      {
-        "id": "sample002",
-        "title": "E195: The Exercise Neuroscientist: NEW RESEARCH, The Shocking Link Between Exercise And Dementia!",
-        "guest": "Not specified in text"
       },
       {
         "id": "lucy-hale-opens-up-for-the-first-time-about-eating-disorders-relationships-addiction",
@@ -6141,7 +6111,7 @@
       {
         "id": "moment-132-triple-your-life-expectancy-with-these-3-health-hacks-verified-by-dana-white-gary-brecka",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 132: Triple Your Life Expectancy With These 3 Health Hacks! (Verified By Dana White): Gary Brecka",
-        "guest": "Not specified in the transcript"
+        "guest": "Gary Brecka"
       },
       {
         "id": "the-ageing-doctor-these-are-they-early-signs-of-arthritis-if-you-run-dont-do-this-start-now-the-secret-cause-of-alzheimers",
@@ -6156,7 +6126,7 @@
       {
         "id": "most-replayed-moment-why-youre-never-satisfied-the-4-pillars-of-lasting-happiness",
         "title": "The Diary Of A CEO with Steven Bartlett - Most Replayed Moment: Why You\u2019re Never Satisfied! The 4 Pillars of Lasting Happiness",
-        "guest": "Not specified in the transcript"
+        "guest": "Arthur Brooks"
       },
       {
         "id": "doctor-jordan-peterson-the-number-one-reason-for-divorce-the-one-small-step-you-have-to-take-to-turn-your-whole-life-around",
@@ -6257,11 +6227,6 @@
         "id": "5-scientific-rules-for-making-breaking-habits-in-2023",
         "title": "The Diary Of A CEO with Steven Bartlett - 5 Scientific Rules for Making & Breaking Habits in 2023!",
         "guest": "Stephen Bartlett"
-      },
-      {
-        "id": "sample005",
-        "title": "E156: The Financial Expert: How To Get So Rich You Never Have To Work Again!",
-        "guest": "Unknown"
       },
       {
         "id": "e30-alan-barratt-from-ps27-to-ps72-million",
@@ -6376,7 +6341,7 @@
       {
         "id": "moment-62-mens-mental-health-isnt-talked-about-enough-heres-why-roman-kemp",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 62 - Mens Mental Health Isn't Talked About Enough, Here\u2019s Why: Roman Kemp",
-        "guest": "Unclear from Transcript"
+        "guest": "Roman Kemp"
       },
       {
         "id": "investing-vs-real-estate-vs-crypto-debate-the-retirement-crisis-is-coming-theyre-lying-to-you-about-renting",
@@ -6426,7 +6391,7 @@
       {
         "id": "moment-94-doctor-julie-the-one-simplifying-thing-that-will-transform-your-life",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 94 - Doctor Julie: The ONE Simplifying Thing That Will Transform Your Life",
-        "guest": "Not specified in text"
+        "guest": "Dr. Julie Smith"
       },
       {
         "id": "moment-146-3-simple-steps-that-guarantees-ultimate-happiness-jay-shettys-happiness-model",
@@ -6671,7 +6636,7 @@
       {
         "id": "moment-110-the-unknown-and-surprising-power-of-physical-touch-dacher-keltner",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 110- The Unknown And Surprising Power Of Physical Touch: Dacher Keltner",
-        "guest": "Not specified in transcript"
+        "guest": "Dacher Keltner"
       },
       {
         "id": "bear-grylls-man-vs-failure-anxiety-imposter-syndrome",
@@ -6691,7 +6656,7 @@
       {
         "id": "moment-4-how-i-discovered-a-more-grateful-perspective",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 4 - How I Discovered A More Grateful Perspective",
-        "guest": "Unknown"
+        "guest": "Steven Bartlett"
       },
       {
         "id": "the-discipline-expert-the-4-surprising-easy-habits-all-high-achievers-have-based-on-2000-years-of-research-ryan-holiday",
@@ -6717,11 +6682,6 @@
         "id": "e8-advice-from-elon-musk-warren-buffet-and-steve-jobs",
         "title": "The Diary Of A CEO with Steven Bartlett - E8: Advice from Elon Musk, Warren Buffet and Steve Jobs",
         "guest": "Steven Bartlett"
-      },
-      {
-        "id": "sample001",
-        "title": "E203: Mo Gawdat: A WARNING about Stress, Anxiety & Depression! This Is Causing 70% Of Heart Attacks!",
-        "guest": "Not specified"
       },
       {
         "id": "the-coffee-expert-the-surprising-link-between-coffee-mental-health-depression-heart-disease-james-hoffmann",
@@ -6861,7 +6821,7 @@
       {
         "id": "most-replayed-moment-the-science-of-building-muscle-faster-with-smarter-training-dr-mike-israetel",
         "title": "The Diary Of A CEO with Steven Bartlett - Most Replayed Moment: The Science Of Building Muscle Faster With Smarter Training - Dr. Mike Israetel",
-        "guest": "Not specified in transcript"
+        "guest": "Dr. Mike Israetel"
       },
       {
         "id": "moment-127-how-to-build-unbreakable-confidence-by-making-this-one-promise-to-yourself-chris-williamson",
@@ -6956,12 +6916,12 @@
       {
         "id": "moment-17-russell-kane-reveals-the-simple-path-to-success",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 17 - Russell Kane Reveals The Simple Path To Success",
-        "guest": "Unknown"
+        "guest": "Russell Kane"
       },
       {
         "id": "moment-21-professor-green-on-the-source-of-your-success",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 21 - Professor Green on The Source Of Your Success",
-        "guest": "Unknown"
+        "guest": "Professor Green"
       },
       {
         "id": "moment-24-mary-portas-on-finding-your-truth-when-youre-feeling-lost",
@@ -7081,7 +7041,7 @@
       {
         "id": "moment-156-your-stress-is-making-you-fat-sick-heres-how-to-fix-it",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 156: Your Stress Is Making you Fat & Sick... Here's How To Fix It!",
-        "guest": "Not specified"
+        "guest": "Dr. Rangan Chatterjee"
       },
       {
         "id": "the-calories-expert-health-experts-are-wrong-about-calories-the-surprising-benefits-of-diet-coke-the-link-between-obesity-past-abuse",
@@ -7221,7 +7181,7 @@
       {
         "id": "moment-131-why-you-need-to-start-embracing-all-your-emotions-dr-julie-smith",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 131: Why You Need To Start Embracing ALL Your Emotions: Dr. Julie Smith",
-        "guest": "Unclear from transcript"
+        "guest": "Dr. Julie Smith"
       },
       {
         "id": "moment-10-jake-humphrey-on-the-building-blocks-of-success",
@@ -7536,7 +7496,7 @@
       {
         "id": "moment-203-how-to-actually-become-disciplined-without-willpower-the-leading-behaviour-expert",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 203: How To Actually Become Disciplined WITHOUT Willpower\u2026  The Leading Behaviour Expert",
-        "guest": "Unknown"
+        "guest": "Wendy Wood"
       },
       {
         "id": "orgasm-queen-do-this-for-20-minutes-before-having-sex-have-sex-with-them-like-when-you-first-met-i-never-orgasmed-until-he-tried-this",
@@ -7786,7 +7746,7 @@
       {
         "id": "moment-163-happiness-expert-reveals-the-one-type-of-person-you-should-never-date",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 163: Happiness Expert Reveals The One Type Of Person You Should NEVER Date",
-        "guest": "Unknown"
+        "guest": "Arthur Brooks"
       },
       {
         "id": "moment-196-this-is-the-one-skill-that-will-guarantee-your-success-even-against-smarter-better-richer-people-codie-sanchez",
@@ -7797,11 +7757,6 @@
         "id": "paul-brunson-the-7030-body-shape-is-scientifically-the-most-sexy-the-one-question-that-predicts-divorce-the-link-between-childhood-trauma-sex",
         "title": "The Diary Of A CEO with Steven Bartlett -  Paul Brunson: \"The 70/30 Body Shape Is Scientifically The Most Sexy\", \"The ONE Question That Predicts Divorce!\" & \"The Link Between Childhood Trauma & Sex\"",
         "guest": "Paul Carrick Brunson"
-      },
-      {
-        "id": "sample003",
-        "title": "E187: Simon Sinek: The Number One Reason Why You're Not Succeeding | E187",
-        "guest": "Not specified"
       },
       {
         "id": "deliveroo-founder-from-ps0-to-ps5-billion-will-shu",
@@ -7976,7 +7931,7 @@
       {
         "id": "moment-166-what-men-women-need-to-know-about-the-menstrual-cycle-dr-mindy-pelz",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 166: What Men (& Women) NEED To Know About The Menstrual Cycle: Dr Mindy Pelz",
-        "guest": "Not specified in provided content"
+        "guest": "Dr. Mindy Pelz"
       },
       {
         "id": "moment-206-harvard-professor-reveals-the-biggest-lies-about-exercise-weight-loss",
@@ -8336,7 +8291,7 @@
       {
         "id": "moment-7-joe-wicks-on-how-to-forgive-set-yourself-free",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 7 - Joe Wicks On How To Forgive & Set Yourself Free",
-        "guest": "Unknown"
+        "guest": "Joe Wicks"
       },
       {
         "id": "how-to-take-full-control-of-your-mind-prof-steve-peters-the-chimp-paradox",
@@ -8447,11 +8402,6 @@
         "id": "moment-121-this-one-small-thing-makes-me-so-grateful-that-i-cry-fearne-cotton",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 121: \"This ONE Small Thing Makes Me So Grateful That I Cry!\" - Fearne Cotton",
         "guest": "Fearne Cotton"
-      },
-      {
-        "id": "sample004",
-        "title": "E178: The Fertility Doctor: Top 5 Things Harming Your Fertility & How To Fix Them!",
-        "guest": "Unknown"
       },
       {
         "id": "most-replayed-moment-this-longevity-protocol-actually-works-biohacker-bryan-johnson",
@@ -8896,7 +8846,7 @@
       {
         "id": "moment-95-a-simple-hack-to-achieve-maximum-happiness-mo-gowdat",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 95 - A Simple Hack To Achieve Maximum Happiness: Mo Gowdat",
-        "guest": "Not specified in transcript"
+        "guest": "Mo Gowdat"
       },
       {
         "id": "moment-25-this-is-how-you-fulfil-your-potential-matthew-syed",
@@ -9106,7 +9056,7 @@
       {
         "id": "the-top-7-money-making-hacks-for-2025-that-are-proven-to-work-do-not-buy-a-house-do-this-instead",
         "title": "The Diary Of A CEO with Steven Bartlett - The Top 7 Money Making Hacks For 2025 That Are PROVEN To Work! Do Not Buy A House! Do This Instead!",
-        "guest": "Unclear from the provided transcript"
+        "guest": "Steven Bartlett"
       },
       {
         "id": "special-forces-commanders-weird-trick-for-overcoming-anxiety-this-is-the-reason-people-quit-imposter-syndrome-is-a-good-thing",
@@ -9376,7 +9326,7 @@
       {
         "id": "moment-200-love-expert-reveals-why-80-of-modern-relationships-fail",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 200: Love Expert Reveals Why 80% Of Modern Relationships Fail",
-        "guest": "Not specified"
+        "guest": "Matthew Hussey"
       },
       {
         "id": "top-neuroscientist-anxiety-is-a-predictive-error-in-the-brain-heres-the-proof-your-brain-is-faking-trauma-your-whole-life-might-be-a-prediction",
@@ -9488,7 +9438,7 @@
       {
         "id": "the-top-7-belly-fat-burning-hacks-for-2024-that-are-proven-to-work",
         "title": "The Diary Of A CEO with Steven Bartlett - The Top 7 Belly Fat Burning Hacks For 2024 That Are PROVEN To Work!",
-        "guest": null
+        "guest": "Steven Bartlett"
       },
       {
         "id": "most-replayed-moment-would-you-still-love-them-if-you-came-off-the-pill-your-hormones-are-controlling-you",
@@ -9523,12 +9473,7 @@
       {
         "id": "moment-212-the-dangerous-truth-behind-sugar-free",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 212: The Dangerous Truth Behind \u201cSugar Free\u201d!",
-        "guest": "Unclear from transcript"
-      },
-      {
-        "id": "sample002",
-        "title": "E195: The Exercise Neuroscientist: NEW RESEARCH, The Shocking Link Between Exercise And Dementia!",
-        "guest": "Not specified in text"
+        "guest": "Dr. Tim Spector"
       },
       {
         "id": "nuclear-war-expert-72-minutes-to-wipe-out-60-of-humans-in-the-hands-of-1-person-if-nuclear-war-starts-go-to-this-country",
@@ -9788,7 +9733,7 @@
       {
         "id": "most-replayed-moment-the-science-of-building-muscle-faster-with-smarter-training-dr-mike-israetel",
         "title": "The Diary Of A CEO with Steven Bartlett - Most Replayed Moment: The Science Of Building Muscle Faster With Smarter Training - Dr. Mike Israetel",
-        "guest": "Not specified in transcript"
+        "guest": "Dr. Mike Israetel"
       },
       {
         "id": "wim-hof-theyre-lying-to-you-about-disease-inflammation",
@@ -9843,7 +9788,7 @@
       {
         "id": "moment-156-your-stress-is-making-you-fat-sick-heres-how-to-fix-it",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 156: Your Stress Is Making you Fat & Sick... Here's How To Fix It!",
-        "guest": "Not specified"
+        "guest": "Dr. Rangan Chatterjee"
       },
       {
         "id": "the-calories-expert-health-experts-are-wrong-about-calories-the-surprising-benefits-of-diet-coke-the-link-between-obesity-past-abuse",
@@ -10158,7 +10103,7 @@
       {
         "id": "moment-163-happiness-expert-reveals-the-one-type-of-person-you-should-never-date",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 163: Happiness Expert Reveals The One Type Of Person You Should NEVER Date",
-        "guest": "Unknown"
+        "guest": "Arthur Brooks"
       },
       {
         "id": "paul-brunson-the-7030-body-shape-is-scientifically-the-most-sexy-the-one-question-that-predicts-divorce-the-link-between-childhood-trauma-sex",
@@ -10213,12 +10158,12 @@
       {
         "id": "moment-187-the-pregnancy-doctor-reveals-3-ways-to-increase-your-chances-of-pregnancy-naturally",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 187: The Pregnancy Doctor REVEALS 3 Ways To INCREASE Your Chances Of Pregnancy NATURALLY",
-        "guest": "Unclear from the transcript"
+        "guest": "Dr. Natalie Crawford"
       },
       {
         "id": "moment-166-what-men-women-need-to-know-about-the-menstrual-cycle-dr-mindy-pelz",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 166: What Men (& Women) NEED To Know About The Menstrual Cycle: Dr Mindy Pelz",
-        "guest": "Not specified in provided content"
+        "guest": "Dr. Mindy Pelz"
       },
       {
         "id": "moment-206-harvard-professor-reveals-the-biggest-lies-about-exercise-weight-loss",
@@ -10401,11 +10346,6 @@
         "guest": "Tim Spector"
       },
       {
-        "id": "sample004",
-        "title": "E178: The Fertility Doctor: Top 5 Things Harming Your Fertility & How To Fix Them!",
-        "guest": "Unknown"
-      },
-      {
         "id": "most-replayed-moment-this-longevity-protocol-actually-works-biohacker-bryan-johnson",
         "title": "The Diary Of A CEO with Steven Bartlett - Most Replayed Moment: This Longevity Protocol Actually Works! - Biohacker Bryan Johnson",
         "guest": "Bryan Johnson"
@@ -10513,7 +10453,7 @@
       {
         "id": "moment-95-a-simple-hack-to-achieve-maximum-happiness-mo-gowdat",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 95 - A Simple Hack To Achieve Maximum Happiness: Mo Gowdat",
-        "guest": "Not specified in transcript"
+        "guest": "Mo Gowdat"
       },
       {
         "id": "moment-198-do-this-to-stop-premature-ageing-daniel-e-lieberman",
@@ -10775,7 +10715,7 @@
       {
         "id": "moment-70-how-jonny-wilkinson-made-it-to-the-top",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 70 - How Jonny Wilkinson Made It To The Top",
-        "guest": "Not specified"
+        "guest": "Jonny Wilkinson"
       },
       {
         "id": "kamala-harris-america-is-at-breaking-point-im-deeply-concerned-about-the-state-of-the-country",
@@ -10785,7 +10725,7 @@
       {
         "id": "the-top-7-belly-fat-burning-hacks-for-2024-that-are-proven-to-work",
         "title": "The Diary Of A CEO with Steven Bartlett - The Top 7 Belly Fat Burning Hacks For 2024 That Are PROVEN To Work!",
-        "guest": null
+        "guest": "Steven Bartlett"
       },
       {
         "id": "gary-neville-from-football-legend-to-building-a-business-empire",
@@ -10840,7 +10780,7 @@
       {
         "id": "moment-193-hard-work-doesnt-equal-successtry-this-instead-former-netflix-ceo",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 193: Hard Work Doesn't Equal Success\u2026Try This Instead...: Former Netflix CEO",
-        "guest": "Not specified"
+        "guest": "Marc Randolph"
       },
       {
         "id": "the-mental-health-doctor-sitting-is-increasing-your-anxiety-your-phone-is-destroying-your-brain-you-may-have-popcorn-brain",
@@ -10865,17 +10805,12 @@
       {
         "id": "moment-212-the-dangerous-truth-behind-sugar-free",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 212: The Dangerous Truth Behind \u201cSugar Free\u201d!",
-        "guest": "Unclear from transcript"
+        "guest": "Dr. Tim Spector"
       },
       {
         "id": "moment-139-your-inner-voice-is-limiting-you-how-to-control-the-negative-inner-thoughts-mo-gowdat",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 139: \"Your Inner Voice Is Limiting You!\" How To Control The Negative Inner Thoughts: Mo Gowdat",
         "guest": "Not Applicable"
-      },
-      {
-        "id": "sample002",
-        "title": "E195: The Exercise Neuroscientist: NEW RESEARCH, The Shocking Link Between Exercise And Dementia!",
-        "guest": "Not specified in text"
       },
       {
         "id": "lucy-hale-opens-up-for-the-first-time-about-eating-disorders-relationships-addiction",
@@ -10990,7 +10925,7 @@
       {
         "id": "moment-132-triple-your-life-expectancy-with-these-3-health-hacks-verified-by-dana-white-gary-brecka",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 132: Triple Your Life Expectancy With These 3 Health Hacks! (Verified By Dana White): Gary Brecka",
-        "guest": "Not specified in the transcript"
+        "guest": "Gary Brecka"
       },
       {
         "id": "the-ageing-doctor-these-are-they-early-signs-of-arthritis-if-you-run-dont-do-this-start-now-the-secret-cause-of-alzheimers",
@@ -11005,7 +10940,7 @@
       {
         "id": "most-replayed-moment-why-youre-never-satisfied-the-4-pillars-of-lasting-happiness",
         "title": "The Diary Of A CEO with Steven Bartlett - Most Replayed Moment: Why You\u2019re Never Satisfied! The 4 Pillars of Lasting Happiness",
-        "guest": "Not specified in the transcript"
+        "guest": "Arthur Brooks"
       },
       {
         "id": "doctor-jordan-peterson-the-number-one-reason-for-divorce-the-one-small-step-you-have-to-take-to-turn-your-whole-life-around",
@@ -11240,7 +11175,7 @@
       {
         "id": "moment-62-mens-mental-health-isnt-talked-about-enough-heres-why-roman-kemp",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 62 - Mens Mental Health Isn't Talked About Enough, Here\u2019s Why: Roman Kemp",
-        "guest": "Unclear from Transcript"
+        "guest": "Roman Kemp"
       },
       {
         "id": "moment-54-how-you-should-make-every-big-decision-rochelle-humes",
@@ -11290,7 +11225,7 @@
       {
         "id": "moment-94-doctor-julie-the-one-simplifying-thing-that-will-transform-your-life",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 94 - Doctor Julie: The ONE Simplifying Thing That Will Transform Your Life",
-        "guest": "Not specified in text"
+        "guest": "Dr. Julie Smith"
       },
       {
         "id": "moment-146-3-simple-steps-that-guarantees-ultimate-happiness-jay-shettys-happiness-model",
@@ -11540,7 +11475,7 @@
       {
         "id": "moment-110-the-unknown-and-surprising-power-of-physical-touch-dacher-keltner",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 110- The Unknown And Surprising Power Of Physical Touch: Dacher Keltner",
-        "guest": "Not specified in transcript"
+        "guest": "Dacher Keltner"
       },
       {
         "id": "bear-grylls-man-vs-failure-anxiety-imposter-syndrome",
@@ -11560,7 +11495,7 @@
       {
         "id": "moment-4-how-i-discovered-a-more-grateful-perspective",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 4 - How I Discovered A More Grateful Perspective",
-        "guest": "Unknown"
+        "guest": "Steven Bartlett"
       },
       {
         "id": "the-discipline-expert-the-4-surprising-easy-habits-all-high-achievers-have-based-on-2000-years-of-research-ryan-holiday",
@@ -11591,11 +11526,6 @@
         "id": "e8-advice-from-elon-musk-warren-buffet-and-steve-jobs",
         "title": "The Diary Of A CEO with Steven Bartlett - E8: Advice from Elon Musk, Warren Buffet and Steve Jobs",
         "guest": "Steven Bartlett"
-      },
-      {
-        "id": "sample001",
-        "title": "E203: Mo Gawdat: A WARNING about Stress, Anxiety & Depression! This Is Causing 70% Of Heart Attacks!",
-        "guest": "Not specified"
       },
       {
         "id": "the-coffee-expert-the-surprising-link-between-coffee-mental-health-depression-heart-disease-james-hoffmann",
@@ -11760,7 +11690,7 @@
       {
         "id": "most-replayed-moment-the-science-of-building-muscle-faster-with-smarter-training-dr-mike-israetel",
         "title": "The Diary Of A CEO with Steven Bartlett - Most Replayed Moment: The Science Of Building Muscle Faster With Smarter Training - Dr. Mike Israetel",
-        "guest": "Not specified in transcript"
+        "guest": "Dr. Mike Israetel"
       },
       {
         "id": "moment-127-how-to-build-unbreakable-confidence-by-making-this-one-promise-to-yourself-chris-williamson",
@@ -11860,12 +11790,12 @@
       {
         "id": "moment-17-russell-kane-reveals-the-simple-path-to-success",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 17 - Russell Kane Reveals The Simple Path To Success",
-        "guest": "Unknown"
+        "guest": "Russell Kane"
       },
       {
         "id": "moment-21-professor-green-on-the-source-of-your-success",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 21 - Professor Green on The Source Of Your Success",
-        "guest": "Unknown"
+        "guest": "Professor Green"
       },
       {
         "id": "moment-24-mary-portas-on-finding-your-truth-when-youre-feeling-lost",
@@ -11985,7 +11915,7 @@
       {
         "id": "moment-156-your-stress-is-making-you-fat-sick-heres-how-to-fix-it",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 156: Your Stress Is Making you Fat & Sick... Here's How To Fix It!",
-        "guest": "Not specified"
+        "guest": "Dr. Rangan Chatterjee"
       },
       {
         "id": "the-calories-expert-health-experts-are-wrong-about-calories-the-surprising-benefits-of-diet-coke-the-link-between-obesity-past-abuse",
@@ -12130,7 +12060,7 @@
       {
         "id": "moment-131-why-you-need-to-start-embracing-all-your-emotions-dr-julie-smith",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 131: Why You Need To Start Embracing ALL Your Emotions: Dr. Julie Smith",
-        "guest": "Unclear from transcript"
+        "guest": "Dr. Julie Smith"
       },
       {
         "id": "moment-10-jake-humphrey-on-the-building-blocks-of-success",
@@ -12465,7 +12395,7 @@
       {
         "id": "moment-203-how-to-actually-become-disciplined-without-willpower-the-leading-behaviour-expert",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 203: How To Actually Become Disciplined WITHOUT Willpower\u2026  The Leading Behaviour Expert",
-        "guest": "Unknown"
+        "guest": "Wendy Wood"
       },
       {
         "id": "orgasm-queen-do-this-for-20-minutes-before-having-sex-have-sex-with-them-like-when-you-first-met-i-never-orgasmed-until-he-tried-this",
@@ -12715,7 +12645,7 @@
       {
         "id": "moment-163-happiness-expert-reveals-the-one-type-of-person-you-should-never-date",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 163: Happiness Expert Reveals The One Type Of Person You Should NEVER Date",
-        "guest": "Unknown"
+        "guest": "Arthur Brooks"
       },
       {
         "id": "moment-196-this-is-the-one-skill-that-will-guarantee-your-success-even-against-smarter-better-richer-people-codie-sanchez",
@@ -12726,11 +12656,6 @@
         "id": "paul-brunson-the-7030-body-shape-is-scientifically-the-most-sexy-the-one-question-that-predicts-divorce-the-link-between-childhood-trauma-sex",
         "title": "The Diary Of A CEO with Steven Bartlett -  Paul Brunson: \"The 70/30 Body Shape Is Scientifically The Most Sexy\", \"The ONE Question That Predicts Divorce!\" & \"The Link Between Childhood Trauma & Sex\"",
         "guest": "Paul Carrick Brunson"
-      },
-      {
-        "id": "sample003",
-        "title": "E187: Simon Sinek: The Number One Reason Why You're Not Succeeding | E187",
-        "guest": "Not specified"
       },
       {
         "id": "moment-37-there-is-always-a-way-holly-tucker",
@@ -12925,7 +12850,7 @@
       {
         "id": "moment-166-what-men-women-need-to-know-about-the-menstrual-cycle-dr-mindy-pelz",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 166: What Men (& Women) NEED To Know About The Menstrual Cycle: Dr Mindy Pelz",
-        "guest": "Not specified in provided content"
+        "guest": "Dr. Mindy Pelz"
       },
       {
         "id": "moment-206-harvard-professor-reveals-the-biggest-lies-about-exercise-weight-loss",
@@ -13305,7 +13230,7 @@
       {
         "id": "moment-7-joe-wicks-on-how-to-forgive-set-yourself-free",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 7 - Joe Wicks On How To Forgive & Set Yourself Free",
-        "guest": "Unknown"
+        "guest": "Joe Wicks"
       },
       {
         "id": "how-to-take-full-control-of-your-mind-prof-steve-peters-the-chimp-paradox",
@@ -13790,7 +13715,7 @@
       {
         "id": "moment-83-jay-shettys-4-pillars-for-long-lasting-relationships",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 83 - Jay Shetty's 4 Pillars for Long Lasting Relationships",
-        "guest": "Unknown"
+        "guest": "Jay Shetty"
       },
       {
         "id": "moment-87-dr-aria-on-how-to-get-over-heartbreak",
@@ -13925,7 +13850,7 @@
       {
         "id": "moment-95-a-simple-hack-to-achieve-maximum-happiness-mo-gowdat",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 95 - A Simple Hack To Achieve Maximum Happiness: Mo Gowdat",
-        "guest": "Not specified in transcript"
+        "guest": "Mo Gowdat"
       },
       {
         "id": "moment-25-this-is-how-you-fulfil-your-potential-matthew-syed",
@@ -14150,7 +14075,7 @@
       {
         "id": "the-top-7-money-making-hacks-for-2025-that-are-proven-to-work-do-not-buy-a-house-do-this-instead",
         "title": "The Diary Of A CEO with Steven Bartlett - The Top 7 Money Making Hacks For 2025 That Are PROVEN To Work! Do Not Buy A House! Do This Instead!",
-        "guest": "Unclear from the provided transcript"
+        "guest": "Steven Bartlett"
       },
       {
         "id": "neil-degrasse-tyson-do-this-every-morning-to-find-happiness-meaning-in-your-life",
@@ -14450,7 +14375,7 @@
       {
         "id": "moment-200-love-expert-reveals-why-80-of-modern-relationships-fail",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 200: Love Expert Reveals Why 80% Of Modern Relationships Fail",
-        "guest": "Not specified"
+        "guest": "Matthew Hussey"
       },
       {
         "id": "top-neuroscientist-anxiety-is-a-predictive-error-in-the-brain-heres-the-proof-your-brain-is-faking-trauma-your-whole-life-might-be-a-prediction",
@@ -14767,7 +14692,7 @@
       {
         "id": "most-replayed-moment-why-youre-never-satisfied-the-4-pillars-of-lasting-happiness",
         "title": "The Diary Of A CEO with Steven Bartlett - Most Replayed Moment: Why You\u2019re Never Satisfied! The 4 Pillars of Lasting Happiness",
-        "guest": "Not specified in the transcript"
+        "guest": "Arthur Brooks"
       },
       {
         "id": "doctor-jordan-peterson-the-number-one-reason-for-divorce-the-one-small-step-you-have-to-take-to-turn-your-whole-life-around",
@@ -14967,7 +14892,7 @@
       {
         "id": "moment-62-mens-mental-health-isnt-talked-about-enough-heres-why-roman-kemp",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 62 - Mens Mental Health Isn't Talked About Enough, Here\u2019s Why: Roman Kemp",
-        "guest": "Unclear from Transcript"
+        "guest": "Roman Kemp"
       },
       {
         "id": "investing-vs-real-estate-vs-crypto-debate-the-retirement-crisis-is-coming-theyre-lying-to-you-about-renting",
@@ -15007,7 +14932,7 @@
       {
         "id": "moment-94-doctor-julie-the-one-simplifying-thing-that-will-transform-your-life",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 94 - Doctor Julie: The ONE Simplifying Thing That Will Transform Your Life",
-        "guest": "Not specified in text"
+        "guest": "Dr. Julie Smith"
       },
       {
         "id": "moment-146-3-simple-steps-that-guarantees-ultimate-happiness-jay-shettys-happiness-model",
@@ -15242,7 +15167,7 @@
       {
         "id": "moment-110-the-unknown-and-surprising-power-of-physical-touch-dacher-keltner",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 110- The Unknown And Surprising Power Of Physical Touch: Dacher Keltner",
-        "guest": "Not specified in transcript"
+        "guest": "Dacher Keltner"
       },
       {
         "id": "bear-grylls-man-vs-failure-anxiety-imposter-syndrome",
@@ -15262,7 +15187,7 @@
       {
         "id": "moment-4-how-i-discovered-a-more-grateful-perspective",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 4 - How I Discovered A More Grateful Perspective",
-        "guest": "Unknown"
+        "guest": "Steven Bartlett"
       },
       {
         "id": "the-discipline-expert-the-4-surprising-easy-habits-all-high-achievers-have-based-on-2000-years-of-research-ryan-holiday",
@@ -15687,7 +15612,7 @@
       {
         "id": "moment-131-why-you-need-to-start-embracing-all-your-emotions-dr-julie-smith",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 131: Why You Need To Start Embracing ALL Your Emotions: Dr. Julie Smith",
-        "guest": "Unclear from transcript"
+        "guest": "Dr. Julie Smith"
       },
       {
         "id": "moment-174-trauma-doctor-reveals-every-type-of-trauma-its-effects-in-10-minutes",
@@ -16152,7 +16077,7 @@
       {
         "id": "moment-163-happiness-expert-reveals-the-one-type-of-person-you-should-never-date",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 163: Happiness Expert Reveals The One Type Of Person You Should NEVER Date",
-        "guest": "Unknown"
+        "guest": "Arthur Brooks"
       },
       {
         "id": "paul-brunson-the-7030-body-shape-is-scientifically-the-most-sexy-the-one-question-that-predicts-divorce-the-link-between-childhood-trauma-sex",
@@ -16287,7 +16212,7 @@
       {
         "id": "moment-187-the-pregnancy-doctor-reveals-3-ways-to-increase-your-chances-of-pregnancy-naturally",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 187: The Pregnancy Doctor REVEALS 3 Ways To INCREASE Your Chances Of Pregnancy NATURALLY",
-        "guest": "Unclear from the transcript"
+        "guest": "Dr. Natalie Crawford"
       },
       {
         "id": "chris-williamson-the-shocking-new-research-on-why-men-and-women-are-no-longer-compatible",
@@ -16297,7 +16222,7 @@
       {
         "id": "moment-166-what-men-women-need-to-know-about-the-menstrual-cycle-dr-mindy-pelz",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 166: What Men (& Women) NEED To Know About The Menstrual Cycle: Dr Mindy Pelz",
-        "guest": "Not specified in provided content"
+        "guest": "Dr. Mindy Pelz"
       },
       {
         "id": "moment-105-the-single-biggest-killer-of-relationships-lewis-howes",
@@ -16612,7 +16537,7 @@
       {
         "id": "moment-7-joe-wicks-on-how-to-forgive-set-yourself-free",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 7 - Joe Wicks On How To Forgive & Set Yourself Free",
-        "guest": "Unknown"
+        "guest": "Joe Wicks"
       },
       {
         "id": "how-to-take-full-control-of-your-mind-prof-steve-peters-the-chimp-paradox",
@@ -16708,11 +16633,6 @@
         "id": "moment-121-this-one-small-thing-makes-me-so-grateful-that-i-cry-fearne-cotton",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 121: \"This ONE Small Thing Makes Me So Grateful That I Cry!\" - Fearne Cotton",
         "guest": "Fearne Cotton"
-      },
-      {
-        "id": "sample004",
-        "title": "E178: The Fertility Doctor: Top 5 Things Harming Your Fertility & How To Fix Them!",
-        "guest": "Unknown"
       },
       {
         "id": "making-100-million-a-year-eating-raw-liver-liver-king",
@@ -16992,7 +16912,7 @@
       {
         "id": "moment-83-jay-shettys-4-pillars-for-long-lasting-relationships",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 83 - Jay Shetty's 4 Pillars for Long Lasting Relationships",
-        "guest": "Unknown"
+        "guest": "Jay Shetty"
       },
       {
         "id": "moment-87-dr-aria-on-how-to-get-over-heartbreak",
@@ -17542,7 +17462,7 @@
       {
         "id": "moment-200-love-expert-reveals-why-80-of-modern-relationships-fail",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 200: Love Expert Reveals Why 80% Of Modern Relationships Fail",
-        "guest": "Not specified"
+        "guest": "Matthew Hussey"
       },
       {
         "id": "top-neuroscientist-anxiety-is-a-predictive-error-in-the-brain-heres-the-proof-your-brain-is-faking-trauma-your-whole-life-might-be-a-prediction",
@@ -17674,7 +17594,7 @@
       {
         "id": "most-replayed-moment-why-youre-never-satisfied-the-4-pillars-of-lasting-happiness",
         "title": "The Diary Of A CEO with Steven Bartlett - Most Replayed Moment: Why You\u2019re Never Satisfied! The 4 Pillars of Lasting Happiness",
-        "guest": "Not specified in the transcript"
+        "guest": "Arthur Brooks"
       },
       {
         "id": "most-replayed-moment-sadhguru-on-why-you-dont-need-a-life-purpose",
@@ -17754,7 +17674,7 @@
       {
         "id": "moment-4-how-i-discovered-a-more-grateful-perspective",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 4 - How I Discovered A More Grateful Perspective",
-        "guest": "Unknown"
+        "guest": "Steven Bartlett"
       },
       {
         "id": "most-replayed-moment-6-daily-habits-that-expose-your-fake-values-deepak-chopra",
@@ -18166,7 +18086,7 @@
       {
         "id": "moment-193-hard-work-doesnt-equal-successtry-this-instead-former-netflix-ceo",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 193: Hard Work Doesn't Equal Success\u2026Try This Instead...: Former Netflix CEO",
-        "guest": "Not specified"
+        "guest": "Marc Randolph"
       },
       {
         "id": "the-mental-health-doctor-sitting-is-increasing-your-anxiety-your-phone-is-destroying-your-brain-you-may-have-popcorn-brain",
@@ -18186,7 +18106,7 @@
       {
         "id": "moment-212-the-dangerous-truth-behind-sugar-free",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 212: The Dangerous Truth Behind \u201cSugar Free\u201d!",
-        "guest": "Unclear from transcript"
+        "guest": "Dr. Tim Spector"
       },
       {
         "id": "lucy-hale-opens-up-for-the-first-time-about-eating-disorders-relationships-addiction",
@@ -18362,11 +18282,6 @@
         "id": "manipulation-expert-how-to-influence-anyone-make-them-do-exactly-what-you-want-chase-hughes",
         "title": "The Diary Of A CEO with Steven Bartlett - Manipulation Expert: How To Influence Anyone & Make Them Do Exactly What You Want! - Chase Hughes",
         "guest": "Chase Hughes"
-      },
-      {
-        "id": "sample005",
-        "title": "E156: The Financial Expert: How To Get So Rich You Never Have To Work Again!",
-        "guest": "Unknown"
       },
       {
         "id": "e30-alan-barratt-from-ps27-to-ps72-million",
@@ -18826,12 +18741,12 @@
       {
         "id": "moment-17-russell-kane-reveals-the-simple-path-to-success",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 17 - Russell Kane Reveals The Simple Path To Success",
-        "guest": "Unknown"
+        "guest": "Russell Kane"
       },
       {
         "id": "moment-21-professor-green-on-the-source-of-your-success",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 21 - Professor Green on The Source Of Your Success",
-        "guest": "Unknown"
+        "guest": "Professor Green"
       },
       {
         "id": "moment-24-mary-portas-on-finding-your-truth-when-youre-feeling-lost",
@@ -18921,7 +18836,7 @@
       {
         "id": "moment-156-your-stress-is-making-you-fat-sick-heres-how-to-fix-it",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 156: Your Stress Is Making you Fat & Sick... Here's How To Fix It!",
-        "guest": "Not specified"
+        "guest": "Dr. Rangan Chatterjee"
       },
       {
         "id": "uber-ceo-at-uber-if-you-dont-perform-youre-out-uber-was-losing-3b-a-year",
@@ -19006,7 +18921,7 @@
       {
         "id": "moment-131-why-you-need-to-start-embracing-all-your-emotions-dr-julie-smith",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 131: Why You Need To Start Embracing ALL Your Emotions: Dr. Julie Smith",
-        "guest": "Unclear from transcript"
+        "guest": "Dr. Julie Smith"
       },
       {
         "id": "moment-10-jake-humphrey-on-the-building-blocks-of-success",
@@ -19327,11 +19242,6 @@
         "id": "moment-196-this-is-the-one-skill-that-will-guarantee-your-success-even-against-smarter-better-richer-people-codie-sanchez",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 196: This Is The One Skill That Will Guarantee Your Success! (Even Against Smarter, Better & Richer People): Codie Sanchez",
         "guest": "Cody Sanchez"
-      },
-      {
-        "id": "sample003",
-        "title": "E187: Simon Sinek: The Number One Reason Why You're Not Succeeding | E187",
-        "guest": "Not specified"
       },
       {
         "id": "moment-37-there-is-always-a-way-holly-tucker",
@@ -20261,7 +20171,7 @@
       {
         "id": "the-top-7-money-making-hacks-for-2025-that-are-proven-to-work-do-not-buy-a-house-do-this-instead",
         "title": "The Diary Of A CEO with Steven Bartlett - The Top 7 Money Making Hacks For 2025 That Are PROVEN To Work! Do Not Buy A House! Do This Instead!",
-        "guest": "Unclear from the provided transcript"
+        "guest": "Steven Bartlett"
       },
       {
         "id": "special-forces-commanders-weird-trick-for-overcoming-anxiety-this-is-the-reason-people-quit-imposter-syndrome-is-a-good-thing",
@@ -20573,7 +20483,7 @@
       {
         "id": "most-replayed-moment-why-youre-never-satisfied-the-4-pillars-of-lasting-happiness",
         "title": "The Diary Of A CEO with Steven Bartlett - Most Replayed Moment: Why You\u2019re Never Satisfied! The 4 Pillars of Lasting Happiness",
-        "guest": "Not specified in the transcript"
+        "guest": "Arthur Brooks"
       },
       {
         "id": "wretch-32-how-to-build-unstoppable-self-belief",
@@ -20609,11 +20519,6 @@
         "id": "the-savings-expert-theyre-lying-to-you-about-buying-a-house-tariffs-are-about-to-skyrocket-cost-of-living-heres-the-truth-about-america-collapsing",
         "title": "The Diary Of A CEO with Steven Bartlett - The Savings Expert: They're Lying To You About Buying A House! Tariffs Are About To Skyrocket Cost Of Living! Here's The Truth About America Collapsing!",
         "guest": "Morgan Housel"
-      },
-      {
-        "id": "sample005",
-        "title": "E156: The Financial Expert: How To Get So Rich You Never Have To Work Again!",
-        "guest": "Unknown"
       },
       {
         "id": "e30-alan-barratt-from-ps27-to-ps72-million",
@@ -20853,7 +20758,7 @@
       {
         "id": "moment-17-russell-kane-reveals-the-simple-path-to-success",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 17 - Russell Kane Reveals The Simple Path To Success",
-        "guest": "Unknown"
+        "guest": "Russell Kane"
       },
       {
         "id": "davina-mccall-i-was-doing-cocaine-with-my-mum-at-15",
@@ -21438,7 +21343,7 @@
       {
         "id": "the-top-7-money-making-hacks-for-2025-that-are-proven-to-work-do-not-buy-a-house-do-this-instead",
         "title": "The Diary Of A CEO with Steven Bartlett - The Top 7 Money Making Hacks For 2025 That Are PROVEN To Work! Do Not Buy A House! Do This Instead!",
-        "guest": "Unclear from the provided transcript"
+        "guest": "Steven Bartlett"
       },
       {
         "id": "e20-deliciously-ella-blogging-saved-my-life",
@@ -21620,7 +21525,7 @@
       {
         "id": "moment-193-hard-work-doesnt-equal-successtry-this-instead-former-netflix-ceo",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 193: Hard Work Doesn't Equal Success\u2026Try This Instead...: Former Netflix CEO",
-        "guest": "Not specified"
+        "guest": "Marc Randolph"
       },
       {
         "id": "monzo-ceo-on-death-threats-depression-digital-banking-wars-tom-blomfield",
@@ -22155,7 +22060,7 @@
       {
         "id": "moment-156-your-stress-is-making-you-fat-sick-heres-how-to-fix-it",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 156: Your Stress Is Making you Fat & Sick... Here's How To Fix It!",
-        "guest": "Not specified"
+        "guest": "Dr. Rangan Chatterjee"
       },
       {
         "id": "uber-ceo-at-uber-if-you-dont-perform-youre-out-uber-was-losing-3b-a-year",
@@ -22446,11 +22351,6 @@
         "id": "moment-196-this-is-the-one-skill-that-will-guarantee-your-success-even-against-smarter-better-richer-people-codie-sanchez",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 196: This Is The One Skill That Will Guarantee Your Success! (Even Against Smarter, Better & Richer People): Codie Sanchez",
         "guest": "Cody Sanchez"
-      },
-      {
-        "id": "sample003",
-        "title": "E187: Simon Sinek: The Number One Reason Why You're Not Succeeding | E187",
-        "guest": "Not specified"
       },
       {
         "id": "moment-37-there-is-always-a-way-holly-tucker",
@@ -23312,7 +23212,7 @@
       {
         "id": "the-top-7-belly-fat-burning-hacks-for-2024-that-are-proven-to-work",
         "title": "The Diary Of A CEO with Steven Bartlett - The Top 7 Belly Fat Burning Hacks For 2024 That Are PROVEN To Work!",
-        "guest": null
+        "guest": "Steven Bartlett"
       },
       {
         "id": "the-food-doctor-the-4-foods-you-must-avoid-if-you-want-to-be-healthy-dr-will-cole",
@@ -23323,11 +23223,6 @@
         "id": "the-brain-professor-popular-treat-now-considered-deadlier-than-smoking-alcohol-is-shrinking-your-brain-david-raichlen",
         "title": "The Diary Of A CEO with Steven Bartlett - The Brain Professor: \"Popular Treat Now Considered Deadlier Than Smoking!\", \"Alcohol Is Shrinking Your Brain\" - David Raichlen",
         "guest": "David Raichlen"
-      },
-      {
-        "id": "sample002",
-        "title": "E195: The Exercise Neuroscientist: NEW RESEARCH, The Shocking Link Between Exercise And Dementia!",
-        "guest": "Not specified in text"
       },
       {
         "id": "doctor-therapist-to-the-worlds-superstars-justin-bieber-miley-cyrus-bella-hadid-dr-amen",
@@ -23342,7 +23237,7 @@
       {
         "id": "moment-132-triple-your-life-expectancy-with-these-3-health-hacks-verified-by-dana-white-gary-brecka",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 132: Triple Your Life Expectancy With These 3 Health Hacks! (Verified By Dana White): Gary Brecka",
-        "guest": "Not specified in the transcript"
+        "guest": "Gary Brecka"
       },
       {
         "id": "the-ageing-doctor-these-are-they-early-signs-of-arthritis-if-you-run-dont-do-this-start-now-the-secret-cause-of-alzheimers",
@@ -23352,7 +23247,7 @@
       {
         "id": "most-replayed-moment-why-youre-never-satisfied-the-4-pillars-of-lasting-happiness",
         "title": "The Diary Of A CEO with Steven Bartlett - Most Replayed Moment: Why You\u2019re Never Satisfied! The 4 Pillars of Lasting Happiness",
-        "guest": "Not specified in the transcript"
+        "guest": "Arthur Brooks"
       },
       {
         "id": "womens-fertility-lifestyle-debate-dangers-of-not-having-a-period-fasting-can-backfire-for-women",
@@ -23492,7 +23387,7 @@
       {
         "id": "most-replayed-moment-the-science-of-building-muscle-faster-with-smarter-training-dr-mike-israetel",
         "title": "The Diary Of A CEO with Steven Bartlett - Most Replayed Moment: The Science Of Building Muscle Faster With Smarter Training - Dr. Mike Israetel",
-        "guest": "Not specified in transcript"
+        "guest": "Dr. Mike Israetel"
       },
       {
         "id": "wim-hof-theyre-lying-to-you-about-disease-inflammation",
@@ -24014,7 +23909,7 @@
       {
         "id": "the-top-7-belly-fat-burning-hacks-for-2024-that-are-proven-to-work",
         "title": "The Diary Of A CEO with Steven Bartlett - The Top 7 Belly Fat Burning Hacks For 2024 That Are PROVEN To Work!",
-        "guest": null
+        "guest": "Steven Bartlett"
       },
       {
         "id": "moment-167-6-foods-you-must-eat-to-heal-your-gut-dr-will-bulsiewicz",
@@ -24161,12 +24056,12 @@
       {
         "id": "moment-70-how-jonny-wilkinson-made-it-to-the-top",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 70 - How Jonny Wilkinson Made It To The Top",
-        "guest": "Not specified"
+        "guest": "Jonny Wilkinson"
       },
       {
         "id": "the-top-7-belly-fat-burning-hacks-for-2024-that-are-proven-to-work",
         "title": "The Diary Of A CEO with Steven Bartlett - The Top 7 Belly Fat Burning Hacks For 2024 That Are PROVEN To Work!",
-        "guest": null
+        "guest": "Steven Bartlett"
       },
       {
         "id": "gary-neville-from-football-legend-to-building-a-business-empire",
@@ -24181,7 +24076,7 @@
       {
         "id": "moment-193-hard-work-doesnt-equal-successtry-this-instead-former-netflix-ceo",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 193: Hard Work Doesn't Equal Success\u2026Try This Instead...: Former Netflix CEO",
-        "guest": "Not specified"
+        "guest": "Marc Randolph"
       },
       {
         "id": "the-mental-health-doctor-sitting-is-increasing-your-anxiety-your-phone-is-destroying-your-brain-you-may-have-popcorn-brain",
@@ -24256,7 +24151,7 @@
       {
         "id": "most-replayed-moment-why-youre-never-satisfied-the-4-pillars-of-lasting-happiness",
         "title": "The Diary Of A CEO with Steven Bartlett - Most Replayed Moment: Why You\u2019re Never Satisfied! The 4 Pillars of Lasting Happiness",
-        "guest": "Not specified in the transcript"
+        "guest": "Arthur Brooks"
       },
       {
         "id": "e38-a-simple-mindset-secret-less-routine-more-life",
@@ -24287,11 +24182,6 @@
         "id": "5-scientific-rules-for-making-breaking-habits-in-2023",
         "title": "The Diary Of A CEO with Steven Bartlett - 5 Scientific Rules for Making & Breaking Habits in 2023!",
         "guest": "Stephen Bartlett"
-      },
-      {
-        "id": "sample005",
-        "title": "E156: The Financial Expert: How To Get So Rich You Never Have To Work Again!",
-        "guest": "Unknown"
       },
       {
         "id": "e30-alan-barratt-from-ps27-to-ps72-million",
@@ -24441,7 +24331,7 @@
       {
         "id": "moment-4-how-i-discovered-a-more-grateful-perspective",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 4 - How I Discovered A More Grateful Perspective",
-        "guest": "Unknown"
+        "guest": "Steven Bartlett"
       },
       {
         "id": "the-discipline-expert-the-4-surprising-easy-habits-all-high-achievers-have-based-on-2000-years-of-research-ryan-holiday",
@@ -24457,11 +24347,6 @@
         "id": "e8-advice-from-elon-musk-warren-buffet-and-steve-jobs",
         "title": "The Diary Of A CEO with Steven Bartlett - E8: Advice from Elon Musk, Warren Buffet and Steve Jobs",
         "guest": "Steven Bartlett"
-      },
-      {
-        "id": "sample001",
-        "title": "E203: Mo Gawdat: A WARNING about Stress, Anxiety & Depression! This Is Causing 70% Of Heart Attacks!",
-        "guest": "Not specified"
       },
       {
         "id": "the-coffee-expert-the-surprising-link-between-coffee-mental-health-depression-heart-disease-james-hoffmann",
@@ -24521,7 +24406,7 @@
       {
         "id": "most-replayed-moment-the-science-of-building-muscle-faster-with-smarter-training-dr-mike-israetel",
         "title": "The Diary Of A CEO with Steven Bartlett - Most Replayed Moment: The Science Of Building Muscle Faster With Smarter Training - Dr. Mike Israetel",
-        "guest": "Not specified in transcript"
+        "guest": "Dr. Mike Israetel"
       },
       {
         "id": "moment-127-how-to-build-unbreakable-confidence-by-making-this-one-promise-to-yourself-chris-williamson",
@@ -24571,7 +24456,7 @@
       {
         "id": "moment-17-russell-kane-reveals-the-simple-path-to-success",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 17 - Russell Kane Reveals The Simple Path To Success",
-        "guest": "Unknown"
+        "guest": "Russell Kane"
       },
       {
         "id": "the-brain-coach-to-the-worlds-top-leaders-billionaires-10-steps-to-never-forget-anything-ever-again-jim-kwik",
@@ -24741,7 +24626,7 @@
       {
         "id": "moment-203-how-to-actually-become-disciplined-without-willpower-the-leading-behaviour-expert",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 203: How To Actually Become Disciplined WITHOUT Willpower\u2026  The Leading Behaviour Expert",
-        "guest": "Unknown"
+        "guest": "Wendy Wood"
       },
       {
         "id": "the-happy-life-scientist-how-to-finally-beat-stress-worry-uncertainty-dacher-keltner",
@@ -25573,7 +25458,7 @@
       {
         "id": "moment-62-mens-mental-health-isnt-talked-about-enough-heres-why-roman-kemp",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 62 - Mens Mental Health Isn't Talked About Enough, Here\u2019s Why: Roman Kemp",
-        "guest": "Unclear from Transcript"
+        "guest": "Roman Kemp"
       },
       {
         "id": "patricia-bright-how-she-made-her-millions",
@@ -25958,7 +25843,7 @@
       {
         "id": "moment-131-why-you-need-to-start-embracing-all-your-emotions-dr-julie-smith",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 131: Why You Need To Start Embracing ALL Your Emotions: Dr. Julie Smith",
-        "guest": "Unclear from transcript"
+        "guest": "Dr. Julie Smith"
       },
       {
         "id": "the-body-language-expert-4-body-language-tricks-that-will-make-them-love-you-and-respect-you-doctor-amy-cuddy",
@@ -26298,7 +26183,7 @@
       {
         "id": "moment-166-what-men-women-need-to-know-about-the-menstrual-cycle-dr-mindy-pelz",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 166: What Men (& Women) NEED To Know About The Menstrual Cycle: Dr Mindy Pelz",
-        "guest": "Not specified in provided content"
+        "guest": "Dr. Mindy Pelz"
       },
       {
         "id": "the-better-sex-doctor-the-link-between-masturbating-prostate-cancer-this-is-the-perfect-amount-of-times-to-have-sex-strong-pelvic-floor-better-sex-dr-rena-malik",
@@ -26973,7 +26858,7 @@
       {
         "id": "moment-200-love-expert-reveals-why-80-of-modern-relationships-fail",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 200: Love Expert Reveals Why 80% Of Modern Relationships Fail",
-        "guest": "Not specified"
+        "guest": "Matthew Hussey"
       },
       {
         "id": "top-neuroscientist-anxiety-is-a-predictive-error-in-the-brain-heres-the-proof-your-brain-is-faking-trauma-your-whole-life-might-be-a-prediction",
@@ -27650,7 +27535,7 @@
       {
         "id": "the-top-7-money-making-hacks-for-2025-that-are-proven-to-work-do-not-buy-a-house-do-this-instead",
         "title": "The Diary Of A CEO with Steven Bartlett - The Top 7 Money Making Hacks For 2025 That Are PROVEN To Work! Do Not Buy A House! Do This Instead!",
-        "guest": "Unclear from the provided transcript"
+        "guest": "Steven Bartlett"
       },
       {
         "id": "no1-christianity-expert-the-truth-about-christianity-the-case-for-jesus-historians-proof",
@@ -27840,7 +27725,7 @@
       {
         "id": "moment-193-hard-work-doesnt-equal-successtry-this-instead-former-netflix-ceo",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 193: Hard Work Doesn't Equal Success\u2026Try This Instead...: Former Netflix CEO",
-        "guest": "Not specified"
+        "guest": "Marc Randolph"
       },
       {
         "id": "the-psychology-master-the-colour-that-makes-you-attractive-how-your-name-determines-your-success-how-to-become-unstuck-in-your-marriage-job-or-life",
@@ -28035,7 +27920,7 @@
       {
         "id": "moment-21-professor-green-on-the-source-of-your-success",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 21 - Professor Green on The Source Of Your Success",
-        "guest": "Unknown"
+        "guest": "Professor Green"
       },
       {
         "id": "davina-mccall-i-was-doing-cocaine-with-my-mum-at-15",
@@ -28185,7 +28070,7 @@
       {
         "id": "moment-166-what-men-women-need-to-know-about-the-menstrual-cycle-dr-mindy-pelz",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 166: What Men (& Women) NEED To Know About The Menstrual Cycle: Dr Mindy Pelz",
-        "guest": "Not specified in provided content"
+        "guest": "Dr. Mindy Pelz"
       },
       {
         "id": "busta-rhymes-his-death-stopped-my-career-busta-rhymes-finally-opens-up-about-his-grief-nearly-dying-how-he-turned-his-life-around",
@@ -28978,7 +28863,7 @@
       {
         "id": "moment-110-the-unknown-and-surprising-power-of-physical-touch-dacher-keltner",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 110- The Unknown And Surprising Power Of Physical Touch: Dacher Keltner",
-        "guest": "Not specified in transcript"
+        "guest": "Dacher Keltner"
       }
     ],
     "philosophy": [
@@ -29057,7 +28942,7 @@
       {
         "id": "moment-156-your-stress-is-making-you-fat-sick-heres-how-to-fix-it",
         "title": "The Diary Of A CEO with Steven Bartlett - Moment 156: Your Stress Is Making you Fat & Sick... Here's How To Fix It!",
-        "guest": "Not specified"
+        "guest": "Dr. Rangan Chatterjee"
       },
       {
         "id": "longevity-debate-the-truth-about-weight-loss-muscle-and-creatine",
@@ -29289,7 +29174,7 @@
       {
         "id": "the-top-7-money-making-hacks-for-2025-that-are-proven-to-work-do-not-buy-a-house-do-this-instead",
         "title": "The Diary Of A CEO with Steven Bartlett - The Top 7 Money Making Hacks For 2025 That Are PROVEN To Work! Do Not Buy A House! Do This Instead!",
-        "guest": "Unclear from the provided transcript"
+        "guest": "Steven Bartlett"
       },
       {
         "id": "financial-expert-passive-income-is-a-scam-post-traumatic-broke-syndrome-is-controlling-millions",
