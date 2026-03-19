@@ -1,0 +1,96 @@
+{
+  "guest_name": "Oliver Burkeman",
+  "expertise_area": "Productivity, Happiness, Time Management",
+  "key_insights": [
+    {
+      "insight": "Happiness isn't best achieved by directly pursuing it; instead, it arises as a byproduct of meaningful activities.",
+      "quote": "Happiness is the kind of thing that seems to arise as a byproduct of certain kinds of meaningful activity.",
+      "importance": "high"
+    },
+    {
+      "insight": "Confronting and accepting our limitations is a prerequisite to achieving extraordinary things, allowing us to relinquish the impossible pursuit of perfection.",
+      "quote": "I think the kind of limitation I'm talking about confronting it and feeling it and living into it is actually the precondition of doing the most sort of extraordinary things with a life.",
+      "importance": "high"
+    },
+    {
+      "insight": "The 'When I Finally' mindset, where fulfillment is deferred to a future event, drains meaning from the present moment and is ultimately a form of avoidance.",
+      "quote": "When something happens then the moment of truth is going to come. And after that life is going to be fulfilling and easy, but not yet.",
+      "importance": "high"
+    },
+    {
+      "insight": "Efficiency, when pursued at the expense of everything else, can actually reduce meaning and fulfillment in life, because it can take away from meaningful activities.",
+      "quote": "pursuing efficiency at the expense of everything else, for me anyway, part of what's going on is, was always to do with self-worth.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Distraction is often a means of avoiding discomfort that arises from confronting our limitations, and to mitigate that, you must expect and accept a certain level of discomfort in important activities.",
+      "quote": "the reason that we're doing that is because it's much more comfortable than focusing on hard stuff focusing on hard stuff is is is is unpleasant sometimes because it brings us into contact with our limitations and then distraction is much nicer thing to do",
+      "importance": "medium"
+    },
+    {
+      "insight": "Embracing our irrelevance can be liberating as it reduces pressure and opens the door to experimenting with what seems genuinely cool.",
+      "quote": "The stakes are a lot lower than you thought the universe doesn't really care um you don't need to worry about whether you're fulfilling your purpose that the universe had laid down for you because there kind of isn't one and that's actually it's liberating",
+      "importance": "medium"
+    },
+    {
+      "insight": "Instead of aiming for the superlative of 'best', focus on reality and engage in meaningful activities, which will lead to happiness as a secondary effect.",
+      "quote": "The book on some level is about turning your attention away from happiness and finding happiness that way through sort of the pursuit of reality, right? Through engaging in meaningful activities.",
+      "importance": "medium"
+    },
+    {
+      "insight": "The faster the culture accelerates, the greater the power in resisting that acceleration and in allowing things to take the time they take.",
+      "quote": "when everyone is racing as fast as they are today, there's actually real power in being able to resist that and let things take the time they take and think about something for a few more days if that's what it takes.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "psychology",
+    "habits",
+    "productivity",
+    "mindset",
+    "business",
+    "relationships",
+    "communication"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Experiment with slowing down in the face of urgency.",
+      "how_to": "Choose a task you usually rush, like reading a novel, and intentionally slow down, resisting the urge to speed up.  Pay attention to the discomfort and push through it."
+    },
+    {
+      "advice": "Avoid middling priorities to better focus on truly important goals.",
+      "how_to": "List your top 25 goals, then avoid the items ranked 6-25 like the plague, as they are the ones that will distract you from what is truly important."
+    },
+    {
+      "advice": "Embrace radical incrementalism.",
+      "how_to": "Work on tasks for a small, consistent amount of time each day, even if you are on a roll. This is a more sustainable method of working."
+    },
+    {
+      "advice": "Aim to do a few things every day that your ancestors would have done.",
+      "how_to": "Exercise, be together in your tribes, and go outdoors."
+    },
+    {
+      "advice": "Whenever you are working, set goals that are physical and tangible.",
+      "how_to": "When writing, set goals to create physical documents. E.g., write this, print it out, and it's going to have something on my desk, the hole in my hands that I did today."
+    }
+  ],
+  "memorable_stories": [
+    "Oliver recalls helping friends in crisis by doing mundane tasks like their dry cleaning and realizing it was the right place to be.",
+    "Story of Harvard art history professor having students look at painting for 3 hours.",
+    "The anecdote about the BuzzFeed watermelon exploding from too many rubber bands, illustrating the hijackable nature of attention.",
+    "Stephen Bartlett's story about his PA scheduling every minute of his day, leaving no time for lunch or personal connections.",
+    "Oliver recalls learning about Brian McGee, a philosopher who was troubled by the universe's existence from age 5."
+  ],
+  "contrarian_claims": [
+    "Positive thinking, as typically practiced, can be counterproductive and create more stress.",
+    "The quest for limitless optimization and doing everything is actually a way to avoid feeling our finitude.",
+    "Learning to say no to the stuff you don't want to do isn't enough - you need to say no to things you *do* want to do.",
+    "Imperfect actions are often better than waiting for a perfect time to act.",
+    "The belief that we don't matter in the grand scheme of the universe can actually be a liberating and motivating force."
+  ],
+  "episode_id": "how-to-finally-stop-procrastinating-oliver-burkeman",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - How To Finally Stop Procrastinating: Oliver Burkeman",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/how-to-finally-stop-procrastinating-oliver-burkeman",
+  "processed_at": "2026-03-19T20:41:22"
+}

@@ -1,0 +1,66 @@
+{
+  "guest_name": "Peter Attia",
+  "expertise_area": "Longevity Medicine",
+  "key_insights": [
+    {
+      "insight": "Conventional medicine often overlooks the risk of inaction, particularly concerning long-term health risks.",
+      "quote": "I don't think we spend enough time thinking about the risk of not acting or the risk of not acting when we do.",
+      "importance": "high"
+    },
+    {
+      "insight": "Cardiovascular disease begins much earlier in life than commonly believed, often starting at birth.",
+      "quote": "That's an example of a disease process that begins right away at birth.",
+      "importance": "high"
+    },
+    {
+      "insight": "Traditional medical training often neglects crucial aspects of health, such as nutrition, exercise, and sleep.",
+      "quote": "Certainly, I didn't learn anything about nutrition or exercise when I was going through my medical training, and most physicians don't.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Evolutionarily, sleep is essential, suggesting it plays a vital role in human health and survival.",
+      "quote": "Given how evolutionarily unwise sleep would be, right? You are unconscious for a third of your life... Why would evolution have kept this thing around?",
+      "importance": "high"
+    },
+    {
+      "insight": "Personalized prevention, tailored to an individual's biomarkers and risk factors, is key to long-term health.",
+      "quote": "It also involves being very personalized in how you do things. So it means you can't just do paint by numbers. You can't just sort of say the same thing to everybody.",
+      "importance": "high"
+    },
+    {
+      "insight": "The decline of type two muscle fibers, impacting power, begins as early as your 30s, emphasizing the importance of maintaining strength training.",
+      "quote": "As you enter your 30s, you will now start to experience a shrinkage of those type two muscle fibers. You will be less powerful in your 30s, in your late 30s especially, than you were in your mid to late 20s.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "health",
+    "science",
+    "fitness",
+    "habits",
+    "mindset"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Check your LP(a) and Apolipoprotein B levels to assess long-term cardiovascular risk.",
+      "how_to": "Request these specific blood tests from your doctor, as they are not part of a standard checkup. Consider family history of early cardiovascular disease."
+    },
+    {
+      "advice": "Prioritize sleep and track its impact on vital signs and overall well-being.",
+      "how_to": "Use a wearable device like WHOOP or Oura Ring to monitor sleep quality, heart rate variability, and other relevant metrics. Adjust your daily routine based on sleep data."
+    }
+  ],
+  "memorable_stories": [
+    "Metaphor of the Titanic hitting the iceberg to illustrate the importance of early intervention in health.",
+    "Anecdote about colleague questioning the evolutionary purpose of sleep given vulnerability during unconsciousness."
+  ],
+  "contrarian_claims": [
+    "Life expectancy gains are overstated when infectious disease deaths are removed from historical data.",
+    "Doctors are often more skilled at assessing the risk of doing something than the risk of *not* doing something."
+  ],
+  "episode_id": "moment-142-these-daily-habits-are-slowly-killing-you-peter-attia",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Moment 142: These Daily Habits Are Slowly Killing You: Peter Attia",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-142-these-daily-habits-are-slowly-killing-you-peter-attia",
+  "processed_at": "2026-03-19T20:58:44"
+}

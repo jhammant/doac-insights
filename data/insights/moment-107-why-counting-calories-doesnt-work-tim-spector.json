@@ -1,0 +1,73 @@
+{
+  "guest_name": "Unknown",
+  "expertise_area": "Nutrition Science",
+  "key_insights": [
+    {
+      "insight": "Calorie counting is not an effective long-term weight loss strategy because it doesn't account for individual differences and can lead to metabolic slowdown and rebound weight gain.",
+      "quote": "There's never been any long-term study showing that calorie counting is an effective way to lose weight and maintain weight loss after you know the first few weeks.",
+      "importance": "high"
+    },
+    {
+      "insight": "The source of calories matters more than the total number; ultra-processed foods can lead to overeating due to their effects on gut microbes and sugar spikes.",
+      "quote": "The group with the ultra-processed foods overate by about 200 calories every day. They kept coming back to the buffet for more.",
+      "importance": "high"
+    },
+    {
+      "insight": "Ultra-processed foods often contain hidden ingredients and are designed to obscure the quality of the product, misleading consumers.",
+      "quote": "The food industry wants you to focus on the calorie the fat content sugar so you don't have to think about the quality of the food.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Individuality plays a significant role in how our bodies respond to food; what works for one person may not work for another.",
+      "quote": "Everyone loves simplistic rules but you can only get so far with them you have to start experimenting yourself and see what works for you and not just take everything for granted.",
+      "importance": "high"
+    },
+    {
+      "insight": "Foods advertised as 'low calorie' or 'low fat' often contain artificial sweeteners and other additives that can be detrimental to health.",
+      "quote": "Anything that says low calorie, that means they've had to add in lots of artificial sweeteners or protein extracts or something else, is also a big danger sign. Low in fat means they've replaced the natural fat with something else that's cheaper.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Added vitamins in processed foods are often in a form that the body can't easily absorb.",
+      "quote": "Those cereal packets have added vitamins in it but they're often in a very poor form... you can put a magnet on it you can get off the iron filings they're so cheap that they're just added to tick a box saying it has iron but they don't get into your body or do anything.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "health",
+    "nutrition",
+    "science",
+    "habits",
+    "psychology",
+    "mindset"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Prioritize whole, unprocessed foods over calorie counting.",
+      "how_to": "Focus on eating foods in their original form, such as fruits, vegetables, nuts, seeds, and grains that haven't been overly refined. Avoid packaged foods with long ingredient lists and artificial additives."
+    },
+    {
+      "advice": "Experiment to find out how different foods affect your body.",
+      "how_to": "Track your blood sugar levels using a glucose monitor or simply pay attention to how you feel after eating certain foods. Note any energy dips, cravings, or digestive issues."
+    },
+    {
+      "advice": "Be wary of foods that are heavily advertised with health claims.",
+      "how_to": "Read the ingredient list carefully and look for signs of ultra-processing, such as long lists of ingredients, artificial sweeteners, and additives you wouldn't find in your own kitchen."
+    }
+  ],
+  "memorable_stories": [
+    "The speaker's friend who eats Domino's pizza and focuses on calorie counting.",
+    "Experiment with cornflakes with added iron that turns out to be iron filings",
+    "The speaker's wife's lack of sugar spike from croissants compared to the speaker."
+  ],
+  "contrarian_claims": [
+    "Calorie counting is ineffective for long-term weight loss.",
+    "Many 'healthy' processed foods are actually detrimental to health.",
+    "Individual responses to food vary widely, making blanket dietary advice unreliable."
+  ],
+  "episode_id": "moment-107-why-counting-calories-doesnt-work-tim-spector",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Moment 107 - Why Counting Calories Doesn't Work: Tim Spector",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-107-why-counting-calories-doesnt-work-tim-spector",
+  "processed_at": "2026-03-19T20:53:22"
+}

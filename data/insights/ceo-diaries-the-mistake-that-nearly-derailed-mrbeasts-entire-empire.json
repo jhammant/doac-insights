@@ -1,0 +1,66 @@
+{
+  "guest_name": "MrBeast",
+  "expertise_area": "Business Management & Content Creation",
+  "key_insights": [
+    {
+      "insight": "Surrounding yourself with ambitious and successful individuals can significantly enhance your own drive and performance.",
+      "quote": "And there's something about being around great people that pulls some kind of animal out of you that just makes you want to do more and push more and believe things aren't possible.",
+      "importance": "high"
+    },
+    {
+      "insight": "The quality of people someone works with is a primary factor in job satisfaction and retention, often outweighing financial considerations.",
+      "quote": "That's like the number one reason why people leave jobs isn't money... the number one thing is, do they enjoy who they're working with? And people will leave their job because they hate working with people way before they'll ever leave because of money.",
+      "importance": "high"
+    },
+    {
+      "insight": "It's critical to find and nurture employees who are as obsessed and committed to the vision as the founder, recognizing their unique value.",
+      "quote": "It's hard to find those kinds of people, but you know, when you do, you got to treasure them and recognize that they're unicorns.",
+      "importance": "high"
+    },
+    {
+      "insight": "Bringing in experienced people who've successfully scaled businesses is invaluable in avoiding common pitfalls and accelerating growth.",
+      "quote": "My big thing recently has just been trying to find people who have successfully scaled businesses and like bring them into my organization and learn from them because I'm just so tired of being like, fuck, I should have known better, but I didn't because I've never done this before.",
+      "importance": "high"
+    },
+    {
+      "insight": "Over-correcting decisions can be detrimental; it's better to find a healthy medium, for instance, blending corporate experience with creative freedom.",
+      "quote": "Decisions are kind of like pendulums and I have a problem where I'll identify something and I'll over correct the pendulum one way and then I'm like, oh, no, I should have just stopped in the middle.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Having 'B players' amongst 'A players' can drag down the overall culture and reduce work satisfaction.",
+      "quote": "You put two or three C players amongst a bunch of great people and they'll start pulling them down. They'll start making them not wanna work as much and make work not as fun.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "business",
+    "leadership",
+    "productivity",
+    "mindset",
+    "relationships",
+    "communication",
+    "habits"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Actively seek out and hire individuals with experience scaling businesses, specifically for mentorship and guidance.",
+      "how_to": "Identify individuals who have successfully led companies through similar growth phases and bring them into your organization as advisors, mentors, or senior leadership."
+    },
+    {
+      "advice": "Prioritize the quality of working relationships in your organization.",
+      "how_to": "Implement strategies to foster collaboration, communication, and positive team dynamics. Regularly solicit feedback on team morale and address issues promptly."
+    }
+  ],
+  "memorable_stories": [
+    "MrBeast discusses his experience scaling both his production company and Feastables, highlighting how the lessons learned from the first significantly accelerated the growth of the second."
+  ],
+  "contrarian_claims": [
+    "The primary reason employees leave jobs is not money, but the quality of their relationships with coworkers."
+  ],
+  "episode_id": "ceo-diaries-the-mistake-that-nearly-derailed-mrbeasts-entire-empire",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - CEO Diaries: The Mistake That Nearly Derailed MrBeast’s Entire Empire",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/ceo-diaries-the-mistake-that-nearly-derailed-mrbeasts-entire-empire",
+  "processed_at": "2026-03-19T20:19:15"
+}

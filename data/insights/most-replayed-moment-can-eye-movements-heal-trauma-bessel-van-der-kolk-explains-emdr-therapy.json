@@ -1,0 +1,66 @@
+{
+  "guest_name": "Unspecified",
+  "expertise_area": "Neuroscience",
+  "key_insights": [
+    {
+      "insight": "Trauma can cause the 'cockroach center' of the brain (periaqueductal gray) to fire constantly, leading to a persistent sense of danger.",
+      "quote": "But you're traumatized, you're likely that that little part of your brain, way back in your brain's stem, is firing all the time. All the time you go like, I'm in danger, I'm in danger, I'm danger.",
+      "importance": "high"
+    },
+    {
+      "insight": "Trauma can lead individuals to shut down the insula, disconnecting them from physical sensations and body awareness as a coping mechanism.",
+      "quote": "Which makes the connection with your physical sensations and your body awareness that for many people get shut down because trauma...you can learn to shut that part of your brain down so you don't feel your body so much anymore.",
+      "importance": "medium"
+    },
+    {
+      "insight": "When someone is triggered, the amygdala becomes hypersensitive, leading to exaggerated emotional reactions to minor stimuli.",
+      "quote": "Your amygdala is your smoke detector that tends to become hypersensitive so that minor things get blown up and a minor thing that you may say to me, I take it's the most insulting thing in the world.",
+      "importance": "high"
+    },
+    {
+      "insight": "During a traumatic reliving experience, the dorsolateral prefrontal cortex ('timekeeper' of the brain) goes offline, blurring the distinction between past and present.",
+      "quote": "When you get traumatized, the timekeeper disappears, and this is all there is, your lucia's sense of perspective, and that is what happened when you're in your trauma. You don't know the difference between the past and the present.",
+      "importance": "high"
+    },
+    {
+      "insight": "Trauma is not simply a memory, but a re-experiencing of the event in the present moment, making the feelings and physical sensations feel immediate.",
+      "quote": "That's the nature of trauma. Trauma is not a memory, it's a re-living.",
+      "importance": "high"
+    },
+    {
+      "insight": "EMDR (Eye Movement Desensitization and Reprocessing) can help create new associative processes in the brain, allowing individuals to distinguish between past trauma and present reality.",
+      "quote": "Somehow EMDR seems to do, it creates new associative processes in the brain... these are pathways that makes it possible for your brain to make that distinction.",
+      "importance": "medium"
+    },
+    {
+      "insight": "EMDR can be effective in treating adult-onset trauma, with studies showing significant cure rates in cases of assault or rape.",
+      "quote": "In our research, 78% of the people who had adults at trauma, so being assaulted or raped by a stranger, 78% percent, percent of them were completely cured.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "psychology",
+    "health",
+    "science",
+    "mindset"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Consider EMDR therapy if experiencing trauma symptoms.",
+      "how_to": "Seek a trained and certified EMDR therapist to guide you through the process."
+    }
+  ],
+  "memorable_stories": [
+    "A woman who was severely traumatized by a car accident was able to process the event and move on after only three EMDR sessions, now able to drive and enjoy time with her granddaughter.",
+    "Description of EMDR process and the guest's initial skepticism."
+  ],
+  "contrarian_claims": [
+    "Challenges the notion that we fully understand how brain scans correlate with trauma, suggesting we can overstate how much they teach us.",
+    "Expresses skepticism about the effectiveness of EMDR before witnessing its impact firsthand."
+  ],
+  "episode_id": "most-replayed-moment-can-eye-movements-heal-trauma-bessel-van-der-kolk-explains-emdr-therapy",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Most Replayed Moment: Can Eye Movements Heal Trauma? Bessel Van Der Kolk Explains EMDR Therapy!",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/most-replayed-moment-can-eye-movements-heal-trauma-bessel-van-der-kolk-explains-emdr-therapy",
+  "processed_at": "2026-03-19T21:21:58"
+}

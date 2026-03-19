@@ -1,0 +1,76 @@
+{
+  "guest_name": "Not provided",
+  "expertise_area": "Neuroscience",
+  "key_insights": [
+    {
+      "insight": "Creative ideas often arise during periods of mental disengagement, not intense focus.",
+      "quote": "I find that when I, you know I start sitting there thinking of something, trying to come up with an idea, but it's only when I disengage my brain that something comes to me, an idea comes to me.",
+      "importance": "high"
+    },
+    {
+      "insight": "The brain's 'default network,' active during daydreaming, is linked to creative insights.",
+      "quote": "People generally report having their best creative ideas, not when they're frowning into their laptop screen, but when they're in these default mode situations.",
+      "importance": "high"
+    },
+    {
+      "insight": "Team engagement increases when employees feel they contribute to problem-solving and have agency.",
+      "quote": "The more that people feel that they can have an impact in their job...the more that they feel that they've got some agency, some control themselves, they feel motivated in their jobs.",
+      "importance": "high"
+    },
+    {
+      "insight": "Smaller teams foster greater camaraderie and engagement than large ones, creating 'economies of engagement'.",
+      "quote": "Keeping things small is really critical...you almost get the economies of engagement compared to the economies of scale.",
+      "importance": "high"
+    },
+    {
+      "insight": "Most employees are disengaged at work, highlighting the importance of fostering a positive culture.",
+      "quote": "Globally, 13% of people are engaged in their jobs...the vast majority of everyone else over 50 percent of people are just disengaged.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Creativity isn't just about inspiration; disengagement is crucial.",
+      "quote": "Creativity can then be, right, I'm sitting at my desk, I'm sort of taking all this inspiration in, stimulation, ideas. But then it's about disengaging.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "business",
+    "psychology",
+    "science",
+    "creativity",
+    "leadership",
+    "mindset",
+    "productivity"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Incorporate downtime into your routine to foster creativity.",
+      "how_to": "Schedule time for activities like walking, exercising, or showering, where you can disengage from focused work."
+    },
+    {
+      "advice": "Give teams autonomy to make them feel like they are solving problems and can have an impact.",
+      "how_to": "Delegate responsibility and give them control over their work."
+    },
+    {
+      "advice": "If your company exceeds 100 employees, divide them into smaller teams.",
+      "how_to": "Create multiple teams to maintain camaraderie and engagement."
+    },
+    {
+      "advice": "Balance work with moments of disengagement and downtime.",
+      "how_to": "Take breaks, go for walks, listen to music without distractions, or engage in activities that allow your brain to wander."
+    }
+  ],
+  "memorable_stories": [
+    "Aaron Sorkin has eight showers a day to trigger ideas.",
+    "Charles Dickens worked in the morning and took a 10 mile walk in the afternoon."
+  ],
+  "contrarian_claims": [
+    "Engagement levels went up during the first part of lockdown.",
+    "Economies of engagement are more important than economies of scale."
+  ],
+  "episode_id": "moment-31-how-to-instantly-improve-your-creativity-bruce-daisley",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Moment 31 - How To Instantly Improve Your Creativity: Bruce Daisley",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-31-how-to-instantly-improve-your-creativity-bruce-daisley",
+  "processed_at": "2026-03-19T21:10:50"
+}

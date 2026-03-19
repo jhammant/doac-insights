@@ -1,0 +1,83 @@
+{
+  "guest_name": "James Hoffmann",
+  "expertise_area": "Coffee Expertise",
+  "key_insights": [
+    {
+      "insight": "The benefits of caffeine for cognition diminish with regular use, and more caffeine won't restore the initial effect.",
+      "quote": "It seems to be that the benefits that we see of caffeine when it comes to cognition disappear with habitual usage and actually adding more doesn't change it.",
+      "importance": "high"
+    },
+    {
+      "insight": "Prioritizing sleep is crucial, and excessive caffeine consumption can disrupt sleep patterns, creating a negative cycle.",
+      "quote": "Like ultimately anything in this world that interrupts your sleep, perhaps with the exception of children, is probably to be avoided, right?",
+      "importance": "high"
+    },
+    {
+      "insight": "Coffee is a significant source of dietary fiber and polyphenols, which is beneficial for gut health.",
+      "quote": "It's a great source of fiber...it is like having another vegetable into the diet.",
+      "importance": "medium"
+    },
+    {
+      "insight": "The definition of a 'cup' of coffee in research studies (120ml) is much smaller than a typical serving, leading to potential overestimation of recommended daily intake.",
+      "quote": "A cup of coffee to a researcher is 120 mils of coffee, which is about half of this.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Coffee quality is determined at three stages: farming, roasting, and brewing, and poor execution at any stage can ruin the final product.",
+      "quote": "Coffee's kind of made three times in a weird sort of way...And at each of these stages, you can lose the quality completely.",
+      "importance": "medium"
+    },
+    {
+      "insight": "The caffeine in coffee fruit exists primarily as an insect repellent.",
+      "quote": "Caffeine exists in coffee primarily as an insect repellent that's why the plant produces it.",
+      "importance": "low"
+    },
+    {
+      "insight": "To maximize caffeine's benefits, abstain from coffee for a period beforehand.",
+      "quote": "If you really, really want maximum benefit from caffeine...then actually having a period without coffee beforehand will give you the sort of greatest benefit afterwards.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "business",
+    "health",
+    "science",
+    "habits",
+    "productivity",
+    "mindset",
+    "food"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Cut off caffeine consumption earlier in the day if you experience sleep problems.",
+      "how_to": "Experiment with cutting off caffeine after 1pm or 3pm and monitor your sleep quality to see if it improves."
+    },
+    {
+      "advice": "Invest in a good quality coffee grinder.",
+      "how_to": "Allocate £100-£200 for a burr grinder, which provides a more consistent grind size than blade grinders."
+    },
+    {
+      "advice": "When at Starbucks, check the timers on the filter coffee tanks to find the freshest brew.",
+      "how_to": "Look for the tank with the longest time remaining before it needs to be discarded to ensure you're getting the freshest coffee."
+    },
+    {
+      "advice": "If struggling with anxiety, consider cutting out caffeine.",
+      "how_to": "Eliminate caffeine for one month and track anxiety levels to check if it improves."
+    }
+  ],
+  "memorable_stories": [
+    "Story about the coffee house culture that influenced London society in the 1600s and 1700s where coffee houses served as places of business and education.",
+    "Anecdote about being a national training manager for an espresso machine company, travelling across the UK and doing public speaking to disinterested audience, honing communication skills."
+  ],
+  "contrarian_claims": [
+    "Addiction is not the right word to describe our dependency on caffeine, dependency is more accurate.",
+    "Decaf drinkers are the purest coffee consumers, drinking it only for the taste.",
+    "Coffee pods are equivalent of microwave meals in terms of sacrificing quality and value for convenience.",
+    "Coffee is not just a drink, it's a type of fresh food and should be stored as such."
+  ],
+  "episode_id": "the-coffee-expert-the-surprising-link-between-coffee-mental-health-depression-heart-disease-james-hoffmann",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - The Coffee Expert: The Surprising Link Between Coffee, Mental Health, Depression & Heart Disease! James Hoffmann",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/the-coffee-expert-the-surprising-link-between-coffee-mental-health-depression-heart-disease-james-hoffmann",
+  "processed_at": "2026-03-19T21:41:50"
+}

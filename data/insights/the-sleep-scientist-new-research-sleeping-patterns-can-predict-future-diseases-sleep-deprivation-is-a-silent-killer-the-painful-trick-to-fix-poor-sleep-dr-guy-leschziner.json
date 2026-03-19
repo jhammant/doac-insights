@@ -1,0 +1,84 @@
+{
+  "guest_name": "Guy Leshner",
+  "expertise_area": "Neurology and Sleep Medicine",
+  "key_insights": [
+    {
+      "insight": "Sleep is fundamental for various aspects of waking life, including the immune system, cardiovascular health, mental health, and even pain perception.",
+      "quote": "It's important for pretty much every aspect of our waking lives, be it our immune system, be it our cardiovascular system, our blood pressure, risk of diabetes, mental health, so depression and anxiety,even how we perceive pain.",
+      "importance": "high"
+    },
+    {
+      "insight": "There's a danger in overemphasizing the importance of getting a fixed amount of sleep every night, as it can lead to anxiety and exacerbate insomnia.",
+      "quote": "If you overemphasize the importance of getting eight or eight and a half hours sleep every night, then you actually risk problems later down the line, exacerbating things like insomnia.",
+      "importance": "medium"
+    },
+    {
+      "insight": "While sleep trackers can be useful for research, they may increase anxiety in people already concerned about their sleep.",
+      "quote": "If you're one of these individuals who has insomnia, who is spending plenty of time in bed but simply cannot get the amount of sleep that they need, then what a sleeptracker will do is it will increase your concern, your anxiety around your sleep.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Deep sleep is crucial for 'housekeeping' in the brain, including removing toxins like beta amyloid that are linked to Alzheimer's disease.",
+      "quote": "Deep sleep was particularly responsible for housekeeping ofthe brain for chemical housekeeping of the brain...",
+      "importance": "high"
+    },
+    {
+      "insight": "Cognitive Behavioral Therapy for Insomnia (CBT-I) is the gold standard treatment, addressing both conscious psychological factors and unconscious associations between bed and sleep.",
+      "quote": "The gold standard treatment now for insomnia is a treatment called cognitive behavioral therapy for insomnia...It serves two purposes.The first is to try and address some of those conscious psychological factors that are driving insomnia...but it also aims to restore normal unconscious factors that give rise to good sleep.",
+      "importance": "high"
+    },
+    {
+      "insight": "Individuals can exhibit behaviors during sleep, such as driving or committing crimes, while some parts of their brain remain asleep, specifically those responsible for rational thinking and memory.",
+      "quote": "In people who sleepwalk...certain parts of the brain are in very deep sleep, whereas other parts of the brain actually demonstrate waking activity...the parts of the brain that remain asleep are the frontal lobes which are...where our rational thinking...occurs...whereas actually...areas of the brain like the areas responsible for movement or vision or emotion, demonstrate waking activity",
+      "importance": "medium"
+    },
+    {
+      "insight": "Even a single night of sleep deprivation can lead to increased calorie intake due to hormonal changes affecting appetite and satiety.",
+      "quote": "Even a single night of sleep deprivation can result in a dramatic increase in your calorie intake overnight.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Sleep patterns are influenced by genetics, environment (including light exposure), and age.",
+      "quote": "The timing of that body clock is governed by two things. It's governed by our genetics...But it's also influenced by what's happening in our environment.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "health",
+    "psychology",
+    "science",
+    "habits",
+    "relationships",
+    "mindset"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "If you're using a sleep tracker and it's causing anxiety, stop using it and consult a doctor or sleep specialist.",
+      "how_to": "Put the sleep tracker away and schedule an appointment with a healthcare professional trained in sleep medicine."
+    },
+    {
+      "advice": "If you experience insomnia, explore non-drug based psychological treatments like CBT-I.",
+      "how_to": "Seek out a therapist or sleep specialist trained in Cognitive Behavioral Therapy for Insomnia (CBT-I)."
+    },
+    {
+      "advice": "Create a dark sleeping environment.",
+      "how_to": "Use blackout curtains or a sleep mask."
+    }
+  ],
+  "memorable_stories": [
+    "Kenneth Parks' story, who drove miles in his sleep and committed a crime.",
+    "Patient drove a motorbike in her sleep",
+    "Woman with genetic disorder unable to feel pain mutilating herself without knowing",
+    "A woman who lost her vision as a result of multiple operations to her eye,who sees visual hallucinations everywhere."
+  ],
+  "contrarian_claims": [
+    "Overemphasizing the importance of eight hours of sleep can exacerbate insomnia.",
+    "The amount of blue light from smartphones is likely insufficient to directly trigger insomnia.",
+    "The view that we sleep when it gets dark and wake up at dawn is incorrect; sleep is seasonal but not necessarily related to daylight hours."
+  ],
+  "episode_id": "the-sleep-scientist-new-research-sleeping-patterns-can-predict-future-diseases-sleep-deprivation-is-a-silent-killer-the-painful-trick-to-fix-poor-sleep-dr-guy-leschziner",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - The Sleep Scientist (NEW RESEARCH): Sleeping Patterns Can Predict Future Diseases! Sleep Deprivation Is A Silent Killer! The Painful Trick To Fix Poor Sleep - Dr Guy Leschziner",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/the-sleep-scientist-new-research-sleeping-patterns-can-predict-future-diseases-sleep-deprivation-is-a-silent-killer-the-painful-trick-to-fix-poor-sleep-dr-guy-leschziner",
+  "processed_at": "2026-03-19T21:54:54"
+}

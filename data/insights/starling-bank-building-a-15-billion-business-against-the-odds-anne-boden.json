@@ -1,0 +1,79 @@
+{
+  "guest_name": "Anne Boden",
+  "expertise_area": "Fintech",
+  "key_insights": [
+    {
+      "insight": "The key to succeeding as a female founder involves selling ideas effectively without coming off as arrogant or demanding.",
+      "quote": "If you come over as arrogant, if you come over as demanding, you're not likeable.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Raising investment is difficult, especially for those who do not fit venture capitalists' typical mold.",
+      "quote": "Venture capitalists tend to invest in um businesses that look very very similar... I would have never got any Y Combinator VC Paul Graham funding because I'm not that sort of entrepreneur.",
+      "importance": "high"
+    },
+    {
+      "insight": "Personal responsibility is far greater for entrepreneurs than for those in corporate jobs because every mistake ultimately traces back to them.",
+      "quote": "As an entrepreneur, there's nobody that, you know, all the hiring decisions somehow ended up with you making that first hiring decision... Anything that goes wrong is my responsibility. And all mistakes are probably down to me.",
+      "importance": "medium"
+    },
+    {
+      "insight": "A default to gratitude and optimism acts as a protective defense mechanism against the hardships of life.",
+      "quote": "I really think that's a really underestimated defence mechanism against life, is if your default position is to view the, you know, to count your blessings... then it's harder to slip into the trap of my expectations are being unmet",
+      "importance": "high"
+    },
+    {
+      "insight": "It's essential to be skeptical of advice, as many mentors may offer guidance without genuine knowledge, especially in the VC world.",
+      "quote": "Be cautious of those mentors that actually don't know anything... A lot of that is absolute rubbish and you have to just stop it.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Women in business tend to under promise and over deliver, setting them up to outperform in business.",
+      "quote": "His female founders um under promise and over deliver consistently.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Even with conflict, there may be more in common between you and a former partner/colleague than you realize.",
+      "quote": "I think Tom and I have much more in common than people think... There's lots more we have in common. And it's a really, it's a real pity It, you know, it ended the way it did.",
+      "importance": "low"
+    }
+  ],
+  "topics": [
+    "business",
+    "money",
+    "leadership",
+    "relationships",
+    "mindset",
+    "technology",
+    "entrepreneurship"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Focus on doing the right thing and maintaining your vision, even when facing challenges.",
+      "how_to": "Maintain and be true to your vision, especially in early days of the business."
+    },
+    {
+      "advice": "Counteract negativity by focusing on counting your blessings and taking energy from the positives in your life, rather than the negatives.",
+      "how_to": "Practice gratitude and acknowledge the things that are going right in your life"
+    },
+    {
+      "advice": "If someone offers you money, especially in the early stages, take it.",
+      "how_to": "It is hard to be selective as a founder, especially in the earlier stages of a business. A lot of businesses fail, so accept the funding when offered."
+    }
+  ],
+  "memorable_stories": [
+    "Anne's story of leaving her corporate career at 54 to start Starling Bank, facing skepticism and challenges from the industry.",
+    "The anecdote about meeting her first major investor on his yacht in the Bahamas and receiving an unexpected offer of £48 million for 66% of her company.",
+    "The story of a friend, Alan, cleaning out the office after the departure of the initial team, symbolizing a fresh start and new beginnings."
+  ],
+  "contrarian_claims": [
+    "That people who have different personalities working together can create great businesses, directly opposing the notion that clashing personalities in business relationships result in failure.",
+    "That valuation is not important, with focus on actually obtaining the funding to keep the business afloat and operational.",
+    "That the 'right man' never came along and having a family is not a societal requirement for woman."
+  ],
+  "episode_id": "starling-bank-building-a-15-billion-business-against-the-odds-anne-boden",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Starling Bank: Building a $1.5 Billion Business Against The Odds: Anne Boden",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/starling-bank-building-a-15-billion-business-against-the-odds-anne-boden",
+  "processed_at": "2026-03-19T21:38:21"
+}

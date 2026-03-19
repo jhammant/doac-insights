@@ -1,0 +1,81 @@
+{
+  "guest_name": "Unknown",
+  "expertise_area": "Neuroscience",
+  "key_insights": [
+    {
+      "insight": "The brain predicts experiences, rather than merely reacting to them, by preparing actions and then sensing the consequences.",
+      "quote": "You act first and then you sense. You don't sense and then react. You predict action and then you sense.",
+      "importance": "high"
+    },
+    {
+      "insight": "The brain anticipates sensory input based on past experiences, even to the point of triggering physiological responses before the input arrives.",
+      "quote": "You start to feel these sensations before the signals actually arrive for you to perceive them. You start to have the experience before the world gives you those signals.",
+      "importance": "high"
+    },
+    {
+      "insight": "Muscle memory is the brain's ability to predict and efficiently execute movements through repeated practice.",
+      "quote": "If you practice the same set of movements over and over and over again, you just get really efficient at them because your brain is able to predict better.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Trauma is not solely an objective event but a property of the relationship between past experiences and the present sensory input.",
+      "quote": "Trauma is a property of the relation between what has happened to you in the past and what is occurring in the present.",
+      "importance": "high"
+    },
+    {
+      "insight": "The meaning we assign to events is not inherent but is constructed based on our memories and can be influenced by cultural narratives.",
+      "quote": "These signals are going to your brain. They have no inherent psychological meaning. They have no inherent emotional meaning. They have no inherent mental meaning. What gives them meaning is the, are your memories from the past.",
+      "importance": "high"
+    },
+    {
+      "insight": "Identity is not fixed but is a construction of meaning applied to past experiences, shaping present actions and future predictions.",
+      "quote": "You don't have an enduring identity; you are who you are in the moment of your action.",
+      "importance": "high"
+    },
+    {
+      "insight": "Meaning is found in the transaction between ourselves and the world, including our brains and past experiences, which make it partially of our own making.",
+      "quote": "That means everything, everything you experience is partly of your own making.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Creating new experiences and practicing new skills can rewire the brain to create new predictions for the future, allowing for personal change.",
+      "quote": "Whatever you experience now becomes the seeds for predictions later, then you can invest in creating new experiences quite deliberately for yourself now.",
+      "importance": "high"
+    },
+    {
+      "insight": "Actions precede and determine thoughts and feelings; therefore, changing one's actions can alter one's thoughts and feelings.",
+      "quote": "It's not what you think determines what you feel. It's what you prepare to do determines your thoughts and your feelings and the sights and sounds and smells and sensations.",
+      "importance": "high"
+    }
+  ],
+  "topics": [
+    "psychology",
+    "science",
+    "habits",
+    "mindset"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Overcome fears by deliberately exposing yourself to manageable doses of prediction error.",
+      "how_to": "Start by taking small steps to interact with the feared object or situation, focusing on changing your actions and observing the outcome to prove your brain's predictions wrong. For instance, if you fear spiders, start by looking at pictures of spiders, then gradually move to observing them from a distance before attempting any closer interactions."
+    },
+    {
+      "advice": "Cultivate new experiences and actively practice new skills to rewire your brain's predictive capabilities.",
+      "how_to": "Identify new experiences or skills you wish to integrate into your life, actively create opportunities to practice them consistently and deliberately, paying attention to how these experiences shape your actions and perceptions in future situations."
+    }
+  ],
+  "memorable_stories": [
+    "The anecdote of Maria, the girl who experienced trauma after watching Oprah, demonstrates how cultural narratives and interpretations can shape our experiences of past events.",
+    "The coffee headache example illustrates how the brain prepares for predictable physiological changes, and missing the expected stimulus leads to withdrawal symptoms."
+  ],
+  "contrarian_claims": [
+    "Trauma is not solely an objective event or internal state but a property of the relationship between past experiences and the present.",
+    "We don't sense and then react; instead, we predict action and then sense, suggesting our brain is proactive rather than reactive.",
+    "Traditional evolutionary inheritance based solely on genetics is incomplete; cultural inheritance and epigenetic factors play significant roles in shaping our brains and behaviors."
+  ],
+  "episode_id": "most-replayed-moment-anxiety-is-just-a-prediction-rewrite-old-stories-and-build-emotional-safety",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Most Replayed Moment: Anxiety Is Just A Prediction! Rewrite Old Stories and Build Emotional Safety",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/most-replayed-moment-anxiety-is-just-a-prediction-rewrite-old-stories-and-build-emotional-safety",
+  "processed_at": "2026-03-19T21:21:11"
+}

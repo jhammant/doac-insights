@@ -1,0 +1,87 @@
+{
+  "guest_name": "Jessie Inchauspé",
+  "expertise_area": "Biochemistry, Glucose Regulation",
+  "key_insights": [
+    {
+      "insight": "Eating food in the correct order (veggies, protein/fats, starches/sugars) can significantly reduce glucose spikes.",
+      "quote": "If you eat the ingredients in the meal in a specific order, you can reduce the glucose spike of that meal by up to 75% without changing how much you're eating, what you're eating.",
+      "importance": "high"
+    },
+    {
+      "insight": "Fiber from vegetables creates a protective barrier in the intestine, slowing down glucose absorption.",
+      "quote": "That viscous mesh that fiber has created is then gonna reduce the spike of your meal because all the glucose molecules arriving later on from like the pasta, for example, are not going to be able to make their way as quickly and as much through your intestine into your bloodstream.",
+      "importance": "high"
+    },
+    {
+      "insight": "Calorie counting is a reductive way of thinking about food and doesn't tell you about the impact of food on your health, glucose levels, or mental state.",
+      "quote": "The calories in a food also gives us no information about what's actually in the food. How is that food going to impact how I feel, my physical health, my mental health, my glucose levels.",
+      "importance": "high"
+    },
+    {
+      "insight": "Having a savory breakfast with protein, fats, and fiber is better for steadying glucose levels than a sweet breakfast.",
+      "quote": "The main thing we want to do to steady our glucose levels is have a savory breakfast instead of a sweet one so we want to have a breakfast that contains protein, you know, like eggs, fish, meat, protein powder, maybe some fat like the avocado. That's fantastic.",
+      "importance": "high"
+    },
+    {
+      "insight": "Modern fruits have been bred to be much sweeter; fiber protects you against sugar spikes and denatured fruit doesn't retain the fiber benefits.",
+      "quote": "Fruit has been bred by humans for a super long time to be extra sweet, extra juicy...When we blend it, when we juice it, when we dry it, when we puree it... you're just taking all the sugar from the apple, putting it in water, and getting rid of all the protective fiber.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Drinking diluted vinegar before a meal can reduce glucose and insulin spikes due to acetic acid.",
+      "quote": "One tablespoon of vinegar in a tall glass of water before a meal can reduce the glucose spike of the meal by up to 30% and the insulin spike by up to 20%.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Post-meal movement, especially calf raises, helps muscles absorb glucose, reducing spikes.",
+      "quote": "If we use our muscles for 10 minutes after a meal some of the glucose from that meal will make its way to your muscles instead of just standing there and creating a spike.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "health",
+    "habits",
+    "science",
+    "fitness",
+    "productivity",
+    "mindset"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Eat vegetables as a starter before the rest of your meal.",
+      "how_to": "Make it a habit to consume a salad, raw veggies, or cooked vegetables before consuming the main course, ensuring it constitutes about 30% of the meal."
+    },
+    {
+      "advice": "Have a savory breakfast with protein and fats instead of sweet foods.",
+      "how_to": "Replace granola, cereals, or sweet pastries with eggs, fish, meat, or protein powder combined with avocado, cheese, or vegetables."
+    },
+    {
+      "advice": "Drink a tablespoon of vinegar in a tall glass of water before meals.",
+      "how_to": "Mix one tablespoon of vinegar (any kind) in a tall glass of water and drink it before starting your meal, about 10-15 minutes before"
+    },
+    {
+      "advice": "Move for 10 minutes after eating, especially focusing on calf raises.",
+      "how_to": "Take a short walk, clean your apartment, play with your dog, go to the gym, or perform calf raises (going on your tippy toes and back down repeatedly) for 10 minutes after each meal."
+    },
+    {
+      "advice": "When eating starches and sugars, add protein, fat, or fiber.",
+      "how_to": "Pair chocolate cake with Greek yogurt or add nuts to your airport cookie. Called \"clothing on your carbs\""
+    }
+  ],
+  "memorable_stories": [
+    "The guest talks about her personal journey discovering how food impacts her health.",
+    "The host admits to being a speed eater.",
+    "The host shares anecdote of his partner blessing the food.",
+    "The host had conversation with his partner about fruit being bred to be sweeter and Googled historical pictures of bananas to show her."
+  ],
+  "contrarian_claims": [
+    "Calorie counting is not the most effective way to manage weight or health.",
+    "Fruit juice is as bad as Coca-Cola, and not good for your health.",
+    "Eating sweet foods, such as granola, for breakfast is unhealthy."
+  ],
+  "episode_id": "moment-124-10-sugar-hacks-so-you-can-eat-whatever-you-want-jessie-inchauspe",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Moment 124: 10 Sugar Hacks So You Can Eat Whatever You Want! Jessie Inchauspé",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-124-10-sugar-hacks-so-you-can-eat-whatever-you-want-jessie-inchauspe",
+  "processed_at": "2026-03-19T20:55:57"
+}

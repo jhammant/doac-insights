@@ -1,0 +1,93 @@
+{
+  "guest_name": "Gary Brekka",
+  "expertise_area": "Human Biology",
+  "key_insights": [
+    {
+      "insight": "Many health conditions, such as weight gain, brain fog, and lack of sleep, stem from nutrient deficiencies that affect methylation, a core process in the body.",
+      "quote": "It's shocking how many of these conditions have a common repository...All these individual spokes come together at the common hub of methylation. And methylation is essentially nutrient deficiencies in the human body.",
+      "importance": "high"
+    },
+    {
+      "insight": "Supplementation should be based on data about individual deficiencies, not generic advice.",
+      "quote": "We just don't get data on our bodies... I just really encourage people to get data, basic data on their body so they have some kind of roadmap. So they are supplementing for deficiency, not just the sake of supplementing.",
+      "importance": "high"
+    },
+    {
+      "insight": "ADD/ADHD is often an attention overload disorder, not a deficit, and should be addressed by calming the mind instead of stimulating the nervous system.",
+      "quote": "People that suffer from ADD and ADHD don't really realize that ADD and ADHD very often are not attention deficit disorders or attention deficit hyperactivity disorders. They're actually attention overload disorders.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Genetic methylation tests can reveal which raw materials the body struggles to convert, providing a roadmap for targeted supplementation.",
+      "quote": "A genetic methylation test is a test you'll do once in your lifetime. And it will tell you exactly what raw materials your body can convert into the usable form and what it can't.",
+      "importance": "high"
+    },
+    {
+      "insight": "High insulin levels, indicated by a glycemic profile, can be the root of many health issues and block fat metabolism.",
+      "quote": "Blood sugar, I promise you, is the root of all evil...as insulin rises, there's a whole downstream cascade of events because insulin is not just responsible for helping us metabolize sugar. It's also responsible forblocking other forms of energy use in the body, one of which is fatty acid metabolism.",
+      "importance": "high"
+    },
+    {
+      "insight": "Anxiety can physiologically stem from a rise in catecholamines, and it is often caused by a deficiency in B vitamins.",
+      "quote": "Very often it is a rise in catecholamines...But this is because they are deficient, usually, in a complex of B vitamins, a very specific form of B12 called methylcobalamin, methylfolate,these methylated nutrients that downregulate these catecholamines.",
+      "importance": "high"
+    },
+    {
+      "insight": "Regularly mineralizing water with high-quality sea salt replenishes trace minerals and supports overall health.",
+      "quote": "Most of us are deficient in some or several of the trace minerals in our body...and stir it up and just whack it back.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Electrosmog from technology can disrupt the body, but PEMF mats can mitigate the harmful effects.",
+      "quote": "It will push the electrosmog right out of your bodybecause PEMF gets rid of electrosmog right out of your body because PMF gets rid ofelectrosmog, 5G, Wi-Fi.",
+      "importance": "low"
+    }
+  ],
+  "topics": [
+    "health",
+    "psychology",
+    "habits",
+    "science",
+    "technology",
+    "mindset",
+    "productivity"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Get a genetic methylation test to identify specific nutrient conversion deficiencies.",
+      "how_to": "Find a provider offering a genetic methylation test that analyzes genes like MTHFR, MTR, MTRR, AHCY, and COMT. Supplement with the activated forms of nutrients your body struggles to convert."
+    },
+    {
+      "advice": "Start each day by drinking mineralized water.",
+      "how_to": "Add Celtic sea salt or Baja gold salt to 10 ounces of water upon waking to replenish trace minerals."
+    },
+    {
+      "advice": "Incorporate grounding into your morning routine.",
+      "how_to": "Spend a few minutes each morning with bare feet touching bare soil, grass, or sand to discharge static electricity and exchange ions with the earth."
+    },
+    {
+      "advice": "Include breathwork in your morning routine",
+      "how_to": "Practice Wim Hof-style breathwork, doing three rounds of 30 breaths with an extended breath hold each morning to improve oxygenation."
+    },
+    {
+      "advice": "Expose your skin to first light",
+      "how_to": "Get sunlight exposure for the first 45 minutes of the day to reset your circadian cycle and obtain healthy blue light with no UVA or UVB."
+    }
+  ],
+  "memorable_stories": [
+    "Anecdote about Gary's career in life insurance and feeling conflicted about not being able to help the people whose medical records he was analyzing.",
+    "Story of potentially life-threatening drug interaction detected by Gary in medical records.",
+    "Story about Joe Rogan experiencing eyesight improvement after using a red light bed."
+  ],
+  "contrarian_claims": [
+    "ADD/ADHD is often an attention overload disorder, not a deficit.",
+    "Modern medicine contributes to high mortality rates",
+    "LDL Cholesterol has potential longevity benefits",
+    "The best path to extending lifespan is not found in modern medicine."
+  ],
+  "episode_id": "world-no-1-biohacking-expert-i-tested-100000-peoples-dna-this-diet-will-kill-you-fix-this-hormone-and-youll-fix-your-anxiety-gary-brecka",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - World No. 1 Biohacking Expert: \"I Tested 100,000 People's DNA. This Diet Will Kill You!\". Fix This Hormone And You'll Fix Your Anxiety! - Gary Brecka",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/world-no-1-biohacking-expert-i-tested-100000-peoples-dna-this-diet-will-kill-you-fix-this-hormone-and-youll-fix-your-anxiety-gary-brecka",
+  "processed_at": "2026-03-19T22:00:24"
+}

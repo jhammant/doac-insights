@@ -1,0 +1,70 @@
+{
+  "guest_name": "Not provided",
+  "expertise_area": "High Performance",
+  "key_insights": [
+    {
+      "insight": "Small consistent improvements compound to create significant changes over time.",
+      "quote": "We believe the 1% will change our trajectory in an invisible way in the moment, but in a profound way over time.",
+      "importance": "high"
+    },
+    {
+      "insight": "Paying attention to details that others overlook is crucial for gaining a competitive edge.",
+      "quote": "The one percenters, the.01, they sweat every single detail. Because the one thing they let slip, somebody is going to use that to their advantage.",
+      "importance": "high"
+    },
+    {
+      "insight": "Obsession with one's craft leads to impactful results, while mere interest results in observation.",
+      "quote": "Interested people watch obsessed people change the world.",
+      "importance": "high"
+    },
+    {
+      "insight": "Maximizing focus, rather than just time, is key to increased productivity and efficiency.",
+      "quote": "Everyone talks about maximizing their time. Kobe and I were interested in maximizing his focus. When you maximize your focus, it gave us more time.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Analyzing data and analytics to understand audience engagement is crucial for optimizing content and strategy.",
+      "quote": "Should we hire someone full-time to look at the data and analytics of the episodes when they go out? So we can, if we put an episode out and the title thumbnail is wrong, we can know within 24 hours if we need to change it.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Control what you can to better manage the uncontrollable.",
+      "quote": "They want to control everything they can control so the uncontrollable becomes more manageable to them.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "business",
+    "habits",
+    "leadership",
+    "productivity",
+    "mindset"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Identify small, measurable improvements to make daily.",
+      "how_to": "Focus on making one aspect of your work or life 1% better each day, tracking progress and adjusting as needed."
+    },
+    {
+      "advice": "Implement a system for tracking and analyzing key metrics.",
+      "how_to": "Identify the core metrics that indicate success or areas for improvement, set up a tracking system, and regularly review the data to identify trends and insights."
+    },
+    {
+      "advice": "Audit your processes and identify areas where seemingly insignificant details are overlooked.",
+      "how_to": "Systematically review each step of your workflows and daily routines, looking for opportunities to refine and improve seemingly minor details for cumulative benefits."
+    }
+  ],
+  "memorable_stories": [
+    "Story about Kobe Bryant noticing the basketball hoop was off by an eighth of an inch, highlighting his meticulous attention to detail.",
+    "The speaker recounts walking the basketball court with Kobe to locate dead spots on the floor that would give them a competitive advantage."
+  ],
+  "contrarian_claims": [
+    "The conventional wisdom of 'don't sweat the small stuff' is challenged, advocating for obsessive attention to detail.",
+    "Conventional advice on maximizing time is countered by the notion of maximizing focus to 'buy' more time."
+  ],
+  "episode_id": "moment-82-michael-jordan-kobe-bryant-always-won-because-of-this-tim-grover",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Moment 82 - Michael Jordan & Kobe Bryant ALWAYS Won Because Of This: Tim Grover",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-82-michael-jordan-kobe-bryant-always-won-because-of-this-tim-grover",
+  "processed_at": "2026-03-19T21:17:52"
+}

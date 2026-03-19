@@ -1,0 +1,83 @@
+{
+  "guest_name": "Daniel Amen and Terry Sejnowski",
+  "expertise_area": "Psychiatry and Computational Neuroscience",
+  "key_insights": [
+    {
+      "insight": "Over-reliance on AI tools like ChatGPT can reduce brain activity and impair memory encoding, potentially increasing the risk of dementia due to decreased cognitive load.",
+      "quote": "MIT found a 47% collapse in activity and brain connections when people wrote with ChatGPT compared with writing unaided...their memory scores plunged.",
+      "importance": "high"
+    },
+    {
+      "insight": "AI is more likely to negatively impact developing brains of children and teens due to the 'use it or lose it' principle and the potential for distraction from activities that promote brain development.",
+      "quote": "I think AI is much more dangerous on the developing brain... If they're not engaging their brains, their brains are going to be weaker.",
+      "importance": "high"
+    },
+    {
+      "insight": "Interacting with AI in a way that requires critical thinking and questioning can help improve cognitive abilities, while passively accepting AI output can be detrimental.",
+      "quote": "If you're not critically questioning what comes out of chat to GPT, then you won't...you interact with it to get better work.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Treating AI with politeness can engage the social parts of the brain, reducing exhaustion and potentially improving results.",
+      "quote": "By treating it like a human, at the end of the day, she was not exhausted. She felt refreshed.",
+      "importance": "low"
+    },
+    {
+      "insight": "Adopting a negative mindset is associated with reduced prefrontal cortex activity and an increased risk of Alzheimer's, with men being at a disproportionately higher risk than women.",
+      "quote": "People who are more negative have less activity in their prefrontal cortex...if you're depressed and you're a man, it quadruples your risk.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Engaging in rote learning and repetitive practice is crucial for developing fluency and building a strong foundation for cognitive skills, particularly in children.",
+      "quote": "Our schools now is getting away with rote learning...No, that's practice...You have to memorize things...to become fluent.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Spacing out learning and rehearsal over time (the spacing effect) significantly improves long-term memory retention compared to cramming information all at once.",
+      "quote": "If you learn something and then you come back the next day and, you know, rehearse it or even better come back to next week and rehearse it, that spacing is something that helps the brain solidify those memories.",
+      "importance": "high"
+    }
+  ],
+  "topics": [
+    "psychology",
+    "health",
+    "technology",
+    "habits",
+    "mindset",
+    "science"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Use AI tools to get negative feedback on your work.",
+      "how_to": "Input your written work into AI models and ask them to critique it, focusing on areas for improvement as a top consultant would.  Use the feedback to revise and enhance the original work."
+    },
+    {
+      "advice": "Practice the '15-second breath' to improve heart rate variability and reduce stress.",
+      "how_to": "Breathe in deeply through your belly for 4 seconds, hold for 1.5 seconds, then breathe out for 8 seconds, holding again for 1.5 seconds.  Repeat as needed, especially during panic attacks."
+    },
+    {
+      "advice": "Combat procrastination by working on tasks in small, timed increments.",
+      "how_to": "Dedicate just 20 minutes to getting started on a task, then stop. Your brain will continue working on it subconsciously overnight, making it easier to continue the next day."
+    },
+    {
+      "advice": "Incorporate exercise into the learning process to improve memory consolidation.",
+      "how_to": "Learn or review material while exercising or immediately after, as the increased blood flow to the hippocampus aids in memory formation."
+    }
+  ],
+  "memorable_stories": [
+    "The story of the MIT study which showed the negative effects on critical thinking from using Chat GPT",
+    "The speaker's friend who started using Chat GPT and getting more likes on LinkedIn",
+    "The story of the women who fell in love and married an AI called Lucas",
+    "The story of the AI 'Annie' released by Elon Musk and the potential impact on young people"
+  ],
+  "contrarian_claims": [
+    "It is possible to use Chat GPT to improve your cognitive abilities but it requires education.",
+    "Sam Altman's advice to stop saying thank you to Chat GPT is crazy.",
+    "Children taking medicine for ADHD had bigger brains than the ones not taking medicine."
+  ],
+  "episode_id": "chatgpt-brain-rot-debate-the-fastest-way-to-get-dementia-watch-this-before-using-chatgpt-again-especially-if-your-kids-use-it",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - ChatGPT Brain Rot Debate: The Fastest Way to Get Dementia, Watch This Before Using ChatGPT Again, Especially If Your Kids Use It!",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/chatgpt-brain-rot-debate-the-fastest-way-to-get-dementia-watch-this-before-using-chatgpt-again-especially-if-your-kids-use-it",
+  "processed_at": "2026-03-19T20:19:52"
+}

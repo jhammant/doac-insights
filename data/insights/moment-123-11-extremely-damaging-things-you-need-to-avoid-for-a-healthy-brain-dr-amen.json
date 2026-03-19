@@ -1,0 +1,88 @@
+{
+  "guest_name": "Not Applicable",
+  "expertise_area": "Neuroscience",
+  "key_insights": [
+    {
+      "insight": "Continuous learning is essential for maintaining brain health and preventing cognitive decline.",
+      "quote": "When you learn something new, your brain makes a new connection. When you stop learning or you start doing the same thing over and over again, your brain starts to disconnect itself.",
+      "importance": "high"
+    },
+    {
+      "insight": "Loneliness is detrimental to brain function and increases the risk of dementia.",
+      "quote": "Being lonely is a risk factor for dementia.",
+      "importance": "high"
+    },
+    {
+      "insight": "Oral health is directly linked to brain health; gum disease can increase the risk of heart disease, depression, and dementia.",
+      "quote": "If you have gingivitis, odds are you're at increased risk for heart disease and depression and dementia.",
+      "importance": "high"
+    },
+    {
+      "insight": "Omega-3 fatty acids are vital for brain health; low levels are associated with smaller brain size.",
+      "quote": "People have low levels of omega-3 fatty acids have smaller brains.",
+      "importance": "medium"
+    },
+    {
+      "insight": "The standard American diet, consisting of processed foods, can negatively impact the brain due to the addictive qualities engineered into them.",
+      "quote": "They spent billions on getting those foods to the perfect crunchiness, the perfect meltiness, the perfect aroma, because they hire neuroscientists to addict your brain.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Genetics may predispose you to certain conditions, but lifestyle choices are crucial in determining whether those predispositions manifest.",
+      "quote": "Genes load the gun. It's what happens to us and what we choose to do that pulls the trigger.",
+      "importance": "high"
+    },
+    {
+      "insight": "The teenage brain undergoes critical development until age 25, making it especially vulnerable to damage from drugs, alcohol, and poor nutrition.",
+      "quote": "From the time you're 15 to 25, it's going through wild construction. In fact, that's when the highways are being myelinated.",
+      "importance": "high"
+    },
+    {
+      "insight": "Adopting a 'no asshole' rule promotes a healthier work environment and reduces loneliness.",
+      "quote": "If you're not an asshole, you're less likely to be lonely. And loneliness is terrible for brain function.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "health",
+    "psychology",
+    "habits",
+    "science",
+    "mindset"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Prioritize continuous learning throughout life.",
+      "how_to": "Engage in new courses, read books, participate in discussions, or learn new skills regularly."
+    },
+    {
+      "advice": "Maintain good oral hygiene, including daily flossing.",
+      "how_to": "Floss your teeth every day to prevent gum disease and protect your brain health."
+    },
+    {
+      "advice": "Incorporate grilled or baked fish into your diet at least once a week.",
+      "how_to": "Plan your meals to include fish rich in omega-3 fatty acids to support brain function."
+    },
+    {
+      "advice": "Minimize the consumption of processed foods and fast food.",
+      "how_to": "Focus on whole, unprocessed foods and cook meals at home to control ingredients and reduce exposure to harmful additives."
+    },
+    {
+      "advice": "Implement the 'no asshole' rule in your personal and professional life.",
+      "how_to": "Set clear boundaries, treat others with respect, and avoid engaging in or tolerating disrespectful behavior."
+    }
+  ],
+  "memorable_stories": [
+    "Adoption of nieces due to parents' drug use, with strict rules enforced for their wellbeing.",
+    "Use of 'racehorse' analogy to convince teenagers to care for their brains."
+  ],
+  "contrarian_claims": [
+    "Marijuana legalization is supported for resource allocation reasons, but not because it is innocuous, as it poses risks for teenagers' mental health.",
+    "Genes only 'load the gun,' lifestyle choices pull the trigger, suggesting more control than often attributed to genetics."
+  ],
+  "episode_id": "moment-123-11-extremely-damaging-things-you-need-to-avoid-for-a-healthy-brain-dr-amen",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Moment 123: 11 Extremely Damaging Things You NEED To Avoid For A Healthy Brain: Dr Amen",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-123-11-extremely-damaging-things-you-need-to-avoid-for-a-healthy-brain-dr-amen",
+  "processed_at": "2026-03-19T20:55:46"
+}

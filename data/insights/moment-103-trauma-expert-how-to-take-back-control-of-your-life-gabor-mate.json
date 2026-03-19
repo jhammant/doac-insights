@@ -1,0 +1,75 @@
+{
+  "guest_name": "Unknown",
+  "expertise_area": "Psychology",
+  "key_insights": [
+    {
+      "insight": "Trauma can act as an unconscious 'puppet master,' controlling our actions without our awareness.",
+      "quote": "Most people they're living unaware of the puppet master of trauma that is driving their life that's a really good analogythe trauma really is like a puppet master behind the scenes and the unconscious pulling your strings and you're not aware of it.",
+      "importance": "high"
+    },
+    {
+      "insight": "Awareness of the unconscious influences of trauma weakens their hold on us.",
+      "quote": "That awareness alone weakens the, it slackens the strings a bit. They're no longer as taught. They're no longer as automatically capable of pulling on you.",
+      "importance": "high"
+    },
+    {
+      "insight": "Addictions are often attempts to escape from underlying pain.",
+      "quote": "Your addictions are nothing but an attempt to escape from pain that's all they are that's all you know they're not a disease they're not a genetic whatever it is addictions are very simply an attempt to escape pain which create more pain but that's what they are.",
+      "importance": "high"
+    },
+    {
+      "insight": "Addiction is not defined by the substance or activity, but by the relationship to it.",
+      "quote": "The addiction is never in the behavior itself,it's in your relationship to the behavior.",
+      "importance": "high"
+    },
+    {
+      "insight": "Almost anything can become addictive if it temporarily eases distress but causes long-term harm.",
+      "quote": "So almost anything can be addictive if it serves the purpose of temporarily easing some distress but causing harm in the long term.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Instead of focusing on the addiction itself, explore the underlying pain it is masking.",
+      "quote": "Don't ask why the addiction, ask why the pain.",
+      "importance": "high"
+    },
+    {
+      "insight": "It's important to understand what benefit an addiction provides before trying to eliminate it.",
+      "quote": "We should be asking what the benefit of the addiction is.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "psychology",
+    "habits",
+    "relationships",
+    "health",
+    "mindset"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Increase awareness of your trauma triggers.",
+      "how_to": "Practice introspection, keep a journal, or seek therapy to identify patterns and connections between past experiences and current reactions."
+    },
+    {
+      "advice": "Examine where you struggle to say 'no'.",
+      "how_to": "Reflect on situations where you feel obligated to do things you don't want to do and explore the underlying reasons for this difficulty."
+    },
+    {
+      "advice": "When dealing with an addiction, identify its benefits.",
+      "how_to": "Ask yourself what positive outcome the addiction is providing, such as a sense of worth or relief from stress. Acknowledge the validity of that need before addressing the harmful behavior."
+    }
+  ],
+  "memorable_stories": [
+    "The analogy of trauma as a puppet master, controlling us with strings.",
+    "The reference to Pinocchio's realization after becoming a real boy."
+  ],
+  "contrarian_claims": [
+    "It's possible to use heroin in a non-addictive way (although the speaker doesn't recommend it).",
+    "Addictions aren't a disease or genetic predisposition; they're attempts to escape pain."
+  ],
+  "episode_id": "moment-103-trauma-expert-how-to-take-back-control-of-your-life-gabor-mate",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Moment 103 - Trauma Expert: How To Take Back Control Of Your Life: Gabor Mate",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-103-trauma-expert-how-to-take-back-control-of-your-life-gabor-mate",
+  "processed_at": "2026-03-19T20:52:51"
+}

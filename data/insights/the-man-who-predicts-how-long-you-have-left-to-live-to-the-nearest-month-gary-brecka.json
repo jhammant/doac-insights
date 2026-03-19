@@ -1,0 +1,103 @@
+{
+  "guest_name": "Gary Brecka",
+  "expertise_area": "Human Biology",
+  "key_insights": [
+    {
+      "insight": "Many common health issues are not diseases themselves, but rather the expression of underlying nutrient deficiencies.",
+      "quote": "We have accepted that disease travels in families when it's actually not the disease being passed from generation to generation. It is the inability for their body to refine a certain raw material,which causes a deficiency, which leads to that disease.",
+      "importance": "high"
+    },
+    {
+      "insight": "Traditional medicine often misdiagnoses conditions as diseases when they are actually nutrient deficiencies, leading to unnecessary medications and procedures.",
+      "quote": "You were diagnosed with a condition that you didn't have because you had a deficiency in a very simple nutrient.So then you were put on a medication that wasn't required.This caused you to have surgery that you didn't needto replace a joint that wasn't initially going to be defective.",
+      "importance": "high"
+    },
+    {
+      "insight": "Adequate oxygen in the body is essential for preventing and combating disease.",
+      "quote": "The presence of oxygen is the absence of disease.",
+      "importance": "high"
+    },
+    {
+      "insight": "Anxiety not triggered by immediate danger often stems from a physiological imbalance, not external stressors.",
+      "quote": "But if you're claustrophobic and you're sitting at home and you start to become overwhelmed with anxiety, this is actually not coming from that trigger.This is coming from your physiology.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Attention Deficit Disorder is often misdiagnosed; it's actually an 'attention overload disorder' caused by the brain's inability to dismantle thoughts effectively.",
+      "quote": "Attention deficit disorder is not an attention deficit at all. We've misdefined these things. It's an attention overload disorder.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Consuming carbohydrates during air travel can worsen fatigue and reduce focus due to increased blood flow to the digestive system.",
+      "quote": "Carbs are bad in the air because as soon as you divert blood from your brain to digestion... the more blood floods to your gut. So you're gonna feel like crying.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Maintaining elevated emotional states helps regulate future behavior by influencing memory recall and decision-making.",
+      "quote": "This means that your current emotionalstate determines your future. That's a biophysiologic fact.",
+      "importance": "medium"
+    },
+    {
+      "insight": "The body's ability to breakdown catecholamines affects your capacity to maintain a quiet mind when trying to sleep.",
+      "quote": "So the reason why you're not falling asleep is because when your environment quiets your mindwakes up and if you actually hone in on the kind of things you're thinking about,you're thinking about the most innocuous little nonsense, right?",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "health",
+    "psychology",
+    "habits",
+    "science",
+    "mindset",
+    "productivity"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Get a genetic test to identify methylation deficiencies.",
+      "how_to": "Take a genetic test (cheek swab) to identify genes responsible for how your body refines raw materials."
+    },
+    {
+      "advice": "Supplement Vitamin D3 with K2 if you don't get enough sun exposure.",
+      "how_to": "Take 5,000 IUs of Vitamin D3 with 80 micrograms of K2 daily."
+    },
+    {
+      "advice": "Contact the earth with bare feet for grounding.",
+      "how_to": "Spend time barefoot on soil, dirt, grass, or sand to discharge built-up electrical charge."
+    },
+    {
+      "advice": "Practice breathwork daily.",
+      "how_to": "Do three rounds of 30 deep, exaggerated breaths (Wim Hof method), holding your breath after exhaling on the 30th breath."
+    },
+    {
+      "advice": "Expose yourself to natural sunlight first thing in the morning.",
+      "how_to": "Spend the first 45 minutes of the day exposed to \"first light\" without UVA or UVB rays."
+    },
+    {
+      "advice": "Take cold plunges or cold showers.",
+      "how_to": "Immerse yourself in 50-degree water for 3-6 minutes daily to release cold shock proteins and strip fat off your body."
+    },
+    {
+      "advice": "Preserve your sleeping window when traveling across time zones.",
+      "how_to": "Do not eat during your normal sleeping window (according to your original time zone) in your new location. Fast on domestic flights and consume fats and proteins on international flights."
+    }
+  ],
+  "memorable_stories": [
+    "The story of Gary's early fascination with medicine, sparked by veterinarians on surrounding animal farms.",
+    "The story of Dana White dramatically improving his health and tripling his life expectancy after following Gary's recommendations.",
+    "Recalling paragraph B, Section 15-2 of his first employment contract 28 years later."
+  ],
+  "contrarian_claims": [
+    "Many diseases are not genetically inherited, but are deficiency-based.",
+    "Modern medicine often treats symptoms with medication instead of addressing underlying nutritional deficiencies.",
+    "Folic acid (the synthetic form of folate) does not prevent neural tube defects. Methylfolate, the natural form of folate, does.",
+    "Most people are not suffering from food allergies, but rather, gut motility issues.",
+    "You cannot get alkaline by drinking alkaline water, but you can by contacting the surface of the earth.",
+    "Aging is the aggressive pursuit of comfort.",
+    "The sole gateway to the memory of the brain is the emotional center of the brain, which affects our future trajectory."
+  ],
+  "episode_id": "the-man-who-predicts-how-long-you-have-left-to-live-to-the-nearest-month-gary-brecka",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - The Man Who Predicts How Long You Have Left To Live (To The Nearest Month): Gary Brecka",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/the-man-who-predicts-how-long-you-have-left-to-live-to-the-nearest-month-gary-brecka",
+  "processed_at": "2026-03-19T21:48:06"
+}

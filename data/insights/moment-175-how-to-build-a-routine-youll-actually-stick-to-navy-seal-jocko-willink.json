@@ -1,0 +1,78 @@
+{
+  "guest_name": "Jocko Willink",
+  "expertise_area": "Leadership",
+  "key_insights": [
+    {
+      "insight": "Prioritizing sleep is fundamental for performance and overall well-being.",
+      "quote": "Prioritize sleep, because then everything else seems to follow.",
+      "importance": "high"
+    },
+    {
+      "insight": "Maintaining a consistent sleep schedule, even if it's not early, can improve overall well-being.",
+      "quote": "Try and go to bed around the same time and try and wake up around the same time. And that's going to be a great foundation for everything that you're doing.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Starting the day with exercise is beneficial for setting the right tone.",
+      "quote": "When you wake up in the morning, do some kind of exercise. Because I think that is very helpful in getting your day started correctly.",
+      "importance": "medium"
+    },
+    {
+      "insight": "It's important to recognize that everyone has deficiencies and imperfections, regardless of their achievements.",
+      "quote": "There are so many things that I think would really liberate people and make them inspired if they could see how deficient I was in so many things in my life.",
+      "importance": "high"
+    },
+    {
+      "insight": "Effective leadership involves listening more than talking.",
+      "quote": "In a leadership position, you should be listening more than you should be talking.",
+      "importance": "high"
+    },
+    {
+      "insight": "True leadership aims for a level of understanding where explicit commands are unnecessary.",
+      "quote": "My goal is I don't even have to say anything. That's my goal as a leader. My goal is I don't have to say a word and you already know what to do and you make it happen.",
+      "importance": "high"
+    },
+    {
+      "insight": "Leaders must maintain an open mind to new information and ideas.",
+      "quote": "If you have a closed mind about what the mission is, about how it's going to happen, about what your troops are going to do, about what the enemy is going to do, if you have a closed mind about those things, you're going to get caught off guard. You have to have an open mind.",
+      "importance": "high"
+    }
+  ],
+  "topics": [
+    "habits",
+    "health",
+    "leadership",
+    "mindset",
+    "productivity",
+    "business"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Establish a consistent sleep schedule.",
+      "how_to": "Pick a bedtime and wake time, and stick to it as much as possible, even on weekends."
+    },
+    {
+      "advice": "Incorporate exercise into your morning routine.",
+      "how_to": "Start with a simple workout, like a brisk walk or bodyweight exercises, to energize your day."
+    },
+    {
+      "advice": "Prioritize listening over talking, especially in leadership roles.",
+      "how_to": "Actively listen to your team members and encourage them to share their ideas before offering your own."
+    }
+  ],
+  "memorable_stories": [
+    "Anecdote about Jocko's business partner noting that he never yelled at him, even when he gave him reason to.",
+    "Story about Jocko letting subordinates plan, which surprised the interviewer.",
+    "Jocko's weakness for chocolate chip cookies."
+  ],
+  "contrarian_claims": [
+    "Challenges the misconception of military leadership as solely authoritarian.",
+    "Argues that if a leader needs to yell to get their point across, they've already made numerous mistakes.",
+    "Suggests that leaders should hire people who can tell them what to do."
+  ],
+  "episode_id": "moment-175-how-to-build-a-routine-youll-actually-stick-to-navy-seal-jocko-willink",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Moment 175: How To Build A ROUTINE You’ll ACTUALLY Stick To!: Navy Seal Jocko Willink",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-175-how-to-build-a-routine-youll-actually-stick-to-navy-seal-jocko-willink",
+  "processed_at": "2026-03-19T21:03:33"
+}

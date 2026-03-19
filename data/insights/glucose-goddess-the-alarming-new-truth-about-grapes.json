@@ -1,0 +1,95 @@
+{
+  "guest_name": "Jessie Inchauspe",
+  "expertise_area": "Biochemistry, Nutrition, Glucose Management",
+  "key_insights": [
+    {
+      "insight": "Glucose spikes can lead to mitochondrial dysfunction, resulting in chronic fatigue and inflammation.",
+      "quote": "Too much glucose and your little mitochondria start freaking out. They get overwhelmed by too much glucose arriving their way. They kind of go on strike... and they're not able to make energy effectively anymore because we're overloading them with too much glucose to process. And as a human, what do you feel? You feel chronic fatigue.",
+      "importance": "high"
+    },
+    {
+      "insight": "Glucose spikes accelerate aging through glycation, a process where glucose damages organs and shows on the skin as wrinkles.",
+      "quote": "Every glucose spike increases glycation, increases cooking, accelerates aging. And this shows on your skin. You get wrinkles faster if you glycate more. And also on the inside, your organs slowly get damaged.",
+      "importance": "high"
+    },
+    {
+      "insight": "Insulin, released to manage glucose spikes, can lead to fat storage and insulin resistance, contributing to type 2 diabetes.",
+      "quote": "Insulin's job is to grab all these excess glucose molecules and to store them away so they don't damage your body anymore... And that's one of the ways that you gain fat on your body. It's in response to the spikes in your body trying to protect you from the spikes. The problem is insulin itself has consequences and is the driver of type 2 diabetes and insulin resistance.",
+      "importance": "high"
+    },
+    {
+      "insight": "Fruit smoothies are not necessarily healthy and can cause glucose spikes similar to that of chocolate cake.",
+      "quote": "Your body doesn't differentiate whether the sugar is in a fruit smoothie or the sugar is in a chocolate cake. It's all the same molecules.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Eating vegetables before the rest of your meal reduces the glucose spike by coating your intestine with fiber.",
+      "quote": "When you have fiber at the beginning of a meal, what it does is that it coats your intestine. It makes a sort of protective barrier... And so any glucose you eat afterwards will not be able to go through your intestine into your bloodstream so quickly.",
+      "importance": "high"
+    },
+    {
+      "insight": "Savory breakfast are essential to stabalize glucose levels and prevent glucose rollercoasters.",
+      "quote": "If you have a glucose spike at breakfast, your whole day is a glucose roller coaster.",
+      "importance": "high"
+    },
+    {
+      "insight": "High glucose levels during midlife are linked to Alzheimer's disease, and some scientists even call Alzheimer's as type 3 diabetes.",
+      "quote": "People who had elevated glucose levels in their 40s were more likely to get Alzheimer's when they reached 60, 70, 80... some scientists call Alzheimer's type three diabetes, diabetes of the brain.",
+      "importance": "medium"
+    },
+    {
+      "insight": "A savory breakfast can deeply change how you show up throughout your day.",
+      "quote": "Even just a simple thing like a savory breakfast, it can deeply change how you show up throughout your day. Instead of being exhausted at 11 a.m., needing four coffees... You actually have a clearer brain.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "health",
+    "psychology",
+    "habits",
+    "science",
+    "productivity",
+    "mindset",
+    "relationships",
+    "fitness",
+    "communication"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Start your day with a savory breakfast.",
+      "how_to": "Focus on protein, healthy fats, and minimal starch, avoiding all sweet items like cereal, muffins, or fruit juice."
+    },
+    {
+      "advice": "Drink one tablespoon of vinegar in a big glass of water before your largest meal.",
+      "how_to": "Dilute any kitchen vinegar (not cleaning vinegar) in water and consume 10 minutes before eating to cut glucose spikes."
+    },
+    {
+      "advice": "Begin your meals with a veggie starter.",
+      "how_to": "Have a small plate of vegetables (carrots, spinach, broccoli, etc.) before the rest of your meal to slow down glucose absorption."
+    },
+    {
+      "advice": "Engage in 10 minutes of physical activity after eating.",
+      "how_to": "Clean, walk the dog, dance, or even do calf raises under your desk to utilize muscles and soak up glucose."
+    },
+    {
+      "advice": "Eat your food in the right order",
+      "how_to": "Eat veggies first, then protein and fats, followed by starches and sugars."
+    }
+  ],
+  "memorable_stories": [
+    "Story of a taxi driver in London who told the guest that what she was doing was important.",
+    "Story of a man who reversed his type 2 diabetes through diet after understanding his condition."
+  ],
+  "contrarian_claims": [
+    "Fruit smoothies are not necessarily healthy and can cause glucose spikes similar to that of chocolate cake",
+    "All sugar is the same, there is no good sugar",
+    "The guest is not against sugar, but she is pro-knowledge about how and when to eat sugary foods",
+    "Aspartame is better than the regular can of soda with the 30 grams of real sugar",
+    "Orange juice is terrible for children"
+  ],
+  "episode_id": "glucose-goddess-the-alarming-new-truth-about-grapes",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Glucose Goddess: The Alarming New Truth About Grapes!",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/glucose-goddess-the-alarming-new-truth-about-grapes",
+  "processed_at": "2026-03-19T20:38:22"
+}

@@ -1,0 +1,82 @@
+{
+  "guest_name": "Unclear from transcript",
+  "expertise_area": "Pediatrics, Metabolic Health, Corporate Interference in Health",
+  "key_insights": [
+    {
+      "insight": "Fructose and alcohol are metabolized virtually identically in the liver, making high doses of fructose toxic.",
+      "quote": "Fructose and alcohol are metabolized virtually identically.",
+      "importance": "high"
+    },
+    {
+      "insight": "While glucose is essential for bodily functions, it's not essential to consume it directly, as the body can produce it from amino acids and fats.",
+      "quote": "Glucose is essential. It's just not essential to eat.",
+      "importance": "medium"
+    },
+    {
+      "insight": "The average consumption of sugar significantly exceeds the liver's capacity to metabolize fructose, leading to metabolic derangement.",
+      "quote": "We are at 50 grams of fructose per day, 100 grams of sugar per day. We're supposed to be at 25, we are at 100, we are quadruple our limit.",
+      "importance": "high"
+    },
+    {
+      "insight": "The food industry adds sugar to 73% of processed foods in grocery stores to increase sales, often without consumers' awareness.",
+      "quote": "73% of all of the items in the entire grocery store...are spiked with added sugar by the food industry for its purposes, not for yours.",
+      "importance": "high"
+    },
+    {
+      "insight": "Diet sodas, despite having zero sugar, can still be harmful due to the insulin response triggered by the sweet taste and their impact on the microbiome.",
+      "quote": "The data now show that the toxicity of one sugared soda equals the toxicity of two diet sodas.",
+      "importance": "high"
+    },
+    {
+      "insight": "Insulin, while necessary, can contribute to macrovascular disease, heart disease, and cancer by promoting cell growth.",
+      "quote": "Insulin is a growth factor and it causes vascular smooth muscle growth like in your coronary arteries and it causes glandular growth. So it is one of the primary drivers of heart disease and cancer.",
+      "importance": "high"
+    },
+    {
+      "insight": "Non-nutritive sweeteners in diet sodas can disrupt the gut microbiome, leading to systemic inflammation and a range of health problems.",
+      "quote": "The other thing that we've learned about non-nutritive sweeteners across the board is that they alter the microbiome.",
+      "importance": "medium"
+    },
+    {
+      "insight": "The food industry engages in deceptive advertising, misbranding, and mislabeling, making it difficult for consumers to make informed choices.",
+      "quote": "70% of all of the items in the American grocery store are misbranded or mislabeled.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "health",
+    "habits",
+    "business",
+    "science",
+    "psychology",
+    "mindset"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Prioritize eating 'real food'",
+      "how_to": "Focus on foods that came directly from the ground or animals that ate food from the ground; minimize processed foods."
+    },
+    {
+      "advice": "Be wary of food labels, especially claims of 'healthy' or 'no added sugar'.",
+      "how_to": "Scrutinize ingredient lists, research unfamiliar ingredients, and be skeptical of marketing claims."
+    },
+    {
+      "advice": "Reduce consumption of sugary drinks.",
+      "how_to": "Find alternatives for sodas, fruit juices, and other beverages."
+    }
+  ],
+  "memorable_stories": [
+    "The story of the sugar industry paying Harvard scientists to exonerate sugar and blame saturated fat.",
+    "The example of raisin bran, where raisins are dipped in sugar solution, increasing the sugar content beyond what's apparent."
+  ],
+  "contrarian_claims": [
+    "That fructose is metabolized virtually identically to alcohol.",
+    "That diet sodas are not a healthy alternative to sugary sodas and can be equally or nearly as toxic.",
+    "Insulin can be a 'bad guy' in the context of metabolic health despite its essential role."
+  ],
+  "episode_id": "moment-212-the-dangerous-truth-behind-sugar-free",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Moment 212: The Dangerous Truth Behind “Sugar Free”!",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-212-the-dangerous-truth-behind-sugar-free",
+  "processed_at": "2026-03-19T21:09:28"
+}

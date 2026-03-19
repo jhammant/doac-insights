@@ -1,0 +1,86 @@
+{
+  "guest_name": "Johan Hari",
+  "expertise_area": "Social Science, Weight Loss Drugs, Addiction",
+  "key_insights": [
+    {
+      "insight": "GLP-1 agonists like Ozempic primarily affect the brain, not just the gut, influencing what people want and how they want it.",
+      "quote": "The cutting edge science and the leading neuroscientists that I interviewed now believe actually it primarily has an effect on your brain. It changes what you want and how you want it, which brings with it a huge parallel set of both benefits and risks.",
+      "importance": "high"
+    },
+    {
+      "insight": "Processed foods undermine our sense of satiety, disrupting the natural signals that tell us when we've had enough.",
+      "quote": "What we know is the kind of food we eat profoundly undermines our sense of satiety. It completely disrupts... We don't get that signal, you're full, you've had enough, stop from the kind of food we're eating.",
+      "importance": "high"
+    },
+    {
+      "insight": "Dieting, for the vast majority of people, is ineffective in the long term due to biological changes that raise the body's 'set point'.",
+      "quote": "After two years, the average person on a diet has lost two pounds in weight, right? So it's not nothing, but it's pretty close to nothing... As you gain weight, your body's set point rises, right?",
+      "importance": "high"
+    },
+    {
+      "insight": "Losing the ability to comfort eat can negatively affect mental well-being, and in some cases, may lead to addiction transfer or depression.",
+      "quote": "You take away comfort eating from people, right? … If you take away something that is a key way of soothing people…a lot of people just experience it as profoundly painful and distressing.",
+      "importance": "medium"
+    },
+    {
+      "insight": "The 'Cheesecake Park' experiment with rats showed that highly processed foods alter brain chemistry to prioritize junk food, even over natural foods that the rats evolved to eat, demonstrating the obesogenic nature of our food environment.",
+      "quote": "If you're exposed to this food for a while, Paul concluded the desire for it is so great that you will ignore all sorts of negative consequences to eat it.",
+      "importance": "high"
+    },
+    {
+      "insight": "The Metabo Law in Japan, while extreme, demonstrates the country's commitment to combatting obesity through mandated weight checks and diet plans in companies.",
+      "quote": "Every single company in Japan on a particular day every year has to weigh every single person who works there. And if their weight has gone up, they have to draw up a plan with their employer to bring their weight down.",
+      "importance": "medium"
+    },
+    {
+      "insight": "GLP-1 agonists may have a role in reducing addiction due to their effect on the brain's reward system.",
+      "quote": "These drugs appear to have what they call selectivity. So selectivity is where the drug makes you want less of the Big Mac, but not less of a salad.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "health",
+    "psychology",
+    "habits",
+    "science",
+    "money",
+    "relationships",
+    "mindset",
+    "business"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Prioritize healthy food choices from a young age.",
+      "how_to": "Implement school-based programs that educate children about nutrition, provide healthy meals, and limit access to processed foods, inspired by the Japanese Koenji school model."
+    },
+    {
+      "advice": "If considering GLP-1 agonists for weight loss, consult a physician trained in detecting eating disorders.",
+      "how_to": "Seek out a medical professional with expertise in eating disorders to ensure appropriate screening and support before and during treatment."
+    },
+    {
+      "advice": "If using GLP-1 agonists, focus on diet and exercise to minimize muscle mass loss.",
+      "how_to": "Incorporate resistance training into your fitness routine and ensure adequate protein intake to support muscle preservation during weight loss."
+    },
+    {
+      "advice": "If considering weight loss drugs, carefully weigh the benefits against the risks of long-term obesity.",
+      "how_to": "Thoroughly research the potential side effects and unknown unknowns, particularly if there's a family history of thyroid cancer or existing mental health concerns, and assess if the severity of obesity-related health risks justifies the medication's uncertainties."
+    }
+  ],
+  "memorable_stories": [
+    "The Hollywood party where everyone was gaunt from Ozempic.",
+    "The KFC experience with the Christmas card from the staff.",
+    "The rats in 'Cheesecake Park' obsessively eating junk food and shunning natural food.",
+    "102-year-old woman in Okinawa dancing, showcasing health and joy in old age.",
+    "The moving story of Rob Banghart and Paul Beautrineau helping the homeless in Las Vegas drainage tunnels."
+  ],
+  "contrarian_claims": [
+    "The pleasure derived from food is often not primarily from the taste but from the feeling of stuffing oneself, particularly for those who use eating as a coping mechanism.",
+    "For some individuals, taking Ozempic has the opposite effect to the common complaint; they are able to enjoy food more than before.",
+    "The most effective diet drug may be the one that boosts self-control across the board."
+  ],
+  "episode_id": "ozempic-expert-ozempic-increases-this-disease-by-a-factor-of-9-theyre-lying-to-you-about-ozempic-side-effects-what-its-doing-to-our-brains-johann-hari",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Ozempic Expert: Ozempic Increases This Disease By A Factor Of 9! They're Lying To You About Ozempic Side Effects & What It's Doing To Our Brains! - Johann Hari",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/ozempic-expert-ozempic-increases-this-disease-by-a-factor-of-9-theyre-lying-to-you-about-ozempic-side-effects-what-its-doing-to-our-brains-johann-hari",
+  "processed_at": "2026-03-19T21:30:19"
+}

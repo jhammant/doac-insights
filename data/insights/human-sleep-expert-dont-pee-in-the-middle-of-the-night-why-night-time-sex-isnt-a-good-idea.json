@@ -1,0 +1,106 @@
+{
+  "guest_name": "Michael Breus",
+  "expertise_area": "Sleep Psychology",
+  "key_insights": [
+    {
+      "insight": "The 'Napa Latte' can boost energy: take a 25-minute nap immediately after drinking a cup of black coffee with ice to cool it down.",
+      "quote": "Drink it as fast as you can and immediately take a 25-minute nap. The adenison that's built up in your brain will burn through while you're napping. Caffeine, since it's so close in molecular structure, can fit into that receptor site. It blocks any new adenicin, you're good for four hours, guaranteed.",
+      "importance": "high"
+    },
+    {
+      "insight": "Hydrating before caffeinating is crucial for energy as sleep is dehydrating and caffeine is a diuretic.",
+      "quote": "Most people don't know... but sleep in and of itself is a dehydrative event...caffeine is a diuretic, which means it makes you have to go pee. So when you're already lost a liter, now you add a couple of cups of caffeine, which makes you have to pee, you're going to turn into a raisin before this whole thing is through.",
+      "importance": "high"
+    },
+    {
+      "insight": "There's a perfect time to have coffee based on your chronotype, because your adrenal and cortisol levels are already high within the first 90 minutes of waking.",
+      "quote": "When you have a brain that's full of adrenaline and cortisol and you add caffeine to it, it's like adding weak tea to somebody who's taking cocaine.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Children should generally be allowed to follow their natural chronotype for bed and wake times; forcing an early rise for school can be detrimental.",
+      "quote": "If I'm honest with you, dude, like, most kids should not be waking up at the time they're waking up to go to school, right?",
+      "importance": "high"
+    },
+    {
+      "insight": "Waking up at the same time every day, regardless of bedtime, helps regulate the circadian rhythm.",
+      "quote": "If everybody woke up at the exact same time every single day, seven days,days a week, automatically, you would get tired at the right time and you would start going to sleep.",
+      "importance": "high"
+    },
+    {
+      "insight": "To improve sleep after drinking alcohol, have a glass of water after each alcoholic beverage and drink coconut water before bed to replenish lost nutrients.",
+      "quote": "Have your first glass of wine, then have a glass of water...stop everything by 7.30. You wait three hours, which would be 10.30, and then you can go to bed...have a little bit of coconut water. So coconut water is loaded with zinc, magnesium, and vitamin B, and those are some of the things that get pulled out of your system when you're drinking.",
+      "importance": "medium"
+    },
+    {
+      "insight": "If you wake up in the middle of the night, try to avoid going to the bathroom to keep your heart rate low, as a heart rate below 60 is crucial for entering a state of unconsciousness.",
+      "quote": "Remember, I told you the big metric was, in order to enter into a state of unconsciousness, you need a heart rate of 60 or below, right? What do you think happens to your heart weight? and you go from a lying position to a seated position to a standing position, you walk across the room. Your heart rate goes straight up.",
+      "importance": "medium"
+    },
+    {
+      "insight": "You can't force your brain to sleep; instead, use distraction techniques like 4-7-8 breathing or counting backwards to calm monkey mind and lower heart rate.",
+      "quote": "Dude, in the history of time, nobody has been able to force their brain to sleep...distracting the brain from the thing that's stressing you out,and it's lowering your heart rate,and then the natural sleep process comes in after it.",
+      "importance": "medium"
+    },
+    {
+      "insight": "You can potentially change nightmares by vividly writing down and re-writing a dream with a different, more positive ending, then reading it several times before bed.",
+      "quote": "If you want to change your dream, you write it all down, but that you change the ending...you're going to walk out onto the porch and you're going to pull out a gun and you're going to shoot the guy...you read this to yourself multiple times. And over seven to ten days, you change the ending of the dream.",
+      "importance": "medium"
+    },
+    {
+      "insight": "For some people, sleeping with the television is a perfectly acceptable distraction technique that doesn't affect their sleep.",
+      "quote": "But for her, it's a perfect distraction technique...just because some people can't sleep with the TV on doesn't mean that it's going to mess up your sleep forever to have the television on because it's not.",
+      "importance": "low"
+    }
+  ],
+  "topics": [
+    "health",
+    "psychology",
+    "relationships",
+    "habits",
+    "money",
+    "science",
+    "productivity",
+    "mindset",
+    "business",
+    "fitness"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Practice 4-7-8 breathing to fall asleep.",
+      "how_to": "Inhale for a count of 4, hold for 7, exhale for 8; repeat for 20 cycles."
+    },
+    {
+      "advice": "Hydrate with 15-20 ounces (3-4 cups) of water within 90 minutes of waking before having any caffeine.",
+      "how_to": "Set a timer and drink the water first before reaching for coffee or tea."
+    },
+    {
+      "advice": "Stop eating and drinking three hours before bed to improve sleep quality.",
+      "how_to": "Set an alarm to indicate the end of eating/drinking time and avoid fluids (especially alcohol) and snacks after this point."
+    },
+    {
+      "advice": "Create \"banana tea\" to boost magnesium intake.",
+      "how_to": "Cut up a banana (including the peel), simmer in hot water for 5 minutes, and drink the liquid before bed."
+    },
+    {
+      "advice": "If you wake up between 1-3am, try to lie on your back for 25 seconds to relieve bladder pressure before automatically urinating.",
+      "how_to": "Remain laying down in bed and wait to see if the need to urinate subsides"
+    }
+  ],
+  "memorable_stories": [
+    "Story of using time shifter app (developed for NASA) to mitigate jet lag and boost Lewis Hamilton's F1 performance",
+    "Anecdote about psychologist using dream interpretation to help woman deal with trauma from sexual assault by her stepfather",
+    "Personal story of the host finding their week ruined by a cookie consumed right before bed"
+  ],
+  "contrarian_claims": [
+    "The 8-hour sleep myth",
+    "Sleeping with a TV on is not always bad",
+    "Wake time is more important than bedtime for regulating circadian rhythm",
+    "Melatonin is largely overused and potentially harmful"
+  ],
+  "episode_id": "human-sleep-expert-dont-pee-in-the-middle-of-the-night-why-night-time-sex-isnt-a-good-idea",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Human Sleep Expert: Don't Pee In The Middle Of The Night & Why Night Time Sex Isn't A Good Idea!",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/human-sleep-expert-dont-pee-in-the-middle-of-the-night-why-night-time-sex-isnt-a-good-idea",
+  "processed_at": "2026-03-19T20:42:11"
+}

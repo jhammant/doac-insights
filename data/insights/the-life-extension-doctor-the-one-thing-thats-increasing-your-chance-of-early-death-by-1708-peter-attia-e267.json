@@ -1,0 +1,89 @@
+{
+  "guest_name": "Peter Attia",
+  "expertise_area": "Longevity Medicine",
+  "key_insights": [
+    {
+      "insight": "Emotional health is a crucial component of overall health and longevity; physical health alone is insufficient for a good life.",
+      "quote": "I think I would make the case today that if your emotional health is suffering, none of the others really matter that much.",
+      "importance": "high"
+    },
+    {
+      "insight": "Cardiovascular disease begins very early in life, even at birth, so preventive action should start sooner than people typically realize.",
+      "quote": "Well, that's an example of a disease process that begins right away at birth...it's starting on day one.",
+      "importance": "high"
+    },
+    {
+      "insight": "VO2 max is a strong predictor of all-cause mortality, highlighting the profound benefits of exercise and cardiorespiratory fitness.",
+      "quote": "If you compare the fittest two and a half percent to the least fit 25%, it's five, which means 400% difference in all-cause mortality.",
+      "importance": "high"
+    },
+    {
+      "insight": "Significant benefits can be realized by adding even a small amount of exercise to a sedentary lifestyle.",
+      "quote": "Going from zero activity to just 90 minutes a week is about a 15% reduction in all-cause mortality.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Strength and muscle mass are key to longevity, playing both structural and metabolic roles, including glucose regulation and preventing frailty.",
+      "quote": "High strength and high muscle mass produce a hazard ratio of about 3.5.",
+      "importance": "high"
+    },
+    {
+      "insight": "When considering risk regarding health, it is important to consider the lifetime view and not just a 10-year risk.",
+      "quote": "So my risk of doing nothing is probably much higher than my risk of doing something today.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Maladaptive behaviors often stem from childhood experiences, but understanding their origin is key to changing them.",
+      "quote": "I think what I realized is, and what I finally came to accept is, no, those are adaptations to something that you didn't deserve.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Focusing on 'eulogy virtues' as well as 'resume virtues' are critical to emotional well-being.",
+      "quote": "My entire life at that moment had been only predicated on bolstering my resume virtues. I had never spent a moment thinking about my eulogy virtues.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "health",
+    "psychology",
+    "habits",
+    "fitness",
+    "mindset",
+    "science",
+    "relationships"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Get a VO2 max test to assess your cardiorespiratory fitness and guide your exercise program.",
+      "how_to": "Find a clinic or sports performance center that offers VO2 max testing, typically performed on a treadmill or bike with a mask measuring oxygen consumption."
+    },
+    {
+      "advice": "Replace soda consumption with water and/or sparkling water",
+      "how_to": "Trade the sodas in your fridge for bottles of water or cans of sparkling water"
+    },
+    {
+      "advice": "Strengthen the intrinsic muscles of your feet by wearing minimalist shoes and doing foot exercises",
+      "how_to": "Gradually transition from traditional shoes to minimalist shoes like Vivo barefoot or Xero and perform exercises to improve foot arch support and dexterity."
+    },
+    {
+      "advice": "If you are struggling with unhelpful inner critic, you should talk into your phone with a replacement voice, and pretend you're talking to your closest friend",
+      "how_to": "Audibly record multiple times a day a positive message speaking with your close friend in a kind way."
+    }
+  ],
+  "memorable_stories": [
+    "Dr. Attia's experience at the funeral of his daughter's best friend's mother, which sparked a realization about resume vs. eulogy virtues.",
+    "The host's story about walking down the stairs in Bali and realizing his father probably couldn't do it and his revelation about what is health span",
+    "Dr. Attia's experience with inner critic that was solved in three months",
+    "Host's experience of putting on a lot of weight back on immediately after stopping keto",
+    "Dr. Attia's colleague's socratic question that caused a personal epiphany and caused him to start priortizing sleep"
+  ],
+  "contrarian_claims": [
+    "Consuming sugar in solid form has a less problematic negative impact on your health than in liquid form.",
+    "The benefits of modest alcohol consumption are questionable, and anyone thinking about not drinking should engage in that. There's no health benefit to be drinking."
+  ],
+  "episode_id": "the-life-extension-doctor-the-one-thing-thats-increasing-your-chance-of-early-death-by-1708-peter-attia-e267",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - The LIFE-EXTENSION Doctor: \"The ONE thing that's increasing your chance of early-death by 170.8%!\" Peter Attia (E267)",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/the-life-extension-doctor-the-one-thing-thats-increasing-your-chance-of-early-death-by-1708-peter-attia-e267",
+  "processed_at": "2026-03-19T21:46:41"
+}

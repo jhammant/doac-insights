@@ -1,0 +1,77 @@
+{
+  "guest_name": "James Smith",
+  "expertise_area": "Personal Development",
+  "key_insights": [
+    {
+      "insight": "Confidence, as culturally defined, is primarily based on evidence, subjective or objective, that individuals possess about themselves.",
+      "quote": "Confidence as we describe it in culture is really just, um, is based on the evidence you have in yourself.",
+      "importance": "high"
+    },
+    {
+      "insight": "Recognizing and confronting underlying pain points is crucial for lasting motivation, as superficial goals often fail to drive meaningful change.",
+      "quote": "The pain points are deep and people need to draw on those because the day that you're getting out of bed and you feel like shit and you're tired and you want to give up, I want to be toned isn't going to do it.",
+      "importance": "high"
+    },
+    {
+      "insight": "Inaction is still a choice with consequences, not a neutral void, and it's important to recognize the implications of choosing to do nothing.",
+      "quote": "Doing nothing is still doing something. And they also say, whatever you're not changing, you're choosing.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Framing anxiety as 'predicting failure' and confidence as 'predicting success' highlights the powerful impact of expectations on outcomes.",
+      "quote": "Anxiety is predicting failure and confidence is predicting success. And that is a really important thing to think about because our expectations massively influence the outcome of things.",
+      "importance": "high"
+    },
+    {
+      "insight": "Even without concrete evidence, a degree of overconfidence and the prediction of success can be crucial to overcome initial hurdles and achieve goals.",
+      "quote": "I must, in some sense, be overconfident and predict success. But if I'm wrong, that's fine. But what I can't do is just set every single default to being, this isn't going to work.",
+      "importance": "medium"
+    },
+    {
+      "insight": "The placebo effect demonstrates that belief, even when based on false information, can significantly influence outcomes.",
+      "quote": "Sham surgeries that were performed on people, they would be cut open. They would do nothing. They'd stitch them back up. And up to 50% of people reported feeling better. That's crazy.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Failure is not inherently negative but a crucial pathway to mastery and development, forming building blocks for future success.",
+      "quote": "Failure is put in such a negative light in society but failure is the most cases the pathway to development",
+      "importance": "high"
+    }
+  ],
+  "topics": [
+    "psychology",
+    "relationships",
+    "habits",
+    "business",
+    "mindset",
+    "health"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Identify and confront your deepest 'pain points' rather than focusing on superficial goals.",
+      "how_to": "Ask yourself 'why' repeatedly when setting a goal to uncover the true underlying motivations and fears driving your desires; these are the pain points."
+    },
+    {
+      "advice": "When facing a daunting situation, level up the pain points.",
+      "how_to": "Compare the discomfort of taking action versus the pain of remaining in the current situation. Prioritize addressing the greater discomfort."
+    },
+    {
+      "advice": "Change your internal narrative to shift expectations toward optimism.",
+      "how_to": "Reframe negative 'what if' scenarios to focus on potential positive outcomes, even if the likelihood is uncertain."
+    }
+  ],
+  "memorable_stories": [
+    "The gym client example illustrates the difference between superficial and deeply felt pain points as drivers for change.",
+    "The experiment with the fitness test where participants performed better when falsely told they had a genetic advantage demonstrates the power of belief.",
+    "The anecdote about drinking on dates for the first 25 years of life to cope with the anxiety of meeting strangers highlights the importance of shifting one's narrative."
+  ],
+  "contrarian_claims": [
+    "Traditional 'fake it till you make it' advice is flawed because it doesn't address the underlying evidence needed for genuine confidence.",
+    "Manifestation, the act of simply thinking about success, is considered a dangerous approach, compared to the more impactful placebo effect where belief is unknowingly influenced."
+  ],
+  "episode_id": "moment-86-how-to-turn-your-fear-into-fuel-james-smith",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Moment 86 - How To Turn Your Fear Into Fuel: James Smith",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-86-how-to-turn-your-fear-into-fuel-james-smith",
+  "processed_at": "2026-03-19T21:18:27"
+}

@@ -1,0 +1,77 @@
+{
+  "guest_name": "Not provided",
+  "expertise_area": "Circadian Biology",
+  "key_insights": [
+    {
+      "insight": "Circadian disruption significantly impacts health, increasing risks for cancer, metabolic disease, cardiovascular issues, and mental health disorders.",
+      "quote": "There isn't a disease or disorder that circadian disruption doesn't touch.",
+      "importance": "high"
+    },
+    {
+      "insight": "Sleep regularity, defined by consistent bed and wake times, is a stronger predictor of mortality than sleep duration.",
+      "quote": "It is the degree to which you stabilize when you go to bed and when you wake up that predicts mortality.",
+      "importance": "high"
+    },
+    {
+      "insight": "Exposure to light between 10 p.m. and 4 a.m. can have a pro-depressive effect by impacting the dopamine system.",
+      "quote": "If you're viewing light between the hours of, again, this is kind of this magic window of time, 10 p.m. and 4 a.m., it actually has a pro-depressive effect.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Melatonin suppression due to unstable sleep-wake times is linked to a higher vulnerability to diseases and disorders.",
+      "quote": "When we have suppressed or reduced circulating melatonin, that is going to impact us on every level and make us more vulnerable to disease and disorders.",
+      "importance": "high"
+    },
+    {
+      "insight": "Viewing natural light within 5-20 minutes of waking helps to signal the body that it's time to be awake.",
+      "quote": "For sure that you want to get light within, you know, 100,000 lux is pretty much what you want to get within, you know, five to 20 minutes of waking up to tell your body, like, it's time to go.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Blue light exposure after sunset interferes with melatonin release and circadian rhythm.",
+      "quote": "After the sun goes down, we have not adapted to blue light.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Human growth hormone is released during sleep and is crucial for physical restoration, making regular sleep patterns essential for recovery.",
+      "quote": "That's when all the physical restoration happens. So all the regeneration physically.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "health",
+    "psychology",
+    "habits",
+    "science",
+    "mindset"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Establish a regular sleep-wake schedule, going to bed and waking up at the same time each day, even on weekends.",
+      "how_to": "Choose a consistent bedtime and wake-up time and stick to it, adjusting your schedule gradually if needed."
+    },
+    {
+      "advice": "Minimize exposure to artificial light, especially blue light from screens, in the evening.",
+      "how_to": "Dim the lights in your home after sunset, use blue light blocking glasses, and avoid using electronic devices for at least an hour before bed. Activate night mode on devices."
+    },
+    {
+      "advice": "Expose yourself to natural light within 5-20 minutes of waking up.",
+      "how_to": "Go outside shortly after waking or sit near a window to get exposure to natural sunlight. If waking up before sunrise, use bright artificial lights to mimic daylight."
+    },
+    {
+      "advice": "Align your habits with your personal values to create lasting change.",
+      "how_to": "Identify your core values and then consider how your daily routines and behaviors either support or detract from these values. Make adjustments as needed."
+    }
+  ],
+  "memorable_stories": [
+    "The host mentioned his partner gets up early to sit on the balcony for 10-20 minutes, getting light exposure, which he finds annoying because she gets everything right."
+  ],
+  "contrarian_claims": [
+    "Conventional wisdom says it's all about how many hours you spend sleeping but sleep regularity predicts all-cause mortality."
+  ],
+  "episode_id": "moment-168-stop-doing-this-its-killing-your-sleep-the-fitness-scientist",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Moment 168: STOP Doing THIS! It's Killing Your Sleep!: The Fitness Scientist",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-168-stop-doing-this-its-killing-your-sleep-the-fitness-scientist",
+  "processed_at": "2026-03-19T21:02:30"
+}

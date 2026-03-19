@@ -1,0 +1,103 @@
+{
+  "guest_name": "Arianna Huffington",
+  "expertise_area": "Business Leadership & Well-being",
+  "key_insights": [
+    {
+      "insight": "Overcoming the fear of rejection and failure is crucial for taking bold moves in life and business.",
+      "quote": "When you overcome that fear of rejection, that fear of failure, we are much more likely to take bold moves.",
+      "importance": "high"
+    },
+    {
+      "insight": "Burnout is unnecessary suffering and stems from the delusion that one must sacrifice well-being for success.",
+      "quote": "It was unnecessary suffering that we didn't need to buy into this collective delusion in order to succeed.",
+      "importance": "high"
+    },
+    {
+      "insight": "Prioritizing sleep and well-being enhances decision-making and overall performance.",
+      "quote": "I'm judged by the quality of my decisions, not the quantity of my decisions.",
+      "importance": "high"
+    },
+    {
+      "insight": "Forgiveness has tangible benefits for physical and mental health, and a culture that embraces forgiveness is essential.",
+      "quote": "When we forgive, our stress levels go down. Can you believe our cholesterol levels go down?",
+      "importance": "medium"
+    },
+    {
+      "insight": "Micro-steps are a powerful tool for behavior change, creating a sense of success and avoiding the shame associated with abandoned resolutions.",
+      "quote": "The alternative is what we're doing, which is micro steps, too small to fail.",
+      "importance": "high"
+    },
+    {
+      "insight": "It's important to feel bad when bad things happen instead of using \"spiritual bypass\" to avoid the natural emotion.",
+      "quote": "Something bad happens, something upsetting happens, experience it, feel it. Don't do what I call a spiritual bypass.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Hiring the wrong person can ruin a great culture. If you have any inkling that something is wrong with a hire, listen to your intuition.",
+      "quote": "It's so much more important not to hire the wrong person than to miss someone.",
+      "importance": "medium"
+    },
+    {
+      "insight": "When building a business, it is important to build in time for reflection and joy.",
+      "quote": "It isn't just about achieving. It's about joy while you're achieving.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Technology can be a powerful tool for hyper-personalization when it comes to democratizing access to health.",
+      "quote": "We now have the opportunity to use what AI makes possible, which above all, in terms of health, is hyper-personalization.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "business",
+    "health",
+    "psychology",
+    "relationships",
+    "habits",
+    "leadership",
+    "technology",
+    "mindset"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Prioritize sleep by aiming for eight hours each night.",
+      "how_to": "Make sleep a non-negotiable part of your daily routine, even when busy."
+    },
+    {
+      "advice": "Implement \"Thrive Time\" after periods of intense work.",
+      "how_to": "Schedule time for rest and recharge after delivering a product or meeting a deadline."
+    },
+    {
+      "advice": "Start with micro-steps for behavior change.",
+      "how_to": "Instead of aiming for large, unsustainable changes, break down goals into small, manageable actions."
+    },
+    {
+      "advice": "Delegate effectively in business.",
+      "how_to": "Recognize that others don't need to perform tasks perfectly to free you up for higher-level responsibilities."
+    },
+    {
+      "advice": "Implement entry interviews on the first day of a new employee's job.",
+      "how_to": "Have managers ask new employees what is important to them outside of work and how the company can support them."
+    },
+    {
+      "advice": "Create and use a personalized 60-second reset.",
+      "how_to": "Compile pictures, music, and quotes into a short video to quickly move from the sympathetic to parasympathetic nervous system."
+    }
+  ],
+  "memorable_stories": [
+    "Arianna's collapse from sleep deprivation leading to a burnout diagnosis.",
+    "Her mother's response of planning a celebration, including opening red wine, on her deathbed.",
+    "Getting an overdraft from a bank manager who gave her the loan despite her lack of assets."
+  ],
+  "contrarian_claims": [
+    "You can have it all, but maybe not at the same time.",
+    "Traditional models of success that require burnout don't work, especially for women.",
+    "Downtime is a feature, not a bug, for the human operating system.",
+    "She changed her mind about the threat of technological advancement, now believing in technology's potential for good."
+  ],
+  "episode_id": "arianna-huffington-i-was-lying-in-a-little-pool-of-blood-the-huffington-post-a-1-billion-flop",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Arianna Huffington: I Was Lying In A Little Pool Of Blood! The Huffington Post, A $1 Billion 'Flop'!",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/arianna-huffington-i-was-lying-in-a-little-pool-of-blood-the-huffington-post-a-1-billion-flop",
+  "processed_at": "2026-03-19T20:15:06"
+}

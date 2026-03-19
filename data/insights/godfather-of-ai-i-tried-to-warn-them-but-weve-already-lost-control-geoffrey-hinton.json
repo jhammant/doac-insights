@@ -1,0 +1,93 @@
+{
+  "guest_name": "Geoffrey Hinton",
+  "expertise_area": "Artificial Intelligence",
+  "key_insights": [
+    {
+      "insight": "AI, due to its digital nature, can share information and learn at a rate billions of times faster than humans, making it superior in many ways.",
+      "quote": "These things are transferring trillions of bits a second. So they're billions of times better than us at sharing information.",
+      "importance": "high"
+    },
+    {
+      "insight": "The drive for profit maximization within a capitalist system is a key factor accelerating AI development without sufficient regard for safety.",
+      "quote": "These big companies, they're legally required to maximize profits. And that's not what you want from the people developing this stuff.",
+      "importance": "high"
+    },
+    {
+      "insight": "Regulations are crucial to constrain big companies involved in AI development and ensure they prioritize social utility over profit.",
+      "quote": "What you need to do is just constrain the big companies so that in order to make profit, they have to do things that are socially useful.",
+      "importance": "high"
+    },
+    {
+      "insight": "AI poses an existential threat, because we've never had to deal with something smarter than us, and anyone who claims to know how to handle it is likely wrong.",
+      "quote": "So really, the thing about that existential threat is that we have no idea how to deal with it. We have no idea what it's going to look like. And anybody who tells you they know just what's going to happen and how to deal with it, they're talking nonsense.",
+      "importance": "high"
+    },
+    {
+      "insight": "AIs can be creative because they're going to see all sorts of analogies that people have never seen, and a lot of creativity is about seeing strange analogies.",
+      "quote": "That's why I also think that people say these things don't have to be creative. They're going to be much more creative than us because they're going to see all sorts of analogies that people have never seen.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Job displacement due to AI is happening now, not in the distant future, and will cause a huge displacement.",
+      "quote": "I think it's beginning to happen already...[a CEO] halved his workforce because AI agents can now handle 80% of the customer service inquiries and other things.",
+      "importance": "high"
+    },
+    {
+      "insight": "Governments are willing to regulate companies and people, but they're not willing to regulate themselves regarding AI.",
+      "quote": "So governments are willing to regulate companies and people, but they're not willing to regulate themselves.",
+      "importance": "medium"
+    },
+    {
+      "insight": "The algorithms on social media platforms are designed to confirm existing biases and drive further division.",
+      "quote": "So you're getting your biases confirmed all the time. Further and further and further and further, which means you're driving away from people.",
+      "importance": "medium"
+    },
+    {
+      "insight": "AI is already better than humans at a lot of things.",
+      "quote": "AI is already better than us at a lot of things.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "technology",
+    "business",
+    "science",
+    "psychology",
+    "money",
+    "mindset",
+    "leadership"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Consider a career in a skilled trade like plumbing.",
+      "how_to": "Enroll in a trade school or apprenticeship program to learn the necessary skills."
+    },
+    {
+      "advice": "Spread your savings across multiple safe banks.",
+      "how_to": "Open accounts at several well-regulated financial institutions to mitigate the risk of a cyberattack affecting all your assets."
+    },
+    {
+      "advice": "Back up your computer on a physical hard drive.",
+      "how_to": "Purchase a portable hard drive and regularly copy all important files from your laptop to the drive."
+    },
+    {
+      "advice": "Pressure your government to force big companies to work on AI safety.",
+      "how_to": "Contact your elected officials, sign petitions, and support organizations advocating for AI safety regulations."
+    }
+  ],
+  "memorable_stories": [
+    "Hinton describes asking GPT-4 why a compost heap is like an atom bomb.",
+    "A story of a CEO, using AI agents, reducing his workforce by half",
+    "Hinton shares a story about his son's learning difficulties and his decision to join Google."
+  ],
+  "contrarian_claims": [
+    "Current multimodal chatbots possess subjective experiences.",
+    "Universal Basic Income might not be enough because people need purpose and dignity tied to their jobs.",
+    "The idea that humans can prevent a superintelligence from eliminating them if the AI wants to is likely incorrect. The focus should be on preventing the AI from wanting to."
+  ],
+  "episode_id": "godfather-of-ai-i-tried-to-warn-them-but-weve-already-lost-control-geoffrey-hinton",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Godfather of AI: I Tried to Warn Them, But We’ve Already Lost Control! Geoffrey Hinton",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/godfather-of-ai-i-tried-to-warn-them-but-weve-already-lost-control-geoffrey-hinton",
+  "processed_at": "2026-03-19T20:38:30"
+}

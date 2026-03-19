@@ -1,0 +1,87 @@
+{
+  "guest_name": "Morgan Housel",
+  "expertise_area": "Behavioral Finance",
+  "key_insights": [
+    {
+      "insight": "Wealth is not about spending money but about the independence and autonomy gained from not spending it.",
+      "quote": "Wealth is money that you did not spend and maybe you will not spend. So wealth is hidden.",
+      "importance": "high"
+    },
+    {
+      "insight": "Financial independence allows you to control your time, leading to greater happiness and health.",
+      "quote": "Every bit of savings that you have is a piece of your future that you own. You're just buying your time in the future so that it's yours and you can do whatever you want with it.",
+      "importance": "high"
+    },
+    {
+      "insight": "The hardest financial skill is getting the goalposts to stop moving, as expectations tend to rise with income, preventing lasting happiness.",
+      "quote": "The hardest financial skill is getting the goalposts to stop moving. It's the hardest thing in the world.",
+      "importance": "high"
+    },
+    {
+      "insight": "Managing your expectations is more within your control than raising your income or investment returns, making it a key to happiness.",
+      "quote": "Managing your own expectations is more in your control than managing your circumstances in terms of raising your income, raising your investing returns.",
+      "importance": "high"
+    },
+    {
+      "insight": "The most valuable financial skill is not needing to impress other people, as the desire to show off is a significant financial burden.",
+      "quote": "The most valuable financial skill that anybody can have is not needing to impress other people. If you don't need to impress other people, that is an asset on your balance sheet that is worth a billion dollars.",
+      "importance": "high"
+    },
+    {
+      "insight": "Successful investing is about maximizing endurance – earning average returns for an above-average period of time.",
+      "quote": "If I can just earn average returns for an above average period of time, it's going to lead to amount of success that will literally put you in the top 5% of investors.",
+      "importance": "high"
+    },
+    {
+      "insight": "It's important to invest in preparedness (cash, liquidity, low debt) rather than trying to predict the future, which is unknowable.",
+      "quote": "Invest in preparedness, not in prediction.",
+      "importance": "high"
+    },
+    {
+      "insight": "Opportunities to deploy capital effectively are rare, and you should be prepared to wait for them with a large cash position.",
+      "quote": "Berkshire Hathaway's entire 60 year history is build up a shitload of cash, wait 10 years for an opportunity, deploy it all, and then go back to waiting and building up cash.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "business",
+    "psychology",
+    "money",
+    "habits",
+    "relationships",
+    "mindset",
+    "health"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Practice dollar-cost averaging by investing a fixed amount in index funds every month, regardless of market conditions.",
+      "how_to": "Open a brokerage account (e.g., Robinhood) and set up automatic monthly investments into low-cost index funds that track the overall market.  Maintain this schedule consistently over the long term."
+    },
+    {
+      "advice": "Refrain from making financial decisions to impress others",
+      "how_to": "Whenever you're considering buying something expensive ask yourself 'Am I buying this because I truly need it, or to show off?' Focus on aligning your purchases with your core values."
+    },
+    {
+      "advice": "Build a significant cash buffer in your finances to prepare for unforeseen events.",
+      "how_to": "Aim to have enough cash on hand to cover several months of expenses and any potential financial shocks. This 'too much' cash should make you 'wince a little bit'."
+    }
+  ],
+  "memorable_stories": [
+    "Story of Ronald Reed, the janitor who amassed $8 million through patient investing.",
+    "Story of Morgan Housel's father, the ER doctor, who retired early due to frugality.",
+    "Story of Stephen Hawking, who found happiness by lowering expectations.",
+    "Story about friends death during ski trip and it's effect on risk.",
+    "Anecdote of Stephen Colbert and his gratitude of hardship."
+  ],
+  "contrarian_claims": [
+    "It's better to take the weird job than the safe corporate job when you're young.",
+    "Buying a house is often a bad financial decision.",
+    "Financial success is more nature than nurture.",
+    "Having cash that feels like it's too much isn't wasteful, it's crucial for handling risks you can't foresee."
+  ],
+  "episode_id": "the-savings-expert-do-not-buy-a-house-how-to-turn-ps100-into-ps15m-without-effort-morgan-housel",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - The Savings Expert: “Do Not Buy A House!”, How To Turn £100 Into £1.5m Without Effort: Morgan Housel",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/the-savings-expert-do-not-buy-a-house-how-to-turn-ps100-into-ps15m-without-effort-morgan-housel",
+  "processed_at": "2026-03-19T21:53:42"
+}

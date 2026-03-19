@@ -1,0 +1,88 @@
+{
+  "guest_name": "Kristen Holmes",
+  "expertise_area": "Performance Science",
+  "key_insights": [
+    {
+      "insight": "Consistent sleep-wake timing is more crucial for longevity than sleep duration.",
+      "quote": "It is the degree to which you stabilize when you go to bed and when you wake up that predicts mortality.",
+      "importance": "high"
+    },
+    {
+      "insight": "Circadian disruption, even from being awake a few hours late a couple of times a week, significantly elevates the risk of various diseases.",
+      "quote": "If you're awake for two hours between 10 p.m. and 4 a.m. for two days per week for 25 days of the year, you qualify as a kind of card carrying shift worker and you likely have significant circadian disruption.",
+      "importance": "high"
+    },
+    {
+      "insight": "Consolidating your eating window, regardless of food quality, significantly improves metabolic health.",
+      "quote": "If we can just consolidate our eating window to eight to 10 hours, we get ourselves like 60% of the way to our kind of metabolic goals.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Viewing light between 10 p.m. and 4 a.m. has a pro-depressive effect.",
+      "quote": "If you're viewing light between the hours of, again, this is kind of this magic window of time, 10 p.m. and 4 a.m., it actually has a pro-depressive effect.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Sleep debt in leaders negatively impacts the psychological safety of their team.",
+      "quote": "For every 45 minutes of sleep that the leader had, there was a significant decrease in psychological safety of the direct reports.",
+      "importance": "high"
+    },
+    {
+      "insight": "Social jet lag increases non-suicidal ideation, especially in vulnerable individuals.",
+      "quote": "For every hour of variability between week, day, and weekend schedules, they saw a 17% increase in non-suicidal ideation.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Sex with a partner, but not masturbation, before bed is linked to better sleep and recovery markers.",
+      "quote": "People who are reporting that they're having sex before bed...with a partner have better markers of sleep and recovery... We don't see the same effect when folks are having sex without a partner and reporting it.",
+      "importance": "low"
+    },
+    {
+      "insight": "High heart rate variability is correlated with better adaptation to environmental stress, and is modifiable to a degree.",
+      "quote": "Heart variability is kind of a measure of that ability to adapt to your environment in a functional way.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "health",
+    "psychology",
+    "habits",
+    "productivity",
+    "mindset",
+    "science",
+    "relationships",
+    "fitness"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Stabilize sleep-wake time by waking up at the same time every day and getting as much light as possible in the morning.",
+      "how_to": "Set a consistent alarm, even on weekends. Spend 5-20 minutes outdoors in natural light upon waking. If waking before sunrise, use bright artificial lights to mimic daylight."
+    },
+    {
+      "advice": "Consolidate your eating window to within 10 hours and avoid eating 2-3 hours before sleep.",
+      "how_to": "Choose a 10-hour window for eating (e.g., 7 a.m. to 5 p.m.) and stick to it. Avoid snacking or meals after your designated eating window closes."
+    },
+    {
+      "advice": "Deploy \"mini moments of deactivation\" throughout the day using the physiological sigh.",
+      "how_to": "Practice the double inhale followed by an extended exhale (physiological sigh) 5-10 times throughout the day, especially during stressful moments, to activate the parasympathetic nervous system."
+    },
+    {
+      "advice": "Dim your home environment and minimize artificial light exposure after sunset.",
+      "how_to": "Use dimmer switches, turn off unnecessary lights, and use blue light blocking glasses and filters on screens in the evening."
+    }
+  ],
+  "memorable_stories": [
+    "Kristen's personal story of growing up with a mother struggling with alcoholism and how it has fueled her passion for human flourishing and enabling people to reach their full potential.",
+    "Kristen's anecdotal experience with collegiate athletes, where regular sleep-wake times correlated with academic performance. ",
+    "Whoop's research demonstrating sleep debt correlation with a direct report's feeling of psychological safety during team meetings."
+  ],
+  "contrarian_claims": [
+    "The concept of chronotypes (being a 'night owl' or 'morning person') is largely 'total BS', and that most people can adjust their sleep-wake times.",
+    "Sleep regularity is more predictive of all-cause mortality than sleep duration, challenging the conventional focus solely on getting enough hours of sleep."
+  ],
+  "episode_id": "the-fitness-scientist-even-a-little-alcohol-is-hurting-your-health-late-night-screen-time-linked-to-cancer-working-shifts-kills-you-15-years-early-kristen-holmes",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - The Fitness Scientist: \"Even A Little Alcohol Is Hurting Your Health!\", \"Late Night Screen Time Linked To Cancer!\", \"Working Shifts Kills You 15 Years Early!\" - Kristen Holmes",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/the-fitness-scientist-even-a-little-alcohol-is-hurting-your-health-late-night-screen-time-linked-to-cancer-working-shifts-kills-you-15-years-early-kristen-holmes",
+  "processed_at": "2026-03-19T21:43:52"
+}

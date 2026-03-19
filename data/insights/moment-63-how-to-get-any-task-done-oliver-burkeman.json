@@ -1,0 +1,57 @@
+{
+  "guest_name": "Unknown",
+  "expertise_area": "Productivity",
+  "key_insights": [
+    {
+      "insight": "Radical incrementalism, or making consistent, small steps, is a powerful approach for long-term success.",
+      "quote": "This is the idea that there are contexts where really being willing to make progress on the basis of little and often, right? Kind of gradual progress to do a tiny bit at a time and not kind of binging on the things you're trying to achieve can be really powerful.",
+      "importance": "high"
+    },
+    {
+      "insight": "Breaking down large tasks into smaller, manageable chunks can combat procrastination and paralysis.",
+      "quote": "He found that the the really productive people in that sphere were the ones who made writing a um a modest part of their daily life right it occupied like a couple of hours maybe as opposed to the ones who made it into this huge thing that then became very intimidating",
+      "importance": "high"
+    },
+    {
+      "insight": "Stopping work even when 'on a roll' can make tasks more sustainable by preventing burnout.",
+      "quote": "There's often a huge benefit in being willing to say well i'm going to work on this for a tiny amount of time today and i'm going to stop even if i'm on a roll right when my time is up i'm going to stop and then i'm going to come back it makes it something that you can sustain day after day after days",
+      "importance": "high"
+    },
+    {
+      "insight": "Consistent, short work periods can be more productive than infrequent, long work sessions.",
+      "quote": "I've found that you know if i'm working on a book say really sort of almost embarrassingly small work days on it regularly done day after day after day so much more productive like in terms of the actual output",
+      "importance": "high"
+    },
+    {
+      "insight": "While deadlines are helpful in some situations, they are not always sustainable for long-term projects.",
+      "quote": "But in a way, I'm sort of training myself out of that now, and I think that it's perfectly okay and it's fine, but it isn't sustainable.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "productivity",
+    "habits",
+    "psychology"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Set a timer for a short work period, even if it's just 30 minutes, and focus solely on the task.",
+      "how_to": "Choose a specific task, eliminate distractions, set a timer, and stop working when the timer goes off, even if you're in the middle of something."
+    },
+    {
+      "advice": "Break down a large project into smaller, more manageable tasks.",
+      "how_to": "Create a list of all the steps required to complete the project, then break each step down into even smaller, actionable tasks."
+    }
+  ],
+  "memorable_stories": [
+    "The speaker discusses writing articles for The Guardian with extremely tight deadlines, forcing them to overcome perfectionism."
+  ],
+  "contrarian_claims": [
+    "Relying on dogged persistence over deadlines is more sustainable for long-term projects."
+  ],
+  "episode_id": "moment-63-how-to-get-any-task-done-oliver-burkeman",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Moment 63 - How To Get Any Task Done: Oliver Burkeman",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-63-how-to-get-any-task-done-oliver-burkeman",
+  "processed_at": "2026-03-19T21:15:03"
+}

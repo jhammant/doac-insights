@@ -1,0 +1,94 @@
+{
+  "guest_name": "Victoria Sampson",
+  "expertise_area": "Dentistry and Oral Microbiome",
+  "key_insights": [
+    {
+      "insight": "The oral microbiome is the second largest and most diverse after the gut, and imbalances can increase the risk of systemic diseases.",
+      "quote": "But what a lot of people don't understand is that the oral microbiome is the second largest and most diverse microbiome after the gut.",
+      "importance": "high"
+    },
+    {
+      "insight": "Gum disease is linked to a significantly higher risk of erectile dysfunction in men.",
+      "quote": "Men who have periodontal disease are 2.85 times more likely to suffer from erectile dysfunction.",
+      "importance": "high"
+    },
+    {
+      "insight": "Specific oral bacteria like Fusobacterium nucleatum have been found in breast tissue of women with breast cancer and can make cancer more aggressive.",
+      "quote": "What they found was that in women who had breast cancer, they had high levels of certain oral bacteria in their breast microbiome. So the oral bacteria is called fusobacterium nucleotum.",
+      "importance": "high"
+    },
+    {
+      "insight": "Having gum disease for over 10 years increases the chances of developing Alzheimer's disease by 70%.",
+      "quote": "A lot of research has shown that if you have gum disease for more than 10 years, you have a 70% increased chance of developing Alzheimer's.",
+      "importance": "high"
+    },
+    {
+      "insight": "Specific oral bacteria, P. gingivalis, releases toxic enzymes that can cross the blood-brain barrier and break down brain tissue in Alzheimer's sufferers.",
+      "quote": "This P. gingivalis is able to travel from your mouth to your brain...and it releases these toxic enzymes. So these enzymes are called gingipanes, and they can break down neurons, they can break downa lot of brain tissue.",
+      "importance": "high"
+    },
+    {
+      "insight": "Mechanical disruption of oral bacteria through brushing and professional cleaning is crucial, as the teeth are non-shedding surfaces.",
+      "quote": "In the mouth, so the teeth are the onlynon-shedding surfaces in the whole body... So that's why actually the oral microbiome you need to mechanically remove that bacteria.",
+      "importance": "high"
+    },
+    {
+      "insight": "The acidic pH from constant sugar consumption in tea can cause more problems than eating a biscuit in one go, due to the extended exposure.",
+      "quote": "So actually, sugar in your tea is even worsethan you having a biscuit, for example. So because the sugar dissolves in your hot tea and the tea is hot, when you drink it,it can actually cause more problems.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Chewing sugar-free gum can reduce the risk of preterm birth by stimulating saliva and killing bacteria that can travel to the placenta.",
+      "quote": "They found that there was a 20% improvement,or 20% reduction in preterm birthin the woman who'd had the sugar-free chewing gumcompared to the woman who hadn't had it.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "health",
+    "psychology",
+    "relationships",
+    "habits",
+    "science",
+    "fitness",
+    "mindset",
+    "business"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Wait 30 minutes to brush your teeth after consuming sugary or acidic foods.",
+      "how_to": "Chew sugar-free gum or use mints to neutralize saliva in the meantime, preventing damage from brushing the acids into your teeth."
+    },
+    {
+      "advice": "Use an electric toothbrush with a pressure sensor, brushing at a 30-degree angle to the gums.",
+      "how_to": "Ensure you brush for a full two minutes, and focus on the insides of the very back bottom teeth near the tongue, using a systematic approach."
+    },
+    {
+      "advice": "Switch to a toothpaste without sodium lauryl sulfate (SLS).",
+      "how_to": "Check the ingredients list of your current toothpaste and opt for a brand that omits SLS, to avoid stripping the inner lining of your mouth."
+    },
+    {
+      "advice": "Avoid mouthwash unless prescribed or for occasional use.",
+      "how_to": "Regularly using mouthwash can kill both good and bad bacteria, disrupting the oral microbiome's balance. If used, avoid mouthwashes with alcohol."
+    },
+    {
+      "advice": "If consuming sugary drinks, use a straw.",
+      "how_to": "By using a straw, sugary and acidic drinks bypass the teeth, reducing the chance of decay and staining."
+    }
+  ],
+  "memorable_stories": [
+    "A patient with rheumatoid arthritis regaining the ability to walk after her gum disease was treated.",
+    "A seven-year-old patient refusing to swallow saliva due to concerns about bacteria in their mouth.",
+    "A patient contracting dog-specific bacteria and experiencing bad breath due to kissing her pets.",
+    "A woman getting gingivitis due to bacteria transferred during oral sex, traced back to her partner's recurrent urinary infections."
+  ],
+  "contrarian_claims": [
+    "Sugar in hot tea can be worse than eating a biscuit due to prolonged acidity.",
+    "Mouthwash should only be used when prescribed or if you just ate garlic and want a date",
+    "One big sweet treat is better than slowly snacking on sweets."
+  ],
+  "episode_id": "the-saliva-queen-new-research-linking-bleeding-gums-breast-cancer-your-oral-microbiome-can-kill-you-if-you-cant-get-it-up-brush-your-teeth",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - The Saliva Queen: New Research Linking Bleeding Gums & Breast Cancer! Your Oral Microbiome Can Kill You! If You Can't Get It Up, Brush Your Teeth!",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/the-saliva-queen-new-research-linking-bleeding-gums-breast-cancer-your-oral-microbiome-can-kill-you-if-you-cant-get-it-up-brush-your-teeth",
+  "processed_at": "2026-03-19T21:53:27"
+}

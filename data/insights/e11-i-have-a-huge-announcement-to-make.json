@@ -1,0 +1,84 @@
+{
+  "guest_name": "Steve Bartlett",
+  "expertise_area": "Business Strategy",
+  "key_insights": [
+    {
+      "insight": "A business's personality is crucial for standing out in a saturated market.",
+      "quote": "If you're operating in a saturated industry, a pub full of people, and you're just stood in the corner sipping your drink, no one's ever going to know you're there. You're never going to break out.",
+      "importance": "high"
+    },
+    {
+      "insight": "Personal organization has a compounding effect and is critical for effectiveness.",
+      "quote": "Benjamin Franklin said, which I'll always remember, for every minute spent organising, an hour is earned.",
+      "importance": "high"
+    },
+    {
+      "insight": "Drive and persistence are necessary for success, but natural ability and talent determine the length of the journey.",
+      "quote": "If you really, really want it, naturally, that creates drive and the drive will be there. And then if you have the drive, it comes down to you having the persistence...However, your natural ability...will determine how long your assault course is.",
+      "importance": "high"
+    },
+    {
+      "insight": "Caution, pessimism, and realism can hinder fulfillment and limit potential.",
+      "quote": "The risk is going through this life with caution. There is nothing, nothing that is going to deliveryou more guaranteed regret than being cautious.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Your reaction to circumstances, not the circumstances themselves, defines your outcome.",
+      "quote": "Your reaction is your result, not the circumstance.",
+      "importance": "high"
+    },
+    {
+      "insight": "To achieve personal goals, one must prioritize their own path, even if it means diverging from societal norms.",
+      "quote": "In order to become someone you have to stop being everybody.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Making decisions based on deathbed thinking helps prioritize living a life true to oneself.",
+      "quote": "Stop making your decisions based on other people's opinions and start making your decisions now from your deathbed.",
+      "importance": "high"
+    }
+  ],
+  "topics": [
+    "business",
+    "habits",
+    "productivity",
+    "mindset",
+    "relationships",
+    "psychology"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Showcase your business's unique personality through creative actions.",
+      "how_to": "Take a portion of a client budget and donate it to charity, then create a campaign about it that highlights the company's values."
+    },
+    {
+      "advice": "Start your day by making your bed to improve organization and create a positive routine.",
+      "how_to": "Immediately upon waking up, make your bed neatly. This can trigger a chain reaction of other positive habits."
+    },
+    {
+      "advice": "Identify and remove pessimistic individuals from your life.",
+      "how_to": "Recognize people who consistently focus on the negative and limit your interactions with them."
+    },
+    {
+      "advice": "Actively challenge realistic limitations and pursue unrealistic goals.",
+      "how_to": "Set goals that seem unattainable and commit to pursuing them, embracing an unrealistic mindset."
+    }
+  ],
+  "memorable_stories": [
+    "The story of Social Chain being the person dancing on the table in the pub, representing their industry disruption.",
+    "The anecdote about Drake giving away a million-pound budget and filming it.",
+    "The description of the messy duffel bag symbolizing a lack of personal organization.",
+    "The story of a young entrepreneur with unrealistic ambitions lacking the necessary skills.",
+    "Steve's strained relationship with his mother when dropping out of university"
+  ],
+  "contrarian_claims": [
+    "Working hard and wanting something badly doesn't guarantee success; failure is possible despite intense effort.",
+    "Caution is not inherently virtuous but rather the biggest risk one can take in life, leading to regret.",
+    "Entrepreneurship is not for everyone and some people may be better suited for a different path to fulfillment."
+  ],
+  "episode_id": "e11-i-have-a-huge-announcement-to-make",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - E11: I have a huge announcement to make...",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/e11-i-have-a-huge-announcement-to-make",
+  "processed_at": "2026-03-19T20:26:36"
+}

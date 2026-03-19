@@ -1,0 +1,72 @@
+{
+  "guest_name": "Adam Grant",
+  "expertise_area": "Organizational Psychology",
+  "key_insights": [
+    {
+      "insight": "Procrastination is often driven by avoiding negative emotions associated with a task, rather than laziness.",
+      "quote": "It turns out it's not hard work that you're avoiding when you procrastinate. It's negative emotions, unpleasant feelings.",
+      "importance": "high"
+    },
+    {
+      "insight": "Upgrading your internet browser from the default option is correlated with resourcefulness and a proactive approach to problem-solving in the workplace.",
+      "quote": "The kind of person who upgrades their browser is also the kind of person who asks, is there a more creative way to do my job? Can I reinvent the way that we work together?",
+      "importance": "medium"
+    },
+    {
+      "insight": "True originals are not necessarily child prodigies, but rather individuals who develop character skills and are willing to make themselves uncomfortable and learn from failure.",
+      "quote": "These adult geniuses then, what is it that they have that child prodigies don't? Well, a lot of it is what I've come to think of as character skills, which is a set of capabilities to put your principles into practice.",
+      "importance": "high"
+    },
+    {
+      "insight": "Perfectionism can be detrimental to long-term success, as it leads to risk aversion and burnout.",
+      "quote": "Research led by Tom Curran here in the UK shows that perfectionism is not all it's cracked up to be. It's a risk factor for burnout.",
+      "importance": "high"
+    },
+    {
+      "insight": "Adult geniuses are often 'imperfectionists' who know when to aim for the best versus when 'good enough' suffices.",
+      "quote": "They are what I've come to think of as imperfectionists, which is they're really careful and disciplined about saying, when is it important to aim for the best and when is it okay to look for good enough?",
+      "importance": "medium"
+    },
+    {
+      "insight": "Challenging the status quo is a key indicator of an original thinker and a predictor of success.",
+      "quote": "It's about the resourcefulness to say, you want to be the kind of person who questions the default and asks if there's a better way.",
+      "importance": "high"
+    }
+  ],
+  "topics": [
+    "psychology",
+    "habits",
+    "productivity",
+    "creativity",
+    "leadership",
+    "business",
+    "mindset"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Identify tasks you consistently procrastinate on and the negative emotions associated with them.",
+      "how_to": "Keep a journal of your work and track what tasks get put off and what feelings arise when you think about those tasks."
+    },
+    {
+      "advice": "Reframe boring tasks to make them more engaging.",
+      "how_to": "Turn editing or revising tasks into a creative exercise by rewriting paragraphs in the style of your favorite authors."
+    },
+    {
+      "advice": "In job interviews, ask candidates how they have challenged the status quo in the past.",
+      "how_to": "Incorporate behavioral questions that probe for instances where the candidate questioned established norms and sought alternative solutions."
+    }
+  ],
+  "memorable_stories": [
+    "The story about the researcher, Michael Hausman, who discovered a correlation between web browser choice and job performance."
+  ],
+  "contrarian_claims": [
+    "Procrastination can be a tool in the creative process.",
+    "Perfectionism is not necessarily a desirable trait and can lead to negative outcomes like burnout.",
+    "Child prodigies are often overestimated, and adult geniuses are those who develop character skills."
+  ],
+  "episode_id": "moment-177-youre-not-lazy-this-is-the-real-reason-you-procrastinate-the-performance-doctor",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Moment 177: You're NOT Lazy! This Is The REAL Reason You Procrastinate: The Performance Doctor",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-177-youre-not-lazy-this-is-the-real-reason-you-procrastinate-the-performance-doctor",
+  "processed_at": "2026-03-19T21:03:48"
+}

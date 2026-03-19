@@ -1,0 +1,102 @@
+{
+  "guest_name": "Victora Pancheva",
+  "expertise_area": "Dentistry",
+  "key_insights": [
+    {
+      "insight": "Specific oral bacteria like fusobacterium nucleatum may increase the aggression or initiation of certain cancers, though causality isn't fully established.",
+      "quote": "I do think that oral health and some specific oral bacteria are risk factors and can definitely increase the aggression of those cancers or even the initiation of them.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Green tea is effective at killing fusobacterium nucleatum due to its anti-inflammatory, antioxidant, and antibacterial properties.",
+      "quote": "Green tea um you know something so simple is extremely effective at killing fuso bacterium nucleotum.",
+      "importance": "high"
+    },
+    {
+      "insight": "Coffee doesn't negatively impact the oral microbiome directly, but its drying effect reduces saliva, which is essential for good bacteria.",
+      "quote": "But there is no negative impact of coffee on the oral microbiome directly. Coffee does dry your mouth out, and so you have reduced saliva, and that can actually cause problems for the oral microbiome.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Sipping sugary drinks over long periods is worse than consuming the sugar all at once because it constantly disrupts saliva's pH balance.",
+      "quote": "Every time you sip your tea with sugar, what happens is that the saliva has to go from acidic, back to neutral acidic, back to neutral acidic. And then it starts to just not work properly, and the saliva just stays acidic.",
+      "importance": "high"
+    },
+    {
+      "insight": "Brushing immediately after consuming acidic or sugary foods can grind the acids and sugars into the teeth, causing more damage.",
+      "quote": "You should never brush straight after anything acidic or sugary. So what you end up doing is grinding the sugar or the acid into your teeth.",
+      "importance": "high"
+    },
+    {
+      "insight": "Spitting, not rinsing, after brushing allows the toothpaste's beneficial ingredients to remain on the teeth and gums longer.",
+      "quote": "So you should never rinse your mouth out with water after you brush your teeth. teeth. So brush, brush, brush, spit into the basin, and that's it.",
+      "importance": "high"
+    },
+    {
+      "insight": "Electric toothbrushes are generally preferable because they time brushing and often include pressure sensors, improving brushing technique.",
+      "quote": "Usually, they kind of do the work for you. So it just means that patients have better oral health because most people don't know how to brush their teeth properly, actually.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Whitening toothpastes can damage enamel due to their abrasive nature; professional whitening is safer.",
+      "quote": "Be very careful with a lot of those whitening toothpaste because they can be quite abrasive and damage the enamel actually.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Straws can help prevent tooth decay and staining by bypassing the teeth when drinking acidic or sugary beverages.",
+      "quote": "So drinking through a straw actually helps you bypass all of your teeth. So if you're having something acidic or really sugary or even something staining, then it bypasses the teeth and goes straight to back of your throat so you can swallow it.",
+      "importance": "high"
+    }
+  ],
+  "topics": [
+    "health",
+    "science",
+    "habits",
+    "relationships",
+    "communication",
+    "mindset"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Drink green tea regularly.",
+      "how_to": "Incorporate a cup or more of green tea into your daily routine. Consider it as a coffee replacement."
+    },
+    {
+      "advice": "Have sugary treats in one 'sugar attack' instead of sipping sugary drinks over time.",
+      "how_to": "If you're having a sugary treat, have it all at once rather than spreading it out over an hour or more."
+    },
+    {
+      "advice": "Wait 30 minutes after eating or drinking anything acidic or sugary before brushing your teeth.",
+      "how_to": "Set a timer for 30 minutes after your meal/drink, and use sugar-free gum/mints in the meantime."
+    },
+    {
+      "advice": "Spit, don't rinse, after brushing your teeth.",
+      "how_to": "After brushing for two minutes, spit out the excess toothpaste but don't rinse your mouth with water."
+    },
+    {
+      "advice": "Use an electric toothbrush.",
+      "how_to": "Purchase an electric toothbrush with a timer and pressure sensor."
+    },
+    {
+      "advice": "Use straws when consuming sugary or acidic drinks.",
+      "how_to": "Get into the habit of drinking soda, juice, or other sugary drinks through a straw to minimize contact with your teeth."
+    },
+    {
+      "advice": "Brush the inside of the lower back teeth with a 90-degree angle to the gums",
+      "how_to": "When brushing the inside surfaces of the lower back teeth, raise your elbow and brush at a 90 degree angle to the gums"
+    }
+  ],
+  "memorable_stories": [
+    "Green tea as a gift for someone with bad oral bacteria",
+    "Analogy of sunscreen to explain spitting instead of rinsing"
+  ],
+  "contrarian_claims": [
+    "Having all of your sugar in one go is better than sipping sugary drinks for long periods of time.",
+    "You should wait 30 minutes until you brush your teeth after eating or drinking something acidic or sugary."
+  ],
+  "episode_id": "most-replayed-moment-dont-brush-your-teeth-after-sugar-the-best-oral-care-routine",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Most Replayed Moment: Don’t Brush Your Teeth After Sugar! The Best Oral Care Routine",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/most-replayed-moment-dont-brush-your-teeth-after-sugar-the-best-oral-care-routine",
+  "processed_at": "2026-03-19T21:22:35"
+}

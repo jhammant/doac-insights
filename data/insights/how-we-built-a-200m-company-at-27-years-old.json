@@ -1,0 +1,105 @@
+{
+  "guest_name": "Steven Bartlett",
+  "expertise_area": "Business & Social Media Marketing",
+  "key_insights": [
+    {
+      "insight": "Quitting is a skill that can lead to success when a situation is no longer serving you.",
+      "quote": "Quitting like starting is a real skill and it will turn out in all of your lives as it's turned out in mine that quitting is for winners.",
+      "importance": "high"
+    },
+    {
+      "insight": "The certainty of misery should never be accepted over the uncertainty of searching for something better.",
+      "quote": "The certain misery of your current situation should never be considered a better option than the uncertainty you'll encounter if you go in search of more, of better, of happier.",
+      "importance": "high"
+    },
+    {
+      "insight": "Successful people are able to override the innate mechanism of fear and anxiety in times of uncertainty and shift their thinking to a more rational place.",
+      "quote": "The most successful people in the world are able to override that innate mechanism and shift their thinking to a more rational place.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Decisions don't require 100% certainty; 51% certainty, based on the available evidence, is enough to act and learn.",
+      "quote": "You don't have to get to 100% certainty when you make your big decisions. You can just get to 51%. And when you get to 51%, make the decision and be at peace that you made the decision based on the evidence that you had available to you at that time.",
+      "importance": "high"
+    },
+    {
+      "insight": "Success is often less about mastering one skill and more about being pretty good at a stack of complementary and unique skills.",
+      "quote": "They're almost never defined by mastery of just one skill. They're defined by our ability to be pretty good at a bunch of uniquely complementary skills.",
+      "importance": "high"
+    },
+    {
+      "insight": "Hard work is crucial, but it needs to be 'smart' hard work and must be balanced with mental well-being and relationships.",
+      "quote": "Hard work does matter. It undeniably increases your chances of success. But if it costs you your mental health, if it's dumb hard work where you're not actually working because you're burnt out, unmotivated and tired, then it does absolutely nothing but waste your time.",
+      "importance": "high"
+    },
+    {
+      "insight": "Consistency, while simple, is a difficult but essential ingredient for long-term success in any field.",
+      "quote": "Consistency is the simple, hard answer to pretty much everything you want to do.",
+      "importance": "high"
+    },
+    {
+      "insight": "Taking radical responsibility for your life, even when it's uncomfortable, is a powerful life hack to regain control and improve circumstances.",
+      "quote": "Radical responsibility is for the brave, for those that value progress over ego and for those that care more about the future they want than the present they have.",
+      "importance": "high"
+    },
+    {
+      "insight": "Viewing problems in a binary way hinders effective solutions; nuance, healthy debate, and respectful disagreement are necessary.",
+      "quote": "You can't solve complicated, nuanced problems with simple, binary, narrow solutions.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Minorities can't be defined by their disadvantage, as it is possible to overcome challenges by not letting it be an excuse.",
+      "quote": "You can't be defined by that disadvantage. The minute you believe you are, you become defined by that disadvantage.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "business",
+    "psychology",
+    "relationships",
+    "habits",
+    "money",
+    "leadership",
+    "mindset",
+    "communication"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Develop a personal quitting framework.",
+      "how_to": "Define your personal criteria for when a situation is no longer worth the effort, considering your values and desired direction. Regularly evaluate your current situations against this framework."
+    },
+    {
+      "advice": "Act with 51% certainty instead of waiting for perfection.",
+      "how_to": "Gather enough information to reach a reasonable level of confidence (51%), then make a decision, implement it, and learn from the results. Don't let analysis paralysis prevent you from moving forward."
+    },
+    {
+      "advice": "Identify and develop a stack of complementary skills.",
+      "how_to": "Assess your existing skills and consider which unique combination of skills would make you stand out in your chosen field. Focus on developing those complementary skills instead of only mastering your existing ones."
+    },
+    {
+      "advice": "Reframe blame to regain control.",
+      "how_to": "When something goes wrong, reframe external blame to internal responsibility by stating 'I pissed myself off because of X' to regain control and take action. This shifts focus to what you can do to improve the situation."
+    },
+    {
+      "advice": "Cultivate clear values with loosely held beliefs.",
+      "how_to": "Define your core values clearly, but hold your beliefs loosely, allowing for new information and diverse perspectives to challenge them. Engage respectfully with those who hold different beliefs to understand their perspective."
+    }
+  ],
+  "memorable_stories": [
+    "The speaker's experience of shoplifting pizzas to feed himself.",
+    "The speaker's experience of living in the Costa Rican jungle with monkeys while writing his book.",
+    "The speaker's anecdote about meeting Barack Obama in Brazil and hearing about his 51% rule.",
+    "The speaker's personal experience of racism on a train where he was prejudged in the first class carriage."
+  ],
+  "contrarian_claims": [
+    "Lockdowns for COVID-19 are ineffective and the government is not being honest about the plan.",
+    "The virtue-signaling on social media isn't necessarily conducive of change, and can prevent open-minded discussion.",
+    "Minorities can't be defined by their disadvantage, as it is possible to overcome challenges by not letting it be an excuse.",
+    "Skill stacking is more important than mastering a single skill."
+  ],
+  "episode_id": "how-we-built-a-200m-company-at-27-years-old",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - How We Built A $200m Company At 27 Years Old",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/how-we-built-a-200m-company-at-27-years-old",
+  "processed_at": "2026-03-19T20:42:00"
+}

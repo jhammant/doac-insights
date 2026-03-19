@@ -1,0 +1,101 @@
+{
+  "guest_name": "Andrew Huberman",
+  "expertise_area": "Neuroscience",
+  "key_insights": [
+    {
+      "insight": "Passive experience shapes the brain as a child but after 25, intentional neurochemical shifts are required for lasting change.",
+      "quote": "As a child, until about age 25, more or less, just passive experience will shape the brain for better or worse. After about age 25...we can change our brain, but what's required is a marked shift in the neurochemical environment under which something happens.",
+      "importance": "high"
+    },
+    {
+      "insight": "One-trial learning is a powerful mechanism driven by fear and strong neuromodulators like epinephrine, highlighting the asymmetrical influence of fear versus interest on brain changes.",
+      "quote": "This is why there's an asymmetric influence of fear as opposed to just interest in terms of what will shift our brain.",
+      "importance": "high"
+    },
+    {
+      "insight": "For habits disruption, disrupt the stories around habit and introduce the opposite, to create new narratives challenging neural networks.",
+      "quote": "One of the most powerful things is to understand that neuroplasticity really involves taking an existing story and dismantling some component of it.",
+      "importance": "medium"
+    },
+    {
+      "insight": "While visualization can help achieve goals, visualizing potential negative outcomes (fear setting) can also be effective for motivation.",
+      "quote": "For goal setting and habit formation, fear setting is often one of the best tools...thinking about all the terrible things that are going to happen if you don't actually accomplish your goals.",
+      "importance": "medium"
+    },
+    {
+      "insight": "The benefits of telling others about a goal should stimulate a little bit of fear to hold accountability, however a reward is given even when the person does not do it because of the social affiliative nature of people.",
+      "quote": "People get a sort of reward from telling people about it. And then they never actually go do it.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Focus and attentiveness are requirements for neuroplasticity, so it is not passive experience that changes the brain.",
+      "quote": "If we pay attention, and we're alert when we pay attention, there's a shift in the neurochemicals associated with that attention...And then it sets in motion a bunch of biological processes such that if we get adequate sleep that night...there's reordering of neural connections.",
+      "importance": "high"
+    },
+    {
+      "insight": "Restorative practices such as Non-Sleep Deep Rest (NSDR) can increase baseline dopamine levels, preparing one for action.",
+      "quote": "We know from a really nice study that NSDR...can increase the baseline levels of dopamine...by about 60% from baseline.",
+      "importance": "high"
+    },
+    {
+      "insight": "Excessive pursuit of anything that produces dopamine can lead to understimulation and depleation of dopamine requiring the body to need more energy for less output.",
+      "quote": "If you push things to the max, you're going to feel depleted and understimulated afterwards. And you need so much more energy to get the same output.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Dopamine is not just about pleasure but about motivation, seek and reward. It's also the universal currency to create forward center of mass, to envision and explore forward and connect the nodes of progress.",
+      "quote": "We now know dopamine is more about motivation to seek rewards as opposed to feeling of pleasure or reward... clearly the currency that the brain has set around getting us into forward center of mass…to envision something, explore.",
+      "importance": "high"
+    }
+  ],
+  "topics": [
+    "health",
+    "psychology",
+    "habits",
+    "relationships",
+    "science",
+    "mindset",
+    "productivity",
+    "fitness"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "If you desire to become a tidier person, replace the word tidy with messy, write it out and interrupt the fluency.",
+      "how_to": "Write out one page describing how tidy you are, recognizing it's a lie. This will disrupt the default messy state."
+    },
+    {
+      "advice": "To avoid getting trapped in a dopamine loop, deliberately calm yourself with breathing exercises (long exhales) and stillness.",
+      "how_to": "Use NSDR (Non-Sleep Deep Rest) or long exhale breathing to transition from forward-leaning action to a more relaxed state."
+    },
+    {
+      "advice": "Aim for enough sleep, individualizing the number of hours needed.",
+      "how_to": "If waking up tired even after sufficient sleep, implement a 10-20 minute NSDR protocol. It is available on YouTube."
+    },
+    {
+      "advice": "Get natural light exposure upon waking to increase alertness and focus.",
+      "how_to": "View ambient or direct sunlight, even through cloud cover, without sunglasses, as soon as possible after waking."
+    },
+    {
+      "advice": "Find a person who you can communicate with each morning.",
+      "how_to": "Send and receive a good morning text or short message and communicate your care for this person, or share plan"
+    }
+  ],
+  "memorable_stories": [
+    "Huberman describes being put into a residential treatment program at 14",
+    "Huberman's account of his July 4th altercation and the letter he wrote to his parents",
+    "Huberman details his experience diving with great white sharks outside of a cage and the air failure he experienced",
+    "Huberman sharing anecdote with Jim Thiebaud, who showed up to sit and give Huberman words when his life was not going well and gave Huberman poetry books.",
+    "Huberman mentions his three mentor's deaths and how that turned him into sharing his knowledge."
+  ],
+  "contrarian_claims": [
+    "Competition in business can harm more than good because of the distraction of competition from the main goal",
+    "Too much meditation isn't good.",
+    "Not everybody needs 8 hours of sleep - determine an individual.",
+    "It may better to set goals of bad consequences when not achieving a goal vs. goals of success for motivation."
+  ],
+  "episode_id": "andrew-huberman-you-must-control-your-dopamine-the-shocking-truth-about-cold-showers",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Andrew Huberman: You Must Control Your Dopamine! The Shocking Truth About Cold Showers!",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/andrew-huberman-you-must-control-your-dopamine-the-shocking-truth-about-cold-showers",
+  "processed_at": "2026-03-19T20:14:27"
+}

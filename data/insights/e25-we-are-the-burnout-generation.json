@@ -1,0 +1,85 @@
+{
+  "guest_name": "Stephen Bartlett",
+  "expertise_area": "Business Strategy",
+  "key_insights": [
+    {
+      "insight": "Modern society conditions individuals to overwork and chase unattainable ideals, leading to burnout.",
+      "quote": "We were conditioned and cultured to work and to climb that ladder.",
+      "importance": "high"
+    },
+    {
+      "insight": "The pursuit of 'having it all' often results in a lack of genuine accomplishment and personal pride.",
+      "quote": "The pursuit of trying to have it all, which I'm more than guilty of, results in having very little to be proud of.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Self-awareness is key to achieving personal success, as emulating others blindly is dangerous.",
+      "quote": "The secret is self-awareness. The secret is knowing yourself.",
+      "importance": "high"
+    },
+    {
+      "insight": "Sleep deprivation significantly impairs cognitive function and emotional regulation, contributing to burnout and anxiety.",
+      "quote": "When you don't get enough sleep, your brain doesn't get the time it needs to consolidate memories, to restore itself, to repair tissues and flush out toxins.",
+      "importance": "high"
+    },
+    {
+      "insight": "Many mental health issues stem from toxic relationships; courageously removing these people can be transformative.",
+      "quote": "People in your circle are one of the biggest causes of mental health issues and let's call it peace robbery than anything else.",
+      "importance": "high"
+    },
+    {
+      "insight": "The desire to avoid criticism is a trap, as haters are inevitable for anyone who achieves something significant and lives authentically.",
+      "quote": "There is no way for me to behave that will result in me being able to achieve the things I want to achieve, while still being myself and fulfilling myself and being happy, and not getting haters. It just doesn't exist.",
+      "importance": "medium"
+    },
+    {
+      "insight": "The modern generation is the 'burnout generation' because of a focus on optimizing life for work, climbing the ladder, and constant social media presence.",
+      "quote": "You are the burnout generation...We're the generation that have optimized our lives for work.",
+      "importance": "medium"
+    },
+    {
+      "insight": "The only thing in our control is life, so we should focus on personal happiness and improving the happiness of others.",
+      "quote": "Because the only part in our control is my life, let's just focus on my life. What matters in my life? There's two things that matter in my life, me and other people.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "business",
+    "health",
+    "psychology",
+    "habits",
+    "mindset",
+    "relationships",
+    "productivity",
+    "communication",
+    "leadership"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "De-clutter your mind and de-responsibility your life.",
+      "how_to": "Simplify your commitments, reduce your to-do list, and delegate tasks where possible to create more mental space."
+    },
+    {
+      "advice": "Identify and remove toxic people from your life.",
+      "how_to": "Assess your relationships and courageously cut ties with individuals who consistently drain your energy and negatively impact your well-being, even if it means potential short-term consequences."
+    },
+    {
+      "advice": "Prioritize sleep and unplug from technology.",
+      "how_to": "Establish a consistent sleep schedule, create a relaxing bedtime routine, and limit screen time before bed to combat directed attention fatigue."
+    }
+  ],
+  "memorable_stories": [
+    "The speaker recounts a chaotic day involving lost passport, delayed transportation, and hotel deposit issues leading to a loss of temper.",
+    "The speaker describes how a young entrepreneur tries to exactly emulate his career path, but ultimately fails.",
+    "The speaker mentions a CEO of Netflix competing with users sleep."
+  ],
+  "contrarian_claims": [
+    "There are no universal rules for success; each person must carve their own path based on self-awareness.",
+    "Traditional remedies for burnout, such as yoga or healthy eating, are often insufficient to address the underlying issues of societal conditioning."
+  ],
+  "episode_id": "e25-we-are-the-burnout-generation",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - E25: We are the Burnout Generation",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/e25-we-are-the-burnout-generation",
+  "processed_at": "2026-03-19T20:28:41"
+}

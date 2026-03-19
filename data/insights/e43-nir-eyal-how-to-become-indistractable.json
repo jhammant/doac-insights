@@ -1,0 +1,97 @@
+{
+  "guest_name": "Nir Eyal",
+  "expertise_area": "Behavioral Psychology",
+  "key_insights": [
+    {
+      "insight": "Overcoming distraction and living with personal integrity is the skill of the century.",
+      "quote": "And I think overcoming distraction, being the kind of person who lives with personal integrity, that is the skill of the century.",
+      "importance": "high"
+    },
+    {
+      "insight": "The root cause of all distraction, and all human behavior, is escaping uncomfortable emotional states (internal triggers).",
+      "quote": "An internal trigger is these uncomfortable emotional states that we seek to escape from. And it turns out that that is the root cause of all distraction. In fact, that's the root cause of all human behavior.",
+      "importance": "high"
+    },
+    {
+      "insight": "Time management is pain management; procrastination and distraction are often attempts to escape psychological discomfort.",
+      "quote": "If all human behavior is prompted by a desire to escape discomfort, that means that time management is pain management.",
+      "importance": "high"
+    },
+    {
+      "insight": "The opposite of distraction is not focus, but traction, and anything can be either depending on whether it's planned with intent.",
+      "quote": "The opposite of distraction is not focus. The opposite of distraction is traction. That in fact, both words come from the same Latin root, trahare, which means to pull.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Strict abstinence from distractions is often ineffective; it's better to plan time for them.",
+      "quote": "Strict abstinence doesn't work because if you think about a rubber band, right?If you pull back a rubber band, you pull, pull, pull, pull, pull. At one point, you can't pull anymore, and you have to let it go.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Willpower depletion is a myth, except for those who believe in it; mindset is crucial for self-control.",
+      "quote": "Turns out that that doesn't exist unless, unless you are the kind of person who believes in ego depletion. That's the only people who actually are affected by ego depletion.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Instead of focusing solely on outputs (goals), plan for the inputs (the time and activities required) to achieve those outputs.",
+      "quote": "But as knowledge workers, we only think about the output... So instead of saying, get organized, I want you instead to say, organize bag for one hour. No output, only input.",
+      "importance": "high"
+    },
+    {
+      "insight": "Social media is a supplement to real-world connection, not a replacement.",
+      "quote": "I think social media is a wonderful supplement. It's not a replacement.",
+      "importance": "low"
+    }
+  ],
+  "topics": [
+    "business",
+    "health",
+    "psychology",
+    "habits",
+    "productivity",
+    "mindset",
+    "relationships",
+    "technology"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Master Internal Triggers: Re-imagine the trigger, your response, and the task itself.",
+      "how_to": "When feeling emotional discomfort, pause, identify the emotion, and explore it with curiosity instead of contempt. Then, reframe the task to make it less burdensome."
+    },
+    {
+      "advice": "Use time boxing to plan your day, scheduling time for yourself, relationships, and work.",
+      "how_to": "Block out specific times in your calendar for all important activities, including those related to personal well-being and relationships, not just work."
+    },
+    {
+      "advice": "Implement a 'schedule sync' with assistants, managers, or spouses to align on priorities and time allocation.",
+      "how_to": "Sit down with relevant individuals, review each other's calendars, and reprioritize tasks together to ensure everyone is on the same page."
+    },
+    {
+      "advice": "Hack back external triggers by turning off unnecessary notifications.",
+      "how_to": "Identify the external triggers (like WhatsApp) that distract you, and turn them off. Keep only the essential communication channels open."
+    },
+    {
+      "advice": "Use 'effort pacts' to make distractions less accessible.",
+      "how_to": "Introduce friction to break bad habits. For example, use an outlet timer to shut off internet access at a specific time."
+    },
+    {
+      "advice": "Apply the '10-minute rule' to delay giving in to distractions.",
+      "how_to": "When you feel an urge, set a timer for 10 minutes and focus on surfing the urge by experiencing the uncomfortable sensation with curiosity, often the urge will dissipate."
+    }
+  ],
+  "memorable_stories": [
+    "Nir's story about his daughter leaving the room because he was distracted by his phone.",
+    "The story about the nurses wearing bright red vests to avoid distractions while dosing medication.",
+    "Nir's \"burn or burn\" technique of waking up to either burn a $100 bill or burn calories in the gym."
+  ],
+  "contrarian_claims": [
+    "Willpower is not a depletable resource for those who don't believe it is.",
+    "The opposite of distraction is not focus, but traction",
+    "Simple answers are generally dangerous because the world requires nuance, which is what technology skeptics deny."
+  ],
+  "episode_id": "e43-nir-eyal-how-to-become-indistractable",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - E43: Nir Eyal - How to Become Indistractable",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/e43-nir-eyal-how-to-become-indistractable",
+  "processed_at": "2026-03-19T20:31:06"
+}

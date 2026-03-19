@@ -1,0 +1,96 @@
+{
+  "guest_name": "Nir Eyal",
+  "expertise_area": "Behavioral Psychology",
+  "key_insights": [
+    {
+      "insight": "All human behavior is driven by a desire to escape discomfort; time management, therefore, is essentially pain management.",
+      "quote": "Time management is pain management. All human behavior is driven by a desire to escape discomfort.",
+      "importance": "high"
+    },
+    {
+      "insight": "Distractions are primarily driven by internal triggers, not external stimuli; the phone isn't the problem, it's the inability to deal with discomfort, like boredom.",
+      "quote": "90% of our distractions begin from within... If you can't sit around the table with a friend without looking at your phone every three minutes, it's not the phone. It's your inability to deal with the discomfort of maybe having silence or boredom.",
+      "importance": "high"
+    },
+    {
+      "insight": "High performers experience the same internal triggers as everyone else, but they use those feelings as fuel to push towards traction instead of distraction.",
+      "quote": "High performers, when they feel those internal triggers, they experience the same internal triggers the rest of us do... But they deal with it by using it as rocket fuel to push them towards traction.",
+      "importance": "high"
+    },
+    {
+      "insight": "Reframing uncomfortable sensations as signals happening 'for' you, not 'to' you, can shift your response from escape to engagement.",
+      "quote": "Most of us, we think when we feel this discomfort, that's happening to us, right? But it's not, it's happening for us. It's a signal for us to listen to.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Strict abstinence from distractions often backfires by increasing rumination and discomfort, leading to a stronger urge to indulge.",
+      "quote": "The whole just say no technique turns out makes you ruminate and think about and have more discomfort around the thing you want, increasing these internal triggers.",
+      "importance": "medium"
+    },
+    {
+      "insight": "The '10-minute rule' allows you to give into distractions, but only after a 10-minute delay, re-establishing agency and control over your impulses.",
+      "quote": "You can give into that distraction, but not right now. You can give in in 10 minutes...You're allowing yourself to acknowledge that you are in control.",
+      "importance": "high"
+    },
+    {
+      "insight": "Scheduling 'worry time' can prevent worries from derailing your focus, as most concerns dissipate when given dedicated space for reflection.",
+      "quote": "As opposed to when I started writing down and planning for that worry time, you know what happened? Nine out of 10 of those worries and emotions and fears and thoughts melted away.",
+      "importance": "medium"
+    },
+    {
+      "insight": "The key to being a professional isn't about feeling motivated, but consistently showing up and doing the work, even when it's boring or unappealing.",
+      "quote": "That's what makes a professional, is you do the work. And what you find is it's very boring for a few seconds.",
+      "importance": "medium"
+    },
+    {
+      "insight": "When facing interruptions from a boss, instead of saying no, sync your calendar to their priorities by presenting your schedule and asking them to prioritize tasks.",
+      "quote": "Instead of saying no, what you wanna do is to engage your boss in helping you do the one thing that they absolutely have to do as a manager, which is prioritize.",
+      "importance": "high"
+    }
+  ],
+  "topics": [
+    "psychology",
+    "habits",
+    "productivity",
+    "communication",
+    "mindset",
+    "business",
+    "health"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Note down sensations preceding distractions.",
+      "how_to": "Keep a post-it note and pen handy and immediately write down the feeling experienced right before getting distracted."
+    },
+    {
+      "advice": "Schedule 'worry time' in your calendar.",
+      "how_to": "Allocate a specific time slot each day to address all the worries and anxieties noted down throughout the day."
+    },
+    {
+      "advice": "Implement the '10-minute rule' for resisting distractions.",
+      "how_to": "Instead of immediately giving in to a distraction, tell yourself you can indulge in 10 minutes. Gradually increase this time."
+    },
+    {
+      "advice": "Use a screen sign in open offices.",
+      "how_to": "Fold a red piece of cardstock and place it on your monitor to signal colleagues that you are 'indistractable' and should not be interrupted."
+    },
+    {
+      "advice": "Manage your manager through schedule syncing.",
+      "how_to": "Show your boss your time-blocked calendar, highlighting focused work time. Also show them a list of all the projects they have asked you to do, and ask them to help prioritize the projects."
+    }
+  ],
+  "memorable_stories": [
+    "The guest's personal experience with clinical obesity and realizing that overeating was driven by loneliness, boredom, and guilt, rather than physical hunger.",
+    "Anecdote about children and video game time, scheduling gaming time helps kids to relax."
+  ],
+  "contrarian_claims": [
+    "Technology is not the primary source of distraction, but rather a tool used to escape internal discomfort.",
+    "The common advice to 'just say no' to tasks to improve productivity is terrible advice, especially when dealing with a boss; instead, engage the boss in prioritizing tasks.",
+    "Nicotine is not the primary cause of addiction, but rather the psychological relief from the internal battle of wanting to smoke but not being able to."
+  ],
+  "episode_id": "moment-149-why-you-are-easily-distracted-how-to-fix-it-nir-eyal",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Moment 149: Why You Are Easily Distracted & How To FIX it! Nir Eyal",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-149-why-you-are-easily-distracted-how-to-fix-it-nir-eyal",
+  "processed_at": "2026-03-19T20:59:41"
+}

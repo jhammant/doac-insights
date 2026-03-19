@@ -1,0 +1,89 @@
+{
+  "guest_name": "Sarah Wakeman",
+  "expertise_area": "Addiction Medicine",
+  "key_insights": [
+    {
+      "insight": "Trauma is a primary driver of addiction, often more so than genetics, and can provide emotional or physical pain relief through the activation of the brain's natural painkiller system.",
+      "quote": "I would say trauma is the gateway drug… your sort of natural painkiller system is activated by drinking. So when you hear someone talk about alcohol gives them pain relief, whether that's emotional or physical, that's a very real thing.",
+      "importance": "high"
+    },
+    {
+      "insight": "Connection, not just sobriety, is crucial in overcoming addiction, as isolation and lack of purpose can trigger substance use.",
+      "quote": "We often talk about the opposite of addiction is not sobriety, it's actually connection. It's how do you build that connection with other people again?",
+      "importance": "high"
+    },
+    {
+      "insight": "Scientifically, there is no healthy amount of alcohol consumption, and even low-risk drinking is associated with increased cancer risk, particularly breast and esophageal cancer.",
+      "quote": "Yes, I would never say drinking alcohol is good for your health...There's really sort of no safe amount of alcohol when it comes to breast cancer.",
+      "importance": "high"
+    },
+    {
+      "insight": "Heavy alcohol consumption accelerates brain damage, resembling the brain of someone with dementia, due to ethanol crossing the blood-brain barrier and causing inflammation and cellular changes.",
+      "quote": "This is a 43-year-old person with severe alcohol use disorder where their brain looks the way a 90-year-old with dementia would look because of that brain damage over time from alcohol use.",
+      "importance": "high"
+    },
+    {
+      "insight": "Binge drinking is particularly harmful to the liver because it leads to surges of a toxic byproduct, and even if the liver regenerates, repeated alcohol abuse can lead to irreversible scarring.",
+      "quote": "Having these big surges,like these massive binge episodes,is probably more harmful than drinking at a moderate levelfor a long period of time.",
+      "importance": "medium"
+    },
+    {
+      "insight": "It's crucial to use person-first language when discussing addiction to reduce stigma and improve outcomes for those struggling, such as 'a person with addiction' rather than 'an addict'.",
+      "quote": "There's been a shift in addiction to really using what we call person-first language...So to say, person with addiction, person with an alcohol use disorder, rather than saying they're an addict or an alcoholic.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Effective addiction treatment involves more than just removing the substance; it requires evidence-based therapies and medications along with addressing underlying trauma.",
+      "quote": "The things that we know are most effective for addiction,one are medications,and then two are like evidence-based psychotherapies...Often in rehabs, the model is really built around this ideaof like you remove yourself from this environment.",
+      "importance": "medium"
+    },
+    {
+      "insight": "When helping someone with addiction, try to understand their motivations for change rather than telling them what to do, using techniques like motivational interviewing.",
+      "quote": "The key then is not to sort of tell someone what to do,it's to understand why might they want to make changes.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "health",
+    "psychology",
+    "habits",
+    "relationships",
+    "science",
+    "mindset",
+    "communication"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "To support someone struggling with addiction, use Community Reinforcement and Family Training (CRAFT) techniques, which focus on understanding the science of addiction, seeking support for yourself, and positive reinforcement of desired behaviors rather than punishment.",
+      "how_to": "Learn about addiction to better understand the science, seek support for yourself (it's a difficult situation), focus on positive reinforcement for healthy behaviors, and avoid enabling behaviors that reinforce negative patterns."
+    },
+    {
+      "advice": "If struggling with alcohol, consider a medication like one that blocks opioid receptors to reduce the pleasurable effects and urge to drink more.",
+      "how_to": "Consult with a medical professional about Naltrexone and how to use it. Some people only use it as needed - 30 minutes before planned alcohol consumption."
+    },
+    {
+      "advice": "If trying to change any behavior (including alcohol consumption), create personalized, focused goals that are aligned with your personal 'why' and focus on enjoying the process.",
+      "how_to": "Identify your personal reasons for wanting to change, set small, achievable micro-goals, and notice/reinforce the positive feelings from achieving those smaller steps."
+    },
+    {
+      "advice": "To reduce stress and support healthy habits, prioritize building social connections, getting adequate rest, eating well, and engaging in regular exercise to promote natural dopamine release.",
+      "how_to": "Schedule time for social activities with supportive friends and family, establish a consistent sleep schedule, focus on whole, unprocessed foods, and find physical activities that you enjoy."
+    }
+  ],
+  "memorable_stories": [
+    "Anecdote about Liam Payne from One Direction being locked in hotel rooms with a minibar, highlighting the role of isolation in addiction.",
+    "Story of a patient who lost his housing due to his addiction, leading to homelessness and ultimately a fatal overdose, illustrating the impact of social barriers.",
+    "Tale of a patient who revealed a history of childhood molestation after years of struggling with substance use disorder, showing how trauma can be a deeply hidden root cause."
+  ],
+  "contrarian_claims": [
+    "Rehab is often ineffective because it doesn't address the chronic nature of addiction or utilize evidence-based treatments.",
+    "Tough love and hitting 'rock bottom' are not always effective strategies for helping someone overcome addiction; hope, love, and connection are more important.",
+    "It's crucial to use 'person-first language' to reduce the stigma around addiction.",
+    "Imprisonment is not an effective intervention for addiction."
+  ],
+  "episode_id": "addiction-doctor-alcohol-rewires-your-brain-alcohol-is-the-reason-you-feel-awful-this-many-glasses-of-wine-increases-cancer-risk-by-40",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Addiction Doctor: Alcohol Rewires Your Brain! Alcohol Is The Reason You Feel Awful! This Many Glasses Of Wine Increases Cancer Risk By 40%!",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/addiction-doctor-alcohol-rewires-your-brain-alcohol-is-the-reason-you-feel-awful-this-many-glasses-of-wine-increases-cancer-risk-by-40",
+  "processed_at": "2026-03-19T20:13:03"
+}

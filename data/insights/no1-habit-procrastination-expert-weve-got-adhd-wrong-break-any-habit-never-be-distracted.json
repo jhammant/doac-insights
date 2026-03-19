@@ -1,0 +1,110 @@
+{
+  "guest_name": "Nir Eyal",
+  "expertise_area": "Behavioral Psychology",
+  "key_insights": [
+    {
+      "insight": "Distraction is not something that happens to us, but an action we take; therefore, its opposite is traction, any action that moves us toward our goals.",
+      "quote": "Distraction is not something that happens to us. It is an action we ourselves take.",
+      "importance": "high"
+    },
+    {
+      "insight": "The majority (90%) of distractions stem from internal triggers—uncomfortable emotional states—rather than external triggers (only 10%).",
+      "quote": "90% of the time that we get distracted, it's not because of what's happening outside of us, it's because of what's happening inside of us.",
+      "importance": "high"
+    },
+    {
+      "insight": "All human behavior, including procrastination, is driven by a desire to escape discomfort, making time management a form of pain management.",
+      "quote": "All human behavior is about a desire to escape discomfort... Time management is pain management.",
+      "importance": "high"
+    },
+    {
+      "insight": "High performers experience the same internal triggers (loneliness, stress, anxiety) as distractible people, but they use them as fuel for traction instead of escaping them.",
+      "quote": "High performers, when they feel those internal triggers, they experience the same internal triggers the rest of us do...But they deal with it by using it as rocket fuel to push them towards traction.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Strict abstinence from distractions can backfire; acknowledging control through techniques like the '10-minute rule' (allowing the distraction in 10 minutes) can be more effective.",
+      "quote": "You're allowing yourself to acknowledge that you are in control, that you decide... I choose not to go off track for the next 10 minutes. That's it. In 10 minutes, I can give into whatever I want. So now I'm in control.",
+      "importance": "medium"
+    },
+    {
+      "insight": "The key is not just willpower but creating effort pacts to introduce friction between yourself and the distraction; this might be a physical barrier or a pre-commitment to a time-based cutoff.",
+      "quote": "An effort pact is when there's some bit of friction in between you and the thing you don't wanna do...So I put some friction in between myself and the distraction.",
+      "importance": "medium"
+    },
+    {
+      "insight": "To-do lists have no constraints and reinforce a negative self-image when tasks aren't completed, whereas time-boxed calendars force prioritization and align with values.",
+      "quote": "A to-do list has no constraints...As opposed to a time box counter has constraints.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Prioritization is key. Businesses fail when they do the wrong things for too long. The commitment bias to already started projects should be recognized and overcome.",
+      "quote": "The number one cause of a business running out of cash is doing the wrong thing for too long.",
+      "importance": "medium"
+    },
+    {
+      "insight": "A toxic work environment is defined by high expectations coupled with low control, not just by the amount of work.",
+      "quote": "They concluded that a toxic work environment is not the work you do, it's the type of work you do... And those two conditions are high expectations coupled with low control.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Social media overuse is often a symptom, not the cause, of deeper social issues, like a lack of regular in-person interactions.",
+      "quote": "I actually think social media overuse is a symptom, not the cause of the fact that we don't see people regularly.",
+      "importance": "low"
+    }
+  ],
+  "topics": [
+    "productivity",
+    "psychology",
+    "habits",
+    "relationships",
+    "business",
+    "mindset",
+    "technology",
+    "health"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Master internal triggers by noting down the sensation felt right before a distraction, reframing it as a signal for attention, not a negative experience.",
+      "how_to": "Keep a post-it note and pen handy; when you feel distracted, write down the sensation you were feeling (boredom, anxiety, etc.); later, reframe that sensation as a sign of importance or stress, not something to escape."
+    },
+    {
+      "advice": "Use the '10-minute rule' to acknowledge control over distractions, delaying gratification and reducing psychological reactance.",
+      "how_to": "When tempted by a distraction, tell yourself you can give in, but not for 10 minutes; use this time to focus on your task; you may find the urge subsides."
+    },
+    {
+      "advice": "Schedule 'worry time' to compartmentalize anxieties and prevent them from derailing your day.",
+      "how_to": "Set aside a specific time in your calendar to address worries and concerns; during the day, write down your worries and defer them to this scheduled time; many worries will dissipate by then."
+    },
+    {
+      "advice": "Create 'effort pacts' to add friction between yourself and distractions, making it harder to access them impulsively.",
+      "how_to": "Use a physical timer to shut off the internet at a certain time, requiring effort to turn it back on; use a screen sign to indicate you are indistractable and ask colleagues to come back later."
+    },
+    {
+      "advice": "Develop a time-boxed calendar aligned with your values, focusing on time allocation as an input rather than output-driven to-do lists.",
+      "how_to": "Identify your values and how the person you want to become would spend their time; allocate time blocks for self-care, relationships, and both reactive and reflective work."
+    },
+    {
+      "advice": "Manage your manager by proactively sharing your time-boxed calendar and prioritizing tasks together, avoiding the need to simply say no.",
+      "how_to": "Schedule a 15-minute meeting with your manager to present your calendar, outlining your tasks and available time; discuss priorities and swap out less important tasks for critical ones."
+    }
+  ],
+  "memorable_stories": [
+    "The guest's father quit smoking after reading 'Hooked' and understanding habit loops.",
+    "The guest and his wife used an internet timer to improve their sleep and relationship.",
+    "Nurses in the UK reduced prescription errors by 88% by wearing 'do not disturb' vests.",
+    "The guest profiles Slack's culture, where employees are reprimanded for using Slack on nights and weekends."
+  ],
+  "contrarian_claims": [
+    "Social media and technology aren't inherently bad, but rather symptoms of deeper social and emotional regulation issues.",
+    "Willpower is not a limited resource unless you believe it is.",
+    "The chemical imbalance theory of ADHD is scientifically false.",
+    "The common advice to 'just say no' is terrible advice, especially in a professional context, instead you should help your manager prioritize.",
+    "Excessive focus on trigger warnings can make discomfort worse. Exposure therapy is important to treat phobias."
+  ],
+  "episode_id": "no1-habit-procrastination-expert-weve-got-adhd-wrong-break-any-habit-never-be-distracted",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - No.1 Habit & Procrastination Expert: We've Got ADHD Wrong! Break Any Habit & Never Be Distracted!",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/no1-habit-procrastination-expert-weve-got-adhd-wrong-break-any-habit-never-be-distracted",
+  "processed_at": "2026-03-19T21:28:18"
+}

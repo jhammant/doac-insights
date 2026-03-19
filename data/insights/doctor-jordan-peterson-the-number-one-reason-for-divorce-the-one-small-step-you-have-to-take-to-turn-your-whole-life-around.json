@@ -1,0 +1,88 @@
+{
+  "guest_name": "Jordan Peterson",
+  "expertise_area": "Clinical Psychology",
+  "key_insights": [
+    {
+      "insight": "When helping someone who is struggling, simplify the task so they can get a toehold and experience early wins.",
+      "quote": "One of the things you do with people who are struggling is you make the simple even simpler because then they can get a toehold.",
+      "importance": "high"
+    },
+    {
+      "insight": "Small commitments to oneself are undervalued, but they start a process of exponential growth.",
+      "quote": "What's cool is that it doesn't really matter how small that first step is, because it'll start doubling and anything that doubles grows unbelievably quickly.",
+      "importance": "high"
+    },
+    {
+      "insight": "In problem-solving, identifying the problem is the most crucial and difficult step.",
+      "quote": "Once you have the problem specified, you've solved like 95% of the problem.",
+      "importance": "high"
+    },
+    {
+      "insight": "Listening effectively in relationships involves understanding that neither person initially knows the real problem and requires persistent questioning.",
+      "quote": "Don't assume that either you or the person who's talking knows what the problem is it's so hard.",
+      "importance": "high"
+    },
+    {
+      "insight": "When facing a recurring problem with a partner, acknowledge that you might be the source of the issue.",
+      "quote": "One of the things you have to consider is that you're you're the problem maybe you're not but maybe you are.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Recurring problems often stem from unresolved childhood traumas.",
+      "quote": "If you got to the gist of it, it would remind people of something that happened to them much earlier in their life and often something that was traumatic.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Crying during a difficult conversation can be an indication that the current conceptual structure is insufficient and needs to be replaced.",
+      "quote": "The crying is an indication that the current conceptual structure is insufficient. It has to die.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Free association, where people let their thoughts flow freely, can help uncover linked topics and underlying issues.",
+      "quote": "If you let people free associate, the topics that they picked would be linked to one another.",
+      "importance": "low"
+    }
+  ],
+  "topics": [
+    "psychology",
+    "relationships",
+    "habits",
+    "communication",
+    "mindset",
+    "health",
+    "business"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "When trying to improve, make the initial task small enough to be easily achievable.",
+      "how_to": "Break down the task into the smallest possible steps, even if it feels humiliatingly simple. If cleaning your room is too much, start by looking inside one drawer and thinking about how to reorganize it."
+    },
+    {
+      "advice": "When your partner is upset, listen without immediately trying to solve the problem.",
+      "how_to": "Let your partner lay out all their concerns, even if they seem contradictory or irrelevant. Ask questions to clarify the real issue, and avoid defensiveness."
+    },
+    {
+      "advice": "Negotiate the way you come home from work with your partner.",
+      "how_to": "Decide when you're going to have a conversation, and you're going to be prepared for it. Kick off your shoes maybe you take 10 minutes for yourself, and then you can talk"
+    },
+    {
+      "advice": "When helping someone with a problem, ask them what they would want in the ideal scenario.",
+      "how_to": "Ask what would work for them in that situation and repeat to them. Make it concrete"
+    }
+  ],
+  "memorable_stories": [
+    "Story of the 85-year-old client who had broken his neck and was depressed, started by sitting up for 30 seconds, eventually walking down the hall.",
+    "Story of the 30-year-old client living at home who could only get the vacuum cleaner to the threshold of his messy room.",
+    "An example where after listening to colleague concerns, it related back to a fundamental issue of the individual and their work and what makes them happy."
+  ],
+  "contrarian_claims": [
+    "The idea that sexual or race-based identities are limiting and lead to anxiety and misery.",
+    "Arguing against a decline of religion that has moved into a radical subjectivity.",
+    "Attention is the same as love"
+  ],
+  "episode_id": "doctor-jordan-peterson-the-number-one-reason-for-divorce-the-one-small-step-you-have-to-take-to-turn-your-whole-life-around",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Doctor Jordan Peterson: \"The NUMBER ONE Reason For Divorce!\" & \"The One Small Step You Have To Take To Turn Your Whole Life Around!\"",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/doctor-jordan-peterson-the-number-one-reason-for-divorce-the-one-small-step-you-have-to-take-to-turn-your-whole-life-around",
+  "processed_at": "2026-03-19T20:24:46"
+}

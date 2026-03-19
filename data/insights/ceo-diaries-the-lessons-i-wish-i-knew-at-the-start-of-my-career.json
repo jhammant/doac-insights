@@ -1,0 +1,83 @@
+{
+  "guest_name": "Jessica Jensen",
+  "expertise_area": "B2B Marketing & Business Strategy",
+  "key_insights": [
+    {
+      "insight": "AI is becoming ubiquitous and entrepreneurs should embrace it to increase efficiency and creative power.",
+      "quote": "AI will become the air we breathe and the water we drink just in the way the internet has.",
+      "importance": "high"
+    },
+    {
+      "insight": "The reaction to new technologies determines whether they become an opportunity or a threat.",
+      "quote": "The opportunity and threat are in the reaction. I.e. if you lean out, then it is a threat. But if you lean in, it is an opportunity.",
+      "importance": "high"
+    },
+    {
+      "insight": "Human emotion and judgment are essential for marketing, even with the rise of AI.",
+      "quote": "When you are trying to convince human beings to take action, you will need to convey human emotion and human judgment.",
+      "importance": "high"
+    },
+    {
+      "insight": "Embrace imperfections in content to signal authenticity in a world of AI-generated perfection.",
+      "quote": "Can you just like, uncapitalize it and like, just make it a little bit messier so people know that we wrote it?",
+      "importance": "medium"
+    },
+    {
+      "insight": "Great content creators know their message, understand their audience, and convey information with human connection.",
+      "quote": "Great creators are like great communicators at any time in history. They know what they want to say...They convey information and human connection.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Add to the conversation only if you have something unique to say, avoiding cliches.",
+      "quote": "If the world has heard someone say it before 10 times, 100 times, we don't need to add to it.",
+      "importance": "medium"
+    },
+    {
+      "insight": "A positive relationship with analytics is crucial for improving content creation by enabling a feedback loop.",
+      "quote": "With a perspective, a positive relationship with analytics, it turns the lights on and you can start to post, look, learn, iterate, improve and post again and that's what's made me a better creator.",
+      "importance": "medium"
+    },
+    {
+      "insight": "LinkedIn remains the most effective platform for B2B marketing, hiring, and personal branding for founders.",
+      "quote": "I'm surprised that LinkedIn has remained so effective and dominant at that in particular...I think for really any founder out there, I think it is your most important platform.",
+      "importance": "high"
+    }
+  ],
+  "topics": [
+    "business",
+    "technology",
+    "marketing",
+    "leadership",
+    "communication",
+    "mindset",
+    "creativity"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Implement AI agents to automate and improve workflows in every department.",
+      "how_to": "Set an AI agent challenge for all teams, with a prize for the best implementation."
+    },
+    {
+      "advice": "Engage with AI content to train your LinkedIn algorithm to serve you relevant information.",
+      "how_to": "Actively like, comment on, and share AI-related posts and articles on LinkedIn."
+    },
+    {
+      "advice": "Prioritize LinkedIn over other platforms for building a B2B business.",
+      "how_to": "Focus on creating video content, optimizing your profile, and recruiting before investing in podcasts or other channels."
+    }
+  ],
+  "memorable_stories": [
+    "The AI Agent Challenge at LinkedIn where every team implemented AI agents to improve workflows and competed for a prize.",
+    "The speaker's team 'un-capitalizing' and making titles messy to signal human authorship and authenticity.",
+    "Drawing the pyramid with LinkedIn as the foundation for a founder's marketing strategy."
+  ],
+  "contrarian_claims": [
+    "Intentional imperfections in content can be a good signal in a world of perfect AI generated content.",
+    "LinkedIn is *still* the most important platform for B2B and founders even with all the new platforms emerging."
+  ],
+  "episode_id": "ceo-diaries-the-lessons-i-wish-i-knew-at-the-start-of-my-career",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - CEO Diaries: The Lessons I Wish I Knew at the Start of My Career…",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/ceo-diaries-the-lessons-i-wish-i-knew-at-the-start-of-my-career",
+  "processed_at": "2026-03-19T20:19:08"
+}

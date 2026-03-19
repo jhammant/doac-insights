@@ -1,0 +1,83 @@
+{
+  "guest_name": "Daniel Lieberman",
+  "expertise_area": "Evolutionary Biology",
+  "key_insights": [
+    {
+      "insight": "Plantar fasciitis is often a 'mismatch disease' caused by our feet not being adequately adapted to modern footwear and surfaces.",
+      "quote": "plantar fasciitis is what I would call a mismatch disease, right? A disease that's more common or more severe because our bodies are inadequately adapted to modern environments.",
+      "importance": "high"
+    },
+    {
+      "insight": "Running does not cause arthritis and may even be slightly preventative because cartilage benefits from being used.",
+      "quote": "It's absolutely definitively not true that running increases rates of knee cartilage damage and arthritis... running actually, if anything, may be slightly preventive because cartilage joints, like everything else, benefits from being used.",
+      "importance": "high"
+    },
+    {
+      "insight": "Modern cushioned running shoes can enable an unnatural heel strike, which increases force on the knees.",
+      "quote": "Today shoes have these cushioned heels that enable you to essentially run the way you walk, right? You land on your heel.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Switching to a barefoot running style requires gradual adaptation to avoid injuries to the ankles, calves, and feet.",
+      "quote": "If you're gonna switch, you have to switch gradually and slowly and build up strength and learn to do it properly.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Overstriding is a common running mistake that increases force on the knees; good running form involves landing with the ankle below the knee.",
+      "quote": "Overstriding is when you throw your leg out way in front of you and you land and that leg is a stiff leg... a good runner lands with their shank, with their tibia vertical, so their ankle is below their knee.",
+      "importance": "medium"
+    },
+    {
+      "insight": "While physical activity helps with weight loss, it is most effective at preventing weight gain or weight regain after a diet.",
+      "quote": "Physical activity is really important for helping people prevent themselves from gaining weight or after a diet from regaining weight.",
+      "importance": "high"
+    },
+    {
+      "insight": "Exercise and diet often go hand-in-hand; commitment to one often increases commitment to the other.",
+      "quote": "The minute I managed to get in the gym and do a big workout, the same day my diet came back.",
+      "importance": "medium"
+    },
+    {
+      "insight": "We need to be compassionate towards people struggling with fitness, as the initial reward system of exercise is not as strong for those who are unfit.",
+      "quote": "When people start exercising, they don't get the reward that people who are fit and accustomed to doing it get...it takes months, if not years before you actually get that reward.",
+      "importance": "high"
+    }
+  ],
+  "topics": [
+    "health",
+    "fitness",
+    "science",
+    "habits",
+    "mindset",
+    "productivity"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Strengthen your feet to prevent plantar fasciitis.",
+      "how_to": "Do foot doming exercises, wear minimal shoes without stiff soles or arch supports, and go barefoot more often, gradually increasing the time to avoid injury."
+    },
+    {
+      "advice": "Adopt a barefoot running style.",
+      "how_to": "Focus on a high stride rate (170-180 steps per minute), relatively short strides, and avoid overstriding by ensuring your ankle is below your knee when landing; transition slowly to prevent injury."
+    },
+    {
+      "advice": "Mix up your exercise routine.",
+      "how_to": "Include a combination of low and high-intensity cardio, strength training, and activities you enjoy."
+    }
+  ],
+  "memorable_stories": [
+    "The Tarahumara tribe uses long-distance running as a form of prayer and betting opportunity.",
+    "A study on Boston policemen showed that those who exercised after a diet were able to keep the weight off more effectively.",
+    "The Biggest Loser contestants who continued exercising were the ones who maintained their weight loss."
+  ],
+  "contrarian_claims": [
+    "Running does not cause knee arthritis and may be preventative.",
+    "Podiatrists are compared to 'drug pushers' for treating symptoms rather than causes with insoles.",
+    "Low doses of exercise (150 minutes per week) are not effective for significant weight loss."
+  ],
+  "episode_id": "moment-206-harvard-professor-reveals-the-biggest-lies-about-exercise-weight-loss",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Moment 206: Harvard Professor Reveals The Biggest Lies About Exercise & Weight Loss!",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-206-harvard-professor-reveals-the-biggest-lies-about-exercise-weight-loss",
+  "processed_at": "2026-03-19T21:08:21"
+}

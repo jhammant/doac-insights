@@ -1,0 +1,118 @@
+{
+  "guest_name": "Louisa Nicola",
+  "expertise_area": "Neuroscience",
+  "key_insights": [
+    {
+      "insight": "Alzheimer's disease is largely preventable through lifestyle interventions, with 95% of cases potentially avoidable.",
+      "quote": "95% of them could have been prevented because this is not a disease of genetics. It's a disease of lifestyle.",
+      "importance": "high"
+    },
+    {
+      "insight": "Resistance training, particularly heavy lifting (80% of 1RM), is highly effective for brain health due to the release of myokines that promote neuronal growth and reduce inflammation.",
+      "quote": "All of the studies show that in order to produce the neural effects of resistance training, you need to be lifting at around 80% of your one repetition max.",
+      "importance": "high"
+    },
+    {
+      "insight": "Having strong legs is particularly important for brain health and Alzheimer's prevention, shown in studies of identical twins where leg strength correlated with larger brain volume and cognitive preservation.",
+      "quote": "The twin, who possessed the greater strength and the most leg power, had a bigger brain, larger gray matter volume. They preserved their cognitive functions.",
+      "importance": "high"
+    },
+    {
+      "insight": "Creatine supplementation, especially at higher doses (15-20 grams per day), can improve cognitive function, energy levels, and potentially protect against brain insults and sleep deprivation.",
+      "quote": "At high doses of creatine, around 30 grams a day, it can protect you against insults...It can protect your brain against a concussion. It can protect your brain against a stroke.",
+      "importance": "high"
+    },
+    {
+      "insight": "Women in perimenopause experience a 30% reduction in brain glucose metabolism, making ketogenic diets a potentially beneficial strategy due to ketones serving as an alternative fuel source.",
+      "quote": "During the onset of perimenopause... we see a decline in estrogen, what happens is a 30% reduction in brain glucose metabolism.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Prioritize high-intensity interval training (HIIT) or Zone 5 exercise over Zone 2, as it provides greater cardiovascular and brain health benefits in less time, especially for women.",
+      "quote": "Women don't get the same return on investment from doing zone two. So I'm trying to push women to first work on zone five, zone three, zone four, zone five.",
+      "importance": "medium"
+    },
+    {
+      "insight": "The heart retains its plasticity until the age of 65, making midlife a critical window to remodel the heart through consistent exercise, potentially reversing age-related defects by 20 years.",
+      "quote": "The heart retains its plasticity, the ability to remodel itself until the age of 65. If this intervention had started after the age of 65, the heart was too stiff to be physically remodeled to get that 20-year reversal.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Even with genetic predispositions like the APOE4 gene, lifestyle factors significantly impact Alzheimer's risk, emphasizing the importance of proactive interventions.",
+      "quote": "APOE4 gene is one of the strongest risk factors of getting Alzheimer's disease, but it is not a foregone conclusion that you're going to get it.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Cognitive reserve, built through continuous learning, novelty, and challenging activities, helps the brain withstand harmful insults and maintain cognitive function.",
+      "quote": "Every time you have a thought, you build a new connection, the more connections that you have, the more things that you see, the more novelty that you give your brain, the richer it gets, the more stable it gets.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Maintaining healthy blood pressure is crucial for brain health, as hypertension can damage capillaries in the brain and compromise the blood-brain barrier.",
+      "quote": "When we have elevated blood pressure, we are starting to kill off those tiny little capillaries of the brain...When we get breaking off of these, we lose the blood supply. We lose the oxygenation. We get a breakdown of the blood brain barrier itself, which is scary.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "health",
+    "psychology",
+    "fitness",
+    "science",
+    "relationships",
+    "habits",
+    "mindset"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Incorporate 10 air squats every hour to counteract a sedentary lifestyle.",
+      "how_to": "Set a timer for every hour and perform 10 air squats when it goes off."
+    },
+    {
+      "advice": "Perform resistance training at 80% of your one-repetition max to maximize benefits for brain health.",
+      "how_to": "Work with a trainer to determine your one-rep max and design a strength training program that incorporates heavy lifting."
+    },
+    {
+      "advice": "Supplement with 15-20 grams of creatine per day, especially when sleep deprived.",
+      "how_to": "Divide the dosage into 3-4 smaller doses throughout the day and mix with water or another beverage."
+    },
+    {
+      "advice": "Engage in 20 minutes of VO2 max training per week to improve heart health and brain function.",
+      "how_to": "Elevate heart rate to 90-95% of max for 4 minutes, followed by 4 minutes of rest, repeated 4 times (Norwegian 4x4)."
+    },
+    {
+      "advice": "Regularly monitor blood pressure, aiming for a reading of 120/80.",
+      "how_to": "Purchase an automatic blood pressure monitor and measure your blood pressure every morning."
+    },
+    {
+      "advice": "Women in perimenopause should consider adopting a ketogenic diet.",
+      "how_to": "Consult with a doctor and nutritionist to design a ketogenic diet plan that meets your individual needs and health goals."
+    },
+    {
+      "advice": "Check the labels of your Omega-3 supplements to ensure they are NSF certified, sourced locally, and store them in the refrigerator to minimize oxidation.",
+      "how_to": "When purchasing Omega-3 supplements, look for the NSF certified label, identify the place of origin, and once you bring them home, store them in a refrigerator or other cold place."
+    },
+    {
+      "advice": "Train for sleep, by starting preparations in the early evening.",
+      "how_to": "Start at 8 PM by avoiding emails, not having hard conversations, and watching calm content, use red light bulbs, and sleep in a cool temperature."
+    },
+    {
+      "advice": "Incorporate exercises that train your visual system, such as playing tennis or doing hand-eye coordination drills, to build cognitive reserve.",
+      "how_to": "A simple drill is tossing a tennis ball, alternating hands, and then doing so with an eyepatch on, while standing on one leg."
+    }
+  ],
+  "memorable_stories": [
+    "Guest's personal story of her grandmother's death from pancreatic cancer, highlighting the importance of women advocating for their health.",
+    "The Roosevelt anecdote describing how he radically changed after 2 years in the Badlands in America."
+  ],
+  "contrarian_claims": [
+    "While high, the importance of amyloid beta protein as a primary culprit in Alzheimer's is overstated; in fact, Amyloid beta is antimicrobial and can protect the brain cells.",
+    "Women do not get the same return on investment from Zone 2 Exercise, and need to prioritize Zone 5 training.",
+    "Common creatinine level tests are not always reliable indicator of kidney function, cystatin C is a better tool. Don't automatically stop creatine supplementation if your creatinine levels are high. ",
+    "Replace all of your lightbulbs with red light"
+  ],
+  "episode_id": "cognitive-decline-expert-the-disease-that-starts-in-your-30s-but-kills-you-in-your-70s",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Cognitive Decline Expert: The Disease That Starts in Your 30s but Kills You in Your 70s",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/cognitive-decline-expert-the-disease-that-starts-in-your-30s-but-kills-you-in-your-70s",
+  "processed_at": "2026-03-19T20:21:38"
+}

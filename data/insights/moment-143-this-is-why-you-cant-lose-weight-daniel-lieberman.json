@@ -1,0 +1,81 @@
+{
+  "guest_name": "Not available",
+  "expertise_area": "Evolutionary Medicine",
+  "key_insights": [
+    {
+      "insight": "Interrupted sitting is healthier than prolonged, uninterrupted sitting.",
+      "quote": "Interrupted sitting is actually much more healthy than non-interrupted sitting for the same amount of time.",
+      "importance": "high"
+    },
+    {
+      "insight": "The idea that natural human beings require eight hours of sleep per night is not supported by evidence from populations without modern technology.",
+      "quote": "This idea that natural human beings sleep eight hours a night is just nonsense. It's just not true.",
+      "importance": "high"
+    },
+    {
+      "insight": "Seven hours of sleep tends to be optimal for most adults, with deviations based on age and individual circumstances.",
+      "quote": "Basically, it turns out that seven is, for most people, optimal.",
+      "importance": "medium"
+    },
+    {
+      "insight": "The 10,000 steps a day recommendation, while beneficial, originated from marketing rather than scientific research.",
+      "quote": "And just out of the blue, they picked 10,000 steps because that's apparently an auspicious number. And it sounded about right. There was no science behind it.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Moderate exercise alone (150 minutes/week) is not very effective for significant weight loss.",
+      "quote": "When you walk 150 minutes a week... you're not going to lose much weight.",
+      "importance": "medium"
+    },
+    {
+      "insight": "While exercise may not cause rapid weight loss, it is critical for preventing weight regain after dieting.",
+      "quote": "Physical activity is really important for helping people prevent themselves from gaining weight or after a diet from regaining weight.",
+      "importance": "high"
+    },
+    {
+      "insight": "Exercise and diet are strongly correlated, with commitment to one often promoting commitment to the other.",
+      "quote": "The minute I managed to get in the gym and do a big workout, the same day my diet came back.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "health",
+    "habits",
+    "science",
+    "fitness",
+    "productivity",
+    "mindset"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Break up prolonged sitting with frequent, short breaks.",
+      "how_to": "Get up every 10-15 minutes to stretch, walk around, or do a quick activity like making tea or petting a pet."
+    },
+    {
+      "advice": "Aim for approximately 7 hours of sleep per night.",
+      "how_to": "Establish a consistent sleep schedule and create a relaxing bedtime routine."
+    },
+    {
+      "advice": "Incorporate higher doses (300 minutes/week or more) of physical activity for weight loss.",
+      "how_to": "Increase the duration or intensity of workouts, focusing on activities you enjoy to maintain consistency."
+    },
+    {
+      "advice": "Prioritize exercise, along with diet, to maintain weight loss.",
+      "how_to": "Continue exercising even after achieving your weight loss goals to prevent weight regain."
+    }
+  ],
+  "memorable_stories": [
+    "Study of Boston policemen who dieted and exercised versus dieted alone, showing the importance of exercise for long-term weight maintenance.",
+    "The Biggest Loser contestants who lost significant weight, but the majority regained it, except for the one who continued exercising."
+  ],
+  "contrarian_claims": [
+    "The popular notion that everyone needs eight hours of sleep is not universally true and may even be detrimental for some individuals.",
+    "Sitting is not inherently harmful; the key is to interrupt prolonged sitting regularly.",
+    "Low doses of exercise (150 minutes per week) are insufficient for significant weight loss."
+  ],
+  "episode_id": "moment-143-this-is-why-you-cant-lose-weight-daniel-lieberman",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Moment 143: This Is Why You Can't Lose Weight: Daniel Lieberman",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-143-this-is-why-you-cant-lose-weight-daniel-lieberman",
+  "processed_at": "2026-03-19T20:58:52"
+}

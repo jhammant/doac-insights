@@ -1,0 +1,77 @@
+{
+  "guest_name": "Boris Johnson",
+  "expertise_area": "Politics",
+  "key_insights": [
+    {
+      "insight": "When parents divorce, children often internalize the separation as their own failure.",
+      "quote": "That's what children feel.They feel it's their failure.There's something wrong with them.And that's not true, but that's how kids feel.",
+      "importance": "high"
+    },
+    {
+      "insight": "Comedic personas can be a way to engage and attract attention in politics.",
+      "quote": "One of the things I've tried to do in politics is to get people interested, and one of the things I'm trying to do in Unleashed, which is unquestionably a mixture, there's a lot of serious argument in it, but also I'm trying to tell the story in as readable a way as possible.",
+      "importance": "medium"
+    },
+    {
+      "insight": "The UK has massive wasted potential due to an uneven distribution of opportunity.",
+      "quote": "There is ambition and energy and genius and talent probably completely evenly distributed throughout the UK population. And opportunity is not.",
+      "importance": "high"
+    },
+    {
+      "insight": "Infrastructure investment is crucial for leveling up and equalizing opportunity.",
+      "quote": "Infrastructure is crucial for leveling up, transport infrastructure is a great equalizer of opportunity, so things like HS2, Northern Powerhouse Rail, we should be going on with those, in my view.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Brexit provided the UK with regulatory freedom that enabled a faster vaccination rollout during the pandemic.",
+      "quote": "One reason we were able to vaccinate so fast is because we had regulatory freedom of exactly the kind… that I had advocated.",
+      "importance": "high"
+    },
+    {
+      "insight": "Blanket apologies can validate false allegations and do a disservice to those working hard.",
+      "quote": "My blanket apology looked as though I was validating and accepting all those criticisms.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "business",
+    "health",
+    "psychology",
+    "relationships",
+    "habits",
+    "money",
+    "leadership",
+    "science",
+    "technology",
+    "politics",
+    "productivity",
+    "communication",
+    "mindset"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "To cope with emotional pain, immerse yourself in work to build self-esteem.",
+      "how_to": "Channel your energy into academic or professional pursuits to regain a sense of accomplishment and purpose."
+    },
+    {
+      "advice": "When facing a public scandal, avoid issuing blanket apologies and wait for the facts to emerge before responding.",
+      "how_to": "Refrain from making broad statements or universal apologies that could validate false accusations. Investigate and address specific issues with targeted apologies once the facts are clear."
+    }
+  ],
+  "memorable_stories": [
+    "David Cameron’s reaction to Boris Johnson’s decision to support leaving the EU, threatening to \"fuck you up forever\" but offering a top job if he stayed.",
+    "Boris Johnson being told about his parents' divorce as a child, and responding with, \"So, why did you have us then?\"",
+    "The anecdote of finding his child at the bottom of a swimming pool in Italy and the incredible service he received.",
+    "The story of accidentally tackling a child in Japan while playing rugby."
+  ],
+  "contrarian_claims": [
+    "Lockdowns may not have been as effective as initially believed due to the natural progression of the virus.",
+    "Issuing a general apology for a scandal can validate false allegations.",
+    "It was better to leave the EU with no concrete plan because there was no democratic way to reform it from within."
+  ],
+  "episode_id": "exclusive-boris-johnson-they-were-looking-at-engineering-the-virus-and-the-government-tried-to-bribe-me",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - (EXCLUSIVE) Boris Johnson: \"They Were Looking at Engineering The Virus\" And The Government Tried To Bribe Me!",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/exclusive-boris-johnson-they-were-looking-at-engineering-the-virus-and-the-government-tried-to-bribe-me",
+  "processed_at": "2026-03-19T20:35:14"
+}

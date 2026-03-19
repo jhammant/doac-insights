@@ -1,0 +1,74 @@
+{
+  "guest_name": "Unknown",
+  "expertise_area": "Sleep Therapy",
+  "key_insights": [
+    {
+      "insight": "Striving for perfect sleep every night is unrealistic and can lead to anxiety and sleep problems.",
+      "quote": "Perfection is the enemy of the good... your body loves consistency and regulation but that does not mean you have to get eight hours of sleep every night.",
+      "importance": "high"
+    },
+    {
+      "insight": "The concept of sleep debt is often misunderstood, and trying to compensate hour-for-hour can lead to further sleep disturbances.",
+      "quote": "People think it's an eye for an eye I lose four hours I must gain four hours well what happens when your body being as efficient as it is doesn't actually need you to gain an extra four hours of sleep to recover you your expectation is that it should and when your expectation doesn't get met you get upset about it.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Fatigue and sleepiness are distinct; sleepiness is specifically the ability to fall asleep quickly.",
+      "quote": "The only definition of sleepiness is the ability to shut your eyes and within a fewminutes you're falling asleep.",
+      "importance": "high"
+    },
+    {
+      "insight": "Relying solely on 'sleep hygiene' practices doesn't guarantee good sleep, as sleep patterns are largely a result of brain training.",
+      "quote": "If you look at good sleepers are they following all those things no they're not and they're still sleeping really well and that's to show that most of the time sleeping poorly comes down to brain training and the patterns we get ourselves into",
+      "importance": "medium"
+    },
+    {
+      "insight": "A consistent wake-up time is more crucial for regulating your body's sleep-wake cycle than a strict bedtime.",
+      "quote": "If you keep changing that goalpost your body doesn't know when to feed you it doesn't know when to make you feel alert because you've changed everything.",
+      "importance": "high"
+    },
+    {
+      "insight": "Quality of sleep matters more than the quantity of hours spent in bed.",
+      "quote": "Quality over quantity every single time every single time and if you have good quality and you need longer your body will tell you and you will get more sleep but people are so obsessed with duration",
+      "importance": "high"
+    },
+    {
+      "insight": "Focusing on your mood and how you approach the day after a bad night's sleep is more beneficial than worrying about the sleep itself.",
+      "quote": "The reality is that it's more your mood that will affect your day when you wake up in the morning than the bad night's sleep you just had",
+      "importance": "high"
+    }
+  ],
+  "topics": [
+    "health",
+    "psychology",
+    "habits",
+    "mindset",
+    "science"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Maintain a consistent wake-up time, even on weekends, to regulate your body's natural sleep-wake cycle.",
+      "how_to": "Set an alarm for the same time every day, regardless of how much sleep you got the night before. Avoid significantly changing your wake time on weekends."
+    },
+    {
+      "advice": "Give yourself a 'sleep opportunity' by making your bedroom available and conducive to sleep during a 7-8 hour window, but don't force yourself to stay in bed if you're not sleepy.",
+      "how_to": "Designate a specific 7-8 hour window as your sleep opportunity. Ensure your bedroom is dark, quiet, and comfortable during this time. If you're not sleepy, get out of bed and do a relaxing activity until you feel tired."
+    },
+    {
+      "advice": "If you have a big event or stressful meeting, prioritize doing something enjoyable before bed rather than obsessing over preparation.",
+      "how_to": "Instead of reviewing notes or working late, engage in a relaxing activity you enjoy for a couple of hours before your bedtime. This helps to reduce anxiety and promote better sleep."
+    }
+  ],
+  "memorable_stories": [
+    "Anecdote about clients who have had insomnia for 50-60 years being surprised at how simple the solution is once they learn proper sleep education."
+  ],
+  "contrarian_claims": [
+    "Good sleep hygiene practices are not necessarily indicative of good sleep and are not followed by naturally good sleepers.",
+    "Lying in to compensate for bad sleep is not a useful strategy and will negatively affect sleep."
+  ],
+  "episode_id": "moment-50-the-most-common-misconceptions-about-sleep-stephanie-romiszewski",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Moment 50 - The Most Common Misconceptions About Sleep: Stephanie Romiszewski",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-50-the-most-common-misconceptions-about-sleep-stephanie-romiszewski",
+  "processed_at": "2026-03-19T21:13:26"
+}

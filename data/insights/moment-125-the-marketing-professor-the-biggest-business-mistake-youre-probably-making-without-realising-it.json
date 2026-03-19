@@ -1,0 +1,72 @@
+{
+  "guest_name": "Not applicable",
+  "expertise_area": "Business Strategy",
+  "key_insights": [
+    {
+      "insight": "Businesses often overemphasize easily quantifiable metrics and underinvest in harder-to-measure but valuable factors like customer loyalty.",
+      "quote": "People generally over-obsess about things which are immediately quantifiable and under-invest in things which are valuable but hard to actually put a figure on.",
+      "importance": "high"
+    },
+    {
+      "insight": "Investing in brand awareness and fame can lead to greater customer forgiveness and price inelasticity.",
+      "quote": "Having a great brand means you get to play the game of capitalism in easy mode.",
+      "importance": "medium"
+    },
+    {
+      "insight": "It's crucial to optimize the bottom of the funnel (conversion) before investing heavily in top-of-funnel brand advertising.",
+      "quote": "The bottom of the funnel in many respects is the thing you have to optimize first.",
+      "importance": "high"
+    },
+    {
+      "insight": "Focusing on repeat purchase rates is critical, as it demonstrates a product's ability to convert customers into loyal users.",
+      "quote": "The first thing in theory you should optimize if you're being an absolute purist is repeat purchase.",
+      "importance": "high"
+    },
+    {
+      "insight": "Relying solely on big data for future predictions can be misleading, as big data reflects past trends and may not account for significant events or shifts in the market.",
+      "quote": "All big data comes from the same place, the past, all right?",
+      "importance": "medium"
+    },
+    {
+      "insight": "There is a false dichotomy between brand advertising and performance/digital marketing, both are important.",
+      "quote": "The tragedy is this idea, this false dichotomy between brand advertising and what you might call performance or digital marketing, as if you have to be in one camp or the other.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Brand mass media expenditure makes the bottom of the funnel cheaper.",
+      "quote": "Top of the funnel makes the bottom of the funnel cheaper.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "business",
+    "marketing",
+    "leadership",
+    "communication",
+    "mindset"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Prioritize optimizing repeat purchase rates as a key performance indicator.",
+      "how_to": "Track and analyze repeat purchase behavior to identify areas for improvement in product quality, customer service, or loyalty programs."
+    },
+    {
+      "advice": "Balance brand advertising (60%) and performance marketing (40%).",
+      "how_to": "Allocate marketing budget in 60/40 split with focus on brand and mass media for the larger portion"
+    }
+  ],
+  "memorable_stories": [
+    "Anecdote about Apple products with flaws being forgiven due to brand loyalty.",
+    "Story about American Express direct mail response rates increasing significantly with TV advertising."
+  ],
+  "contrarian_claims": [
+    "The pursuit of perfect marketing measurement is a 'false god'.",
+    "Religious devotion to bottom of funnel is wrong.",
+    "Religious devotion to brand spend is wrong."
+  ],
+  "episode_id": "moment-125-the-marketing-professor-the-biggest-business-mistake-youre-probably-making-without-realising-it",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Moment 125: The Marketing Professor: The Biggest Business Mistake You’re Probably Making Without Realising It",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-125-the-marketing-professor-the-biggest-business-mistake-youre-probably-making-without-realising-it",
+  "processed_at": "2026-03-19T20:56:03"
+}

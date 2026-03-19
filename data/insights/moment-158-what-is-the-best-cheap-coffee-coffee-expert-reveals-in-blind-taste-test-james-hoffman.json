@@ -1,0 +1,68 @@
+{
+  "guest_name": "Not Applicable",
+  "expertise_area": "Coffee Tasting/Coffee Business",
+  "key_insights": [
+    {
+      "insight": "Darker coffee roasts were once considered better, but lighter roasts are now often favored for preserving more of the bean's inherent qualities.",
+      "quote": "Oilier beans looked kind of fancier whereas it swung the other way and lighter roasts now are considered better or more expensive because they kind of preserve more of the inherent qualities of the raw materials",
+      "importance": "medium"
+    },
+    {
+      "insight": "Smelling coffee beans between perfume samples works because your sense of smell is more responsive to change.",
+      "quote": "Your sense of smell works quite well on change.",
+      "importance": "medium"
+    },
+    {
+      "insight": "You can isolate specific scents within complex aromas by smelling a strong component scent first, suppressing it in the overall profile.",
+      "quote": "If you smell a bunch of cinnamon and then smell Coke, it smells weird because you've deleted cinnamon from Coca-Cola's aroma profile.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Acidity in coffee is generally associated with higher quality beans, although some people dislike it.",
+      "quote": "Generally, acidity is associated with quality in coffee, which is a real sticking point for a lot of people.",
+      "importance": "medium"
+    },
+    {
+      "insight": "There is surprisingly little difference in taste between different coffee chains.",
+      "quote": "The variance between them surprisingly small yeah uh they're not i don't think they taste particularly different to each other in a in a big way",
+      "importance": "high"
+    },
+    {
+      "insight": "Independent coffee shops often provide a better product due to more care and higher quality beans.",
+      "quote": "You can get a better product by someone who cares deeply about it.",
+      "importance": "high"
+    },
+    {
+      "insight": "Chain coffee shops offer a standardized experience, making them a safer choice in unfamiliar locations.",
+      "quote": "Starbucks, the model is built on, I know where to queue, who to talk to, where to stand after I place an order, what kind of food I can get there. It's very safe.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "business",
+    "habits",
+    "psychology"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "When trying to discern complex flavors or scents, try smelling individual components first to isolate them.",
+      "how_to": "If analyzing a complex flavor like Coca-Cola, smell lime, cinnamon, orange and nutmeg individually before tasting the drink again. You will notice they changed"
+    },
+    {
+      "advice": "When traveling, consider independent coffee shops for a potentially higher quality and more unique coffee experience.",
+      "how_to": "Research local independent coffee shops and cafes in the area you will be visiting."
+    }
+  ],
+  "memorable_stories": [
+    "The speaker describes a 'hack' of smelling components of Coca-cola separately to break down the overall smell.",
+    "The speaker recounts people rating pepsi better than coke in blind taste tests."
+  ],
+  "contrarian_claims": [
+    "That the chains are all roughly the same in experience and that independents are far better."
+  ],
+  "episode_id": "moment-158-what-is-the-best-cheap-coffee-coffee-expert-reveals-in-blind-taste-test-james-hoffman",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Moment 158: What is The Best Cheap Coffee? Coffee Expert Reveals In Blind Taste Test: James Hoffman",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-158-what-is-the-best-cheap-coffee-coffee-expert-reveals-in-blind-taste-test-james-hoffman",
+  "processed_at": "2026-03-19T21:01:03"
+}

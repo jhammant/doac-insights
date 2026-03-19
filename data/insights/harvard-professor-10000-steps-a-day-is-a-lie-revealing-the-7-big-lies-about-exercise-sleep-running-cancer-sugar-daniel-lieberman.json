@@ -1,0 +1,95 @@
+{
+  "guest_name": "Daniel Lieberman",
+  "expertise_area": "Evolutionary Biology/Medicine",
+  "key_insights": [
+    {
+      "insight": "Physical activity, especially strength training, slows down senescence (bodily degradation) more than aging itself, particularly as we get older.",
+      "quote": "Aging is just the clock ticking on, right? There's nothing we can do about age. But senescence is the way our bodies degrade as we get older. And what physical activity does, maybe the most important thing about physical activity, is that it slows senescence.",
+      "importance": "high"
+    },
+    {
+      "insight": "Humans evolved to be physically active as grandparents, contributing to their families and communities, and this activity supports physiological processes that counter aging.",
+      "quote": "We evolved to be grandparents... grandparents in the olden days... are working right they're working in the fields they're hunting they're gathering they're getting food for their children and their grandchildren they're helping with child care and that physical activity is you, that's what their job is to be physically active.",
+      "importance": "high"
+    },
+    {
+      "insight": "Sitting isn't inherently bad; the problem is prolonged, uninterrupted sitting without any other physical activity.",
+      "quote": "It's that we sit all day long and don't do anything when we're not sitting... it turns out that people who, if you get up every once in a while, interrupted sitting is actually much more healthy than non-interrupted sitting for the same amount of time.",
+      "importance": "medium"
+    },
+    {
+      "insight": "The concept of 10,000 steps a day, while a decent goal, isn't scientifically precise but serves as a reasonable guideline.",
+      "quote": "Interestingly, it turns out it's pretty good. If you look at steps per day and health outcomes, your average hunter-gatherer walks between 10,000 to 18,000 steps... it turns out to be not that bad a goal, but it's not a perfect number like a lot of things. It's a reasonable goal to shoot for.",
+      "importance": "low"
+    },
+    {
+      "insight": "Many diseases common in the Western world, such as cancer and high blood pressure, are preventable but often confused as an inevitable consequence of aging.",
+      "quote": "What we've done is we've confused diseases that are more common with aging with age being a cause of those diseases in the first place. And they're not inevitable diseases. And many of them are preventable.",
+      "importance": "high"
+    },
+    {
+      "insight": "High insulin levels are carcinogenic, and cancer rates are associated with wealth because of the excess energy availability.",
+      "quote": "Cancer rates are much much more common in the western world there's a strong association between cancer and wealth and that's because cancer is basically a disease of energy... High insulin levels are carcinogenic.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Exercise is crucial for preventing weight gain and weight regain after dieting.",
+      "quote": "Physical activity is really important for helping people prevent themselves from gaining weight or after a diet from regaining weight.",
+      "importance": "medium"
+    },
+    {
+      "insight": "The key to adherence is social, when it's necessary or rewarding, and what makes it rewarding for most people is the social aspect.",
+      "quote": "The more I study it, the more I think it's social. The more I think that, again, I think people are physically active, i.e. in our modern world, exercise for two reasons: when it's necessary or rewarding. And what makes it rewarding for most people is the social aspect.",
+      "importance": "high"
+    }
+  ],
+  "topics": [
+    "health",
+    "habits",
+    "science",
+    "fitness",
+    "mindset",
+    "psychology",
+    "relationships"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Interrupt sitting every 10-15 minutes to activate cellular mechanisms and lower blood sugar.",
+      "how_to": "Get up to pee, make tea, pet your dog, or do any brief activity."
+    },
+    {
+      "advice": "Incorporate resistance training into your routine, especially as you age, to combat muscle loss.",
+      "how_to": "Aim for at least two strength workouts per week."
+    },
+    {
+      "advice": "Strengthen your feet to prevent plantar fasciitis by wearing minimal shoes and doing foot exercises.",
+      "how_to": "Transition gradually to minimal shoes like Vivo barefoots, perform foot doming exercises, and walk barefoot more often."
+    },
+    {
+      "advice": "Focus on running form, especially avoiding overstriding, to minimize knee impact.",
+      "how_to": "Aim for a high stride rate (170-180 steps per minute) with short strides and land with your ankle below your knee."
+    },
+    {
+      "advice": "Cut down on sugar and foods that are high in sugar and low in fiber (high glycemic foods).",
+      "how_to": "Replace sugary beverages with water and eat more fruit rather than processed candies."
+    }
+  ],
+  "memorable_stories": [
+    "The Tarahumara runner who didn't understand the concept of 'training,' highlighting how exercise is a modern construct.",
+    "The CEO of Bjorn Borg company who required employees to exercise every Friday.",
+    "The friend who donates to the NRA if they don't meet their exercise goals.",
+    "Visiting honey addicts in Africa",
+    "Ralph Paffenbarger's study of Harvard Alumni showing the increasing importance of exercise with age"
+  ],
+  "contrarian_claims": [
+    "The idea that sitting is the new smoking is misleading; it's prolonged uninterrupted sitting that's harmful.",
+    "The common belief that you need eight hours of sleep a night is nonsense; 6-7 hours is generally sufficient.",
+    "Running is bad for your knees is a myth; it's more likely that running incorrectly is more likely to lead to injuries.",
+    "Most Westerners are likely more healthy if they looked like a marathon runner or football player more than a weightlifter."
+  ],
+  "episode_id": "harvard-professor-10000-steps-a-day-is-a-lie-revealing-the-7-big-lies-about-exercise-sleep-running-cancer-sugar-daniel-lieberman",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Harvard Professor: \"10,000 Steps A Day\" Is A LIE! Revealing The 7 BIG LIES About Exercise, Sleep, Running, Cancer & Sugar!!! Daniel Lieberman",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/harvard-professor-10000-steps-a-day-is-a-lie-revealing-the-7-big-lies-about-exercise-sleep-running-cancer-sugar-daniel-lieberman",
+  "processed_at": "2026-03-19T20:39:25"
+}

@@ -1,0 +1,80 @@
+{
+  "guest_name": "Simon Sinek",
+  "expertise_area": "Leadership and Organizational Culture",
+  "key_insights": [
+    {
+      "insight": "True vulnerability requires difficult, face-to-face conversations rather than broadcasting emotions on social media.",
+      "quote": "Do that exact same thing with the person you hurt. That is way more difficult. Don't leave a voice memo saying, hey, I'm really sorry, just taking accountability. Call them or go visit them and look them in the eye and say that exact same sentence that you just left a voice memo for. That's vulnerability.",
+      "importance": "high"
+    },
+    {
+      "insight": "You don't get to decide when you're present; presence is validated by others feeling heard and understood.",
+      "quote": "You actually are not present until someone else says you are. You know, you don't get to sit with a friend and be like, I feel present if they don't feel it.",
+      "importance": "high"
+    },
+    {
+      "insight": "The deep sense of purpose and meaning to one's work comes when things are done primarily for another, where our own benefit is secondary.",
+      "quote": "But the sense of the deep feeling sense of purpose and meaning to one's life or to one's work only comes when those things are for another. And in my view, primarily for another, where our benefit is secondary.",
+      "importance": "high"
+    },
+    {
+      "insight": "In the face of ethical fading, organizations are susceptible to unethical decisions justified by rationalizations, slippery slopes, and euphemisms.",
+      "quote": "And so what creates ethical fading is a series of things. One of those things is we rationalize... Another part is the old slippery slope.",
+      "importance": "high"
+    },
+    {
+      "insight": "The Great Resignation is an indictment on decades of substandard corporate culture and poor leadership, stemming from the realization that the unknown may be less scary than the familiar 'fine'.",
+      "quote": "I don't think enough companies are recognizing that the great resignation is an indictment, that the great resignation is a wag of the finger that you have been getting away with substandard culture and poor leadership for too long, and you better fix your stuff.",
+      "importance": "high"
+    },
+    {
+      "insight": "Success after achieving a selfish goal, is fleeting, while a life of service provides infinite meaning.",
+      "quote": "And so when it's complete, they realize they don't really have a lot of friends around them. They don't really have a lot of close relationships. They don't really even have a sense of purpose because they've been spent the past 20 years or so with one purpose, which was this finite goal, which now has run out.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Self-awareness is a data point, but real awareness and growth is letting others help you by asking for help.",
+      "quote": "You know, we don't build trust by offering help. We build trust by asking for it because it's a vulnerable thing to ask for help.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "business",
+    "leadership",
+    "psychology",
+    "relationships",
+    "habits",
+    "mindset",
+    "communication"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Implement a 360-degree review system with a focus on specific examples.",
+      "how_to": "Have team members identify their top three weaknesses and strengths with specific examples, then collate and distribute this feedback, and have a meeting where people add to each other's lists and say thank you."
+    },
+    {
+      "advice": "Challenge yourself and your team to go 48 hours without telling a single lie, even white lies.",
+      "how_to": "Pay attention to the small, habitual lies told throughout the day and actively choose to be truthful, even if it's uncomfortable. Aim for truth that is not brutal, but just true."
+    },
+    {
+      "advice": "Replace judgment with curiosity when addressing performance issues in the workplace.",
+      "how_to": "Instead of immediately labeling someone as lazy or a problem, take the time to investigate the root cause of their behavior, considering factors such as personal issues, lack of skills, or conflicts with coworkers."
+    }
+  ],
+  "memorable_stories": [
+    "Simon's story of realizing he was a terrible listener to his loved ones despite being a professional listener.",
+    "The story of the Army Rangers and their peer review system to identify 'Spotlight Rangers' who were jerks when the instructors weren't around.",
+    "Simon's true story about forgetting the big phone call and how his assistant lied to protect him."
+  ],
+  "contrarian_claims": [
+    "Individual goals are actually selfish goals.",
+    "Personal achievements alone will not make you happy.",
+    "Vulnerability and broadcasting your feelings on social media aren't actually the same thing.",
+    "A company's culture cannot be defined by its staff, it has to be offered to them."
+  ],
+  "episode_id": "simon-sinek-the-number-one-reason-why-youre-not-succeeding",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Simon Sinek: The Number One Reason Why You’re Not Succeeding",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/simon-sinek-the-number-one-reason-why-youre-not-succeeding",
+  "processed_at": "2026-03-19T21:37:27"
+}

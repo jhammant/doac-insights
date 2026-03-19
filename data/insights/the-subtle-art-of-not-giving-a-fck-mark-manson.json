@@ -1,0 +1,90 @@
+{
+  "guest_name": "Mark Manson",
+  "expertise_area": "Personal Development",
+  "key_insights": [
+    {
+      "insight": "True happiness often lies in the unglamorous aspects of life, not just fleeting highs.",
+      "quote": "Happiness is being able to sit at home on the couch and not say anything and be completely satisfied. Happiness is actually often very boring.",
+      "importance": "high"
+    },
+    {
+      "insight": "To change your values, you must live them and then have them fail you before you can truly understand what you value.",
+      "quote": "You can't just sit on the couch and think your way out of your values. Like you need to go live them and then have them fail you really.",
+      "importance": "high"
+    },
+    {
+      "insight": "Every unethical or unhealthy action involves treating another person as a means to an end, valuing external things over the individual themselves.",
+      "quote": "Anything that is unethical or unhealthy, it's because we're not, we're treating another person as a means to another end.",
+      "importance": "high"
+    },
+    {
+      "insight": "To discover what you truly want in life, you need to get things wrong a couple of times, experiencing dead ends to understand your real motivations.",
+      "quote": "You need to get it wrong a couple of times because we're experts at tricking ourselves... You need to hit a couple dead ends.",
+      "importance": "high"
+    },
+    {
+      "insight": "Building a healthy relationship with others begins with a healthy relationship with yourself, valuing your thoughts, wellbeing, and boundaries.",
+      "quote": "Every healthy relationship with somebody else, it starts with a healthy relationship with yourself.",
+      "importance": "high"
+    },
+    {
+      "insight": "A healthy relationship is where efforts of both parties are matched making it feel easy and stable, unlike constantly pushing a boulder uphill in unhealthy relationships.",
+      "quote": "Whereas a healthy relationship, it feels like pushing a rock down a hill. You know, it's like you just give a little bit of a tug and it just goes... it doesn't even feel like you're putting effort into it anymore.",
+      "importance": "medium"
+    },
+    {
+      "insight": "The constant striving for social validation is ingrained in us but what matters is finding values once external validation is removed.",
+      "quote": "We're wired to want status. We're wired to want to be beautiful and sexy and to want to impress others. Like that's never going to go away. The question is, is like, what do you want once that is kind of removed from the equation?",
+      "importance": "medium"
+    },
+    {
+      "insight": "It's crucial to distinguish between responsibility and fault and taking ownership and action.",
+      "quote": "It's not my fault that I got hit by a car, but it's still my responsibility.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "psychology",
+    "relationships",
+    "habits",
+    "money",
+    "business",
+    "mindset",
+    "leadership",
+    "spirituality"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Create rules for yourself to gracefully decline requests and protect your time and energy.",
+      "how_to": "Develop simple 'rules' like 'I only do four events a year' or 'If it's not a fuck yes, it's a no' to communicate boundaries without creating emotional friction."
+    },
+    {
+      "advice": "When facing a difficult situation, actively choose what to focus on and look for positive aspects.",
+      "how_to": "Instead of dwelling on the negative, try to identify fortunate aspects or opportunities for growth within the challenge."
+    },
+    {
+      "advice": "Continuously question your motivations by asking 'why' to uncover deeper, more meaningful goals.",
+      "how_to": "Regularly analyze your decisions and goals by asking 'Why am I doing this?' and exploring potential hidden motivations or insecurities."
+    },
+    {
+      "advice": "Practice radical honesty to cultivate authenticity.",
+      "how_to": "Being truthful to yourself and others about who you are, your passions, feelings and thoughts so that true self can emerge and be protected."
+    }
+  ],
+  "memorable_stories": [
+    "Mark's story of working in finance for six weeks and quitting after realizing it wasn't for him.",
+    "Will Smith's dad questioning why he bought four cars when he only had one ass, leading to Smith's bankruptcy.",
+    "Mark Manson's post-Subtle Art success low, where he felt depressed despite financial and professional accomplishments."
+  ],
+  "contrarian_claims": [
+    "Personal Development can be hidden in other places like the pickup artist community and its not as frowned upon as more conventional personal development resources were at one point in time.",
+    "Success can breed depression and mental health issues, contrary to popular belief that its only failure.",
+    "Happiness is not as gratifying as it is to sit and do nothing.",
+    "You need to get a couple things 'wrong' before you can get them right."
+  ],
+  "episode_id": "the-subtle-art-of-not-giving-a-fck-mark-manson",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - The Subtle Art Of Not Giving A F*ck: Mark Manson",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/the-subtle-art-of-not-giving-a-fck-mark-manson",
+  "processed_at": "2026-03-19T21:55:19"
+}

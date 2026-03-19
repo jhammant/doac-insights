@@ -1,0 +1,92 @@
+{
+  "guest_name": "Thomas Seyfried",
+  "expertise_area": "Cancer Metabolism, Biology, Genetics, Biochemistry",
+  "key_insights": [
+    {
+      "insight": "Cancer is primarily a metabolic disease, not a genetic one, and its root cause lies in dysfunctional mitochondria.",
+      "quote": "The evidence is massive to support that cancer is a metabolic disorder.",
+      "importance": "high"
+    },
+    {
+      "insight": "Cancer cells rely on fermentation for energy, using glucose and glutamine as primary fuels.",
+      "quote": "They depend on a fermentation, energy without oxygen. So all cancers are a singular type of disease.",
+      "importance": "high"
+    },
+    {
+      "insight": "Metabolic therapy, involving calorie restriction and ketogenic diets, can manage cancer by targeting its energy source.",
+      "quote": "A solution to the cancer problem to manage cancer without toxicity is to simultaneously restrict the two fuels that are needed to drive this dysregulated growth while transitioning the whole body off to a fuel that the tumor cells can't use, which is fatty acids and ketone bodies.",
+      "importance": "high"
+    },
+    {
+      "insight": "A low Glucose Ketone Index (GKI) below 2.0 can indicate being in the 'Paleolithic Zone', where our ancestors rarely got cancer.",
+      "quote": "And it allows the cancer patient to know that if I keep this zone at 2.0 and below, my tumor cells aren't going to be able to grow very fast.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Standard cancer treatments, like radiation, can inadvertently fuel cancer growth by increasing glucose and glutamine in the tumor microenvironment.",
+      "quote": "When you irradiate somebody's brain who has one of these tumors, you free up massive amounts of glucose and glutamine in the microenvironment.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Hyperbaric oxygen therapy can selectively kill tumor cells when combined with nutritional ketosis by increasing ROS production inside the cancer cells.",
+      "quote": "Then you're taking away the two fuels that protect the tumor, and you're giving it internal ROS, which kills the tumor internally, only to the tumor cell, not to your surrounding tissues.",
+      "importance": "medium"
+    },
+    {
+      "insight": "The modern diet, high in processed carbs and lacking in traditional foods, contributes significantly to cancer risk.",
+      "quote": "We did not evolve to eat pork pies and Dunkin' Donuts, jelly-filled donuts and pizzas. We did not.",
+      "importance": "medium"
+    },
+    {
+      "insight": "It's crucial to focus on overall survival, not just progression-free survival, when evaluating cancer treatments.",
+      "quote": "A lot of the new drugs that we're giving do a really good job at progression-free survival, but they do a horrible job in keeping people alive much longer, which ultimately is what you want to do.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "health",
+    "science",
+    "habits",
+    "mindset",
+    "productivity",
+    "fitness",
+    "money",
+    "business",
+    "technology",
+    "psychology"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Monitor your Glucose Ketone Index (GKI) to determine if you are in the 'Paleolithic Zone'.",
+      "how_to": "Purchase a Keto-Mojo meter, measure blood glucose and ketone levels, and calculate GKI (glucose/ketones). Aim for a GKI below 2.0."
+    },
+    {
+      "advice": "Incorporate water-only fasting into your routine periodically.",
+      "how_to": "Gradually increase the duration of your fasts, starting with intermittent fasting (e.g., 18-20 hours) and working up to longer fasts, ensuring adequate hydration."
+    },
+    {
+      "advice": "Reduce the consumption of processed carbohydrates and prioritize whole, unprocessed foods.",
+      "how_to": "Replace sugary drinks, refined grains, and processed snacks with leafy green vegetables, lean proteins, and healthy fats. Focus on foods with a low glycemic index."
+    },
+    {
+      "advice": "Prioritize vigorous exercise to lower blood sugar and glutamine levels.",
+      "how_to": "Engage in regular aerobic exercise to burn ketones and improve mitochondrial efficiency. Aim for activities that increase oxygenation."
+    }
+  ],
+  "memorable_stories": [
+    "Linda Nebling's use of ketogenic diets to help children with brain cancer.",
+    "The woman who treated her dog's mast cell tumor with metabolic therapy.",
+    "The case of Pablo Kelly, who survived 10 years with glioblastoma using metabolic therapy and multiple debulking surgeries."
+  ],
+  "contrarian_claims": [
+    "Cancer is primarily a metabolic disease, not a genetic one.",
+    "Current cancer research, focused on genetic mutations, is misdirected and ineffective.",
+    "Standard cancer treatments like radiation and chemotherapy can, in some cases, fuel cancer growth.",
+    "The focus should be on overall survival, not just progression-free survival, when evaluating cancer treatments."
+  ],
+  "episode_id": "the-groundbreaking-cancer-expert-new-research-this-common-food-is-making-cancer-worse-cancer-is-getting-worse-worldwide-it-might-not-be-genetic-its-your-diet",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - The Groundbreaking Cancer Expert: (New Research) This Common Food Is Making Cancer Worse! Cancer Is Getting Worse Worldwide & It Might Not Be Genetic, It's Your Diet!",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/the-groundbreaking-cancer-expert-new-research-this-common-food-is-making-cancer-worse-cancer-is-getting-worse-worldwide-it-might-not-be-genetic-its-your-diet",
+  "processed_at": "2026-03-19T21:45:06"
+}

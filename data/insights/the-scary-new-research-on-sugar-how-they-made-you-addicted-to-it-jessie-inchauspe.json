@@ -1,0 +1,91 @@
+{
+  "guest_name": "Jessie Inchauspé",
+  "expertise_area": "Biochemistry",
+  "key_insights": [
+    {
+      "insight": "Eating food in a specific order (veggies, protein/fats, then starches/sugars) can reduce glucose spikes by up to 75% without changing the meal.",
+      "quote": "If you eat the ingredients in the meal in a specific order, you can reduce the glucose spike of that meal by up to 75% without changing how much you're eating, what you're eating.",
+      "importance": "high"
+    },
+    {
+      "insight": "The drop after a glucose spike activates the craving center in your brain.",
+      "quote": "This drop has been shown to activate the craving center in your brain, literally telling you, Stephen, find something else to eat that's sweet ASAP.",
+      "importance": "high"
+    },
+    {
+      "insight": "Fiber creates a viscous mesh in the intestine, slowing down glucose absorption and reducing spikes.",
+      "quote": "That viscous mesh that fiber has created is then going to reduce the spike of your meal because all the glucose molecules arriving lateron from like the pasta, for example, are not going to be able to make their way as quicklyand as much through your intestine into your bloodstream.",
+      "importance": "high"
+    },
+    {
+      "insight": "Balancing glucose levels is a foundational aspect of both physical and mental health.",
+      "quote": "Learning to balance your glucose levels is like learning about the most important lever in the cockpit of the plane it's like if you know about this lever, you can take off, you can fly, you can land. It's like the most important thing.",
+      "importance": "high"
+    },
+    {
+      "insight": "Fruit juice is not a health food; it contains nearly as much sugar as Coca-Cola and lacks the protective fiber of whole fruit.",
+      "quote": "Your body doesn't care whether the sugar came from a piece of fruit or if it came from like cane sugar and is in a can of Coca-Cola. The molecules in the apple juice and in the can of Coke are the same.",
+      "importance": "high"
+    },
+    {
+      "insight": "Eating something sweet releases dopamine, making sugar cravings addictive.",
+      "quote": "When you eat something sweet, it releases a molecule called dopamine in our brain. And dopamine is a pleasure molecule...Humans love dopamine.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Glucose spikes damage mitochondria and can lead to tiredness.",
+      "quote": "During a spike, when you give them way too much glucose,way too quickly, they kind of like shut down. They're like, I just, TMI, I cannot, too much information, like I can't deal with this. They sort of go on strike.",
+      "importance": "medium"
+    },
+    {
+      "insight": "High insulin levels shut down fat cells, making weight loss more difficult.",
+      "quote": "When there's a lot of insulin around, insulin, when she's around, she's like, okay, everybody, stop. We're only going to be putting stuff into fat cells. Nothing can come out of fat cells.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Too much sugar for breakfast creates a rollercoaster of glucose levels and can therefore result in sugar cravings throughout the day.",
+      "quote": "When you create a big glucose spike at breakfast, your entire day then becomes completely like a glucose rollercoaster. The breakfast spike really dictates how you're going to be doing for the rest of the day.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "health",
+    "habits",
+    "science",
+    "fitness",
+    "mindset",
+    "psychology",
+    "food"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Eat vegetables as a starter before meals.",
+      "how_to": "Consume raw or cooked vegetables (approximately 30% of the meal) before anything else.  Dress with olive oil, vinegar, or lemon to enhance flavor."
+    },
+    {
+      "advice": "Perform calf raises after meals.",
+      "how_to": "Do some calf raises like this nobody will see and you'll be helping people think i'm so weird"
+    },
+    {
+      "advice": "Consume a savory breakfast instead of a sweet one.",
+      "how_to": "Prioritize protein, fats, and fiber over starches and sugars. Examples include eggs, fish, meat, avocado, and vegetables."
+    },
+    {
+      "advice": "Drink a tablespoon of vinegar in a tall glass of water before eating.",
+      "how_to": "Dilute one tablespoon of vinegar in a tall glass of water and drink it before starting your meal to reduce glucose spikes. Make sure you dilute it, it's better for your teeth."
+    }
+  ],
+  "memorable_stories": [
+    "Jessie's story of breaking her back after jumping off a waterfall at 19 and the subsequent mental health challenges she faced."
+  ],
+  "contrarian_claims": [
+    "Fruit juice is as unhealthy as Coca-Cola because it lacks fiber and causes glucose spikes.",
+    "Counting calories is a reductive and unhelpful approach to health; focusing on balancing glucose levels is more effective.",
+    "Sugar doesn't provide energy, it primarily gives pleasure due to dopamine release."
+  ],
+  "episode_id": "the-scary-new-research-on-sugar-how-they-made-you-addicted-to-it-jessie-inchauspe",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - The Scary New Research On Sugar & How They Made You Addicted To It! Jessie Inchauspé",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/the-scary-new-research-on-sugar-how-they-made-you-addicted-to-it-jessie-inchauspe",
+  "processed_at": "2026-03-19T21:54:01"
+}

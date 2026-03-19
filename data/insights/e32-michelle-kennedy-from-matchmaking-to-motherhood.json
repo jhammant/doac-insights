@@ -1,0 +1,88 @@
+{
+  "guest_name": "Michelle Kennedy",
+  "expertise_area": "Entrepreneurship",
+  "key_insights": [
+    {
+      "insight": "Entrepreneurship is a completely all-consuming endeavor that requires constant attention and effort.",
+      "quote": "It is a constant, constant, all-consuming story. That means I wake up, I check peanut and I check my emails. That's before I do anything else, before I go to sleep. Sometimes in the middle of the night, I do the same um it is completely all-consuming",
+      "importance": "high"
+    },
+    {
+      "insight": "It's important to validate an app idea and test the market before investing heavily in building the app.",
+      "quote": "There are ways to test what you want to build without having to go all in with the app, right? That's just a fact.",
+      "importance": "high"
+    },
+    {
+      "insight": "Self-doubt can be a consuming force for entrepreneurs, but it's crucial to keep it in check by focusing on the potential upside.",
+      "quote": "Self-doubt is something that can consume you if you don't keep it in check. And I suppose it's just having that element of what's the worst that can happen?",
+      "importance": "medium"
+    },
+    {
+      "insight": "One can change their mindset to become more entrepreneurial by challenging oneself to embrace risk.",
+      "quote": "I never, I didn't always have this mindset and i think it's really important to note that you can change your mindset...it's completely the opposite when you're an entrepreneur, you see it and you do it anyway.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Women face unique challenges in entrepreneurship, but having conversations and creating opportunities can enable them to succeed.",
+      "quote": "I don't think it should be harder for women. I think there are obvious challenges. And I think we're having conversations trying to make it better.",
+      "importance": "medium"
+    },
+    {
+      "insight": "It is critical to act with integrity and surround yourself with people who share your values.",
+      "quote": "I want people to know that I act with integrity and I want to act with integrity and I want to work with people who do um and that is really important",
+      "importance": "high"
+    },
+    {
+      "insight": "The sacrifices involved in being a founder, such as personal relationships, finances, and social life, should be considered carefully.",
+      "quote": "There are sacrifices in terms of personal relationships. It will take its toll on some of your friendships.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Money can provide security but the integrity of work ethic and the sense of achievement are more closely tied to happiness.",
+      "quote": "It's not happiness. It's linked to security. But what's more tied to happiness is like the integrity of work ethic and the integrity of feeling like, yeah, I did that for us. And you can do it for you.",
+      "importance": "high"
+    }
+  ],
+  "topics": [
+    "business",
+    "relationships",
+    "habits",
+    "money",
+    "leadership",
+    "technology",
+    "psychology",
+    "mindset"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Test your app idea before investing heavily in development.",
+      "how_to": "Explore ways to validate the idea without building the full app, such as mockups, landing pages, or pilot programs."
+    },
+    {
+      "advice": "Combat insomnia related to entrepreneurship",
+      "how_to": "Use a sleep app like Calm, avoid checking emails past 11pm, turn phone to airplane mode and reduce alcohol consumption."
+    },
+    {
+      "advice": "If you're a young woman looking to start a business in tech seek advice from others.",
+      "how_to": "Speak to as many people as you can, shadow someone, get information and learn from people. "
+    },
+    {
+      "advice": "Do not create a product for yourself, get feedback from your user base.",
+      "how_to": "Speak to one woman and then every time get that woman to introduce you to another woman to get feedback from outside your own network. "
+    }
+  ],
+  "memorable_stories": [
+    "The story of Peanut's recognition at Apple's WWDC, symbolizing their impact on women and mothers.",
+    "The anecdote about forgetting fancy dress day at son's school, a relatable struggle for working mothers.",
+    "Discussion of personal relationship breakdown impacting founder's self esteem and vision for the company."
+  ],
+  "contrarian_claims": [
+    "It's a myth that being a 'good' person is synonymous with weakness or ineffectiveness in business.",
+    "While there are some obvious challenges for women in entrepreneurship, it should not be harder and things are getting better."
+  ],
+  "episode_id": "e32-michelle-kennedy-from-matchmaking-to-motherhood",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - E32 Michelle Kennedy - From Matchmaking to Motherhood",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/e32-michelle-kennedy-from-matchmaking-to-motherhood",
+  "processed_at": "2026-03-19T20:29:43"
+}

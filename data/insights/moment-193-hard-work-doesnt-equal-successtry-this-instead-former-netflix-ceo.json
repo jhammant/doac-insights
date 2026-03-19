@@ -1,0 +1,75 @@
+{
+  "guest_name": "Not specified",
+  "expertise_area": "Entrepreneurship/Business Strategy",
+  "key_insights": [
+    {
+      "insight": "Hard work alone doesn't guarantee success; strategic focus is more important.",
+      "quote": "If you're smart about the things that you choose to focus on, you make 99% of the difference.",
+      "importance": "high"
+    },
+    {
+      "insight": "Early in your career, hard work is crucial to establish yourself and gain experience.",
+      "quote": "When you're younger, when you don't really know what you're doing...you better work your ass off. You better sprint.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Many small things don't significantly impact the outcome, so focus on the vital few.",
+      "quote": "I do not need to get everything right because most things don't make a difference.",
+      "importance": "high"
+    },
+    {
+      "insight": "True product-market fit is characterized by a significant shift in business momentum and customer enthusiasm.",
+      "quote": "Product market fit...is when you recognize you finally have something that customers actually do want. And it's recognized because all of a sudden, the momentum of your business dramatically shifts.",
+      "importance": "high"
+    },
+    {
+      "insight": "Rapid experimentation, even if sloppy, is more effective than slow, perfect testing.",
+      "quote": "It turns out that it didn't make a difference. That if it was a bad idea, even spending a month crafting this perfect test, wasn't gonna make it a good idea.",
+      "importance": "high"
+    },
+    {
+      "insight": "When a good idea is tested, customers show immediate and strong positive signals.",
+      "quote": "If it had even an inkling of being a good idea, no matter how bad the test was, it's shown through. Customers would immediately perk their head up.",
+      "importance": "medium"
+    },
+    {
+      "insight": "The key to success is building a system and culture that encourages trying many ideas, even if they are bad.",
+      "quote": "It's not about having a good idea. It's about building this whole process and this culture and this system to try lots of bad ideas.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "business",
+    "habits",
+    "productivity",
+    "mindset",
+    "leadership",
+    "creativity"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Identify the 20% of activities that drive 80% of your results and focus on those.",
+      "how_to": "Track your time and results for a week, then analyze the data to pinpoint the most impactful activities. Delegate or eliminate the rest."
+    },
+    {
+      "advice": "Prioritize rapid experimentation and testing of new ideas, even if it means imperfections.",
+      "how_to": "Set a goal to test one new idea per week, focusing on speed and customer feedback rather than perfect execution."
+    },
+    {
+      "advice": "Focus on upstream preparation rather than last-minute efforts.",
+      "how_to": "Identify recurring situations where you find yourself rushing and create a checklist to ensure better preparedness in advance."
+    }
+  ],
+  "memorable_stories": [
+    "The triathlon anecdote illustrates the need to sprint early in a career to gain an advantage, followed by pacing oneself.",
+    "The airport story of running for planes highlights the futility of frantic effort when fundamental preparation is lacking."
+  ],
+  "contrarian_claims": [
+    "Hard work alone is not the key to success, and in some cases, can be a myth."
+  ],
+  "episode_id": "moment-193-hard-work-doesnt-equal-successtry-this-instead-former-netflix-ceo",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Moment 193: Hard Work Doesn't Equal Success…Try This Instead...: Former Netflix CEO",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-193-hard-work-doesnt-equal-successtry-this-instead-former-netflix-ceo",
+  "processed_at": "2026-03-19T21:06:16"
+}

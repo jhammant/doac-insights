@@ -1,0 +1,80 @@
+{
+  "guest_name": "Scott Galloway",
+  "expertise_area": "Business Strategy",
+  "key_insights": [
+    {
+      "insight": "Diversifying investments using low-cost index funds is a more reliable path to wealth than trying to beat the market.",
+      "quote": "All you need to know is diversification, right? SPY, start saving young.",
+      "importance": "high"
+    },
+    {
+      "insight": "Alternative investment returns, when aggregated, often underperform the S&P 500 due to high fees.",
+      "quote": "If you look at the entire alternative investments industry, hedge funds, private equity funds, mutual funds, anyone on CNBC, if you took all of their returns in aggregate, they're less than the S&P by the amount of their fees.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Forced savings mechanisms, like employer-matched contributions or automated investment apps, are crucial for building wealth.",
+      "quote": "Try as hard as you can to put yourself in a position where you invest despite your best efforts not to. Because the majority of us will get that money and go buy a flat screen TV.",
+      "importance": "high"
+    },
+    {
+      "insight": "Real estate, particularly in the US, offers tax advantages and serves as a form of forced savings, but should not consume more than 40% of one's income.",
+      "quote": "But I still think it's in the US at least, real estate is the most tax advantage.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Young people should start investing early, as time and compounding interest are significant advantages.",
+      "quote": "Your advantage when you're young is time.",
+      "importance": "high"
+    },
+    {
+      "insight": "Even experts in finance don't truly know how the market will perform.",
+      "quote": "I know the brightest people in finance. And what my net conclusion is that none of them have any fucking idea.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Don't wait to invest until you have a large sum of money; start with small amounts to take advantage of compounding.",
+      "quote": "The way you get a million pounds is by investing that 500.",
+      "importance": "high"
+    }
+  ],
+  "topics": [
+    "money",
+    "business",
+    "habits",
+    "psychology",
+    "relationships",
+    "mindset"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Invest in a low-cost S&P 500 index fund like SPY.",
+      "how_to": "Open a brokerage account (e.g., public.com) and purchase shares of SPY or a similar ETF."
+    },
+    {
+      "advice": "Find forced savings mechanisms.",
+      "how_to": "Enroll in employer-sponsored retirement plans, use apps that round up purchases to invest the difference, or automate transfers to an investment account."
+    },
+    {
+      "advice": "Gamify spending with a partner.",
+      "how_to": "Find someone with similar financial goals and create a competition to see who can save the most money each month."
+    },
+    {
+      "advice": "Limit speculation to a small portion of your portfolio.",
+      "how_to": "Allocate no more than 30% of your investment funds to individual stocks or high-risk investments."
+    }
+  ],
+  "memorable_stories": [
+    "The guest's story about spending his first bonus on a BMW instead of investing in SPY, which would have been significantly more valuable now.",
+    "The guest's friend Lee Lowe scraping together $2000 for an IRA and how that early saving compounded to make him a multimillionaire."
+  ],
+  "contrarian_claims": [
+    "Most financial experts on TV don't outperform the S&P 500 after fees.",
+    "Investing in single companies or trying to pick stocks is usually a losing strategy for most people."
+  ],
+  "episode_id": "moment-194-how-to-get-rich-slowly-scott-galloway",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Moment 194: How To Get Rich *SLOWLY*: Scott Galloway",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-194-how-to-get-rich-slowly-scott-galloway",
+  "processed_at": "2026-03-19T21:06:25"
+}

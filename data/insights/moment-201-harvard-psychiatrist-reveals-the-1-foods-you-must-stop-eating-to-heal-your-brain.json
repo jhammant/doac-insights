@@ -1,0 +1,67 @@
+{
+  "guest_name": "Not provided in transcript",
+  "expertise_area": "Nutritional Psychiatry",
+  "key_insights": [
+    {
+      "insight": "Mental disorders are fundamentally metabolic in nature, highlighting the crucial role of diet.",
+      "quote": "If you put it all together, you come to this sound bite that mental disorders are metabolicin nature.",
+      "importance": "high"
+    },
+    {
+      "insight": "Ultra-processed foods can disrupt mitochondrial function, increasing the risk of mental health disorders.",
+      "quote": "People who eat a lot of ultra-processed food have higher risk for developing depression, anxiety, and other mental disorders.",
+      "importance": "high"
+    },
+    {
+      "insight": "Anxiety and stress are not inherently negative; they can be adaptive responses to threatening situations.",
+      "quote": "It is normal and actually healthyto have anxiety and stress in those situations.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Personal history of trauma influences the body's stress response, potentially increasing vigilance in similar situations.",
+      "quote": "Your own personal history almost certainly informs your level of stress response.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Metabolic syndrome can significantly impact mental health, as evidenced by improvements observed with dietary changes.",
+      "quote": "Within three months, my metabolic syndrome was completely gone. But the thing that just dumbfounded me was that my mental health was better thanit had ever been in my entire life.",
+      "importance": "high"
+    },
+    {
+      "insight": "Dietary interventions are a part of a healing strategy for mental disorders, but other factors like sleep, substance use and medications also play a role.",
+      "quote": "Diet interventions would absolutely be a part of a healing strategy. A part of it, not the only strategy. I would want to know about their sleep.I would want to know about substance use.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "health",
+    "psychology",
+    "habits",
+    "science",
+    "relationships",
+    "mindset",
+    "productivity",
+    "diet"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Assess your current dietary habits and identify ultra-processed foods.",
+      "how_to": "Read food labels carefully, focusing on ingredients rather than just macronutrient content. Replace processed items with whole, unprocessed foods."
+    },
+    {
+      "advice": "Consider the role of past traumas in shaping your stress response.",
+      "how_to": "Reflect on past experiences and how they might influence your current reactions to stressful situations. Explore therapeutic approaches like mindfulness or cognitive behavioral therapy to manage these responses."
+    }
+  ],
+  "memorable_stories": [
+    "The guest recounts their personal experience of reversing metabolic syndrome and improving mental health through dietary changes, specifically adopting a low-carbohydrate approach."
+  ],
+  "contrarian_claims": [
+    "The claim that diet plays a significant role in mental illness, contrasting with the prevailing view among mental health clinicians."
+  ],
+  "episode_id": "moment-201-harvard-psychiatrist-reveals-the-1-foods-you-must-stop-eating-to-heal-your-brain",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Moment 201: Harvard Psychiatrist Reveals The #1 Foods You Must STOP Eating To Heal Your Brain",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-201-harvard-psychiatrist-reveals-the-1-foods-you-must-stop-eating-to-heal-your-brain",
+  "processed_at": "2026-03-19T21:07:36"
+}

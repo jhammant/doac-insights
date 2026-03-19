@@ -1,0 +1,73 @@
+{
+  "guest_name": "Not mentioned",
+  "expertise_area": "Neuroscience",
+  "key_insights": [
+    {
+      "insight": "Even moderate alcohol consumption can negatively affect sleep quality by disrupting sleep cycles, diminishing depth and overall health.",
+      "quote": "Moderation, even moderation now, as studies have shown, is not very good. And the reason why it's not good is that alcohol disrupts your sleep. Even though people drink it to go to sleep faster, the sleep is much more superficial and is not deep and it's not the healthy sleep.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Mindfulness practices like meditation can induce brain plasticity, particularly in areas responsible for focused attention, and enrich the prefrontal cortex's function.",
+      "quote": "There's beautiful studies showing brain plasticity in the areas that are important for focused attention. Meditation, the practice of meditation is basically a practice of enriching the function of your prefrontal cortex.",
+      "importance": "high"
+    },
+    {
+      "insight": "Excessive social media usage, especially in young people, is correlated with increased rates of depression and anxiety.",
+      "quote": "The increase in use of social media, especially in young kids, correlate with huge increases in depression and anxiety levels, particularly in young girls.",
+      "importance": "high"
+    },
+    {
+      "insight": "Constant stress from social media can cause physiological harm to the brain by damaging connections and potentially killing brain cells.",
+      "quote": "Stress releases stress hormone that goes into the brain that at too high and too constant a level can start to first damage connections and then kill cells.",
+      "importance": "high"
+    },
+    {
+      "insight": "Social media's constant stimulation acts like a slot machine, providing frequent dopamine hits, which can lead to addictive behaviors and displacement of beneficial activities.",
+      "quote": "Our, you know, where social media is designed to kind of, it's like pulling the slot machine handle. I pull down on the feed and I get ping. Oh, look, there's a nice picture. And ping, there's notifications and comments, et cetera.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Real human connections are crucial for brain health and cannot be adequately replaced by social media interactions.",
+      "quote": "The brain is smart enough to know that there's no substitute for real human connections.",
+      "importance": "high"
+    },
+    {
+      "insight": "Being alone with one's thoughts is a core element of meditation and can lead to increased creativity and imagination by stimulating the hippocampus.",
+      "quote": "The not wanting to be alone with your thoughts is the core of meditation... I feel most creative and most imaginative when I do practice that.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "health",
+    "psychology",
+    "habits",
+    "science",
+    "technology",
+    "mindset",
+    "relationships"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Undergo a two-week phone detox to break phone addiction and regain awareness of the sacrifices being made.",
+      "how_to": "Completely abstain from using your phone for two weeks to experience the withdrawal and understand the impact on your life, including social connections, movement, and overall well-being."
+    },
+    {
+      "advice": "Practice meditation focusing on the breath or loving kindness to enhance focus and brain plasticity.",
+      "how_to": "Set aside a few minutes each day to sit quietly and focus on your breath or cultivate thoughts of loving kindness toward yourself and others. This helps train your prefrontal cortex and improve attention."
+    }
+  ],
+  "memorable_stories": [
+    "The study where people chose to give themselves electric shocks rather than be alone with their thoughts.",
+    "The podcast host's description of anxiously waiting for their phone to turn back on after it dies, illustrating phone addiction."
+  ],
+  "contrarian_claims": [
+    "Even moderate alcohol consumption can negatively impact sleep and brain health.",
+    "Social media, despite providing constant stimulation, hinders creativity and real human connection."
+  ],
+  "episode_id": "moment-180-neuroscientists-top-5-worst-habits-that-are-destroying-your-brain-wendy-suzuki",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Moment 180: Neuroscientist's Top 5 WORST Habits That Are Destroying Your Brain: Wendy Suzuki",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-180-neuroscientists-top-5-worst-habits-that-are-destroying-your-brain-wendy-suzuki",
+  "processed_at": "2026-03-19T21:04:22"
+}

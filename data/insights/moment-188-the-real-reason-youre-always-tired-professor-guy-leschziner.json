@@ -1,0 +1,69 @@
+{
+  "guest_name": "Unknown",
+  "expertise_area": "Clinical Neurology/Sleep Medicine",
+  "key_insights": [
+    {
+      "insight": "Sleep is essential for nearly every aspect of waking life, impacting immune, cardiovascular, mental health, and pain perception.",
+      "quote": "We know that it's important for pretty much every aspect of our waking lives, be it our immune system, be it our cardiovascular system, our blood pressure, risk of diabetes, mental health, so depression and anxiety, even how we perceive pain.",
+      "importance": "high"
+    },
+    {
+      "insight": "While awareness of sleep's importance is growing, there is a risk of over-obsessing about achieving a perfect eight hours every night, which can exacerbate insomnia.",
+      "quote": "I think that there is a danger at the current time that we tend to obsessionalise about sleep and think that it is the be all and end all. It's of course part of normal life for our sleep to fluctuate depending on what's going on in our external and our internal lives.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Poor sleep hygiene can predispose individuals to chronic insomnia, where simply fixing sleep hygiene might not be enough to resolve the issue.",
+      "quote": "Certainly poor sleep hygiene... can certainly put in place certain aspects of behaviour that then can give rise to chronic insomnia, then suddenly putting good sleep hygiene in place is unlikely to fix it.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Light exposure at night can negatively impact sleep quality and may increase the risk of diabetes.",
+      "quote": "There is some emerging evidence that exposure to light at night in your sleep is not very good for you...light exposure at night increases your risk of diabetes.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Alcohol, while initially sedating, negatively impacts sleep quality due to various factors like chemical effects, bladder fullness, and increased snoring.",
+      "quote": "Alcohol in the short term, of course, is quite sedating. It's a central nervous system depressant, but it does dramatically worsen the quality of your sleep and for various reasons, the direct chemical effect, the fact that you've got a full bladder, the fact that you're probably snoring a little bit more.",
+      "importance": "medium"
+    },
+    {
+      "insight": "If your sleep is easily disrupted by the environment (sleep reactivity), sleeping with a partner who snores or frequently gets up at night can significantly worsen sleep quality.",
+      "quote": "If you've got a sleep trait termed sleep reactivity, which is where your sleep is very liable to your environment, then obviously sleeping next to somebody who's snoring loudly or who gets up in the middle of the night two or three times to urinate can be very disruptive to your sleep.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "health",
+    "psychology",
+    "habits",
+    "science",
+    "mindset"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Avoid large, carbohydrate-rich meals before bed.",
+      "how_to": "Opt for lighter snacks or avoid eating for a few hours before bedtime to prevent blood sugar fluctuations and potential reflux."
+    },
+    {
+      "advice": "Create a dark, quiet, and cool sleep environment.",
+      "how_to": "Use blackout curtains or a sleep mask to block out light, ensure the room is quiet, and maintain a comfortable temperature."
+    },
+    {
+      "advice": "Implement a wind-down routine before bed.",
+      "how_to": "Avoid stimulating activities like gambling or working on a laptop close to bedtime. Instead, engage in relaxing activities like reading or taking a warm bath."
+    }
+  ],
+  "memorable_stories": [
+    "Evolutionary development of aquatic mammals and birds sleeping with half of their brain at a time.",
+    "An example of poor sleep hygiene which is setting up a home office in the bedroom, watching TV, being surrounded by electronic devices, drinking coffee, and drinking alcohol."
+  ],
+  "contrarian_claims": [
+    "While sleep is important, overemphasizing getting eight hours every night could exacerbate insomnia."
+  ],
+  "episode_id": "moment-188-the-real-reason-youre-always-tired-professor-guy-leschziner",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Moment 188: The Real Reason You're Always Tired: Professor Guy Leschziner",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-188-the-real-reason-youre-always-tired-professor-guy-leschziner",
+  "processed_at": "2026-03-19T21:05:25"
+}

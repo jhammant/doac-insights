@@ -1,0 +1,84 @@
+{
+  "guest_name": "Chris Voss",
+  "expertise_area": "Negotiation",
+  "key_insights": [
+    {
+      "insight": "Listening increases deal velocity by building trust and efficiency.",
+      "quote": "If I take the time to really hear somebody out in our first deal and pay attention to what's important with them, then every deal after that will come to me faster.",
+      "importance": "high"
+    },
+    {
+      "insight": "Effective negotiators help counterparts discover mutually beneficial solutions, increasing ownership and commitment.",
+      "quote": "If they discover it, it's their idea, and they're going to offer it. If you offer it, you're giving them advice and they got no emotional ownership and they're less likely to do it.",
+      "importance": "high"
+    },
+    {
+      "insight": "Loss aversion significantly influences decision-making; people are more motivated to avoid losses than to acquire gains.",
+      "quote": "Somewhere between two and nine times loss, your vision of loss is going to determine your behavior.",
+      "importance": "high"
+    },
+    {
+      "insight": "Empathy, used carefully, can be a tool to understand and address loss aversion without appearing manipulative.",
+      "quote": "If you don't use empathy then you're the hostage taker are you trying to use leverage against them.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Acting helpless in a negotiation, like a CEO claiming to be constrained by a board, can be a powerful strategy.",
+      "quote": "A great CEO negotiator is going to be like, look, man, I got a board of directors. I got to be careful what I commit to here because this board of directors, I do the wrong thing. These guys are going to fire me.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Creating collaboration by not misleading and being an advocate, even when a demand is unlikely to be met, helps shift the conversation positively.",
+      "quote": "I basically said, I don't think it's going to happen, but I'll check. Because I'm trying to shift us out of an adversarial into a collaborative conversation.",
+      "importance": "medium"
+    },
+    {
+      "insight": "The 'That's right' response indicates genuine understanding and agreement, often signaling an epiphany and creating a bond.",
+      "quote": "That's right is what people say when they feel understood.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Labeling negative emotions diminishes their impact through a neurochemical response.",
+      "quote": "Each and every time the person labeled it, the electrical activity in that part of the brain diminished. Every time.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "business",
+    "psychology",
+    "relationships",
+    "leadership",
+    "communication",
+    "mindset",
+    "habits",
+    "science"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Practice verbal mirroring by repeating the last few words of your counterpart.",
+      "how_to": "Listen carefully to what the person says, and then repeat their last one to three words as a question or statement to encourage them to elaborate."
+    },
+    {
+      "advice": "Label your counterpart's pain or negative emotion to diminish its impact.",
+      "how_to": "Acknowledge and name the emotion you observe in the other person (e.g., 'It sounds like you're feeling overwhelmed.')."
+    },
+    {
+      "advice": "When facing criticism or stagnation, 'run to trouble' or embrace the chaos.",
+      "how_to": "Seek out situations where decisions need to be made and action is required, even if those situations are challenging or undefined."
+    }
+  ],
+  "memorable_stories": [
+    "Story of being rejected by the head of hostage negotiation team and being told to volunteer at a suicide hotline before applying to be a hostage negotiator.",
+    "Anecdote of first bank robbery with hostages case and the techniques used to identify and negotiate with the bank robber.",
+    "The Burnham-Sarborough case in the Philippines where hostages were killed, and the impact this had on his perspective"
+  ],
+  "contrarian_claims": [
+    "Body language mirroring can be a manipulative tactic and should be avoided unless it occurs naturally.",
+    "Sometimes it is important to not be too helpful, and to allow people to make their own mistakes and to find their own way."
+  ],
+  "episode_id": "fbis-top-hostage-negotiator-the-art-of-negotiating-to-get-whatever-you-want-chris-voss",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - FBI’s Top Hostage Negotiator: The Art Of Negotiating To Get Whatever You Want: Chris Voss",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/fbis-top-hostage-negotiator-the-art-of-negotiating-to-get-whatever-you-want-chris-voss",
+  "processed_at": "2026-03-19T20:35:45"
+}

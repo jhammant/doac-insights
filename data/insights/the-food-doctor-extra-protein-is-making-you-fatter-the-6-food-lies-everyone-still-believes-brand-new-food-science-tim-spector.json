@@ -1,0 +1,96 @@
+{
+  "guest_name": "Professor Tim Spector",
+  "expertise_area": "Gut Health",
+  "key_insights": [
+    {
+      "insight": "Most people consume twice the protein they need, and the excess is stored as fat.",
+      "quote": "All the evidence is that most people are having nearly twice as much protein in their diets as they need for normal protein balance.",
+      "importance": "high"
+    },
+    {
+      "insight": "Increasing fiber intake by even a small amount can significantly reduce the risk of death.",
+      "quote": "If you just increase that by a quarter, not very much, five grams...you will increase or you reduce your risk of death by 14%, 15%.",
+      "importance": "high"
+    },
+    {
+      "insight": "Eating a variety of plants, even nuts and seeds, is crucial for a diverse and healthy gut microbiome.",
+      "quote": "People forget that a plant doesn't have to be doesn't look like spinach or kale. It can be a nut and a seed, which are so nutrient dense and so useful...",
+      "importance": "high"
+    },
+    {
+      "insight": "Fermented foods are a natural source of probiotics, providing a wider range of microbes than supplements.",
+      "quote": "The difference between this and your probiotic capsule is that you'll probably get 30 different microbes here. Whereas you take your capsule, you might get two or three.",
+      "importance": "high"
+    },
+    {
+      "insight": "Products labeled with 'health halos' like 'low fat' or 'high protein' are often highly processed and can be detrimental to gut health.",
+      "quote": "So the combination of what we call health halos, saying it's super healthy with richness, vitamin, no sugar, no fat, is very old-fashioned science.",
+      "importance": "high"
+    },
+    {
+      "insight": "Ultra-processed foods should not be considered real food due to their altered composition and added chemicals.",
+      "quote": "We shouldn't be calling ultra-processed food food. That's a misnomer. We should call them edible food-like substances that are industrially made.",
+      "importance": "high"
+    },
+    {
+      "insight": "Eating habits set circadian rhythm more than previously thought, influencing metabolic health.",
+      "quote": "Food has a big impact on that circadian rhythm so absolutely yeah all the studies are pointing to that.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Coffee is generally a health food and can contribute to fiber intake.",
+      "quote": "Coffee is definitely a health food...So three cups of coffee gives you around five grams of fiber, which is about a quarter of your, the average UK or US amount.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "health",
+    "science",
+    "habits",
+    "food",
+    "nutrition",
+    "mindset",
+    "marketing",
+    "productivity"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Create a 'diversity jar' with 10+ types of nuts and seeds and add to meals daily.",
+      "how_to": "Mix various nuts and seeds in a jar and sprinkle on yogurt, kefir, or salads."
+    },
+    {
+      "advice": "Ferment vegetable scraps to create your own probiotic food.",
+      "how_to": "Chop leftover vegetables, add 2% salt, a little water to cover, and squash down in a jar. Leave at room temperature for 3 days, then refrigerate."
+    },
+    {
+      "advice": "Replace white rice with other grains like quinoa, barley, or oats.",
+      "how_to": "Substitute white rice with a more nutritious grain during meals."
+    },
+    {
+      "advice": "Avoid health halos on packaged food, looking for short ingredient lists of recognizable whole foods.",
+      "how_to": "Ignore labels like low-fat or high-protein and select products that contain mostly real whole foods"
+    },
+    {
+      "advice": "Aim for a diverse diet including 30 different plants each week.",
+      "how_to": "Incorporate a wide variety of vegetables, fruits, nuts, seeds, and herbs into meals."
+    }
+  ],
+  "memorable_stories": [
+    "Tim Spector recalls writing a research paper as a medical student that incorrectly linked coffee to cancer and now happily corrects that mistake.",
+    "Tim Spector lived with the Hadza tribe and observed that meat was a treat, not a staple of their diet, which consisted of mostly fruits, vegetables, and nuts.",
+    "The podcast host explains that a waiter once attempted to persuade him to drink saying: 'This isn't alcohol, this is art'",
+    "The podcast host explains that an aquaintance gifted him a water bottle and insisted that he finish the bottle every day."
+  ],
+  "contrarian_claims": [
+    "Protein supplements are massively hyped and most people get more than enough protein from their regular diet.",
+    "Exercise alone is a terrible way to deal with excess fat.",
+    "The idea that people need to drink eight glasses of water a day is largely made up and not supported by hard evidence.",
+    "Calorie counting for weight loss is broken and meaningless for most people.",
+    "Most supermarket bread is bad for you"
+  ],
+  "episode_id": "the-food-doctor-extra-protein-is-making-you-fatter-the-6-food-lies-everyone-still-believes-brand-new-food-science-tim-spector",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - The Food Doctor: \"Extra Protein Is Making You Fatter!\" The 6 Food Lies Everyone Still Believes! (Brand NEW Food Science) - Tim Spector",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/the-food-doctor-extra-protein-is-making-you-fatter-the-6-food-lies-everyone-still-believes-brand-new-food-science-tim-spector",
+  "processed_at": "2026-03-19T21:44:00"
+}

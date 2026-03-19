@@ -1,0 +1,82 @@
+{
+  "guest_name": "Steve Bartlett",
+  "expertise_area": "Business Strategy",
+  "key_insights": [
+    {
+      "insight": "Winners develop a culture of winning, leading to more success, while losers often perpetuate a cycle of losing.",
+      "quote": "Winners, winning teams, winning people develop this culture of winning that causes them to therefore win more often.",
+      "importance": "high"
+    },
+    {
+      "insight": "Small behavioral changes, like exercise and sleep, can positively impact brain chemistry and lead to more 'wins'.",
+      "quote": "People that exercise more and get better sleep are producing more serotonin and they're winning more often.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Your internal self-talk significantly impacts your self-perception and brain chemistry, influencing whether you become a 'winner' or 'loser'.",
+      "quote": "Your internal self-talk, the conversation you're having with yourself in your head at all times can influence your opinion of yourself drastically and can result in a different chemical makeup.",
+      "importance": "high"
+    },
+    {
+      "insight": "Focusing solely on major achievements leads to unhappiness because most of life is spent in the gaps between them; celebrate daily progress.",
+      "quote": "Life isn't lived exclusively in these major destinations... the gap between our accomplishments account for the majority of our life.",
+      "importance": "high"
+    },
+    {
+      "insight": "Decision fatigue is a real phenomenon that depletes mental resources, so minimizing the number of decisions made each day is crucial.",
+      "quote": "Making decisions is hard fucking work.",
+      "importance": "high"
+    },
+    {
+      "insight": "Automating tasks, especially those irrelevant to your goals, frees up mental energy for more important endeavors.",
+      "quote": "Automate things that don't matter in order to reserve your precious internal resources for the most important things and the most important work in your life.",
+      "importance": "high"
+    },
+    {
+      "insight": "Treating everyone with caution and care, especially those who seem outwardly happy, is essential because inner pain is often masked.",
+      "quote": "Treat everybody as if they're wearing a sticker that says baby on board... sometimes the signs are the reverse. Sometimes the sign says, I am perfectly fucking happy.",
+      "importance": "high"
+    }
+  ],
+  "topics": [
+    "business",
+    "psychology",
+    "habits",
+    "productivity",
+    "mindset",
+    "health"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Practice 'mental time hopping' to focus on progress made.",
+      "how_to": "Write down where you were one, two, three years ago, including information, feelings, and lessons learned, then vividly relive those moments."
+    },
+    {
+      "advice": "Automate routine, low-value decisions.",
+      "how_to": "Standardize your wardrobe, subscribe to a meal delivery service, or use tools to automate repetitive tasks."
+    },
+    {
+      "advice": "Delegate tasks that others can do just as well.",
+      "how_to": "Identify tasks consuming your time that could be handled by someone else and trust them to do it."
+    },
+    {
+      "advice": "Practice skepticism when reading information, especially when it involves accusations.",
+      "how_to": "Listen to all sides of the story before jumping to conclusions or forming opinions."
+    }
+  ],
+  "memorable_stories": [
+    "Manchester United's culture of winning under Sir Alex Ferguson",
+    "The neurological study of lobsters and its relation to human social hierarchies and depression",
+    "The story about firing an employee who falsely claimed it was due to mental health issues, and the encounter with the employee's mother."
+  ],
+  "contrarian_claims": [
+    "Giving yourself credit for achievements won't necessarily lead to complacency, but rather fosters happiness and self-esteem",
+    "Sometimes laughter and happiness are just the mask we wear to cover up an inner pain we're feeling.",
+    "That it's never the people that look like they're sad on the outside to strangers that are feeling often the worst inside."
+  ],
+  "episode_id": "e27-adopt-a-culture-of-winning",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - E27: Adopt a culture of WINNING",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/e27-adopt-a-culture-of-winning",
+  "processed_at": "2026-03-19T20:28:57"
+}

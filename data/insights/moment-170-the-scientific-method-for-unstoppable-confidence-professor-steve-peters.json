@@ -1,0 +1,71 @@
+{
+  "guest_name": "Unknown",
+  "expertise_area": "Psychology",
+  "key_insights": [
+    {
+      "insight": "Maladaptive coping strategies, like comfort eating, can be a form of self-punishment rooted in low self-esteem.",
+      "quote": "You know, I don't deserve to eat well, and I don't deserve to eat the right things. So I deserve to be overweight, or I deserve to look like this.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Defining who you want to be, instead of focusing on what you don't want, can improve self-esteem.",
+      "quote": "Start with a blank piece of paper and then write down the person you want to be.",
+      "importance": "high"
+    },
+    {
+      "insight": "Anxiety and other negative emotions are not inherent to your true self, but rather interference from other systems (the 'chimp' or 'computer') within your mind.",
+      "quote": "If I didn't have this machine, I would not have anxiety because that system that you say in the human system can't do anxiety.",
+      "importance": "high"
+    },
+    {
+      "insight": "The 'real you' is revealed when you're relaxed, calm, and accepting of the world as it is, showcasing your core morals and values.",
+      "quote": "Sometimes the real you presents and suddenly you feel at peace people often say i don't know it's just i felt so relaxed and thought i've got perspective i've got gather the world the way it is i accept things are and i've calmed down and then suddenly you see the real person",
+      "importance": "medium"
+    },
+    {
+      "insight": "Identifying and challenging discrepancies between your desired self and your current behavior is crucial for personal growth.",
+      "quote": "And then I'll challenge that and challenge it. So that's a series of talks.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Understanding the neuroscience behind our minds helps us recognize when we've been misguided.",
+      "quote": "We're decent people who've just got lost in the way the neuroscience of our mind has tumbled us.",
+      "importance": "low"
+    },
+    {
+      "insight": "The 'chimp' part of the brain is natural, even when expressing violent behavior, but that doesn't make it good or acceptable.",
+      "quote": "There's nothing you're going to give me, even if it murders someone. That's what chimps do. They're violent. So it's still illegal and not acceptable. But I'm saying everything's natural.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "psychology",
+    "relationships",
+    "habits",
+    "mindset",
+    "health",
+    "science"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Write down who you want to be on a blank piece of paper.",
+      "how_to": "Focus on desired characteristics, behaviors, and goals, rather than dwelling on current negative experiences or unwanted traits."
+    },
+    {
+      "advice": "Identify and minimize the influence of your 'chimp' or 'computer' system.",
+      "how_to": "Recognize when your emotions or reactions are disproportionate to the situation and consider whether they are driven by irrational impulses rather than your rational self."
+    }
+  ],
+  "memorable_stories": [
+    "Example of messy teenager room to demonstrate normal behavior isn't always good."
+  ],
+  "contrarian_claims": [
+    "Wanting to hurt people can be worked through, and it's the professional's job to \"tease that out.\"",
+    "Even violent behavior is natural."
+  ],
+  "episode_id": "moment-170-the-scientific-method-for-unstoppable-confidence-professor-steve-peters",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Moment 170: The Scientific Method For Unstoppable Confidence: Professor Steve Peters",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-170-the-scientific-method-for-unstoppable-confidence-professor-steve-peters",
+  "processed_at": "2026-03-19T21:02:52"
+}

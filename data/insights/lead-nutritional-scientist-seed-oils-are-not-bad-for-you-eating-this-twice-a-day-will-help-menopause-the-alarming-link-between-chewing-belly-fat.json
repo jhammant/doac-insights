@@ -1,0 +1,104 @@
+{
+  "guest_name": "Sarah Berry",
+  "expertise_area": "Nutrition Science",
+  "key_insights": [
+    {
+      "insight": "The food matrix (structure of food) significantly impacts how our bodies process and utilize nutrients, even when nutritional labels are identical.",
+      "quote": "You can have two foods with identical backpack labeling that have different effects.",
+      "importance": "high"
+    },
+    {
+      "insight": "Ultra-processed foods are often demonized, but processing can also make food edible, safe, stable, tasty, and convenient.",
+      "quote": "Processing can also be used to our benefit.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Slowing down your eating rate by 20% can lead to a reduction in calorie intake of approximately 15% due to hormonal responses.",
+      "quote": "On average, if you change the speed in which you eat your food by about 20%, you reduce your calorie intake by about 15%.",
+      "importance": "high"
+    },
+    {
+      "insight": "Heavily processed, soft-textured foods are often eaten much faster than unprocessed, harder-textured foods, leading to overeating because fullness signals don't catch up quickly enough.",
+      "quote": "Heavily processed, soft textured type food can be eaten 50% more quickly than the unprocessed, harder texturedequivalent.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Frequency of eating isn't necessarily bad as long as you are eating healthy foods/snacks, within reason.",
+      "quote": "If people were grazing, having multiple eating events,as long as they were eating healthy foods,it didn't matter having multiple eating events.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Snacking late at night (after 9 PM) is associated with unfavorable health outcomes, even when snacking on healthy foods, as it disrupts the body's natural clock.",
+      "quote": "We found that if you snack late at night that that was associated with unfavourable health outcomes.",
+      "importance": "high"
+    },
+    {
+      "insight": "Sleep impacts metabolic responses after eating as much as the macronutrient content of the meal.",
+      "quote": "Sleep affected metabolic responses as much as the macronutrient content of the meal.",
+      "importance": "high"
+    },
+    {
+      "insight": "While any added fiber is better than none, fiber from whole foods in its original structure will always be better.",
+      "quote": "Having fiber though from the whole foodis always going to be better.",
+      "importance": "medium"
+    },
+    {
+      "insight": "The seed oil debate is largely misinformation; credible evidence suggests seed oils are not harmful and may even be beneficial.",
+      "quote": "There is absolutely no evidence, that is credible evidence, when interpreted in the correct way, to show seed oils are harmful.",
+      "importance": "high"
+    },
+    {
+      "insight": "During perimenopause, women experience a higher number of symptoms if they have an unhealthy diet to start with and/or live with obesity.",
+      "quote": "We've looked at how living with obesity can impact your symptoms and we do seethat if you're living with obesity you have a higher number of symptoms.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "health",
+    "habits",
+    "food",
+    "nutrition",
+    "science",
+    "psychology",
+    "fitness",
+    "mindset",
+    "relationships"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Slow down your eating speed and chew your food more thoroughly.",
+      "how_to": "Consciously take smaller bites, put your fork down between bites, and chew each mouthful at least 20-40 times to trigger fullness signals."
+    },
+    {
+      "advice": "Avoid snacking late at night, especially after 9 PM.",
+      "how_to": "Establish a cut-off time for eating and stick to it, or if hungry, have a glass of water or herbal tea instead. Shift more of your daily calories earlier."
+    },
+    {
+      "advice": "Prioritize whole, unprocessed foods with a high fiber content.",
+      "how_to": "Swap refined grains for whole grains, choose whole fruits over juices, and incorporate legumes and nuts into your diet, aiming for at least 30g of fiber daily."
+    },
+    {
+      "advice": "Practice consistent sleeping patterns.",
+      "how_to": "Go to bed and wake up around the same time each day, even on weekends to avoid 'social jetlag' and its negative impacts."
+    },
+    {
+      "advice": "Add soy isoflavones.",
+      "how_to": "Supplement with soy isoflavones"
+    }
+  ],
+  "memorable_stories": [
+    "The 1977 study that compared the effects of whole apples vs apple puree on satiety and blood sugar, highlighting the importance of food matrix.",
+    "The study that saw a 30% reduction in cardiovascular disease for participants that substituted usual snacks for almonds.",
+    "The slumber study demonstrating how extending sleep can lead to healthier food choices, reducing free sugar intake."
+  ],
+  "contrarian_claims": [
+    "The food industry isn't necessarily 'out to get us', and some people are 'very naive' to believe that's the case.",
+    "Seed oils are not inherently toxic and can be part of a healthy diet.",
+    "The prevailing narrative that scientists can't be trusted for their research if they've taken money from the food industry is incorrect."
+  ],
+  "episode_id": "lead-nutritional-scientist-seed-oils-are-not-bad-for-you-eating-this-twice-a-day-will-help-menopause-the-alarming-link-between-chewing-belly-fat",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Lead Nutritional Scientist: Seed Oils Are Not Bad For You! Eating This Twice A Day Will Help Menopause! The Alarming Link Between Chewing & Belly Fat!",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/lead-nutritional-scientist-seed-oils-are-not-bad-for-you-eating-this-twice-a-day-will-help-menopause-the-alarming-link-between-chewing-belly-fat",
+  "processed_at": "2026-03-19T20:47:24"
+}

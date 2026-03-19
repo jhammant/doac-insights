@@ -1,0 +1,77 @@
+{
+  "guest_name": "Not specified",
+  "expertise_area": "Neuroscience",
+  "key_insights": [
+    {
+      "insight": "Stress can lead to abdominal fat that's difficult to lose through diet and exercise alone because it is tied to cortisol levels.",
+      "quote": "As long as you're still leaking out extra cortisol, nothing's going to change. So, and like I said, even exercising more or eating better, less or differently, whatever it is, wouldn't shift that fat you had to get to the root cause",
+      "importance": "high"
+    },
+    {
+      "insight": "A stressed leader can negatively impact the well-being of their entire team, even leading to physical symptoms of stress in subordinates.",
+      "quote": "When you consider promoting someone in your organization you have to be very careful that if you put a particularly stressed cortisol leaking individual high in the organization there's going to be a significant impact for everyone below them.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Irritability and snapping easily at home, especially after work, can be a sign of chronic stress and being close to burnout.",
+      "quote": "What I mostly would hear people say is that I can just about keep it together when I'm at work, but when I get home, if my kids are annoying or my partner's asking for too much, I just snap. So that means you're like one step away from snapping at work if somebody pushes you too far.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Sleep is crucial for brain detoxification through the glymphatic system, which actively flushes out toxins associated with neurodegenerative diseases.",
+      "quote": "Those things are being flushed out of the brain very actively overnight and that process takes seven to eight hours to complete the cleaning that's why you need to be in bed for eight to nine hours",
+      "importance": "high"
+    },
+    {
+      "insight": "Sleeping on your side is the optimal position for brain cleansing while you sleep because of the way the veins in your neck are positioned.",
+      "quote": "If you find yourself awake at night and you're not lying on your side, turn yourself onto your side because that's the best position for this cleansing process.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Cortisol is pro-inflammatory, and elevated levels can manifest as skin issues like dryness and other skin problems.",
+      "quote": "Because cortisol is pro-inflammatory, it's very drying of the system as well so you might notice that your skin's really dry or you've got skin problems your skin isn't just the physical border of your body it's the psychological boundary of your body too sooften stress shows up in the skin",
+      "importance": "low"
+    }
+  ],
+  "topics": [
+    "health",
+    "psychology",
+    "business",
+    "leadership",
+    "habits",
+    "science",
+    "sleep",
+    "mindset"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Engage in aerobic exercise to sweat out excess cortisol.",
+      "how_to": "Incorporate regular cardio workouts like running, swimming, or cycling into your routine."
+    },
+    {
+      "advice": "Journal regularly to process thoughts and emotions.",
+      "how_to": "Set aside time each day to write down your thoughts and feelings, rather than letting them circulate in your mind."
+    },
+    {
+      "advice": "Prioritize sleep and aim to be in bed for nine hours to achieve approximately eight hours and fifteen minutes of sleep.",
+      "how_to": "Establish a consistent bedtime routine and optimize your sleep environment for darkness and temperature."
+    },
+    {
+      "advice": "If you wake up during the night, turn to your side to optimize brain cleansing.",
+      "how_to": "Train yourself to sleep on your side, even if you are not a natural side sleeper. Use pillows if necessary."
+    }
+  ],
+  "memorable_stories": [
+    "Story of a CEO's PA calling out the CEO's stress as the reason for her weight gain during a work presentation on stress.",
+    "Mention of clients in financial services lifting their t-shirts to show belly fat related to stress."
+  ],
+  "contrarian_claims": [
+    "Sleeping more than eight hours and fifteen minutes can be depressogenic.",
+    "Exercising more won't shift abdominal fat if the root cause is unaddressed cortisol levels."
+  ],
+  "episode_id": "moment-156-your-stress-is-making-you-fat-sick-heres-how-to-fix-it",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Moment 156: Your Stress Is Making you Fat & Sick... Here's How To Fix It!",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-156-your-stress-is-making-you-fat-sick-heres-how-to-fix-it",
+  "processed_at": "2026-03-19T21:00:48"
+}

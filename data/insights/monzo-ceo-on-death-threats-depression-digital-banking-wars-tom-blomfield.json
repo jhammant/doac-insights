@@ -1,0 +1,87 @@
+{
+  "guest_name": "Tom Bloomfield",
+  "expertise_area": "Entrepreneurship",
+  "key_insights": [
+    {
+      "insight": "Naivety and a degree of delusion can be beneficial for founders as they are less burdened by the baggage of past failures and more open to unconventional solutions.",
+      "quote": "If I knew then what I knew now, I would never have done it. Really, if I knew what the amount of pain and heartache that would be involved, I would never have started, but I didn't know that.",
+      "importance": "high"
+    },
+    {
+      "insight": "Authenticity is key to successful branding, especially when targeting a younger demographic.",
+      "quote": "It was just an authentic representation of I think who we were and what we believed more than anything and we we did want to be different from the big banks.",
+      "importance": "high"
+    },
+    {
+      "insight": "Focusing solely on achievement and neglecting personal happiness can lead to burnout and dissatisfaction.",
+      "quote": "So many smart, ambitious people are just driven to kind of jump over ever increasing hurdles um without thinking about why did you think happiness was the outcome kind of yeah i thought that was the end yeah sort of like yeah um i didn't even really think about it.",
+      "importance": "high"
+    },
+    {
+      "insight": "The press can build you up only to tear you down; it is important to not take it too seriously.",
+      "quote": "It happens in every tech startups... they're going to build you up to a point where you're interesting enough to tear down again.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Having a strong, talented senior team is crucial for scaling a business; delays in hiring can lead to CEO burnout.",
+      "quote": "But that was the biggest problem for me that we didn't have the right senior leadership in place. So I was working several jobs.",
+      "importance": "high"
+    },
+    {
+      "insight": "The need to prove oneself to family and friends is fleeting. External validation will not be rewarding in the long run.",
+      "quote": "That need to prove myself has sort of disappeared actually... either I've realized it was a stupid goal to start with or like I got far enough along that I sort of like ticked that off the list.",
+      "importance": "medium"
+    },
+    {
+      "insight": "It's important to find investors, advisors, or other founders who are willing to doubt your business in order to reveal potential issues and vulnerabilities.",
+      "quote": "A really smart thing I've heard, which I didn't do... is to sort of pick out the smartest investors you can, or smartest advisors or other founders, and ask them why you think your business will fail.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Prioritize identifying a profitable business model earlier in the business, cutting costs, and drive revenue by taking the hard decisions to limit some of the free features.",
+      "quote": "Cutting costs driving revenue by taking hard decisions to sort of limit some of the free features and charges some of the things we gave for free i think we should have done that way way earlier",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "business",
+    "psychology",
+    "money",
+    "relationships",
+    "leadership",
+    "mindset",
+    "habits"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Learn to code to increase your entrepreneurial opportunities and career prospects.",
+      "how_to": "Enroll in online courses, coding bootcamps, or pursue a computer science degree. Practice building personal projects to develop practical skills."
+    },
+    {
+      "advice": "Create a separate physical space for charging your phone outside of your bedroom.",
+      "how_to": "Designate a charging station in another room. After 9 pm, or 30 minutes before bed, charge your phone outside the bedroom. Buy a simple alarm clock for time."
+    },
+    {
+      "advice": "If you are a CEO/Founder, schedule at least 30 minutes every day to engage in enjoyable activities to help lower stress.",
+      "how_to": "Schedule an activity in your Google calendar, block all notifications and reminders, and engage in those hobbies without your phone."
+    }
+  ],
+  "memorable_stories": [
+    "The story of the dating site that stopped growing and experienced a 70% revenue decline.",
+    "The anecdote about a customer being charged several thousand pounds for being 10p overdrawn.",
+    "The story of Tom Bloomfield getting fired twice in six months and not getting paid for working at Starling.",
+    "The all-hands meeting where Ann Bowden fired the entire Starling company after Tom Bloomfield resigned.",
+    "The Monzo team reuniting at the Gin Bar and deciding to start Monzo."
+  ],
+  "contrarian_claims": [
+    "Reading marketing books can be detrimental to creating an authentic brand.",
+    "Customer service quality can be *too* high and become a financial burden.",
+    "Tom Bloomfield was more confident at 28 years of age than he is today.",
+    "I was better at breaking up with my girlfiend than changing my job."
+  ],
+  "episode_id": "monzo-ceo-on-death-threats-depression-digital-banking-wars-tom-blomfield",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Monzo CEO On Death Threats, Depression & Digital Banking Wars - Tom Blomfield",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/monzo-ceo-on-death-threats-depression-digital-banking-wars-tom-blomfield",
+  "processed_at": "2026-03-19T21:20:35"
+}

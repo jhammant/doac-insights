@@ -1,0 +1,65 @@
+{
+  "guest_name": "Not applicable, the speaker is the host discussing their own work",
+  "expertise_area": "Productivity, Behavioral Psychology",
+  "key_insights": [
+    {
+      "insight": "Procrastination and distraction stem from a desire to escape psychological discomfort, not a lack of willpower or inherent flaws.",
+      "quote": "The reason we procrastinate, the reason we get distracted, the reason we don't do what we say we're going to do, the reason we don't live with personal integrity is because of an impulse control problem.",
+      "importance": "high"
+    },
+    {
+      "insight": "The brain prioritizes escaping discomfort over pursuing pleasure; this is a fundamental driver of behavior.",
+      "quote": "Everything we do is about the desire to escape an uncomfortable sensation.",
+      "importance": "high"
+    },
+    {
+      "insight": "Time management is essentially pain management; addressing discomfort is key to overcoming procrastination.",
+      "quote": "All human behavior is prompted by a desire to escape discomfort, that means that time management is pain management.",
+      "importance": "high"
+    },
+    {
+      "insight": "Distraction is anything that pulls you away from what you planned to do, and the opposite of distraction is traction, which pulls you towards your goals.",
+      "quote": "Traction is any action that pulls you towards what you plan to do with intent, things that move you forward in life. The opposite of traction is distraction, anything that pulls you away from what you plan to do.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Activities that feel like work but are actually distractions (pseudo work) are especially dangerous because they provide a false sense of productivity.",
+      "quote": "Those are the more sinister distractions...that we think are productive, but really are a distraction.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Our brains are wired with a 'wanting' system that drives us through discomfort, reminding us of past pleasurable experiences.",
+      "quote": "The point of the wanting system is to remind you of that with a painful prod.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "productivity",
+    "psychology",
+    "habits",
+    "mindset"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Identify your sources of psychological discomfort and the distractions you use to escape them.",
+      "how_to": "Keep a log of when you procrastinate, what you were feeling, and what you did instead. Look for patterns."
+    },
+    {
+      "advice": "Recognize and eliminate 'pseudo work' activities.",
+      "how_to": "Before starting a task, ask yourself: Does this directly contribute to my most important goals, or am I just avoiding discomfort? If it's the latter, postpone it."
+    }
+  ],
+  "memorable_stories": [
+    "The host's personal experience of procrastinating on important projects by engaging in 'pseudo work' like checking email.",
+    "The anecdote about sex and how the 'wanting' system prods us to pursue it through discomfort, not just pleasure."
+  ],
+  "contrarian_claims": [
+    "The conventional wisdom that behavior is driven by the pursuit of pleasure and avoidance of pain (Freud's Pleasure Principle) is incorrect; instead, it's driven by the desire to escape discomfort.",
+    "Focus is not the opposite of distraction, rather, traction is."
+  ],
+  "episode_id": "moment-2-nir-eyal-on-how-to-stop-procrastinating",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Moment 2 - Nir Eyal On How To Stop Procrastinating",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-2-nir-eyal-on-how-to-stop-procrastinating",
+  "processed_at": "2026-03-19T21:07:14"
+}

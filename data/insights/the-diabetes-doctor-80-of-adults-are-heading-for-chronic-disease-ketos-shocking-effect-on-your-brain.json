@@ -1,0 +1,82 @@
+{
+  "guest_name": "Andrew Kootenik",
+  "expertise_area": "Metabolic Health",
+  "key_insights": [
+    {
+      "insight": "Elevated blood sugar levels are a primary cause of long-term health problems and cardiovascular disease.",
+      "quote": "When I think about how do we tackle improving health or particularly in these common, more to more common diseases, glucose control sits at the very top of that pyramid.",
+      "importance": "high"
+    },
+    {
+      "insight": "Carbohydrates have the most potent impact on glucose control, making nutrition a key factor in overall health.",
+      "quote": "The science says that carbohydrates, food, is the most potent factor in regulating elevations and glucose at every single meal of the day.",
+      "importance": "high"
+    },
+    {
+      "insight": "A ketogenic diet can normalize glucose control and reduce insulin load, improving cardiovascular health even with elevated LDL cholesterol.",
+      "quote": "Despite doubling LDL, they had maintained completely normal glycema control... and their cardiovascular health was not only better than the average patient of similar age and sex with type 1 diabetes. It was better in almost every single category than people even without type 1 diabetes",
+      "importance": "high"
+    },
+    {
+      "insight": "The food industry often combines carbohydrates with salt and fat in processed foods to increase palatability and drive overconsumption.",
+      "quote": "So again, we talked about in the grocery store, the 70% of the grocery store, and particularly in the center of the grocery store that is highly processed where they combine carbohydrates with salt or fat or some combination therein that makes it highly palatable or very, very tasty",
+      "importance": "medium"
+    },
+    {
+      "insight": "Even seemingly healthy foods, like blended fruit smoothies, can rapidly increase blood glucose levels due to the removal of structural components.",
+      "quote": "By simply changing or blending that food up, you are now taking a lot of the structural components that your body would take time to digest and you're removing them.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Adaptation to a ketogenic diet takes four weeks or more for the body to efficiently burn ketones for fuel.",
+      "quote": "The adaptation to a ketogenic diet is not one week. It's not two weeks, not even three. It's four weeks or more.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Exogenous ketones can rapidly elevate ketone levels, improve brain network stability, and delay cognitive decline, but won't cure Alzheimer's.",
+      "quote": "Exogenous ketone bodies was able to attenuate the decline in cognition that we know happens with advanced age.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "health",
+    "science",
+    "nutrition",
+    "fitness",
+    "habits",
+    "mindset",
+    "productivity"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Be conscious of your food choices and read food labels carefully.",
+      "how_to": "Pay attention to added sugar and salt, even in unexpected products like bacon and nut butter. Prioritize whole foods over processed options."
+    },
+    {
+      "advice": "Avoid liquid calories, especially sugary drinks and blended fruit smoothies.",
+      "how_to": "Replace sodas, juices, and smoothies with water, unsweetened tea, or other low-calorie beverages. Eat whole fruits instead of blending them."
+    },
+    {
+      "advice": "Exercise regularly, incorporating both resistance training and cardiovascular activity.",
+      "how_to": "Aim for at least 30 minutes of weightlifting or other resistance exercise six days a week, combined with cardio like running, biking, or swimming. Prioritize sufficient protein intake to support muscle growth and repair."
+    },
+    {
+      "advice": "If considering a ketogenic diet, allow for an adaptation period of at least four weeks.",
+      "how_to": "During the first few weeks of a ketogenic diet, monitor energy levels and physical performance, as it may take time for the body to adjust. Ensure adequate electrolyte intake to minimize water weight loss and related symptoms."
+    }
+  ],
+  "memorable_stories": [
+    "Dr. Kootenik's personal story of reversing a chronic disease through nutrition and his experience with type 1 diabetes",
+    "The study from 1921 on Boston marathoners and how providing carbohydrates improved performance"
+  ],
+  "contrarian_claims": [
+    "High LDL cholesterol may not necessarily indicate worsening cardiovascular health in the context of a ketogenic diet.",
+    "Fruits, despite being considered healthy, can cause glucose spikes that could be harmful, especially for people with metabolic disfunctions.",
+    "Many products marked as 'keto-friendly' are, in reality, not good choices due to ingredients used, and can cause significant glucose spikes."
+  ],
+  "episode_id": "the-diabetes-doctor-80-of-adults-are-heading-for-chronic-disease-ketos-shocking-effect-on-your-brain",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - The Diabetes Doctor: 80% Of Adults Are Heading For Chronic Disease! Keto’s Shocking Effect On Your Brain!",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/the-diabetes-doctor-80-of-adults-are-heading-for-chronic-disease-ketos-shocking-effect-on-your-brain",
+  "processed_at": "2026-03-19T21:42:08"
+}

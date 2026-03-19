@@ -1,0 +1,70 @@
+{
+  "guest_name": "Dr. Wendy Suzuki",
+  "expertise_area": "Neuroscience",
+  "key_insights": [
+    {
+      "insight": "Exercise has immediate and long-term benefits for brain function, including mood, focus, and memory.",
+      "quote": "Even just one workout can immediately improve your mood and focus for the next two hours, and repeated exercise changes the brain's physiology for the better.",
+      "importance": "high"
+    },
+    {
+      "insight": "Exercise is a potent tool for managing anxiety and improving resilience to stress.",
+      "quote": "Regular physical activity can build your brain's ability to handle stress, essentially making you more resilient.",
+      "importance": "high"
+    },
+    {
+      "insight": "Different types of exercise can target different brain functions; cardio improves mood and focus, while strength training enhances long-term memory.",
+      "quote": "Cardio is fantastic for improving mood and your ability to focus, while incorporating some strength training can be particularly beneficial for long-term memory formation.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Neuroplasticity allows the brain to adapt and change throughout life, meaning it is always possible to improve cognitive function through targeted interventions.",
+      "quote": "The brain is incredibly adaptable, and we have the power to change its structure and function through specific exercises and activities.",
+      "importance": "high"
+    },
+    {
+      "insight": "Small, consistent efforts, even just 10 minutes of exercise a day, can have a significant cumulative impact on brain health.",
+      "quote": "You don't need hours at the gym; even 10 minutes a day of movement can create noticeable positive changes.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Mindfulness practices, such as meditation, can complement exercise by further enhancing focus and reducing stress.",
+      "quote": "Combining physical exercise with mindfulness techniques amplifies the benefits for both cognitive function and emotional well-being.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "health",
+    "psychology",
+    "fitness",
+    "mindset",
+    "science",
+    "habits"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Incorporate short bursts of high-intensity interval training (HIIT) into your routine for quick brain benefits.",
+      "how_to": "Alternate between 30 seconds of intense exercise (e.g., jumping jacks, burpees) and 30 seconds of rest for 10-15 minutes."
+    },
+    {
+      "advice": "Schedule exercise like you would any important meeting to ensure consistency.",
+      "how_to": "Block out specific times in your calendar for workouts and treat them as non-negotiable appointments."
+    },
+    {
+      "advice": "Try 'active breaks' during work or study to boost focus.",
+      "how_to": "Get up and move every 30-60 minutes for 2-3 minutes. This could be a quick walk, some stretching, or a few jumping jacks."
+    }
+  ],
+  "memorable_stories": [
+    "Dr. Suzuki's personal story of how exercise transformed her academic performance and stress levels.",
+    "Anecdotes about patients who experienced significant cognitive and emotional improvements through exercise programs."
+  ],
+  "contrarian_claims": [
+    "The idea that even small amounts of exercise can have a significant impact is a counterpoint to the 'go hard or go home' mentality often associated with fitness."
+  ],
+  "episode_id": "_summary",
+  "episode_title": "_summary",
+  "episode_date": "",
+  "episode_url": "",
+  "processed_at": "2026-03-19T20:12:38"
+}

@@ -1,0 +1,82 @@
+{
+  "guest_name": "Nir Eyal",
+  "expertise_area": "Behavioral Psychology",
+  "key_insights": [
+    {
+      "insight": "Willpower is not a limited resource, and the concept of ego depletion has been largely debunked, as studies show that the belief in limited willpower is what causes depletion.",
+      "quote": "The only people who experienced ego depletion, the only people who actually did run out of willpower...were people who believed that willpower was a limited resource.",
+      "importance": "high"
+    },
+    {
+      "insight": "The primary reason we fail to achieve our goals is not external factors, but rather the internal feeling of not wanting to do it.",
+      "quote": "The only reason we fail at our goals is because we don't feel like it.",
+      "importance": "high"
+    },
+    {
+      "insight": "Values should be defined as attributes of the person you want to become, and these should guide how you allocate your time.",
+      "quote": "The definition of values in my book is attributes of the person you want to become.",
+      "importance": "high"
+    },
+    {
+      "insight": "It's critical to schedule time for all three life domains: self, relationships, and work, ensuring that you don't neglect your well-being or social connections.",
+      "quote": "If you can't take care of yourself, can't take care of others, you can't make the world a better place.",
+      "importance": "medium"
+    },
+    {
+      "insight": "It's essential to differentiate between reactive work (responding to messages and requests) and reflective work (thinking and creating), and to schedule time specifically for the latter.",
+      "quote": "If you're not scheduling time for reflective work, you're going to run real fast in the wrong direction.",
+      "importance": "medium"
+    },
+    {
+      "insight": "To-do lists are output-focused and can be demotivating, whereas time-blocked calendars provide constraints and force you to make value-based decisions about how to spend your time.",
+      "quote": "A to-do list has no constraints...as opposed to a time box calendar has constraints.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Most people are generous with their time and cheap with their money but the opposite should be true because you can always make more money, but you can't make more time.",
+      "quote": "Most people are cheap with their money and generous with their time. I think it should be the opposite, right? We should be cheap with our time and generous with our money because you can always make more money.",
+      "importance": "medium"
+    },
+    {
+      "insight": "When it comes to knowledge work, input (time and attention) is what you should be budgeting for, not just the output.",
+      "quote": "Our input is just two things, time and attention. Those are our ingredients, that's it.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "psychology",
+    "habits",
+    "productivity",
+    "mindset",
+    "relationships",
+    "business"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Schedule time in your calendar for activities aligned with the person you want to become, across self, relationships, and work domains.",
+      "how_to": "Look at your calendar for the next seven days and ask yourself how the person you want to become would spend their time, then block off that time."
+    },
+    {
+      "advice": "Prioritize 'reflective work' by scheduling dedicated time slots for thinking and creative tasks.",
+      "how_to": "Block off even just 15-20 minutes in your calendar specifically for thinking and focusing on creative tasks, free from distractions."
+    },
+    {
+      "advice": "Shift from a to-do list mentality to a time-blocked calendar to better manage your priorities.",
+      "how_to": "Instead of listing tasks, allocate specific time slots in your calendar for each task, considering your values and available time."
+    }
+  ],
+  "memorable_stories": [
+    "The explanation of why the DJing has become less fun.",
+    "The story about the ego depletion studies and sugar-sweetened lemonade."
+  ],
+  "contrarian_claims": [
+    "Willpower is not a limited resource, contradicting the popular belief in ego depletion.",
+    "Focusing on input (time and attention) is more important than obsessing over output (goals) in knowledge work.",
+    "Most people are cheap with their money but generous with their time; it should be the opposite."
+  ],
+  "episode_id": "moment-126-how-to-master-the-consistency-of-achieving-your-goals-sticking-to-them-nir-eyal",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Moment 126: How To Master The Consistency Of Achieving Your Goals & Sticking To Them: Nir Eyal",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-126-how-to-master-the-consistency-of-achieving-your-goals-sticking-to-them-nir-eyal",
+  "processed_at": "2026-03-19T20:56:12"
+}

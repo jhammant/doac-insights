@@ -1,0 +1,81 @@
+{
+  "guest_name": "Charles Serinor",
+  "expertise_area": "Genetics and Obesity",
+  "key_insights": [
+    {
+      "insight": "East and South Asian individuals are predisposed to type 2 diabetes at lower BMIs than white people and Polynesians.",
+      "quote": "East Asian people, people that look like me, South Asian people, Indian, Pakistanis, Bangladeshis, cannot get as large, BMI-wise, before becoming at risk of type 2 diabetes, right? Compared to white people, Polynesians, famously, who can get pretty large before they actually end up getting diseases.",
+      "importance": "medium"
+    },
+    {
+      "insight": "The leptin gene, often referred to as the 'obese gene', plays a binary role in signaling fat levels to the brain.",
+      "quote": "So leptin, for whatever odd reason, is pretty much binary. So if you have a little bit of it, you're fine. If you have none of it, you're not.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Mutations in the MC4R gene, which is part of the fat-sensing pathway, can significantly impact body weight.",
+      "quote": "And we now know that 0.3% in this country at least, so 200,000 people in the UK, a million people in the United States will carry mutations in this MC4R gene, making them more likely to end up with obesity.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Each individual has a 'set range' of weight that their body naturally defends, making it difficult to maintain a weight outside that range.",
+      "quote": "There's a range that you can actually range that we find easy to keep to the weight... there is a weight range that's easy to protect.",
+      "importance": "high"
+    },
+    {
+      "insight": "Metabolism doesn't typically start to decline until around age 60, but weight gain increases with age due to factors like decreased muscle mass, increased income, and a more sedentary lifestyle.",
+      "quote": "As it turns out, our metabolism doesn't start to dip till we're 60. Okay. But what happens as we get older are a number of different things. First of all, we tend to get richer, we tend to get more money. We tend to sit on our arse more, just in terms of the type of jobs we do.",
+      "importance": "high"
+    },
+    {
+      "insight": "Muscle mass, more than overall weight, is a key determinant of health as one ages, particularly past 60 or 70.",
+      "quote": "The amount of muscle you have is your muscle mass as you age, independent of how much fat you have, that will determine how healthy you are as you age.",
+      "importance": "high"
+    },
+    {
+      "insight": "Exercise is more effective for weight maintenance than initial weight loss, especially for non-elite athletes.",
+      "quote": "Is exercise a good weight loss strategy for a muggle like Steve? No, it's a good weight maintenance tool though. So in other words, once you've lost the weight, which means you need to be less somehow, exercise helps you keep the weight off.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Following exercise, people often overeat due to increased hunger and the psychological justification that they've 'earned' the extra calories.",
+      "quote": "Those internal controls are weakened once we've actually had our exercise, because we feel that we have earned the food that's in front of us.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "health",
+    "genetics",
+    "habits",
+    "fitness",
+    "science",
+    "mindset"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Focus on protein, fiber, and added sugar intake for sustainable weight loss.",
+      "how_to": "Aim for 16% of daily energy from protein, 30 grams of fiber, and less than 5% of daily energy from added sugars."
+    },
+    {
+      "advice": "Prioritize resistance training to maintain muscle mass, especially as you age.",
+      "how_to": "Incorporate activities like sitting on a wall or getting up and down from a chair into your routine."
+    },
+    {
+      "advice": "Don't rely solely on exercise for initial weight loss.",
+      "how_to": "Focus on dietary changes for weight loss and use exercise for maintaining the lost weight."
+    }
+  ],
+  "memorable_stories": [
+    "The story about the long winding stairs in Indonesia that the host wanted to be fit enough to climb."
+  ],
+  "contrarian_claims": [
+    "Exercise is not a good strategy for weight loss for the average person.",
+    "Metabolism doesn't drop until age 60, contrary to popular belief that it slows down in your 40s or 50s.",
+    "Muscle mass is more important than total weight for health as you age."
+  ],
+  "episode_id": "moment-209-the-real-reason-youre-gaining-weight-every-year-even-if-youre-exercising",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Moment 209: The Real Reason You’re Gaining Weight  Every Year (Even If You’re Exercising!)",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-209-the-real-reason-youre-gaining-weight-every-year-even-if-youre-exercising",
+  "processed_at": "2026-03-19T21:08:52"
+}

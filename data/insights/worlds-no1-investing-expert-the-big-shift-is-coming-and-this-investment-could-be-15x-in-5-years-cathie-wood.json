@@ -1,0 +1,88 @@
+{
+  "guest_name": "Cathie Wood",
+  "expertise_area": "Investment Management",
+  "key_insights": [
+    {
+      "insight": "Tesla is more than just an EV company; it's the largest AI project on Earth, primarily due to its robotaxi platform.",
+      "quote": "Tesla is the largest AI project on earth.",
+      "importance": "high"
+    },
+    {
+      "insight": "AI is revolutionizing healthcare, enabling earlier and more effective cancer diagnoses through blood tests.",
+      "quote": "Because of AI, and this is already beginning to happen, we are able to diagnose cancer with a blood test in stage one.",
+      "importance": "high"
+    },
+    {
+      "insight": "The convergence of DNA sequencing, RNA sequencing and CRISPR gene editing is leading to the curing of diseases previously considered incurable.",
+      "quote": "The convergence of those three technologies is beginning to cure disease.",
+      "importance": "high"
+    },
+    {
+      "insight": "Autonomous mobility, including robotaxis and eVTOLs, represents a massive $8-10 trillion market opportunity in the next 5-10 years.",
+      "quote": "We believe that the entire ecosystem associated with autonomous taxi networks is going to be worth $8 to $10 trillion in terms of revenue generation in the next five to 10 years.",
+      "importance": "high"
+    },
+    {
+      "insight": "Bitcoin is establishing itself as a new asset class and a global monetary system, with potential for substantial growth, particularly in emerging markets.",
+      "quote": "It is a new asset class. It does represent a global monetary system unlike any other digital asset out there.",
+      "importance": "high"
+    },
+    {
+      "insight": "Focus on adding value beyond what a machine can do, and do original research to understand the future, not just the past.",
+      "quote": "I think in order to earn a place in the new world, you've got to add a lot of value, more value than a machine can.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Individual investors can potentially provide for themselves by investing in innovation.",
+      "quote": "I think individual investors are going to be providing for themselves if they are investing on the right side of change.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Deregulation, lower taxes, and lower tariffs are crucial for economic growth.",
+      "quote": "The promise was deregulation. And that I think is underestimated how important it is because we're strangling in regulation.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "business",
+    "health",
+    "technology",
+    "money",
+    "science",
+    "relationships",
+    "mindset"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Invest in ETFs focused on disruptive innovation, such as ARKK, ARKI, or ARKG.",
+      "how_to": "Download a mobile investing app and purchase shares of the chosen ETF, diversifying exposure to multiple innovative companies."
+    },
+    {
+      "advice": "Consider investing in Bitcoin as a long-term store of value and hedge against traditional monetary policy.",
+      "how_to": "Open an account with a reputable cryptocurrency exchange like Coinbase and purchase Bitcoin, averaging in over time to mitigate volatility."
+    },
+    {
+      "advice": "Learn about vibe coding to adapt to the new world.",
+      "how_to": "Start learning about the basics of programming with natural language with tools like ChatGPT, Codex, Replet, and Anthropics."
+    },
+    {
+      "advice": "If starting a new job, focus on making your boss look brilliant.",
+      "how_to": "Identify the areas where your boss needs support and use your skills to help them shine, creating opportunities for your own growth."
+    }
+  ],
+  "memorable_stories": [
+    "Cathie Wood bought Bitcoin for herself at $250 when regulations prevented her funds from doing so.",
+    "Art Laffer, Cathie Wood's professor, wrote a letter describing Cathie Wood as ambitious and talented, a kind gesture Wood says makes her emotional.",
+    "Elon Musk liked one of ARK Invest's pieces of research on X, leading to their first podcast with him during 'production hell'."
+  ],
+  "contrarian_claims": [
+    "Apple is likely to be disrupted by AI, making it a potentially risky investment compared to companies fully embracing AI.",
+    "Nvidia's high valuation suggests that there will be many other winners in AI beyond just the chip manufacturer, like Tesla and Palantir.",
+    "Humanoid robots are coming sooner than expected and will have a greater effect on our society than we think."
+  ],
+  "episode_id": "worlds-no1-investing-expert-the-big-shift-is-coming-and-this-investment-could-be-15x-in-5-years-cathie-wood",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - World's No.1 Investing Expert: The Big Shift Is Coming And  This Investment Could Be 15x in 5 Years! - Cathie Wood",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/worlds-no1-investing-expert-the-big-shift-is-coming-and-this-investment-could-be-15x-in-5-years-cathie-wood",
+  "processed_at": "2026-03-19T22:00:48"
+}

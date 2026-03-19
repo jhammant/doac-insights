@@ -1,0 +1,66 @@
+{
+  "guest_name": "Unknown",
+  "expertise_area": "Sleep Science",
+  "key_insights": [
+    {
+      "insight": "White noise machines can mask external noises and improve sleep quality, especially adaptive ones that adjust to sudden loud sounds.",
+      "quote": "So if the door slams, then the volume temporarily increasesand then will decrease.",
+      "importance": "medium"
+    },
+    {
+      "insight": "A cooler room temperature, ideally between 60-67 degrees Fahrenheit, promotes better sleep.",
+      "quote": "60 to 67 degrees has been shown to help individuals stay asleep and fall asleep.",
+      "importance": "high"
+    },
+    {
+      "insight": "Taking a hot shower or bath close to bedtime can disrupt sleep because it raises core body temperature, which needs to drop for sleep initiation.",
+      "quote": "When you are taking a hot bath or hot shower,it increases your core temperature.But when you fall asleep, your core temperature drops.",
+      "importance": "high"
+    },
+    {
+      "insight": "Shifting your shower or bath to an hour and a half before bed can help lower your core temperature and enhance deep sleep.",
+      "quote": "If you back that shower up an hour and a half, that should be sufficient time thatwe think potentially there's an augmentation of helping that drop in temperature.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Having a small, balanced snack of complex carbohydrates and lean protein before bed can prevent hunger-related sleep disturbances.",
+      "quote": "I'm okay with you having a pre-sleep snack...that means we'll go for something like 50%of a complex carb and like 50% of a lean protein.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Cereal and milk can be an easy, accessible presleep snack.",
+      "quote": "Cereal and milk is an easy one that many people have access to.",
+      "importance": "low"
+    }
+  ],
+  "topics": [
+    "health",
+    "habits",
+    "science",
+    "fitness",
+    "productivity"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Gradually decrease your bedroom temperature.",
+      "how_to": "Reduce the temperature by 1-2 degrees every few days until you find the optimal temperature for sleep."
+    },
+    {
+      "advice": "Shift hot showers or baths to earlier in the evening.",
+      "how_to": "Take your shower at least 1.5 hours before your bedtime to allow your body temperature to drop."
+    },
+    {
+      "advice": "Prepare a pre-sleep snack if you get hungry before bed.",
+      "how_to": "Combine a complex carbohydrate (like whole grain cereal or crackers) with a lean protein (like milk, cottage cheese, or peanut butter)."
+    }
+  ],
+  "memorable_stories": [],
+  "contrarian_claims": [
+    "It's okay to listen to something relaxing while falling asleep if you are accustomed to it."
+  ],
+  "episode_id": "moment-185-the-one-thing-you-should-never-do-before-bed-dr-cheri-mah",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Moment 185- The One Thing You Should Never Do Before Bed: Dr Cheri Mah",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-185-the-one-thing-you-should-never-do-before-bed-dr-cheri-mah",
+  "processed_at": "2026-03-19T21:05:01"
+}

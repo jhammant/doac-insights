@@ -1,0 +1,80 @@
+{
+  "guest_name": "Not provided in text",
+  "expertise_area": "Gastroenterology",
+  "key_insights": [
+    {
+      "insight": "Stool examination provides insights into gut microbiome health, potentially negating the need for expensive tests.",
+      "quote": "If you want a window into your microbiome, look at your poop. You don't necessarily need to go and do an expensive test. Quite simply lookingat your poop is one of the ways that you can tell what's going on.",
+      "importance": "high"
+    },
+    {
+      "insight": "The Bristol stool scale is used to classify stool form, with types 3, 4, and 5 considered healthy.",
+      "quote": "In a perfect world, we want to be somewhere on the spectrum of three, four, or five. We ideally want to be a four.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Fiber and plant-based diets are associated with healthy stool form (Bristol 4).",
+      "quote": "We found associations between fiber intake and specifically plant-based food intake and having a number four.",
+      "importance": "high"
+    },
+    {
+      "insight": "Constipation is often linked to lower fiber intake and a higher-fat diet, particularly one rich in animal products.",
+      "quote": "People who have more on the spectrum of constipation tend to have a higher fat diet, tend to typicallyconsume more animal products, which of course are higher in fat.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Stool color can indicate underlying health issues; white stool may indicate a blockage, while yellow stool may indicate fat malabsorption.",
+      "quote": "The reason why a person would have a white poopis if there's a blockage that stops the bilefrom mixing with their intestines...if you are struggling to process your fat, you could have a yellow poop.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Red stool necessitates medical evaluation due to the potential for colon cancer, which is increasingly affecting younger populations.",
+      "quote": "If you see blood in your stool, that's not normal. And to me, that's grounds to talk to a doctor...colon cancer is the numbertwo cause of cancer death in our countries.",
+      "importance": "high"
+    },
+    {
+      "insight": "Increased fiber consumption is associated with a reduced risk of colorectal cancer, emphasizing the importance of fiber quantity.",
+      "quote": "For every five grams of fiberthat we increase in our diet,we are getting a significant reduction in our risk.",
+      "importance": "high"
+    },
+    {
+      "insight": "Black stool can indicate a slow GI bleed and has a distinct, foul smell.",
+      "quote": "Black stool can be indicative of bleeding. The way that we can differentiate this is when it's blood,it smells terrible and it will be like tar.",
+      "importance": "high"
+    }
+  ],
+  "topics": [
+    "health",
+    "science",
+    "habits",
+    "psychology",
+    "fitness",
+    "food"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Examine your stool regularly to monitor your gut health.",
+      "how_to": "Observe the shape, size, and color of your stool using the Bristol stool scale as a reference."
+    },
+    {
+      "advice": "Increase fiber intake by incorporating more plant-based foods into your diet.",
+      "how_to": "Eat more legumes, whole grains, fruits, and vegetables daily."
+    },
+    {
+      "advice": "Consult a doctor if you notice blood in your stool.",
+      "how_to": "Schedule an appointment with your physician and describe the appearance of the blood (bright red or black) and any associated symptoms."
+    }
+  ],
+  "memorable_stories": [
+    "The guest's description of a Bristol 4 stool causing him to 'walk out of the bathroom in slow motion' and his wife's reaction.",
+    "The guest mentions his ability to smell a GI bleed diagnosis in the hospital."
+  ],
+  "contrarian_claims": [
+    "The claim that stool is stigmatized and people should be looking at it, not avoiding it."
+  ],
+  "episode_id": "moment-195-10-things-your-stool-says-about-your-health-the-no1-poo-gut-scientist",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Moment 195: 10 Things Your STOOL Says About Your Health: The No.1 Poo & Gut Scientist",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-195-10-things-your-stool-says-about-your-health-the-no1-poo-gut-scientist",
+  "processed_at": "2026-03-19T21:06:33"
+}

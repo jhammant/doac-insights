@@ -1,0 +1,100 @@
+{
+  "guest_name": "Michael Eisenberg",
+  "expertise_area": "Male Reproductive and Sexual Health",
+  "key_insights": [
+    {
+      "insight": "Fertility is an indicator of overall health, and issues with reproduction can be a window into potential future health problems.",
+      "quote": "Fertility is kind of a window into future health.",
+      "importance": "high"
+    },
+    {
+      "insight": "Delaying parenthood until later in life can increase the risk of infertility and potential problems with the child.",
+      "quote": "With that, you know, infertility gets higher. There's usually a close correlation between, you know, mother's age and a father's age.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Environmental chemicals like phthalates and bisphenol A can disrupt endocrine function and negatively impact semen quality.",
+      "quote": "Bisphenol A is, you know, a common chemical that's used in the manufacture of plastic. And that's also been found to have these endocrine disrupting properties.",
+      "importance": "high"
+    },
+    {
+      "insight": "Elevated temperatures, whether from saunas, hot tubs, or prolonged sitting, can impair sperm production.",
+      "quote": "The testicles are outside the body because it needed to be a few degrees cooler for sperm production to occur. So anything that warms them up can definitely be a problem.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Obesity correlates with lower semen quality and can affect the hormonal axis, impacting sperm production and testosterone levels.",
+      "quote": "There's certainly a strong correlation between body mass index and semen quality. So as men get bigger, sperm counts go down.",
+      "importance": "high"
+    },
+    {
+      "insight": "Testosterone replacement therapy, while beneficial for some, can negatively impact sperm production and is a common factor in male infertility.",
+      "quote": "Testosterone impacts sperm production. It actually was tested as a contraceptive by the World Health Organization because it does lower sperm counts in most men.",
+      "importance": "high"
+    },
+    {
+      "insight": "Male infertility contributes to about half of infertility cases, yet men are often not evaluated.",
+      "quote": "If you actually look at, you know, the data, probably about half the time, there's a male factor contributing. And, you know, this sort of stereotype is so prevalent that probably at least a quarter of the time in the United States, the man's never evaluated.",
+      "importance": "high"
+    },
+    {
+      "insight": "Moderate alcohol consumption may not strongly affect semen quality, but excessive drinking (three or more drinks per day) can lower semen quality.",
+      "quote": "It seems like there are some studies that say that when men get to three a day, so maybe 20 a week, there can be lower quality in semen.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Good cardiovascular health is important for fertility. Treating conditions such as high blood pressure can increase sperm counts.",
+      "quote": "Men that had high blood pressure, if they got that under control, their sperm counts went up about 25%.",
+      "importance": "high"
+    }
+  ],
+  "topics": [
+    "health",
+    "relationships",
+    "habits",
+    "science",
+    "technology",
+    "fitness",
+    "productivity",
+    "mindset",
+    "business"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Eliminate plastic water bottles and opt for glass or metal alternatives to reduce exposure to endocrine-disrupting chemicals.",
+      "how_to": "Replace plastic water bottles at home and when purchasing drinks with glass or metal containers. Look for BPA-free plastics if glass/metal are not feasible."
+    },
+    {
+      "advice": "Take breaks and stand up during prolonged periods of sitting to improve air circulation and reduce heat around the testicles.",
+      "how_to": "Set a timer to stand up and walk around for a few minutes every hour. Consider a standing desk or alternating between sitting and standing."
+    },
+    {
+      "advice": "If you are a cyclist, take breaks during long rides and consider spending time out of the saddle to allow for air circulation and reduce heat.",
+      "how_to": "Plan regular breaks during cycling sessions longer than 5 hours per week to stand or walk around. Ensure cycling shorts are breathable and not excessively tight."
+    },
+    {
+      "advice": "Prioritize a balanced diet with whole grains, fruits, and vegetables, and minimize processed foods, fast food, and foods high in fat.",
+      "how_to": "Plan meals in advance, focusing on fresh ingredients and limiting processed foods. Read nutrition labels to make informed choices and reduce consumption of fast food."
+    },
+    {
+      "advice": "Manage underlying health conditions such as high blood pressure or obesity, as treating these conditions can positively impact sperm counts.",
+      "how_to": "Schedule regular checkups with a healthcare provider to monitor health conditions and follow their recommended treatment plans, including lifestyle changes and medication if necessary."
+    }
+  ],
+  "memorable_stories": [
+    "The story about men using a truss-like belt to push testicles into the groin as a form of contraception.",
+    "The anecdote about a patient who had zero sperm count after a flu with high fevers, but recovered after letting nature take its course.",
+    "The case of a couple who struggled with infertility due to testosterone therapy, eventually conceiving triplets after adding other medicines.",
+    "Dr. Eisenberg mentioned a case of a 20 year old getting a penile implant, and one in his 80s."
+  ],
+  "contrarian_claims": [
+    "The claim that penis size has increased over the last few decades, potentially linked to earlier puberty due to environmental exposures.",
+    "The counterintuitive finding that bariatric surgery may decrease sperm quality, despite overall weight loss.",
+    "The idea that frequent ejaculations might lower the risk of prostate cancer."
+  ],
+  "episode_id": "the-fertility-expert-delaying-having-kids-is-impacting-your-future-children-reducing-your-chances-of-parenthood-by-90-masturbation-reduces-cancer-risk",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - The Fertility Expert: Delaying Having Kids Is Impacting Your Future Children & Reducing Your Chances Of Parenthood By 90%! Masturbation Reduces Cancer Risk!",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/the-fertility-expert-delaying-having-kids-is-impacting-your-future-children-reducing-your-chances-of-parenthood-by-90-masturbation-reduces-cancer-risk",
+  "processed_at": "2026-03-19T21:43:45"
+}

@@ -1,0 +1,82 @@
+{
+  "guest_name": "Not Available",
+  "expertise_area": "Wearable Technology/Physiology",
+  "key_insights": [
+    {
+      "insight": "Heart rate variability (HRV) is a key indicator of the body's ability to regulate and adapt to its environment, reflecting the balance between sympathetic (activation) and parasympathetic (rest) nervous system activity.",
+      "quote": "It turns out that variability of time between successive beats is actually a good thing because it's a sign that your body's able to regulate in its environment.",
+      "importance": "high"
+    },
+    {
+      "insight": "Controlling your breath allows you to directly influence your autonomic nervous system, impacting heart rate variability and promoting either sympathetic or parasympathetic dominance.",
+      "quote": "Just by controlling your breathing, you can decide whether you want to be sympathetic dominant, parasympathetic dominant. You can increase your heart rate variability. You can decrease it.",
+      "importance": "high"
+    },
+    {
+      "insight": "Morning workouts offer scheduling flexibility and ensure exercise happens, preventing unexpected schedule conflicts from derailing fitness goals.",
+      "quote": "I like to work out in the morning in large part because it means I can then stay at work later if I need to.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Deliberately exposing yourself to cold can provide a jolt of adrenaline, force proper breathing, and lead to a positive mood boost.",
+      "quote": "There's something I think to be said for doing things that naturally make you happy, even if in the moment they're a little painful...Like I feel a huge jolt of adrenaline from it.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Steam rooms and saunas, when used a few days a week, have research suggesting they can potentially increase longevity.",
+      "quote": "There's a fair amount of research that shows if you do a steam room or a sauna a few days a week, it is likely to increase longevity.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Creating a cold, dark sleep environment can improve sleep quality.",
+      "quote": "I sleep in a really cold bedroom, a really dark bedroom...It's just shown to give you higher quality sleep.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Even seemingly minor stressors, like a difficult conversation with a partner before bed, can negatively impact sleep and heart rate variability.",
+      "quote": "Often people are surprised how just the wrong conversation with their partner the night before bed can totally throw their sleep out of whack or their heart rate variability out of whack.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "health",
+    "fitness",
+    "habits",
+    "sleep",
+    "relationships",
+    "psychology",
+    "science",
+    "technology",
+    "mindset",
+    "productivity"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Pack your gym clothes and plan your next day's top priorities the night before.",
+      "how_to": "Before bed, lay out your workout clothes and write down 2-3 tasks you want to focus on the next day."
+    },
+    {
+      "advice": "End every shower with a cold water blast.",
+      "how_to": "Gradually reduce the water temperature to as cold as possible for the last 30-60 seconds of your shower."
+    },
+    {
+      "advice": "Track your sleep quality using a wearable device and log factors that might be influencing it.",
+      "how_to": "Use the journaling feature in apps like Whoop to track variables like partner in bed and alcohol intake, then analyze correlations."
+    },
+    {
+      "advice": "Work out in the morning",
+      "how_to": "Schedule your workout for the morning to ensure it gets done and you have more flexibility in the evening."
+    }
+  ],
+  "memorable_stories": [
+    "Friend's Whoop data showing poor recovery after a night of drinking at a wedding, illustrating the impact on HRV."
+  ],
+  "contrarian_claims": [
+    "Doing something that's initially painful, like exposing yourself to cold, can ultimately lead to feelings of happiness and well-being."
+  ],
+  "episode_id": "moment-88-daily-habits-that-everyone-needs-to-hear-will-ahmed",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Moment 88 - Daily Habits That Everyone Needs To Hear: Will Ahmed",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-88-daily-habits-that-everyone-needs-to-hear-will-ahmed",
+  "processed_at": "2026-03-19T21:18:42"
+}

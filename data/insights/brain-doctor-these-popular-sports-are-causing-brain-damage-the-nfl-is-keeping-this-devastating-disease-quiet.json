@@ -1,0 +1,92 @@
+{
+  "guest_name": "Ann McKee",
+  "expertise_area": "Neuropathology",
+  "key_insights": [
+    {
+      "insight": "CTE is caused by repetitive hits to the head, including subconcussive hits, and can lead to dementia.",
+      "quote": "CTE stands for chronic traumatic encephalopathy.And it's a neurodegenerative disease of the brain...it's triggered by trauma, specifically small repetitive hits to the head.",
+      "importance": "high"
+    },
+    {
+      "insight": "CTE can manifest early in life, with symptoms like depression, emotional lability, and poor judgment.",
+      "quote": "We have found, you know, in that study of the 152 young athletes, they were all symptomatic.And those symptoms generally are depression...emotional ability, irritability, impulsivity, poor judgement, making poor choices.",
+      "importance": "high"
+    },
+    {
+      "insight": "Helmets protect against skull fractures but do not prevent the brain's movement inside the skull, which causes CTE.",
+      "quote": "No matter how big and thick and protective that helmet is, it's not changing the movement of your brain...What that does, what the helmets were designed for, was to prevent skull fractures.",
+      "importance": "medium"
+    },
+    {
+      "insight": "The NFL initially dismissed Dr. McKee's findings about CTE and attempted to discredit her.",
+      "quote": "It was pretty humiliating. They didn't believe me...It was just massive denial and dismissiveness. And, you know, it felt, humiliating is the best word.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Inflammation and vascular changes in the brain may play a key role in promoting neurodegeneration.",
+      "quote": "Inflammation is one of the key promoters of brain disease and neurodegeneration...small vessel disease, vascular disease, the health of these small blood vessels...if they become damaged or injured...then we also see these diseases being accelerated.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Even after stopping participation in activities that cause head trauma, CTE can progress with age.",
+      "quote": "It can go from one to four with aging...So it's a disease of aging.",
+      "importance": "medium"
+    },
+    {
+      "insight": "The frontal lobe's damage due to CTE can lead to loss of inhibition, poor judgement and impulsive acts.",
+      "quote": "So when you lose your frontal lobe, you lose your inhibition...And you do aggressive, maybe impulsive acts with no filter either.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Sleep clears out noxious chemicals from the brain and is important for brain health.",
+      "quote": "At the end of the day, your sleep, you're actually clearing bad substances out of your brain...sleep is also critically important.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "health",
+    "science",
+    "sports",
+    "psychology",
+    "relationships",
+    "habits",
+    "mindset"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Delay full contact in sports for children.",
+      "how_to": "Wait until the child is physically robust with strong neck musculature to better resist hits."
+    },
+    {
+      "advice": "Limit the number of hits to the head in sports.",
+      "how_to": "Take hits out of practice and encourage players to start full contact later."
+    },
+    {
+      "advice": "Prioritize good sleep hygiene.",
+      "how_to": "Ensure adequate sleep to facilitate the brain's clearance of noxious chemicals."
+    },
+    {
+      "advice": "Stay socially connected and challenge your brain.",
+      "how_to": "Participate in social activities and engage in mentally stimulating tasks to build cognitive reserve."
+    },
+    {
+      "advice": "Promote brain health through lifestyle choices.",
+      "how_to": "Reduce stress, stay physically fit, and eat a healthy diet to support vascular health."
+    }
+  ],
+  "memorable_stories": [
+    "The story of Paul Pender, the boxer whose brain revealed a disease distinct from Alzheimer's.",
+    "The story of Wyatt Bramwell, the 18-year-old football player who videotaped his suicide and requested his brain be donated.",
+    "The story of Aaron Hernandez, the NFL player with advanced CTE who committed murder and then suicide.",
+    "The story of Owen Thomas, a 21-year-old University of Pennsylvania football player who committed suicide despite having no known concussions."
+  ],
+  "contrarian_claims": [
+    "Helmets, while preventing skull fractures, are 'pretty useless' in preventing CTE.",
+    "Subconcussive hits, not just concussions, are significant contributors to CTE."
+  ],
+  "episode_id": "brain-doctor-these-popular-sports-are-causing-brain-damage-the-nfl-is-keeping-this-devastating-disease-quiet",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Brain Doctor: These Popular Sports Are Causing Brain Damage & The NFL Is Keeping This Devastating Disease Quiet!",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/brain-doctor-these-popular-sports-are-causing-brain-damage-the-nfl-is-keeping-this-devastating-disease-quiet",
+  "processed_at": "2026-03-19T20:16:42"
+}

@@ -1,0 +1,95 @@
+{
+  "guest_name": "Yvonne Burkhardt",
+  "expertise_area": "Toxicology",
+  "key_insights": [
+    {
+      "insight": "Chemicals and products in the US and many other regions are not required to be tested for safety before they are released onto the market, making consumers unwitting participants in a massive human experiment.",
+      "quote": "Chemicals and products are not required to be tested for safety before they're released onto the market at least in the US and many other regions of the world...we're being exposed to chemicals that we have no idea how they are actually impacting our health...And we're basically guinea pigs in a massive human experiment that no one signed up for.",
+      "importance": "high"
+    },
+    {
+      "insight": "Low-dose chronic exposures to toxins can have a significant impact on health, sometimes even more than high doses due to non-monotonic dose responses, especially with endocrine disruptors.",
+      "quote": "There are chemicals in the environment known as endocrine disruptors at very low levels have higher activity than they do at high levels. So it's completely backwards.",
+      "importance": "high"
+    },
+    {
+      "insight": "The word 'fragrance' or 'parfum' on an ingredient list is often a code for undisclosed chemicals, including phthalates, carcinogens, and allergens, making it a key indicator of potentially harmful products.",
+      "quote": "The seemingly innocuous little term on the ingredients list, fragrance or parfum, can contain a huge number of chemicals. It's hidden behind this umbrella term...And within that chemical mixture are known carcinogens, endocrine disruptors like phthalates, and the most potent allergens known to man.",
+      "importance": "high"
+    },
+    {
+      "insight": "PFAS chemicals, found in non-stick cookware and other products, are linked to various health problems, including cancer, thyroid disorders, miscarriage, preterm birth, and obesity, and are found in virtually everyone's body.",
+      "quote": "PFAS are linked with several types of cancers, so kidney and testicular cancer, thyroid disorders...Then we have increased risk of miscarriage, preterm labor, preterm birth, preeclampsia...You also have increased obesity that's linked with PFAS chemicals.",
+      "importance": "high"
+    },
+    {
+      "insight": "Microplastics accumulate in the body, causing inflammation and oxidative stress, and have been found in various organs, including the lungs, heart, brain, and even the penis.",
+      "quote": "Microplastics don't break down. They don't go away...they're in human lungs, blood in the gut tissue, they're in heart, they're in brain, they are in the placenta, they're also in penis.",
+      "importance": "high"
+    },
+    {
+      "insight": "Children are particularly vulnerable to toxins because their detoxification capacity is not fully developed until around age 10, increasing their risk of cancer, neurodevelopmental delays, and obesity.",
+      "quote": "With children, it's extremely unfortunate that they are the most susceptible and most vulnerable to a lot of toxins because...they're not able to detoxify. In fact, a child's detoxification capacity doesn't fully develop until the age of 10 years.",
+      "importance": "high"
+    },
+    {
+      "insight": "The prevalence of food and seasonal allergies, asthma, and other health conditions has increased significantly, potentially linked to the overuse of fragrances and scented products.",
+      "quote": "I think it's this pervasiveness of the overuse of fragrances, scented products, and the lack of awareness about the harm that they cause.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Black women are disproportionately exposed to toxins through beauty and hair products marketed to them, contributing to environmental injustice and higher rates of certain health issues.",
+      "quote": "Some of these products that are marketed specifically to black girls contains some of the worst ingredients I have ever seen...And I think it should be outlawed...beauty and hair products marketed to black women often contain the most toxic ingredients.",
+      "importance": "high"
+    }
+  ],
+  "topics": [
+    "health",
+    "science",
+    "relationships",
+    "habits",
+    "business",
+    "mindset"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Filter your tap water using a carbon filter that also removes fluoride.",
+      "how_to": "Check your local water report to see what contaminants are present and choose a filter accordingly."
+    },
+    {
+      "advice": "Eliminate products containing fragrance, opting for essential oil-based alternatives.",
+      "how_to": "Check ingredient lists for 'fragrance' or 'parfum'; if listed without specifying essential oils, avoid the product."
+    },
+    {
+      "advice": "Switch to stainless steel, cast iron, glass, or ceramic cookware and wooden utensils.",
+      "how_to": "Replace non-stick cookware and plastic spatulas/utensils with safer alternatives."
+    },
+    {
+      "advice": "Avoid microwaving food in plastic containers; use glass instead and keep food away from the lid.",
+      "how_to": "Transfer food to glass containers for microwaving and leave a space between the food and the lid to minimize plastic contact."
+    },
+    {
+      "advice": "Boost your glutathione levels through lifestyle changes and diet.",
+      "how_to": "Exercise regularly, eat sulfur-rich foods like broccoli, leafy greens, and eggs, ensure adequate sleep, and limit alcohol consumption."
+    },
+    {
+      "advice": "Improve indoor air quality by opening windows regularly, cleaning regularly, and removing shoes at the door.",
+      "how_to": "Implement a routine of opening windows, dusting/vacuuming regularly, and designating indoor-only footwear."
+    }
+  ],
+  "memorable_stories": [
+    "Dr. Burkhardt's personal experience with infertility led her to research and eliminate toxins, ultimately enabling her to conceive naturally.",
+    "The anecdote about the office clapping when the scent was changed, highlighting the importance of seemingly small improvements.",
+    "The recollection of learning that having Shisha is equal to 100 cigarettes and determining it wasn't worth it."
+  ],
+  "contrarian_claims": [
+    "Lower doses of endocrine disruptors can sometimes be more harmful than higher doses.",
+    "Incense is even worse for air quality than cigarette smoke.",
+    "The dose does not always make the poison."
+  ],
+  "episode_id": "no1-toxicologist-stop-using-scented-candles-these-products-were-making-me-infertile-using-this-product-is-harming-your-future-kids",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - No.1 Toxicologist: Stop Using Scented Candles! These Products Were Making Me Infertile! Using This Product Is Harming Your Future Kids!",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/no1-toxicologist-stop-using-scented-candles-these-products-were-making-me-infertile-using-this-product-is-harming-your-future-kids",
+  "processed_at": "2026-03-19T21:29:19"
+}

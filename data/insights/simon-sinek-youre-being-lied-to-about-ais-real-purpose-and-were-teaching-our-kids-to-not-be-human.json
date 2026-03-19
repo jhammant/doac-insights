@@ -1,0 +1,84 @@
+{
+  "guest_name": "Simon Sinek",
+  "expertise_area": "Leadership and Organizational Culture",
+  "key_insights": [
+    {
+      "insight": "The value and growth come from the journey and the struggle, not just the destination or the end result.",
+      "quote": "I am smarter, better at problem solving, more resourceful,not because a book exists with my ideas in it, but because I wrote it. That excruciating journey is what made me grow.",
+      "importance": "high"
+    },
+    {
+      "insight": "AI, while useful, is exacerbating the loss of very important human skills needed to navigate relationships and conflict effectively.",
+      "quote": "But my ability to know what to dowhen my friend is struggling,my ability to know what to dowhen I have a fight with my spouse or my partner...I've missed out on those skills.",
+      "importance": "high"
+    },
+    {
+      "insight": "Authenticity and imperfection are becoming increasingly valuable as AI-generated content floods the internet with perfect but soulless material.",
+      "quote": "What makes people beautiful is not that we get everything right, it's that we get many things wrong.",
+      "importance": "high"
+    },
+    {
+      "insight": "In the age of AI and readily available skills/information, it is important to go back to the core and teach people how to be good friends.",
+      "quote": "Learn how to be a good friendto your friends...When they have a fight, the parents make them say sorry, you know, go over to your friend'shouse and knock on the door and you're going to say sorry for the thing that you did.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Gratitude helps reframe perspective, and by being grateful for things you have but could lose, the temporary and material become less significant.",
+      "quote": "And it was the most amazing thing to have gratitude for something that I don't wantto lose, but accepted that I might. And it's made me a lot more disconnected from my material things, especially the thingsI said goodbye to, because I've already said goodbye to them.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Small companies are more innovative because their ambitions exceed their capabilities, fostering creativity and resourcefulness.",
+      "quote": "I think the reason is because when you're small,your ambitions are bigger than the resources you have to achieve those ambitions...the problem with big companies is their ambitions are well within their capabilities and theirresources.",
+      "importance": "medium"
+    },
+    {
+      "insight": "The most advanced AI leaders admit that there is no way to know how the future of AI will evolve.",
+      "quote": "You're so right when you say that, when I asked you about the future of AI, you saidI don't know. The reason why I know that's probably the correct answer generally is because when Isat with the most advanced people in AI...they all had different opinions.",
+      "importance": "low"
+    }
+  ],
+  "topics": [
+    "business",
+    "health",
+    "psychology",
+    "relationships",
+    "habits",
+    "technology",
+    "leadership",
+    "mindset",
+    "creativity",
+    "communication"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Schedule friendship as a priority on your calendar.",
+      "how_to": "Treat time with friends as important as a critical work meeting, and do not allow it to be cancelled for less important matters."
+    },
+    {
+      "advice": "Practice active listening and curiosity when engaging with others.",
+      "how_to": "Attempt to understand different perspectives and learn about people's beliefs without immediate agreement or disagreement."
+    },
+    {
+      "advice": "Prioritize behavior over results in leadership and mentorship.",
+      "how_to": "Reward team members for initiative and resourcefulness, even if the outcome is not always successful, and allow them to learn from mistakes."
+    },
+    {
+      "advice": "In order to maintain self-care, stop using social media.",
+      "how_to": "Hide the app to reduce the frequency that you use it, and be intentional about the time that you spend there."
+    }
+  ],
+  "memorable_stories": [
+    "Account of fireman saving himself from wildfire using experienced-based wisdom.",
+    "The story of an individual creating samuri swords the way it was done 200 years ago."
+  ],
+  "contrarian_claims": [
+    "That high speed growth is not good for business.",
+    "That the people who should be on welfare, and have a UBI (universal basic income) are the white collar knowledge workers."
+  ],
+  "episode_id": "simon-sinek-youre-being-lied-to-about-ais-real-purpose-and-were-teaching-our-kids-to-not-be-human",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Simon Sinek: You're Being Lied To About AI's Real Purpose And We're Teaching Our Kids To Not Be Human!",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/simon-sinek-youre-being-lied-to-about-ais-real-purpose-and-were-teaching-our-kids-to-not-be-human",
+  "processed_at": "2026-03-19T21:37:34"
+}

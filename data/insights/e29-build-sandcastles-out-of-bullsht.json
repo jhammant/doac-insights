@@ -1,0 +1,83 @@
+{
+  "guest_name": "Steve Bartlett",
+  "expertise_area": "Business & Mindset",
+  "key_insights": [
+    {
+      "insight": "Social media timelines significantly influence our lives due to the amount of time spent on them.",
+      "quote": "I really, really believe that to our generation, to the social media digital generation, the timeline is the single biggest influence on our life, just in terms of time, at least, right?",
+      "importance": "high"
+    },
+    {
+      "insight": "The values promoted by the people you follow on social media impact your happiness and mental health.",
+      "quote": "The stuff you're being fed by algorithms and the people you choose to follow are impacting your happiness, your mental health, the amount of knowledge you have, your perspective on the world, your optimism, and even your values.",
+      "importance": "high"
+    },
+    {
+      "insight": "Over-labeling normal emotions as mental health disorders can be dangerous, as it trivializes genuine mental health issues.",
+      "quote": "I just want to appeal to everybody to not be so quick to label yourself, right? And to not get too sucked into the idea that if you're feeling an emotion...that you don't jump to label yourself with depression or anxiety or something or bipolar because you can.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Instead of dwelling on the belief that everything happens for a reason, it is more empowering to focus on how we react to difficult situations.",
+      "quote": "I don't think everything happens for a reason...Things happen sometimes that are out of our control. And we have a choice in that moment how to react.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Believing you are special can hinder success by creating a sense of entitlement and preventing learning from failures.",
+      "quote": "I don't believe it's useful to believe that you're special...The world absolutely does not owe you anything.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Being your authentic self leads to increased happiness, creativity, and conviction, and reduces anxiety.",
+      "quote": "Because I've gotten closer to being myself, I'm happier than ever before...By being myself and getting closer to being myself, my mental health is definitely the best it's ever been and ever will be.",
+      "importance": "high"
+    },
+    {
+      "insight": "The key to consistent success isn't a complex system, but simply doing your best in the present moment.",
+      "quote": "The honest answer is I'm just doing my best every day. I never try and do more than my best... I just try and be as present as possible every single day. I wake up in the morning and I try and do my best.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "psychology",
+    "relationships",
+    "habits",
+    "business",
+    "mindset",
+    "health",
+    "technology"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Audit your social media timeline and actively unfollow or mute accounts that promote extrinsic values or don't bring value to your life.",
+      "how_to": "For one week, when logging into social media, evaluate the content being posted by each account you follow. If the content is toxic, shallow, or promotes values you don't align with, unfollow them or use the mute button."
+    },
+    {
+      "advice": "Challenge your algorithm by actively seeking out motivational, inspirational, and informative content.",
+      "how_to": "Deliberately search for and engage with content that aligns with your values and goals. This will retrain the algorithms to show you more of that type of content."
+    },
+    {
+      "advice": "To become more authentic, consciously make decisions for the right (internal) reasons, irrespective of potential negative consequences.",
+      "how_to": "Before taking any action, ask yourself why you're doing it. If the reason is for external approval or to impress others, reconsider whether it aligns with your true self."
+    },
+    {
+      "advice": "When facing a difficult situation, confront your emotions, speak to trusted individuals, and allow yourself to cry if needed.",
+      "how_to": "Acknowledge and accept your feelings instead of suppressing them. Seek out supportive friends or family members to confide in and don't be afraid to express your emotions, including crying."
+    }
+  ],
+  "memorable_stories": [
+    "The speaker recounts a story about a young man who took his own life after watching the speaker's mental health video, emphasizing the responsibility content creators have.",
+    "The speaker shares the story of Kate McIver, who created a successful skincare brand while battling terminal cancer, illustrating the ability to turn difficult situations into something positive.",
+    "The speaker tells the story of being told no repeatedly when starting his first business, but using each one as motivation to try harder."
+  ],
+  "contrarian_claims": [
+    "The speaker challenges the notion that everything happens for a reason.",
+    "The speaker argues that being told you are 'special' can be detrimental to success.",
+    "The speaker raises the point that the constant discussion and focus on mental health may inadvertently be causing mental health problems."
+  ],
+  "episode_id": "e29-build-sandcastles-out-of-bullsht",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - E29: Build Sandcastles out of Bullsh*t",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/e29-build-sandcastles-out-of-bullsht",
+  "processed_at": "2026-03-19T20:29:11"
+}

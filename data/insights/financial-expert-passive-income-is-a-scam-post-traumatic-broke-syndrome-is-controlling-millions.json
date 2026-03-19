@@ -1,0 +1,84 @@
+{
+  "guest_name": "Morgan Housel",
+  "expertise_area": "Finance",
+  "key_insights": [
+    {
+      "insight": "The best thing to spend money on is independence, viewing savings as purchasing independence and owning a piece of one's future.",
+      "quote": "The biggest thing that I spend my money on...is saving. And I view that as buying independence.",
+      "importance": "high"
+    },
+    {
+      "insight": "The formula for a pretty good life, extending way outside of money, is independence plus purpose.",
+      "quote": "The formula for a pretty good life is independence plus purpose. You need to be independent... and you need some kind of purpose that is higher than yourself.",
+      "importance": "high"
+    },
+    {
+      "insight": "Financial independence exists on a spectrum, where every dollar saved is a piece of your future you own and control.",
+      "quote": "Every dollar that you save is a piece of your future that you own, that you control, that is yours.",
+      "importance": "high"
+    },
+    {
+      "insight": "True wealth is what you have minus what you want; therefore, controlling desires is key to feeling wealthy.",
+      "quote": "All wealth, your feeling of wealth is what you have minus what you want and is so easy to ignore the latter.",
+      "importance": "high"
+    },
+    {
+      "insight": "Dopamine is the chemical for wanting, not happiness; mistaking it for happiness leads to constantly chasing 'more.'",
+      "quote": "Dopamine is the chemical for wanting...It's more, more, more, more. It's like you want more.",
+      "importance": "medium"
+    },
+    {
+      "insight": "It's essential to develop the skill of disconnecting admiration from aspirations, recognizing you only see a snapshot of others' lives.",
+      "quote": "You have to develop the skill of disconnecting your admiration from your aspirations if you want to live a good life...they're just seeing the sort of shot window of your life.",
+      "importance": "medium"
+    },
+    {
+      "insight": "The goal isn't to be happy, but to be content, accepting and being good with what one has and diminishing unnecessary wants.",
+      "quote": "The feeling that we are aspiring to is just being content... just saying like, I'm good, I'm good with this. I don't want anything more.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Social media is designed to deliver what gives you the most anxiety and FOMO, so it should not be viewed as a proxy for the real world.",
+      "quote": "It's been designed by the smartest people of our generation to deliver you in your feed, not the best information, not the right information...basically what's going to give you the most FOMO, the most anxiety.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "money",
+    "finance",
+    "psychology",
+    "habits",
+    "mindset",
+    "business",
+    "relationships"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Write a reverse obituary to clarify what truly matters and align daily actions accordingly.",
+      "how_to": "Imagine your funeral and write down what you want people to say about you. This will reveal your actual priorities (e.g., being a good spouse, parent, friend) versus what you might be chasing (e.g., higher income, bigger house)."
+    },
+    {
+      "advice": "Analyze the difference between utility and status in purchases, gravitating more towards utility.",
+      "how_to": "Consider how you would live on a deserted island where no one could see your possessions. This exercise helps differentiate between what you truly need and what you buy for social signaling."
+    },
+    {
+      "advice": "Determine a baseline level of financial independence.",
+      "how_to": "Calculate how much money you would need to cover expenses for 6 months if you lost your job. Saving towards this goal gives a realistic and motivating target."
+    }
+  ],
+  "memorable_stories": [
+    "Julia Roberts winning an Oscar the same week she learned her husband was cheating",
+    "Anecdote of lonely millionaire working in call centers, drinking powdered oats, and shoplifting, highlighting that the grass isn't always greener.",
+    "Personal realization that Cape Town house felt empty without people."
+  ],
+  "contrarian_claims": [
+    "Passive income is largely a myth; there are only two ways to get wealthier: sacrifice more or want less.",
+    "People are not becoming more divided. Social media is merely making existing divisions more visible",
+    "Knowing a lot about finance can be detrimental to investment returns due to increased confidence without increased ability"
+  ],
+  "episode_id": "financial-expert-passive-income-is-a-scam-post-traumatic-broke-syndrome-is-controlling-millions",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Financial Expert: Passive Income Is A Scam! Post-Traumatic Broke Syndrome Is Controlling Millions!",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/financial-expert-passive-income-is-a-scam-post-traumatic-broke-syndrome-is-controlling-millions",
+  "processed_at": "2026-03-19T20:36:09"
+}

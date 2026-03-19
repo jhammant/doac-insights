@@ -1,0 +1,84 @@
+{
+  "guest_name": "Dr. Paul Conti",
+  "expertise_area": "Psychiatry",
+  "key_insights": [
+    {
+      "insight": "Trauma isn't just a mental health issue; it significantly impacts physical health, accelerating aging and increasing the risk of autoimmune diseases, heart attacks, and strokes.",
+      "quote": "So we know that trauma by this definition that changes us because our coping mechanisms are overwhelmedmakes us age faster than our calendar age.",
+      "importance": "high"
+    },
+    {
+      "insight": "Trauma is like a virus that's often hidden within a person, but even when hidden, it spins off symptoms that diminish quality of life and can be passed to future generations.",
+      "quote": "Trauma is like a virus, and it gets passed along to your children, even if their children are not born until years later. Because trauma can change the expression of our genes.",
+      "importance": "high"
+    },
+    {
+      "insight": "It is key to be curious about the root causes of the patient, instead of reflexively prescribing medicine and only focusing on the surface.",
+      "quote": "In medicine, we look at just the surface, right? What we want to look at is like, oh, why are you here? Oh, you're here because you're drinking too much. Let's talk about how you can drink less. You're here because you're depressed. What can we give you a depression medicine, right? So then we're not looking at like, why, right?",
+      "importance": "high"
+    },
+    {
+      "insight": "A cognitive blind spot occurs when a lesson of trauma, not of truth, is internalized and changes how we think about possibilities, limiting our actions and potential.",
+      "quote": "So there's a cognitive blind spot which makes it very, very difficult to think with accuracy about, say, possibilities. So that person may have, say, been striving for a better job. But if they think of themselves differently, I'm not the kind of person who can get ahead and people don't really like me, then they don't strive for a better job.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Shame, as a primary affect, serves a survival adaptation by modifying behavior; however, when misapplied, it can lead to feeling 'less than' and internalizing victimhood.",
+      "quote": "Shame changes behavior a lot because it feels so bad...there's the adaptive, something bad has happened,feel something inside that creates aversion. The shame is created in us and then we make the meaning of it.",
+      "importance": "medium"
+    },
+    {
+      "insight": "The limbic system, or emotion system in our brain, is always stronger than logic; therefore, if trauma or fear is driving, logic cannot have its say and repetition of unhealthy patterns can happen.",
+      "quote": "The limbic, the emotional always rules the logic if the two come head to head, which is why if the emotion of trauma, the fear of being less than, the need to repair something that was unfair in the past, if that is driving us, logic will not have its say.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Sleep problems are often a result of trauma and vigilance systems running too high in the brain, requiring calming the distress systems instead of just pounding the sleep system into sleep.",
+      "quote": "If that's what's going on in me and I'm agitated and havethis highly aroused state after trauma, and maybe it's been going on for two weeks or maybe it'sbeen going on but getting worse for two years, but this is what's going on and I can't settle down and my sleep system can't overcome it. If you give me a sleeping medicine for that,I'm probably going to need a lot of it, right?",
+      "importance": "medium"
+    },
+    {
+      "insight": "In many aspects, what doesn't kill us often makes us weaker because we become more susceptible to trauma.",
+      "quote": "What doesn't kill us often makes us weaker. And that's why we have to be attentive to what hurts us but doesn't kill us so that we don't get weaker, we get stronger.",
+      "importance": "low"
+    }
+  ],
+  "topics": [
+    "psychology",
+    "health",
+    "science",
+    "relationships",
+    "habits",
+    "mindset"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Build a comprehensive life narrative.",
+      "how_to": "Start by considering your origins, family history, significant life events, and how these elements connect to shape your current self-understanding and behavior patterns."
+    },
+    {
+      "advice": "Scratch the surface of seemingly subtle habits or behaviours.",
+      "how_to": "If you are addicted to your phone, find the root cause and the reason for you to behave like this, and question your negative traits and find if there's something deeper than meets the eye."
+    },
+    {
+      "advice": "When triggered by memories of past trauma, acknowledge the strength of the imprint, but reaffirm the current truth.",
+      "how_to": "Recognize the memory's power without letting it dictate your present feelings or actions; consciously counter the negative thoughts with factual, positive affirmations."
+    },
+    {
+      "advice": "If experiencing sleep issues, explore potential underlying trauma.",
+      "how_to": "Reflect on any recent or past traumatic events that might be contributing to restlessness or intrusive thoughts preventing restful sleep; consider seeking professional help to process these traumas."
+    }
+  ],
+  "memorable_stories": [
+    "Dr. Conti's account of his brother's suicide and its impact on his family, particularly his mother.",
+    "The example of immigrants in Holland and their likelihood to be schizophrenic."
+  ],
+  "contrarian_claims": [
+    "The popular saying \"what doesn't kill you makes you stronger\" is wrong."
+  ],
+  "episode_id": "the-childhood-trauma-doctor-your-childhood-trauma-changes-the-shape-of-your-brain-causes-parkinsons-how-not-to-ruin-your-kids-dr-paul-conti",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - The Childhood Trauma Doctor: Your Childhood Trauma Changes The Shape Of Your Brain & Causes Parkinson's! How Not To Ruin Your Kids! Dr. Paul Conti",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/the-childhood-trauma-doctor-your-childhood-trauma-changes-the-shape-of-your-brain-causes-parkinsons-how-not-to-ruin-your-kids-dr-paul-conti",
+  "processed_at": "2026-03-19T21:41:34"
+}

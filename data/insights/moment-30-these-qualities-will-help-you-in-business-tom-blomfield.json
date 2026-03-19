@@ -1,0 +1,65 @@
+{
+  "guest_name": "Tom Blomfield",
+  "expertise_area": "Entrepreneurship",
+  "key_insights": [
+    {
+      "insight": "Looking for better ways to do things, rather than just accepting the status quo, is a key trait for entrepreneurs.",
+      "quote": "I look at the way something's done and immediately start thinking of better ways to do it rather than just doing what I'm told.",
+      "importance": "high"
+    },
+    {
+      "insight": "Naivety can be a strength for founders, preventing them from being discouraged by the high failure rates and past attempts.",
+      "quote": "Actually the benefit of being naive and even being quite young in your career is you don't have that baggage of knowing how it failed the five times before, which I find super interesting.",
+      "importance": "high"
+    },
+    {
+      "insight": "Technical ability, especially coding, provides a significant advantage to founders in the early stages of a company.",
+      "quote": "Being technical being able to write code i think is just a huge huge leg up and all of the founders who aren't technical... i think their biggest problem at the early stage is finding a technical co-founder.",
+      "importance": "high"
+    },
+    {
+      "insight": "Determination and resilience are critical for overcoming obstacles and achieving success in entrepreneurship.",
+      "quote": "Being really, really determined and resilient... being indefatigable basically i think is is the singlebiggest predictor of success.",
+      "importance": "high"
+    },
+    {
+      "insight": "Confidence can decrease with experience as one becomes more aware of the potential for failure.",
+      "quote": "I was more confident when I was 28 than I am now for sure and I think that comes with experience um I think you you take enough knocks that you start to and you realize you don't know.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Privilege plays a role in the ability to take risks, as a safety net allows for more experimentation.",
+      "quote": "I knew I could take risk because if that risk didn't pay off, I have that safety net.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "business",
+    "technology",
+    "entrepreneurship",
+    "mindset"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Learn to code.",
+      "how_to": "Take online courses, attend coding bootcamps, or pursue a computer science degree. Focus on practical application by building websites and projects."
+    },
+    {
+      "advice": "Embrace well-calculated risk taking.",
+      "how_to": "Evaluate potential downsides and ensure you have a safety net to fall back on before taking big life or career steps. Start with smaller risks to build confidence."
+    }
+  ],
+  "memorable_stories": [
+    "Story of automating a jewelry website tally task with an Excel script, highlighting inefficiency in billing practices.",
+    "Story of quitting a consulting job three days before starting to pursue a Y Combinator startup offer."
+  ],
+  "contrarian_claims": [
+    "That naivety and a lack of experience can be advantageous in entrepreneurship.",
+    "People in privileged countries don't take enough risk."
+  ],
+  "episode_id": "moment-30-these-qualities-will-help-you-in-business-tom-blomfield",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Moment 30 - These Qualities Will Help You In Business: Tom Blomfield",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-30-these-qualities-will-help-you-in-business-tom-blomfield",
+  "processed_at": "2026-03-19T21:10:42"
+}

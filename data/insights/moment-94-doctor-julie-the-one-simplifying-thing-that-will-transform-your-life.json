@@ -1,0 +1,70 @@
+{
+  "guest_name": "Not specified in text",
+  "expertise_area": "Clinical Psychology",
+  "key_insights": [
+    {
+      "insight": "Values are a lifelong path, not a destination like goals.",
+      "quote": "A value doesn't finish or end. It's a pathway... it's a path that extends the whole of your life.",
+      "importance": "high"
+    },
+    {
+      "insight": "Life circumstances can cause values to shift.",
+      "quote": "Depending on your life stage and what you're doing, your circumstances, your values will change.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Regular 'values check-ins' are important to evaluate if you're living in alignment with what matters.",
+      "quote": "That's why I talk about doing sort of quite regular values check-ins.",
+      "importance": "high"
+    },
+    {
+      "insight": "Values help determine how you want to respond in different areas of your life, not just what you want to happen.",
+      "quote": "It's not what happens to you, it's not what you want to happen to you, it's how you want to respond to things, how you want to be in that area of your life.",
+      "importance": "high"
+    },
+    {
+      "insight": "Big life changes happen gradually through reflection and small actions.",
+      "quote": "Big meaningful change is not made drastically and quickly. You know, sustainable change is made carefully.",
+      "importance": "high"
+    },
+    {
+      "insight": "It's normal for your understanding of your values to evolve over time with life experiences.",
+      "quote": "You didn't have the capacity to do that. You hadn't had the life experience. So it's okay.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Childhood insecurities can sometimes masquerade as values, making it difficult to distinguish genuine aspirations from those driven by insecurity.",
+      "quote": "It's quite difficult to understand whether something you say or write down or aiming for is a value or if it's just based on like an inherent deep childhood born insecurity.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "psychology",
+    "relationships",
+    "habits",
+    "mindset"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Conduct a 'values check-in' to assess your alignment with your values.",
+      "how_to": "Divide your life into areas (family, health, career). For each area, identify 1-2 words describing how you want to be in that area (e.g., 'enthusiastic' in work). Rate the importance of that value (1-10) and how well you're living in line with it currently. Identify discrepancies and act to close the gap."
+    },
+    {
+      "advice": "When pursuing change, prioritize reflection and gradual steps over drastic actions.",
+      "how_to": "Reflect on your goals and direction. Experiment with small actions, then reflect on the outcome. Adjust course incrementally based on what you learn."
+    }
+  ],
+  "memorable_stories": [
+    "The host describes watching a YouTube video of someone exhibiting narcissistic delusions of grandeur and reflecting on the difficulty of distinguishing genuine values from insecurity-driven aspirations.",
+    "The speaker mentions how having children completely transformed their values."
+  ],
+  "contrarian_claims": [
+    "The idea that meaningful change is not about making a 90 degree turn and starting on the new path, but a process of small course corrections.",
+    "Values aren't something to discover once and stick to, but are constantly changing and evolving."
+  ],
+  "episode_id": "moment-94-doctor-julie-the-one-simplifying-thing-that-will-transform-your-life",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Moment 94 - Doctor Julie: The ONE Simplifying Thing That Will Transform Your Life",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-94-doctor-julie-the-one-simplifying-thing-that-will-transform-your-life",
+  "processed_at": "2026-03-19T21:19:35"
+}

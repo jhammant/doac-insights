@@ -1,0 +1,76 @@
+{
+  "guest_name": "John Vincent",
+  "expertise_area": "Mindset",
+  "key_insights": [
+    {
+      "insight": "Children are being gradually desensitized to surveillance and a loss of freedom through seemingly rational justifications.",
+      "quote": "I think our kids are being slowly boiled and they don't realize it.",
+      "importance": "high"
+    },
+    {
+      "insight": "Social media is a curated reality, not an accurate reflection of truth, and contributes to mental health issues.",
+      "quote": "Social media is a window into artifice.",
+      "importance": "high"
+    },
+    {
+      "insight": "Our sense of self is a construct, a collection of stories and myths we tell ourselves.",
+      "quote": "The Steve that we have in our mind or the John Vincent that we have in our mind, it's a set of myths, a set of stories that we tell ourselves.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Happiness cannot be found by deferring it to a future occurrence, associating it with money, fame or external validation.",
+      "quote": "Do not seek happiness from a future occurrence. Do not associate it with money. Do not associate it with fame. Do not associate it with recognition from third parties.",
+      "importance": "high"
+    },
+    {
+      "insight": "Living in the present moment and finding fulfillment in the practice itself is essential for well-being.",
+      "quote": "The problem with living your life abstracted online or abstracted in the future means that you are off balance and you are not getting fulfillment from the now.",
+      "importance": "high"
+    },
+    {
+      "insight": "To become more present, one must begin by valuing only the essential aspects of life, such as breathing and bodily functions.",
+      "quote": "The mental element is to start by not valuing anything so by which I mean recognize the fact that ultimately the very act of breathing... only value that.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Considering oneself as 'dead' helps to re-evaluate priorities and focus only on the truly critical things in life.",
+      "quote": "If you say 'I am dead', it allows you to suddenly revalue the things you really then want to value.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "psychology",
+    "mindset",
+    "habits",
+    "relationships",
+    "health",
+    "technology"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Practice conscious breathing during physical activities.",
+      "how_to": "Go for a walk without your phone, and consciously synchronize your breath with your steps."
+    },
+    {
+      "advice": "Observe something in nature to ground yourself in the present moment.",
+      "how_to": "Find a tree, bush, frog, or spider and simply observe it, focusing on its details."
+    },
+    {
+      "advice": "Re-evaluate priorities by starting from a place of nothingness.",
+      "how_to": "Imagine you are dead and then consciously add back only the essential things into your life."
+    }
+  ],
+  "memorable_stories": [
+    "Daughter spending an hour to select a single Instagram photo, illustrating the curated nature of social media.",
+    "Analogy of a frog being slowly boiled to describe how people are gradually losing freedoms."
+  ],
+  "contrarian_claims": [
+    "The assertion that individual identity is largely a construct of stories and myths we tell ourselves, challenging the notion of a fixed 'self'.",
+    "The idea that considering oneself as 'dead' can be a useful exercise for re-evaluating priorities."
+  ],
+  "episode_id": "moment-3-john-vincent-on-how-to-live-a-more-present-life",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Moment 3 - John Vincent On How To Live A More Present Life",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-3-john-vincent-on-how-to-live-a-more-present-life",
+  "processed_at": "2026-03-19T21:10:36"
+}

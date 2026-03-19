@@ -1,0 +1,76 @@
+{
+  "guest_name": "Mark Manson",
+  "expertise_area": "Self-help",
+  "key_insights": [
+    {
+      "insight": "Personal responsibility is crucial for improvement; rejecting it disempowers you.",
+      "quote": "If there's no personal responsibility, nothing else is ever going to work or improve... you're basically disempowering yourself from ever improving them because you're, you're rejecting the idea that you have any influence on them.",
+      "importance": "high"
+    },
+    {
+      "insight": "Responsibility isn't the same as fault; it's about taking control and acting.",
+      "quote": "It's not your fault that there's a baby on your doorstep, but it sure should is your responsibility. Like you have to do something.",
+      "importance": "high"
+    },
+    {
+      "insight": "Clinging to victimhood can become a self-destructive identity.",
+      "quote": "A terrible thing happens to them, it kind of fucks them up and that becomes their identity... they're actually afraid to let it go.",
+      "importance": "medium"
+    },
+    {
+      "insight": "In every moment, you choose how to perceive things, thus influencing your happiness.",
+      "quote": "In every single moment you are choosing how to see things. And so in that sense, you can always choose in every moment to see things in a way that, that makes you feel better.",
+      "importance": "high"
+    },
+    {
+      "insight": "Happiness is about managing expectations, not just thinking positively.",
+      "quote": "Happiness equals reality minus expectations, you know? So if you have these like huge unreasonable expectations for yourself, you're always going to be disappointed.",
+      "importance": "high"
+    },
+    {
+      "insight": "Anxiety stems from irrational or outsized expectations.",
+      "quote": "Anxiety tends to come from just either irrational or outsized expectations",
+      "importance": "medium"
+    },
+    {
+      "insight": "Removing assumptions about outcomes, especially during stressful events, can reduce anxiety.",
+      "quote": "Just helps to just remove any assumption of like what it's going to be, you know, don't assume it's going to do well, but don't assume it's going to do poorly. Like it's, it's going to do what it's going to do. And you're going to be fine either way.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "psychology",
+    "habits",
+    "mindset",
+    "relationships",
+    "productivity"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Challenge the need to be perceived as a victim.",
+      "how_to": "Identify if you're seeking sympathy through your problems and actively try focusing on solutions instead of dwelling on the negative aspects."
+    },
+    {
+      "advice": "Practice managing expectations to reduce anxiety.",
+      "how_to": "When facing a potentially stressful situation, consciously try to remove assumptions about the outcome and accept that the event will unfold as it will."
+    },
+    {
+      "advice": "Focus on what you can control.",
+      "how_to": "When bad things happen, focus on your responsibility to take action and improve the situation, rather than dwelling on who is at fault."
+    }
+  ],
+  "memorable_stories": [
+    "Example of a tourist getting hit by a car in London to illustrate the difference between fault and responsibility.",
+    "Reference to the 'victimhood Olympics' on Instagram as a cultural phenomenon.",
+    "Book launch anxiety relatable to everyone"
+  ],
+  "contrarian_claims": [
+    "The idea that the positive thinking movement has become a 'weird delusional thing'.",
+    "Happiness isn't necessarily about positive thinking"
+  ],
+  "episode_id": "moment-48-3-core-principles-for-a-better-life-mark-manson",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Moment 48 - 3 Core Principles For A Better Life: Mark Manson",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-48-3-core-principles-for-a-better-life-mark-manson",
+  "processed_at": "2026-03-19T21:13:03"
+}

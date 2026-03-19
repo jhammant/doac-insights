@@ -1,0 +1,84 @@
+{
+  "guest_name": "Matt Walker",
+  "expertise_area": "Sleep Science",
+  "key_insights": [
+    {
+      "insight": "Caffeine has a long quarter-life, meaning a significant portion remains in your system many hours after consumption, potentially disrupting sleep.",
+      "quote": "So if you have a cup of coffee at noon, at midday, a quarter of that caffeine is still in your brain at midnight.",
+      "importance": "high"
+    },
+    {
+      "insight": "Caffeine blocks adenosine receptors, temporarily masking sleepiness but causing a build-up of adenosine that leads to a more intense 'caffeine crash' later.",
+      "quote": "Caffeine is like hitting the mute button on your television remote controller. It just mutes the signal of sleepiness.",
+      "importance": "high"
+    },
+    {
+      "insight": "Caffeine can induce anxiety, which is a major impediment to falling and staying asleep.",
+      "quote": "Anxiety is probably one of the greatest enemies of sleep.",
+      "importance": "high"
+    },
+    {
+      "insight": "Even if you fall asleep after consuming caffeine, it can significantly reduce the amount of deep sleep you experience.",
+      "quote": "It will strip away your deep sleep by about somewhere between 15 to 30%.",
+      "importance": "high"
+    },
+    {
+      "insight": "Deep sleep is essential for cardiovascular health, immune system function, metabolic regulation, memory consolidation, and brain detoxification.",
+      "quote": "Deep sleep is critical for regulating your cardiovascular system. It's the time when we do replenish the immune system.",
+      "importance": "high"
+    },
+    {
+      "insight": "The health benefits of coffee are primarily due to antioxidants like chlorogenic acid, not caffeine.",
+      "quote": "It turns out that the coffee bean contains a whopping dose of antioxidants.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Drinking two to three cups of coffee a day seems to be the sweet spot for health benefits, with diminishing returns beyond that.",
+      "quote": "It peaks at about two to three and then actually starts to go down in the opposite direction",
+      "importance": "medium"
+    },
+    {
+      "insight": "Sleep is superior to caffeine for athletic performance and overall health.",
+      "quote": "Sleep will trump caffeine five ways till Tuesday. I mean, sleep is probably the very best legal performance enhancing drug that we know of that not enough athletes are abusing.",
+      "importance": "high"
+    }
+  ],
+  "topics": [
+    "health",
+    "habits",
+    "science",
+    "psychology",
+    "fitness"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Limit caffeine intake to a maximum of 2-3 cups of coffee per day.",
+      "how_to": "Track daily coffee consumption and switch to decaf after reaching the limit."
+    },
+    {
+      "advice": "Avoid caffeine consumption after noon.",
+      "how_to": "Set a daily cut-off time for caffeine intake and replace it with herbal tea or water."
+    },
+    {
+      "advice": "Consider genetic testing to determine your caffeine metabolism rate.",
+      "how_to": "Purchase a DNA testing kit online to assess your caffeine metabolization."
+    },
+    {
+      "advice": "If you enjoy coffee, switch to decaf to benefit from its antioxidants without the sleep-disrupting effects of caffeine.",
+      "how_to": "Replace caffeinated coffee with decaffeinated versions, ensuring it's processed to retain antioxidants."
+    }
+  ],
+  "memorable_stories": [
+    "The analogy of caffeine blocking adenosine receptors as hitting the mute button on a television remote.",
+    "The comparison of losing 30% of deep sleep due to caffeine to aging someone by 40 years."
+  ],
+  "contrarian_claims": [
+    "The health benefits of coffee are unrelated to caffeine and are primarily due to antioxidants.",
+    "Sleep is a more effective performance enhancer than caffeine for athletes."
+  ],
+  "episode_id": "moment-141-what-coffee-is-really-doing-to-your-sleep-matthew-walker",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Moment 141: What Coffee Is REALLY Doing To Your Sleep!: Matthew Walker",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-141-what-coffee-is-really-doing-to-your-sleep-matthew-walker",
+  "processed_at": "2026-03-19T20:58:37"
+}

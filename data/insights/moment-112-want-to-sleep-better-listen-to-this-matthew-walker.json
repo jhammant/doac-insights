@@ -1,0 +1,83 @@
+{
+  "guest_name": "Matt Walker (Implied)",
+  "expertise_area": "Neuroscience",
+  "key_insights": [
+    {
+      "insight": "Regular sleep patterns are crucial for sleep quality and quantity as the brain thrives on regularity.",
+      "quote": "Your brain expects regularity. It thrives best under conditions of regularity. When you give it regularity, you can improve the quantity and the quantity of your sleep.",
+      "importance": "high"
+    },
+    {
+      "insight": "Darkness triggers melatonin release, signaling to the brain that it's time for sleep.",
+      "quote": "Your brain needs the signal of melatonin for it to understand when is it dark. In other words, it needs to understand by way of melatonin when it is time to fall asleep.",
+      "importance": "high"
+    },
+    {
+      "insight": "A cooler bedroom temperature is conducive to sleep as the body needs to drop its core temperature.",
+      "quote": "You need to drop your core body temperature and your brain temperature by about one degree Celsius to fall asleep and stay asleep.",
+      "importance": "high"
+    },
+    {
+      "insight": "Alcohol disrupts sleep architecture, fragments sleep, and blocks REM sleep despite initial sedative effects.",
+      "quote": "Alcohol is not a sleep aid... it fragments your sleep...it makes for miserable, lousy quality sleep. And the final thing is that alcohol is very good at blocking your REM sleep or your dream sleep.",
+      "importance": "high"
+    },
+    {
+      "insight": "Blue light from screens inhibits melatonin release, delaying sleep onset and reducing sleep quality.",
+      "quote": "When you're getting blue light from these devices, your brain is fooled into thinking it's still daytime...it signals to a part of your brain to hit the brakes on melatonin and your brain will not release melatonin.",
+      "importance": "high"
+    },
+    {
+      "insight": "The stimulating nature of engaging content on electronic devices contributes to sleep procrastination.",
+      "quote": "It stimulates your brain and when your brain is stimulated it's very difficult for you to fall asleep and it creates what we call sleep procrastination.",
+      "importance": "medium"
+    },
+    {
+      "insight": "The effects of pre-bed iPad use can linger for several days after last use.",
+      "quote": "When they stopped the iPad reading, the sleep disrupted pattern continued for several days later. In other words, it was almost like a drug that it had a washout period that was a blast radius to it.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "health",
+    "habits",
+    "science",
+    "technology",
+    "psychology"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Establish a regular sleep schedule by going to bed and waking up at the same time every day, even on weekends.",
+      "how_to": "Set a consistent bedtime and wake-up time and stick to it, even if you feel tired or have had a late night."
+    },
+    {
+      "advice": "Dim or switch off half to three-quarters of the lights in your home during the hour before bedtime.",
+      "how_to": "Replace bright overhead lights with dimmer lamps or candles, and avoid using electronic devices with bright screens."
+    },
+    {
+      "advice": "Ensure your bedroom temperature is around 18-18.5 degrees Celsius (65-68 degrees Fahrenheit).",
+      "how_to": "Adjust your thermostat or use fans or air conditioning to regulate the temperature. Use thicker blankets or socks if you feel too cold."
+    },
+    {
+      "advice": "If you can't fall asleep after 30 minutes, get out of bed and do a relaxing activity until you feel sleepy.",
+      "how_to": "Try reading a book, meditating, or listening to calming music. Avoid screens or activities that will stimulate your brain."
+    },
+    {
+      "advice": "If you must use your phone in bed, only use it standing up.",
+      "how_to": "Stand while using your phone. Once you sit down, put the phone away."
+    }
+  ],
+  "memorable_stories": [
+    "Harvard Medical School study showing the negative impact of iPad reading on sleep.",
+    "Anecdote about putting phone in the kitchen to avoid nighttime use."
+  ],
+  "contrarian_claims": [
+    "Dark mode and night shift on devices are only partly effective in mitigating sleep disruption.",
+    "The attention-grabbing function of devices, not just blue light, is a major factor in sleep disruption."
+  ],
+  "episode_id": "moment-112-want-to-sleep-better-listen-to-this-matthew-walker",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Moment 112 - Want To Sleep Better? Listen To This: Matthew Walker",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-112-want-to-sleep-better-listen-to-this-matthew-walker",
+  "processed_at": "2026-03-19T20:54:10"
+}

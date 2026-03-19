@@ -1,0 +1,82 @@
+{
+  "guest_name": "Roman Yampolsky",
+  "expertise_area": "AI Safety",
+  "key_insights": [
+    {
+      "insight": "AI safety is an inherently impossible problem, as every attempted solution is quickly circumvented.",
+      "quote": "But the more I looked at it, the more I realized every single component of that equation is not something we can actually do.",
+      "importance": "high"
+    },
+    {
+      "insight": "By 2027, AI will likely possess general intelligence, leading to widespread job displacement.",
+      "quote": "In two years, the capability to replace most humans and most occupations will come very quickly.",
+      "importance": "high"
+    },
+    {
+      "insight": "The primary obligation of AI companies is to maximize profits for investors, not to ensure safety or ethical behavior.",
+      "quote": "The only obligation they have is to make money for the investors. That's the legal obligation they have. They have no moral or ethical obligations.",
+      "importance": "high"
+    },
+    {
+      "insight": "The pursuit of superintelligence is akin to a suicide mission because indefinite control is impossible.",
+      "quote": "If we know that it's impossible to make it right, to make it safe, then this direct path of just build it as soon as you can become suicide mission.",
+      "importance": "high"
+    },
+    {
+      "insight": "Human minds are not competitive with silicon-based intelligence.",
+      "quote": "I don't think we're still competitive in biological form with siliconform. Silicon substrate is much more capable for intelligence.",
+      "importance": "medium"
+    },
+    {
+      "insight": "The creation of a novel virus using AI assistance is a plausible near-term extinction risk.",
+      "quote": "So I can predict even before we get to superintelligence, someone will create a very advanced biological tool, create a novel virus, and that virus gets everyone or most everyone.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Modern AI systems are essentially black boxes, where even the creators do not fully understand their inner workings and emergent capabilities.",
+      "quote": "So even people making those systems have to run experiments on their product to learn what it's capable of.",
+      "importance": "medium"
+    },
+    {
+      "insight": "The speaker believes we are likely living in a simulation based on advances in AI and VR.",
+      "quote": "That's why I think we are in one. That's exactly the reason. AI is getting to the level of creating human agents, human level agents, and virtual reality is getting to the level of being indistinguishable from ours.",
+      "importance": "low"
+    }
+  ],
+  "topics": [
+    "technology",
+    "science",
+    "business",
+    "psychology",
+    "habits",
+    "mindset"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Engage with AI developers and ask for concrete explanations of safety mechanisms.",
+      "how_to": "Ask them precisely to explain some of those things I claim to be impossible, how they solved it or going to solve it before they get to where they're going."
+    },
+    {
+      "advice": "Join organizations dedicated to promoting democratic control of AI development.",
+      "how_to": "Join POSAI, join Stop AI. Those organizations currently trying to build up momentum to bring democratic powers to influence those individuals."
+    },
+    {
+      "advice": "Focus on building useful, narrowly defined AI tools rather than striving for general superintelligence.",
+      "how_to": "Build useful tools. Stop building agents. build narrow superintelligence, not a general one."
+    }
+  ],
+  "memorable_stories": [
+    "Uber drivers confidently claiming self-driving cars will never replace them due to their unique knowledge of local streets.",
+    "Researchers discovering new capabilities in AI models months after training, highlighting the unpredictability.",
+    "Keynote speaker telling conference attendees they have two years to live, and attendees asking about job security and sex robot lubrication."
+  ],
+  "contrarian_claims": [
+    "AI Safety is an Impossible Problem: Unlike conventional views that safety is achievable with sufficient effort.",
+    "Retraining is Not a Viable Solution: Counter to the common advice to retrain for new jobs, as AI will automate everything."
+  ],
+  "episode_id": "roman-yampolskiy-these-are-the-only-5-jobs-that-will-remain-in-2030-proof-were-living-in-a-simulation",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Roman Yampolskiy: These Are The Only 5 Jobs That Will Remain In 2030 & Proof We're Living In a Simulation!",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/roman-yampolskiy-these-are-the-only-5-jobs-that-will-remain-in-2030-proof-were-living-in-a-simulation",
+  "processed_at": "2026-03-19T21:34:03"
+}

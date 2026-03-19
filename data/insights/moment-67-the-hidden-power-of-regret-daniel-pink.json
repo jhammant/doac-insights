@@ -1,0 +1,74 @@
+{
+  "guest_name": "Dan Pink",
+  "expertise_area": "Behavioral Science",
+  "key_insights": [
+    {
+      "insight": "Regret is our most transformative emotion if we treat it right, clarifying what we value and instructing us on how to do better.",
+      "quote": "Regret is our most transformative emotion if we treat it right.",
+      "importance": "high"
+    },
+    {
+      "insight": "Facing regrets is easier and more beneficial than people think, providing powerful insights for decision-making and problem-solving.",
+      "quote": "When you face it, first of all, it's a lot easier than people think. Second, it's a lot more beneficial than people think.",
+      "importance": "high"
+    },
+    {
+      "insight": "Ignoring or wallowing in regrets are both bad strategies; instead, confront them and systematically address them.",
+      "quote": "Those are bad ideas both. What we want to do is we want to think about our regrets. We want to confront them and do something about them.",
+      "importance": "high"
+    },
+    {
+      "insight": "Self-compassion, treating yourself with kindness rather than contempt, is a more effective approach than simply boosting self-esteem.",
+      "quote": "Treat yourself with kindness rather than contempt. Treat yourself with the same kindness you treat somebody else.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Talking or writing about regrets transforms abstract negative emotions into concrete words, making them less menacing.",
+      "quote": "Writing about your regret or talking about your regret converts that blobby abstraction into concrete words, which are much less menacing.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Self-distancing techniques, like talking to yourself in the third person, can help to solve your own problems by creating some remove.",
+      "quote": "Don't say, what should I do? Say, what should Steven do?",
+      "importance": "medium"
+    },
+    {
+      "insight": "The tendency to avoid responsibility for negative outcomes is linked to avoiding the ownership of regrets.",
+      "quote": "Much of the reason people don't like to own their regrets is because then they have to own the responsibility.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "psychology",
+    "habits",
+    "mindset",
+    "communication"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Practice self-compassion by treating yourself with kindness and recognizing that mistakes are part of the human condition.",
+      "how_to": "Notice your self-talk. If it's harsh, reframe it with kindness, like you would speak to a friend."
+    },
+    {
+      "advice": "Disclose your regrets to make sense of them, by talking or writing about the specific experience.",
+      "how_to": "Choose a trusted friend or family member to share your regret with, or write it down in a journal."
+    },
+    {
+      "advice": "Use self-distancing techniques to extract lessons from your regrets.",
+      "how_to": "When making a decision related to a past regret, ask yourself, 'What would [your name] do?' or 'What advice would I give my best friend?'"
+    }
+  ],
+  "memorable_stories": [
+    "Dan Pink shared his regret about not intervening when he witnessed bullying as a child.",
+    "Dan Pink collected 15,000 regrets from people in 100 countries via a World Regret Survey."
+  ],
+  "contrarian_claims": [
+    "Self-esteem is overrated, especially when it's unhinged from any real accomplishment.",
+    "Performing 'no regrets' is merely 'play acting courage,' while real courage is confronting and addressing your regrets."
+  ],
+  "episode_id": "moment-67-the-hidden-power-of-regret-daniel-pink",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Moment 67 - The HIDDEN Power of REGRET: Daniel Pink",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-67-the-hidden-power-of-regret-daniel-pink",
+  "processed_at": "2026-03-19T21:15:36"
+}

@@ -1,0 +1,51 @@
+{
+  "guest_name": "Ali Abdaal",
+  "expertise_area": "Productivity",
+  "key_insights": [
+    {
+      "insight": "Time blocking can be a game changer for completing tasks, especially on weekends when there's a lack of external structure.",
+      "quote": "Clean house would become at 11 till 12 i clean the kitchen because then it's like time sensitive and like task specific.",
+      "importance": "high"
+    },
+    {
+      "insight": "Focusing on making tasks fun can significantly increase intrinsic motivation and reduce procrastination.",
+      "quote": "The thing that I found that actually moves the needle is focusing on trying to make it fun.",
+      "importance": "high"
+    },
+    {
+      "insight": "Reframing 'have to' to 'get to' can shift your mindset and improve your enjoyment of a task.",
+      "quote": "Instead of thinking of have to think of it as get to, I realized, oh, I get to put in this cannula, I get to make a difference in this patient's lives and life and give her fluids overnight so that she's not going to dehydrate because of her morning sickness.",
+      "importance": "high"
+    },
+    {
+      "insight": "Intrinsic motivation stems from finding something enjoyable in itself, not from external pressures.",
+      "quote": "Fun basically means intrinsic motivation like something is sufficiently enjoyable that you do it for its own sake rather than for the fact that you've got a sponsor helping you or you've got a deadline or things like that.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "productivity",
+    "habits",
+    "mindset",
+    "psychology"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Implement time blocking on weekends to structure your time and tackle tasks effectively.",
+      "how_to": "Allocate specific time slots (e.g., 11 AM - 12 PM) to particular tasks on your calendar to create a sense of urgency and focus."
+    },
+    {
+      "advice": "Reframe your mindset from 'I have to do this' to 'I get to do this' when facing unpleasant tasks.",
+      "how_to": "Identify the potential benefits or positive aspects of the task, focusing on how it contributes to a larger goal or helps others."
+    }
+  ],
+  "memorable_stories": [
+    "Story about putting in a cannula for a patient after a long shift, and shifting his mindset to 'I get to do this' after hearing a patient compliment the NHS."
+  ],
+  "contrarian_claims": [],
+  "episode_id": "moment-55-this-method-will-boost-your-productivity-ali-abdaal",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Moment 55 - This Method Will Boost Your Productivity: Ali Abdaal",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-55-this-method-will-boost-your-productivity-ali-abdaal",
+  "processed_at": "2026-03-19T21:14:00"
+}

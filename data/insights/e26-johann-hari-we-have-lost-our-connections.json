@@ -1,0 +1,87 @@
+{
+  "guest_name": "Johan Hari",
+  "expertise_area": "Mental Health, Social Science",
+  "key_insights": [
+    {
+      "insight": "The rise in reported mental health issues is partly due to reduced stigma, but also reflects an actual increase driven by factors like loneliness.",
+      "quote": "Partly what's happening is there's been a big decline in stigma about people talking about mental health problems sure that's a great thing and that means more people are like to talk about it.",
+      "importance": "high"
+    },
+    {
+      "insight": "Humans have evolved to need a tribe, and modern society's loneliness contributes significantly to depression and anxiety.",
+      "quote": "Just like bees evolved to need a hive humans evolved to need a tribe and and we are the first humans ever to try to live without a tribe",
+      "importance": "high"
+    },
+    {
+      "insight": "Extrinsic or 'junk' values focused on money and status correlate with increased rates of depression and anxiety.",
+      "quote": "The more you are driven by money and status and the kind of external appearance of how you look to other people rather than joyful or important experiences with them, the more likely you are to become depressed and anxious, right?",
+      "importance": "high"
+    },
+    {
+      "insight": "Our culture promotes a script for happiness based on consumerism and external validation, which is ultimately unfulfilling and contributes to mental health problems.",
+      "quote": "So what they do is they work really hard at a job they don't like to buy things that they then show off and display on social media and they're puzzled that at some level they feel like shit right",
+      "importance": "high"
+    },
+    {
+      "insight": "Social media can be a way to connect with people, but if it becomes the primary form of social interaction, it can lead to feelings of dissatisfaction and disconnection.",
+      "quote": "If social media is a way station to meeting people offline then it's a good thing sure if it's the last stop on the line something's gone wrong",
+      "importance": "medium"
+    },
+    {
+      "insight": "A lack of control over one's work is a major factor contributing to depression and anxiety.",
+      "quote": "If you go to work tomorrow and you have low or no control over your work, you are significantly more likely to become depressed and anxious.",
+      "importance": "high"
+    },
+    {
+      "insight": "People are not broken machines that need to be drugged to be fixed, but are human beings with unmet needs that need to be together to get those needs met.",
+      "quote": "If you're depressed, if you're anxious, you're not crazy, you're not a machine with broken parts, you're a human being with unmet needs, and you are surrounded by other human beings with unmet needs.",
+      "importance": "high"
+    }
+  ],
+  "topics": [
+    "psychology",
+    "health",
+    "relationships",
+    "habits",
+    "business",
+    "mindset",
+    "communication",
+    "money",
+    "social media"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Critically examine the values being promoted by advertising and social media, and consider how they might be influencing your own sense of worth.",
+      "how_to": "Engage in conversations about what values truly matter to you and figure out where these values come from."
+    },
+    {
+      "advice": "Engage in activities that promote connection and community.",
+      "how_to": "Volunteer, join a club, or participate in local events."
+    },
+    {
+      "advice": "If you're a business leader, consider how you can democratize your workplace and give employees more control over their work.",
+      "how_to": "Create committees with decision making power or provide employees with autonomy over their tasks and schedules."
+    },
+    {
+      "advice": "Prioritize intrinsic motivations and meaningful connections over extrinsic goals.",
+      "how_to": "Engage in hobbies or activities for the joy of it, rather than for external validation or material gain."
+    }
+  ],
+  "memorable_stories": [
+    "Johan Hari recounts his experience with antidepressants and his subsequent journey to uncover the root causes of depression.",
+    "The story of the Cotty housing project in Berlin, where diverse residents came together to fight eviction and created a strong sense of community.",
+    "The story of the Baltimore Bicycle Works, a democratic cooperative where employees have control over their work and experience less depression and anxiety.",
+    "Johan Hari recounts how he used to get a christmas card from KFC every year.",
+    "Andrew Sullivan diagnosed with HIV and writing about Gay Marriage."
+  ],
+  "contrarian_claims": [
+    "Antidepressants have a limited role, and that the best solutions to depression and anxiety deal with the underlying reasons for distress.",
+    "Modern CEOs should get out of the way and let their employees self-govern within the company.",
+    "Striving to be happier can make you unhappier unless you do something for other people"
+  ],
+  "episode_id": "e26-johann-hari-we-have-lost-our-connections",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - E26: Johann Hari - We Have Lost our Connections",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/e26-johann-hari-we-have-lost-our-connections",
+  "processed_at": "2026-03-19T20:28:48"
+}

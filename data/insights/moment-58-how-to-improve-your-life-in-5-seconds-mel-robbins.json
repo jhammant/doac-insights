@@ -1,0 +1,74 @@
+{
+  "guest_name": "Mel Robbins",
+  "expertise_area": "Personal Development",
+  "key_insights": [
+    {
+      "insight": "You are always one decision away from a different life.",
+      "quote": "I profoundly believe that you are one decision away from a different life.",
+      "importance": "high"
+    },
+    {
+      "insight": "The 'five-second rule' helps bypass hesitation by interrupting habit loops and activating the prefrontal cortex.",
+      "quote": "When you count backwards, 5, 4, 3, 2, 1, you interrupt habit loops stored in your basal ganglia. And the counting backwards requires focus. So it awakens this sucker right here, your prefrontal cortex.",
+      "importance": "high"
+    },
+    {
+      "insight": "The five-second rule is based on the principle that if you have an instinct to move, you must act within five seconds, or your brain will stop you.",
+      "quote": "The moment you have an instinct to move, you got to do it within five seconds or your brain will kill it.",
+      "importance": "high"
+    },
+    {
+      "insight": "People often know *what* they need to do, but struggle with *how* to make themselves do it; the five-second rule addresses this.",
+      "quote": "It's the how. How the fuck do you make yourself do what you need to do when you are scared or overwhelmed or anxious or hopeless or depressed or any of the stuff that happens to you as a human? That's the hundred million dollar question.",
+      "importance": "high"
+    },
+    {
+      "insight": "The bigger the problem or the bigger the dream, the smaller the actions are that you need to start taking.",
+      "quote": "The larger the problem, the smaller the solution. The bigger the dream, the smaller the actions are that you need to start taking.",
+      "importance": "medium"
+    },
+    {
+      "insight": "A 'window of hesitation' opens when you think about what to do instead of just doing it, triggering anxiety and procrastination.",
+      "quote": "It's this window of hesitation that's about five seconds long... all patterns of thinking, all patterns of feeling, all patterns of behavior that get triggered in this five-second window of thinking about what you need to do.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "psychology",
+    "habits",
+    "productivity",
+    "mindset",
+    "health",
+    "relationships"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Use the five-second rule (5-4-3-2-1) to get out of bed immediately when the alarm goes off.",
+      "how_to": "When the alarm rings, immediately count down from 5 to 1 and then physically get out of bed before anxiety hits."
+    },
+    {
+      "advice": "Apply the five-second rule to overcome anger and improve communication.",
+      "how_to": "When you feel anger rising, count down from 5 to 1 before reacting, allowing you to respond calmly and supportively."
+    },
+    {
+      "advice": "Use the five-second rule to initiate exercise.",
+      "how_to": "When contemplating whether or not to exercise, count down from 5 to 1 and immediately start your workout routine."
+    },
+    {
+      "advice": "Use the 5-second rule to make networking calls.",
+      "how_to": "If you're hesitant to call someone to network or ask for help, count down from 5 to 1 and make the call immediately."
+    }
+  ],
+  "memorable_stories": [
+    "Mel Robbins describes hitting rock bottom with significant debt, unemployment, and struggling with anxiety and alcohol, prompting her to develop the five-second rule.",
+    "The speaker recounts how the five-second rule was so effective that a psychiatric hospital used it for patients being discharged."
+  ],
+  "contrarian_claims": [
+    "The solution to large problems and the actions needed to achieve big dreams are not complex, but small and simple."
+  ],
+  "episode_id": "moment-58-how-to-improve-your-life-in-5-seconds-mel-robbins",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Moment 58 - How To Improve your Life in 5 Seconds: Mel Robbins",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-58-how-to-improve-your-life-in-5-seconds-mel-robbins",
+  "processed_at": "2026-03-19T21:14:21"
+}

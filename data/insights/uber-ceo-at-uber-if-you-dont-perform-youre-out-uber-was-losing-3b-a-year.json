@@ -1,0 +1,93 @@
+{
+  "guest_name": "Dara Khosrowshahi",
+  "expertise_area": "Business Leadership",
+  "key_insights": [
+    {
+      "insight": "Relentless dedication and embracing the grind are learnable skills that compound over time and provide a competitive edge.",
+      "quote": "The most important skill in life is a skill of working hard...That's a learned skill. That's not something you're born with.",
+      "importance": "high"
+    },
+    {
+      "insight": "Transparency as a leader encourages honesty from your team, leading to better data for decision-making.",
+      "quote": "The way to get transparency from your team is first, first you've got to give it to them.",
+      "importance": "high"
+    },
+    {
+      "insight": "Turnarounds require rapid action and honesty about the problems at hand, even if it scares people.",
+      "quote": "This company, if I don't move and move hard and fast, is going to start on that exponential decay curve. I had to move quickly.",
+      "importance": "high"
+    },
+    {
+      "insight": "Great companies are often identified by observing who is taking the lead in industry transitions and changes.",
+      "quote": "We would spot great companies just by observing who is taking the lead in these transitions.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Successful companies in transition frequently overpay (based on market perceptions at the time) because exponential growth is often underestimated.",
+      "quote": "We never completed a successful deal because we got the company cheap. We actually overpaid for every single great company that we bought, but we overpaid based on what the market thought at the time, not what the reality turned out to be.",
+      "importance": "medium"
+    },
+    {
+      "insight": "AI implementation is at its strongest when it applies models trained to local problems.",
+      "quote": "We have built the entire company on small AI models that have been trained on local problems and then gets this together.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Embracing change and challenge yields a culture of continuous innovation, when combined with the right people that pursue truth.",
+      "quote": "You actually need the right people of the company... talented people who are also driven are on a constant hunt for the truth.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Avoid over-planning a career, as it can limit curiosity and openness to unexpected opportunities.",
+      "quote": "People who have too much of a career plan... they lose their curiosity...before you go on and try to change a world, let the world change you first.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "business",
+    "technology",
+    "leadership",
+    "mindset",
+    "habits",
+    "relationships",
+    "communication"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Make time for introspection to correct past deficits.",
+      "how_to": "Following a regret over missed conversations with his father, the guest prioritizes genuine conversations with family and colleagues."
+    },
+    {
+      "advice": "Actively create channels for direct communication with employees at all levels.",
+      "how_to": "Meet with engineers several levels down to gather unfiltered information and identify potential problems."
+    },
+    {
+      "advice": "Be honest and transparent with your team, even when it's difficult, to build trust and encourage them to be honest with you.",
+      "how_to": "Share the challenges facing the company and the hard truths about its performance, rather than sugarcoating the situation."
+    },
+    {
+      "advice": "Embrace Smart Risk Taking",
+      "how_to": "Challenge teams to push the risk envelope and use failures as learning opportunities. Set examples of taking calculated risks and accept failures."
+    }
+  ],
+  "memorable_stories": [
+    "The guest's family losing their company and fleeing Iran after the Islamic Revolution, shaping his relentless drive and never taking success for granted.",
+    "Barry Diller's response to losing a hostile tender offer: 'They won, we lost next.'",
+    "Hiring taxis to Uber after being 'ignorant' to Sachin's vision that went against founding Uber principles and finding success.",
+    "Uber teams using DARA AI as prep work before giving a presentation to Dara."
+  ],
+  "contrarian_claims": [
+    "Prioritizing impact over happiness in career decisions.",
+    "The best advice you can give to the youth: Work hard. And more work.",
+    "Values written on a wall aren't the same as values that are truly embodied. Culture isn't enough, you need talented people that pursue truth.",
+    "Contrary to popular opinion, work-life balance isn't talked about much, rather the demand of work outweighs everything.",
+    "Dara doesn't like interviewing CEOs, which is funny, because the name of the podcast is The Diary of a CEO.",
+    "Never plan what you will do for a career, as it may limit you to other outside-of-the-box options.",
+    "Most universal income test runs have failed because individuals don't feel as though they are creating value."
+  ],
+  "episode_id": "uber-ceo-at-uber-if-you-dont-perform-youre-out-uber-was-losing-3b-a-year",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Uber CEO: At Uber, If You Don’t Perform, You’re Out! Uber Was Losing $3b A Year",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/uber-ceo-at-uber-if-you-dont-perform-youre-out-uber-was-losing-3b-a-year",
+  "processed_at": "2026-03-19T21:57:50"
+}

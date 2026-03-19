@@ -1,0 +1,91 @@
+{
+  "guest_name": "Brian Armstrong",
+  "expertise_area": "Technology Entrepreneurship",
+  "key_insights": [
+    {
+      "insight": "Introverts can be effective CEOs by leveraging technology for scalable impact.",
+      "quote": "I saw technology as a way to try to have a big impact on the world and it could get my ideas out there in a scalable way even if i felt like maybe i couldn't.",
+      "importance": "high"
+    },
+    {
+      "insight": "Starting a company in Silicon Valley offers advantages like access to angel investors and acceptance of failure as a learning experience.",
+      "quote": "Like if you're a young person and you get a little bit of money to go start a company, like in Silicon Valley, people will write you angel checks for these things...it's often viewed as a badge of honor that you've tried to start up.",
+      "importance": "medium"
+    },
+    {
+      "insight": "It's better to create more value than try to extract value, especially in early-stage businesses.",
+      "quote": "Stop trying to extract value and start trying to create more value.",
+      "importance": "high"
+    },
+    {
+      "insight": "Action produces information; even if you don't know what to do, taking action can lead you to the right path.",
+      "quote": "Just do anything because, you know, action will produce information.",
+      "importance": "high"
+    },
+    {
+      "insight": "Finding product-market fit is critical before scaling and raising capital.",
+      "quote": "I think it was very important that we found product market fit. Only when we couldn't scale, then we went out to raise capital",
+      "importance": "high"
+    },
+    {
+      "insight": "Vulnerability and authenticity are more powerful leadership traits during difficult times than forced optimism.",
+      "quote": "One leadership lesson I learned during that moment is that great leaders are often vulnerable.",
+      "importance": "high"
+    },
+    {
+      "insight": "It is a real superpower to care less about what other people think, especially those without your best interests at heart.",
+      "quote": "It's a real superpower to like care less what other people think. At least people who don't have your best interest at heart.",
+      "importance": "high"
+    },
+    {
+      "insight": "It is important to delegate tasks that do not give you energy so you can focus on your strengths and what you enjoy doing.",
+      "quote": "I'm actually gonna focus on the things that I'm better at because they bring me joy. And I'm going to delegate a lot of the stuff which I thought I had to do.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "business",
+    "technology",
+    "leadership",
+    "mindset",
+    "money",
+    "psychology",
+    "habits"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "If you are an aspiring entrepreneur who does not know what to do, just start building something.",
+      "how_to": "Create a website, a prototype, or an application. Launch and put it out in the world on social media. Action leads to information."
+    },
+    {
+      "advice": "Schedule a recharge week every quarter to avoid burnout.",
+      "how_to": "Pre-schedule a week off each quarter and have the company take a recharge week, to recharge, learn new things, and reflect on the business."
+    },
+    {
+      "advice": "If you can't find the right co-founder, build your business and signs of progress may help the right person find you.",
+      "how_to": "Don't stop building progress because you don't have the right co-founder. Start putting your product or prototype out on a blog or social media."
+    },
+    {
+      "advice": "Develop a morning routine.",
+      "how_to": "Upon waking, avoid looking at your phone and, instead, exercise, eat breakfast, meditate, or engage in other practices to reduce stress."
+    },
+    {
+      "advice": "Insulate your team from noise and scrutinies.",
+      "how_to": "Constantly preach to your team to be independent thinkers. Encourage them to develop their own sources of truth."
+    }
+  ],
+  "memorable_stories": [
+    "Armstrong built a tutoring business in college and discovered the difficulties in collecting money from students globally, which inspired him to build Coinbase.",
+    "Armstrong recounted crying when his co-founder Fred left, emphasizing the importance of preserving friendships over business conflicts.",
+    "Armstrong described being recognized in public and having to hire a security guard after customers sought investment advice."
+  ],
+  "contrarian_claims": [
+    "A lot of regulations, while well-intentioned, cause more harm than good.",
+    "Entrepreneurship is not that risky, especially if you live in Silicon Valley"
+  ],
+  "episode_id": "coinbase-founder-the-crazy-journey-of-building-a-100-billion-company-brian-armstrong",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Coinbase Founder: The Crazy Journey Of Building A $100 Billion Company: Brian Armstrong",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/coinbase-founder-the-crazy-journey-of-building-a-100-billion-company-brian-armstrong",
+  "processed_at": "2026-03-19T20:21:46"
+}

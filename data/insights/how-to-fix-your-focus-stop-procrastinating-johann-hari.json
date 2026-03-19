@@ -1,0 +1,85 @@
+{
+  "guest_name": "Johan Hari",
+  "expertise_area": "Attention and Focus",
+  "key_insights": [
+    {
+      "insight": "We live in an 'attentional pathogenic culture' making deep focus difficult for everyone.",
+      "quote": "We have an attentional pathogenic culture,a culture in which it is very hard for all of us to form and sustain deep focus.",
+      "importance": "high"
+    },
+    {
+      "insight": "Inability to focus diminishes one's ability to achieve their goals across all aspects of life.",
+      "quote": "If you can't focus and pay attention, your ability to achieve yourgoals across the board diminishes",
+      "importance": "high"
+    },
+    {
+      "insight": "Losing attention impacts three key types of focus: spotlight (immediate tasks), starlight (medium-term goals), and daylight (understanding your life's purpose).",
+      "quote": "It's not just that we're losing our short-term attention, it's not just that we're losing our medium-term attention when those things happen you you have less ability to make sense of your own life",
+      "importance": "high"
+    },
+    {
+      "insight": "Social media algorithms are designed to maximize scrolling by exploiting negativity bias, promoting anger and division.",
+      "quote": "The algorithms select for anger because anger will keep you scrolling, right? And that is destroyingour ability to solve problems.",
+      "importance": "high"
+    },
+    {
+      "insight": "The 'surveillance capitalism' business model used by social media companies is the root cause of attention hacking.",
+      "quote": "Our whole business model was to hack people's attention we knew we were doing it and wedid it anyway",
+      "importance": "high"
+    },
+    {
+      "insight": "Constant interruptions and task-switching significantly lower IQ and reduce cognitive abilities.",
+      "quote": "The people who've been distractedtested having 10 iq points lower than the people who had not been distracted,right? Because it makes you less intelligent.",
+      "importance": "high"
+    },
+    {
+      "insight": "Reading books enhances comprehension and deeper thinking, unlike the skimming often associated with digital content.",
+      "quote": "The people who've read it on the screen remember significantly less and understand significantly less of what they read. This is a very well-proven effect. It's called screen inferiority.",
+      "importance": "high"
+    },
+    {
+      "insight": "Modern diets high in processed foods negatively impact attention through rapid energy release/crashes, nutrient deficiencies, and harmful additives.",
+      "quote": "The diet we eat causes very rapid release of energy and veryrapid crashes in energy which causes brain fog which ruins your focus",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "psychology",
+    "habits",
+    "technology",
+    "business",
+    "health",
+    "mindset",
+    "relationships",
+    "productivity"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Use a K-Safe to lock away your phone an hour before bed.",
+      "how_to": "Place your phone in the K-Safe, set the timer, and physically prevent yourself from accessing it before sleep to improve sleep quality."
+    },
+    {
+      "advice": "Articulate your goals to others.",
+      "how_to": "State out loud or write down your intentions as this makes you more likely to achieve it."
+    },
+    {
+      "advice": "Aim for flow states.",
+      "how_to": "Choose one clear and meaningful goal at the edge of your abilities."
+    }
+  ],
+  "memorable_stories": [
+    "The story of Johan Hari's godson Adam and their trip to Graceland, highlighting the pervasive impact of technology on attention.",
+    "Andrew Barnes' four-day work week experiment in New Zealand, demonstrating increased productivity and employee well-being.",
+    "Johan Hari's summer visits with his Swiss grandmother who couldn't understand why he preferred McDonald's food."
+  ],
+  "contrarian_claims": [
+    "Tech is only about 20% of the problem regarding attention and focus decay, there are far bigger elements to address that often go unnoticed.",
+    "Banning surveillance capitalism is not a legally difficult thing to do, but politically difficult.",
+    "Progressive change cannot just be angry and negative in order to see success, there also needs to be a hopeful vision of the future."
+  ],
+  "episode_id": "how-to-fix-your-focus-stop-procrastinating-johann-hari",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - How To Fix Your Focus & Stop Procrastinating: Johann Hari",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/how-to-fix-your-focus-stop-procrastinating-johann-hari",
+  "processed_at": "2026-03-19T20:41:38"
+}

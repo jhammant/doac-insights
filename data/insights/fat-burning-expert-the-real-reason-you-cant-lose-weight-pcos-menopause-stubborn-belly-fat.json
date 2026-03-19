@@ -1,0 +1,87 @@
+{
+  "guest_name": "Alan Aragon",
+  "expertise_area": "Nutrition and Exercise Science",
+  "key_insights": [
+    {
+      "insight": "The most important factor for protein intake is the total daily amount, not the timing or distribution throughout the day.",
+      "quote": "The main thing they need to be focused on is how much protein do they need to eat by the end of the day? Because when you hit that goal, you've basically won the whole game.",
+      "importance": "high"
+    },
+    {
+      "insight": "The best diet for long-term weight loss is one with enough protein and total calories, comprised of healthy food choices that fit individual preferences.",
+      "quote": "The diet with enough protein, enough total calories, that is comprised predominantly of healthy food choices, that fits the individual's personal preferences and tolerances.",
+      "importance": "high"
+    },
+    {
+      "insight": "While animal proteins are generally more anabolic, the source of protein (animal vs. plant) matters less once total daily protein intake is optimized.",
+      "quote": "Once you consume a certain amount of total daily protein, then it doesn't appear to matter how much of your protein is animal-based versus how much your protein is plant-based.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Plateaus during weight loss are normal and should be viewed as opportunities to practice maintenance, rather than signs of failure.",
+      "quote": "When people need to reorganize or reframe their perception of what a plateau is, and the plateau is just the body doing its job.",
+      "importance": "high"
+    },
+    {
+      "insight": "Intermittent fasting is just a tool to help control calories and can even lead to muscle loss in lean individuals.",
+      "quote": "Fasting is great until it isn't because you've achieved what you needed to achieve. And so then it just kind of becomes a tool. It's always just a tool to help people control calories in.",
+      "importance": "medium"
+    },
+    {
+      "insight": "The most important factor for long term progress is to make your physical goals a priority.",
+      "quote": "You have to hit a point where your physical goal becomes priority one.",
+      "importance": "high"
+    },
+    {
+      "insight": "The primary way the body adapts to dieting is by decreasing non-exercise activity thermogenesis (NEAT), leading to fewer calories burned.",
+      "quote": "The major component that slows down is your non-exercise activity. You're not moving around as much.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "health",
+    "fitness",
+    "nutrition",
+    "habits",
+    "mindset",
+    "science"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Calculate your daily protein target to optimize muscle growth.",
+      "how_to": "Multiply your target body weight in kilograms by 1.6 to 2.2 grams, or target body weight in pounds by 0.7 grams per pound."
+    },
+    {
+      "advice": "Incorporate diet breaks into your weight loss plan.",
+      "how_to": "Take a week off your diet every 4-8 weeks, or after every 5-10 pounds lost, focusing on maintenance rather than unrestricted eating."
+    },
+    {
+      "advice": "Prioritize total daily protein intake over protein timing.",
+      "how_to": "Focus on hitting your daily protein target first, and then distribute it comfortably and conveniently throughout the day."
+    },
+    {
+      "advice": "Combat decreased NEAT by consciously increasing physical activity during dieting.",
+      "how_to": "Be mindful of fidgeting less, walking slower, and sitting more; actively increase movement throughout the day."
+    },
+    {
+      "advice": "Hard gainers should prioritize liquid calories to gain weight.",
+      "how_to": "Incorporate 2-3 liquid meals (shakes) between meals to increase caloric intake more easily."
+    }
+  ],
+  "memorable_stories": [
+    "Alan helped Stone Cold Steve Austin get his nutrition right for a comeback to television.",
+    "Alan recounts his personal struggle with alcohol addiction and how he overcame it by redirecting his tendencies towards routine into training and good nutrition."
+  ],
+  "contrarian_claims": [
+    "Fruit is not inherently bad for you, even though it contains sugar; fresh fruit has actually been shown to improve glycemic control and weight.",
+    "The carnivore diet is the lesser of two evils compared to the standard Western diet.",
+    "People who train to failure will often underestimate how much they can lift.",
+    "While some people may be genetically predisposed to PCOS, lifestyle factors, such as carbohydrate consumption can have a profound impact.",
+    "The gut microbiome is not the primary driver of weight loss or gain."
+  ],
+  "episode_id": "fat-burning-expert-the-real-reason-you-cant-lose-weight-pcos-menopause-stubborn-belly-fat",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Fat Burning Expert: The Real Reason You Can’t Lose Weight! PCOS, Menopause & Stubborn Belly Fat",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/fat-burning-expert-the-real-reason-you-cant-lose-weight-pcos-menopause-stubborn-belly-fat",
+  "processed_at": "2026-03-19T20:35:38"
+}

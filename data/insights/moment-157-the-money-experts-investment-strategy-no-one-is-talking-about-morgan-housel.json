@@ -1,0 +1,75 @@
+{
+  "guest_name": "Morgan Housel",
+  "expertise_area": "Finance, Behavioral Economics",
+  "key_insights": [
+    {
+      "insight": "Success can lead to overconfidence and blind spots, emphasizing the need for humility.",
+      "quote": "Confidence, which comes from success often, really does create blind spots.",
+      "importance": "high"
+    },
+    {
+      "insight": "True humility involves acknowledging hard work and good decisions while recognizing personal fallibility.",
+      "quote": "Real humility is like, I built this through hard work and I made some good decisions, but I'm just a guy. I'm as fallible as anybody else.",
+      "importance": "high"
+    },
+    {
+      "insight": "Everything valuable in life has a cost, and success requires enduring volatility, compromise, and unknowns.",
+      "quote": "To any level of success is putting up with an enduring unknowns and volatility and booms andbusts and then other bullshit that you put up with in the investing market and in your careerand in your relationships. There's always a cost.",
+      "importance": "high"
+    },
+    {
+      "insight": "Knowing your personal time horizons is crucial for aligning your actions with your long-term goals.",
+      "quote": "It's the amount of time between now and whatever your goal is, which is very different foreverybody.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Buying a house should primarily be a lifestyle decision, not an investment strategy, especially for those seeking stability.",
+      "quote": "If you're buying a house because you think it's going to be a good financial investment, stop.",
+      "importance": "high"
+    },
+    {
+      "insight": "Historically, housing prices adjusted for inflation have been relatively flat, making it a questionable investment in the long run.",
+      "quote": "Historically, in the US and the UK, housing prices adjusted for inflation go nowhere.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Consider renting if mobility and flexibility are important, especially given the availability of high-quality rental options.",
+      "quote": "Don't fall for the idea that you can't live well if you're renting.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "business",
+    "money",
+    "psychology",
+    "relationships",
+    "habits",
+    "mindset"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Define your personal time horizons for various life goals.",
+      "how_to": "List your key goals (career, family, retirement) and estimate the time frame for achieving each."
+    },
+    {
+      "advice": "Evaluate the true cost of any goal before pursuing it.",
+      "how_to": "Identify not just financial costs but also potential sacrifices in time, relationships, and personal well-being."
+    },
+    {
+      "advice": "Differentiate between financial and lifestyle decisions when buying a house.",
+      "how_to": "Determine your primary motivation for homeownership (investment vs. stability) and align your expectations accordingly."
+    }
+  ],
+  "memorable_stories": [
+    "Denzel Washington's advice to Will Smith after the Chris Rock incident: 'At your highest moment, that's when the devil's gonna get you.'"
+  ],
+  "contrarian_claims": [
+    "Owning a house as an investment is generally a bad idea historically.",
+    "Renting can be a better lifestyle choice than buying, especially when prioritizing mobility and flexibility."
+  ],
+  "episode_id": "moment-157-the-money-experts-investment-strategy-no-one-is-talking-about-morgan-housel",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Moment 157: The Money Expert's Investment Strategy NO ONE Is Talking About: Morgan Housel",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-157-the-money-experts-investment-strategy-no-one-is-talking-about-morgan-housel",
+  "processed_at": "2026-03-19T21:00:55"
+}

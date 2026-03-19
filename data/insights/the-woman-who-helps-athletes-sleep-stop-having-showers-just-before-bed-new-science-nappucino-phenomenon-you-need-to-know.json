@@ -1,0 +1,109 @@
+{
+  "guest_name": "Sheree Ma",
+  "expertise_area": "Sleep Medicine & Performance Optimization",
+  "key_insights": [
+    {
+      "insight": "Sufficient sleep can lead to quantifiable performance gains for athletes, including faster reaction times and improved accuracy.",
+      "quote": "For example, we saw a 12% faster reaction time, a 9% improvement in free throws, and a 4% increase in faster sprint time",
+      "importance": "high"
+    },
+    {
+      "insight": "Even small increases in sleep duration, such as 15-30 minutes, can significantly impact academic performance and cognitive function.",
+      "quote": "Those 15 minutes add up where that's the difference of like an A student to a B student. Or 11 minutes more sleep is the difference of a B student to a C student.",
+      "importance": "high"
+    },
+    {
+      "insight": "Predicting NBA team losses based on schedule-related sleep deprivation can be surprisingly accurate, highlighting the importance of sleep for team performance.",
+      "quote": "Over three seasons, I was 76% to 86% correct on accurately predicting when an NBA team will be at highest risk of losing strictly based on the schedule.",
+      "importance": "medium"
+    },
+    {
+      "insight": "When travelling across time zones, West Coast teams playing night games against East Coast teams have a statistical advantage due to circadian alignment.",
+      "quote": "If you simply bet on a West Coast team when they play an East Coast-West Coast matchup during night games, over 25 seasons, you'd beat the Las Vegas point spread 68% of the time.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Elite athletes have extended their careers and improved performance by prioritizing sleep and adjusting sleep habits.",
+      "quote": "He says it changed everything for him...to extend your career and be able to almost tap into this additional performance capacity.",
+      "importance": "high"
+    },
+    {
+      "insight": "Sleep debt is a real phenomenon where insufficient sleep accumulates over time, leading to deficits in reaction time and cognitive function.",
+      "quote": "If you don't meet that eight hours, then you build up a debt. So if you're only getting six hours a night, you now have two hours of debt built up.",
+      "importance": "high"
+    },
+    {
+      "insight": "Deep sleep is related to muscle recovery and regeneration, and it happens during the earlier stages of sleep.",
+      "quote": "Deep sleep is where it's implied that there's more muscle recovery regeneration because there's the biggest pulse of growth hormone during your deep sleep.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Sleep plays a critical role in consolidating new learning and skill, acting like a 'save button' for memory.",
+      "quote": "Think of sleep as hitting that save button, right? You need to sleep after you have learned new information, learned a new skill so that you can consolidate those memories and be able to retrieve it later.",
+      "importance": "high"
+    },
+    {
+      "insight": "When sleep deprived, people tend to make poorer nutritional choices by gravitating to carb-heavy foods and foods high in sugar.",
+      "quote": "So people will choose more carb heavy foods and foods that have less fiber and more sugar.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Emotional regulation is significantly impacted by sleep deprivation.",
+      "quote": "Because our emotions are not regulated well when we're short on sleep...We are more irritable...We are more grouchy.",
+      "importance": "high"
+    }
+  ],
+  "topics": [
+    "health",
+    "science",
+    "psychology",
+    "habits",
+    "fitness",
+    "productivity",
+    "mindset",
+    "business"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Adjust shower timing to enhance sleep.",
+      "how_to": "Take a hot shower or bath 1-2 hours before bedtime to help your core temperature drop, which facilitates sleep."
+    },
+    {
+      "advice": "Create a 'cave-like' sleep environment.",
+      "how_to": "Use blackout curtains, eye masks, earplugs, and white noise machines to create a dark, quiet, cool, and comfortable sleep environment."
+    },
+    {
+      "advice": "Implement a wind-down routine before bed.",
+      "how_to": "Engage in relaxing activities like reading, stretching, or journaling for 10 minutes in dim light outside of bed to prepare your mind and body for sleep."
+    },
+    {
+      "advice": "Try a Nappuccino for a boost in alertness.",
+      "how_to": "Drink a caffeinated beverage and immediately take a 20-30 minute nap, ensuring you fall asleep within 10 minutes for maximum effectiveness."
+    },
+    {
+      "advice": "Adjust your body clock before traveling across time zones.",
+      "how_to": "Start adjusting your sleep and wake times by 30 minutes earlier or later for a few days before your trip, and seek sunlight in the morning to reinforce the shift."
+    },
+    {
+      "advice": "For those with a racing mind, process thoughts outside of bed.",
+      "how_to": "Spend 10 minutes processing thoughts outside of bed in dim light, stretching, deep breathing, journaling or writing a to-do list, to prepare the brain and body to sleep for the night."
+    },
+    {
+      "advice": "Use travel apps to adjust to new time zones",
+      "how_to": "Sync meal times and routines with the destination’s circadian rhythm."
+    }
+  ],
+  "memorable_stories": [
+    "Andre Iguodala, Golden State Warriors, changed his sleep habits to lengthen his career and increased his 3 point shot percentage by twofold.",
+    "Ryan Jensen, NFL player, had his career saved when diagnosed with sleep apnea and put on treatment to get better sleep."
+  ],
+  "contrarian_claims": [
+    "It may be okay to have something like a radio or a relaxing podcast to fall asleep to.",
+    "Sleeping with a bed partner may negatively affect one's sleep."
+  ],
+  "episode_id": "the-woman-who-helps-athletes-sleep-stop-having-showers-just-before-bed-new-science-nappucino-phenomenon-you-need-to-know",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - The Woman Who Helps Athletes Sleep: Stop Having Showers Just Before Bed! New Science! ‘Nappucino’ Phenomenon You Need To Know!",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/the-woman-who-helps-athletes-sleep-stop-having-showers-just-before-bed-new-science-nappucino-phenomenon-you-need-to-know",
+  "processed_at": "2026-03-19T21:56:12"
+}

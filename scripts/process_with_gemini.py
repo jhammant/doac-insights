@@ -78,9 +78,9 @@ def process_transcript(transcript_file):
     with open(transcript_file, 'r', encoding='utf-8') as f:
         data = json.load(f)
 
-    episode_id = data['id']
-    title = data['title']
-    transcript = data['transcript']
+    episode_id = data.get('id') or data.get('slug') or transcript_file.stem
+    title = data.get('title', transcript_file.stem)
+    transcript = data.get('transcript') or data.get('transcript_text', '')
 
     print(f"\nProcessing: {title}")
     print(f"  Length: {len(transcript)} characters")
@@ -125,7 +125,7 @@ def process_transcript(transcript_file):
         insights['episode_id'] = episode_id
         insights['episode_title'] = title
         insights['episode_date'] = data.get('date', '')
-        insights['episode_url'] = data['url']
+        insights['episode_url'] = data.get('url', '')
         insights['processed_at'] = time.strftime('%Y-%m-%dT%H:%M:%S')
 
         # Save

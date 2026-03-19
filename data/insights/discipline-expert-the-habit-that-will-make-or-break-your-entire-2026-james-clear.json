@@ -1,0 +1,103 @@
+{
+  "guest_name": "James Clear",
+  "expertise_area": "Habit Formation",
+  "key_insights": [
+    {
+      "insight": "Results are a lagging measure of habits; fix the habits, and the results will follow.",
+      "quote": "Fix the habits and the results will fix themselves, change the inputs and the outputs will shift automatically.",
+      "importance": "high"
+    },
+    {
+      "insight": "To build consistency, prioritize what you can stick to even on your bad days as your baseline.",
+      "quote": "Instead of asking ourselves, what could I do on my best day? It's better to start by asking, what can I stick to even on the bad days.",
+      "importance": "high"
+    },
+    {
+      "insight": "Speed in decision-making is crucial for gaining information, particularly when choices are easily reversible.",
+      "quote": "If the choice is easy to reverse, speed is most important. You should move fast.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Goals are good for setting direction, but systems, or daily habits, are the process that ensure continuous progress.",
+      "quote": "Goals are best for people who care about winning once. Systems are best for people who care about winning repeatedly.",
+      "importance": "high"
+    },
+    {
+      "insight": "To prevent the torture of wanting a result without the commitment, determine if you desire the lifestyle that leads to that outcome.",
+      "quote": "To want the outcome without the lifestyle is to like torture yourself...the question is, do you want the lifestyle?",
+      "importance": "high"
+    },
+    {
+      "insight": "Use comparison carefully; compare tactics narrowly to improve skills, but avoid broad comparisons of things like net worth or marriage, which are just recipes for unhappiness.",
+      "quote": "Comparison is like the teacher of skills when it's applied narrowly, but it's the thief of joy when it's applied broadly.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Identify anchor habits that are 'upstream' from other good things happening to maximize their impact.",
+      "quote": "What are those things that you do that are upstream from other good things happening? I think those are good like anchor habits to start and focus on.",
+      "importance": "high"
+    },
+    {
+      "insight": "Success requires adapting to changing seasons in life, meaning habits that once served you might need to shift or be abandoned.",
+      "quote": "When your seasons change, your habits often need to change with it.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Every action is a vote for the type of person you wish to become.",
+      "quote": "In a sense, every action you take is like a vote for the type of person you wish to become.",
+      "importance": "high"
+    },
+    {
+      "insight": "It's essential to remember that habits are routines and rituals that we consistently practice, not mindless reflexes.",
+      "quote": "They're routines and rituals that we do consistently...not like reflexes.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "habits",
+    "productivity",
+    "mindset",
+    "psychology",
+    "business",
+    "fitness",
+    "relationships"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Prime your environment to make good habits easier. Walk into your most used rooms and ask what behaviors the space encourages.",
+      "how_to": "Set out running clothes the night before, put a book on your pillow, or place your guitar in the center of the living room."
+    },
+    {
+      "advice": "Reduce the scope but stick to the schedule. Shorten the duration of your habit instead of skipping it entirely.",
+      "how_to": "If you only have 20 minutes for a 60-minute workout, do a few sets of squats instead of skipping the gym."
+    },
+    {
+      "advice": "Build a habit stack. After [CURRENT HABIT], I will [NEW HABIT].",
+      "how_to": "After I make my morning coffee, I will meditate for 60 seconds. Before I check social media, I will write three things I am grateful for."
+    },
+    {
+      "advice": "Track your habits to create a visual reminder of progress and introduce an element of gaming.",
+      "how_to": "Mark an 'X' on a calendar for each day you complete a habit, or use a paperclip jar to track sales calls."
+    },
+    {
+      "advice": "When trying to break a bad habit, make it invisible, unattractive, difficult, and unsatisfying.",
+      "how_to": "Unsubscribe from temptation emails, add friction by keeping your phone in another room, and find a habit buddy to punish yourself for breaking your commitment."
+    }
+  ],
+  "memorable_stories": [
+    "The St. Olaf's University soccer team going from 5-13 to winning a national championship by implementing habit-based systems.",
+    "The man who went to the gym for only 5 minutes each day for the first six weeks.",
+    "The example of meditating in the shower to add it to an already implemented and repeated habit.",
+    "Trent Dursman using paper clips to track sales calls as a stockbroker, eventually becoming the top performer in his firm."
+  ],
+  "contrarian_claims": [
+    "It is better to pursue consistency than intensity in habit formation.",
+    "Focus on trajectory rather than current position to avoid discouragement.",
+    "It's not just about time management, but energy and control management."
+  ],
+  "episode_id": "discipline-expert-the-habit-that-will-make-or-break-your-entire-2026-james-clear",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Discipline Expert: The Habit That Will Make Or Break Your Entire 2026! James Clear",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/discipline-expert-the-habit-that-will-make-or-break-your-entire-2026-james-clear",
+  "processed_at": "2026-03-19T20:24:21"
+}

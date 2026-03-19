@@ -1,0 +1,92 @@
+{
+  "guest_name": "Morgan Housel",
+  "expertise_area": "Finance Psychology/Behavioral Finance",
+  "key_insights": [
+    {
+      "insight": "Understanding greed, fear, risk, envy, and jealousy is more crucial than technical finance knowledge.",
+      "quote": "If you can understand greed, fear, risk, envy, jealousy, those topics, that is way more important than anything they will teach you in a PhD finance course at Harvard.",
+      "importance": "high"
+    },
+    {
+      "insight": "Financial independence is largely a mindset focused on managing expectations, not just accumulating wealth.",
+      "quote": "The key is managing your expectations more than it is, how can I just pile up as much money as I possibly can?",
+      "importance": "high"
+    },
+    {
+      "insight": "Endurance and longevity are crucial strategies for building wealth, as significant wealth is usually built over decades, not through short-term gains.",
+      "quote": "One thing that sticks out…that virtually everyone listening to this could learn from, is they were way more patient and had way more endurance than anyone else.",
+      "importance": "high"
+    },
+    {
+      "insight": "Compound interest is the most misunderstood thing about investing, because durable investing drives wealth.",
+      "quote": "Compound interest is the most misunderstood thing about investing because that's what builds wealth.",
+      "importance": "high"
+    },
+    {
+      "insight": "High levels of savings provide independence, allowing for more control over one's life and future.",
+      "quote": "What I value more than anything with money is independence...so that when the economy goes south and there is a recession and things are going bad, I want to have a level of control over where I work, where I live, what I'm able to do, my ability to support my family.",
+      "importance": "high"
+    },
+    {
+      "insight": "It's essential to recognize when times are abnormally good and prepare for inevitable downturns.",
+      "quote": "It's a major psychological skill in life in general. This goes beyond money. Is recognizing when things are abnormally good and preparing yourself for them to go the other way as they inevitably will.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Excessive focus on external validation through material possessions detracts from true happiness and financial well-being.",
+      "quote": "So much of what we do with money is a performance to impress that guy who's not paying any attention to you whatsoever.",
+      "importance": "medium"
+    },
+    {
+      "insight": "While technology might be transformative, it doesn't always translate to personal financial gains for investors, and long-term value may be derived from stable industries.",
+      "quote": "You could get it right, this is going to change the world forever. It does not mean that you're going to make that much money on it.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Tariffs are ultimately paid by the importer, and consumers, resulting in higher prices and potentially empty shelves.",
+      "quote": "What a tariff is, is...the importer, which is Apple, bringing the iPhones in that are made in China...has to pay the tariff.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "business",
+    "money",
+    "psychology",
+    "habits",
+    "mindset",
+    "technology",
+    "relationships",
+    "economics"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Prioritize saving as much as you can, viewing savings as a token of independence rather than just a means to future purchases.",
+      "how_to": "Shift your mindset to see savings as a way to gain control over your time and options, not just accumulating for future spending. Focus on saving consistently, even if it's a small amount, to build a financial cushion for unexpected events."
+    },
+    {
+      "advice": "Invest in broad-based index funds, like Vanguard Total Stock Market Index, and maintain that investing strategy over the long-term.",
+      "how_to": "Open a brokerage account, research low-fee index funds, and establish a regular investment schedule, such as monthly, and stick to it regardless of market conditions."
+    },
+    {
+      "advice": "Focus on the $30,000 questions by prioritizing spending and living decisions that have the greatest impact.",
+      "how_to": "Identify the 'big four' expenses (housing, car, childcare, healthcare) and make choices that minimize these costs, even if it means making different lifestyle choices. Stop focusing on small expense reductions that have little overall impact."
+    }
+  ],
+  "memorable_stories": [
+    "Chuck Feeney, the founder of DFS, initially lived a billionaire lifestyle but later chose simplicity and gave away his wealth, highlighting true independence comes from within.",
+    "Warren Buffett's aversion to haircuts, framing them as costing thousands due to lost compounding potential.",
+    "The story of Jesse Livermore, a Wall Street stock trader who made and lost fortunes repeatedly, ultimately dying bankrupt due to his inability to recognize and be content with 'enough'.",
+    "Morgan Housel's former coworker who accumulated $25,000 in credit card debt for travel and died young, illustrating the YOLO mindset and the importance of the balance between saving and experiencing life.",
+    "Housel's use of Chat GPT to help remodel his house, showing how AI is already disrupting multiple industries."
+  ],
+  "contrarian_claims": [
+    "A high income, after a certain point, can become a social liability.",
+    "AI is an application on the Internet and will therefore cause a quicker transition than technology of the past.",
+    "In order to really understand the psychology of money, you have to experience being poor first."
+  ],
+  "episode_id": "the-savings-expert-theyre-lying-to-you-about-buying-a-house-tariffs-are-about-to-skyrocket-cost-of-living-heres-the-truth-about-america-collapsing",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - The Savings Expert: They're Lying To You About Buying A House! Tariffs Are About To Skyrocket Cost Of Living! Here's The Truth About America Collapsing!",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/the-savings-expert-theyre-lying-to-you-about-buying-a-house-tariffs-are-about-to-skyrocket-cost-of-living-heres-the-truth-about-america-collapsing",
+  "processed_at": "2026-03-19T21:53:52"
+}

@@ -1,0 +1,91 @@
+{
+  "guest_name": "Giles Yeo",
+  "expertise_area": "Genetics of Obesity",
+  "key_insights": [
+    {
+      "insight": "The brain actively fights against weight loss, using strategies to increase hunger and subtly lower metabolism, making it difficult to sustain weight loss long-term.",
+      "quote": "Your brain, everyone's brain hates it when they lose weight...This is reducing my chance of survival.",
+      "importance": "high"
+    },
+    {
+      "insight": "Calorie counting is a blunt tool that provides a general idea of how much food is being consumed, but it says nothing about the quality or nutrient composition of that food.",
+      "quote": "The calorie tells you absolutely nothing. Zero.",
+      "importance": "high"
+    },
+    {
+      "insight": "Caloric availability, the amount of calories the body can extract from a food, varies depending on food preparation (raw vs. cooked), affecting the actual calories absorbed.",
+      "quote": "If you cook the celery, chop it up, put it into a stew, whatever the hell you're going to do with it, that six calories becomes 30 calories.",
+      "importance": "high"
+    },
+    {
+      "insight": "Plant-based diets can be healthy if carefully planned and supplemented, but are not necessarily accessible or suitable for everyone, particularly those in lower socioeconomic situations.",
+      "quote": "Veganism, plant-based in particular, is a diet for the privileged people who can choose to do so.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Orange juice and apple juice have sugar concentrations equivalent to Coca-Cola, but without the fiber, making them a less healthy option than eating whole fruit.",
+      "quote": "Orange juice or apple juice, both of those juices in particular, have as much sugar concentration, exactly the same sugar concentration as Coca-Cola.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Muscle mass is a key determinant of health as we age, even more so than total weight, highlighting the importance of resistance training.",
+      "quote": "The amount of muscle mass you have...will determine how healthy you are as you age.",
+      "importance": "high"
+    },
+    {
+      "insight": "The reason why there is so much conflicting advice is because there is no one singular right diet; people have to find the right diet for themselves, not only biologically, psychologically, but also lifestyle wise.",
+      "quote": "The reason why the information is conflicting is because there is no one singular right diet.",
+      "importance": "high"
+    },
+    {
+      "insight": "Diets often fail because people are trying to control something that they feel like they need to control.",
+      "quote": "There is an effort to wanting to control something that you feel like you need to control. Some people try and control their diet.",
+      "importance": "medium"
+    },
+    {
+      "insight": "The goal should be for everyone to eat 10-20% less meat, rather than pushing for total veganism, to achieve significant environmental and health benefits.",
+      "quote": "What we need as a world is for everyone to eat 10 to 20% less meat today. That is achievable.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "health",
+    "psychology",
+    "habits",
+    "science",
+    "money",
+    "fitness",
+    "mindset",
+    "relationships",
+    "nutrition"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Focus on eating more protein and fiber while limiting added sugars.",
+      "how_to": "Aim for 16% of daily energy from protein, 30 grams of fiber, and less than 5% of daily energy from added sugars."
+    },
+    {
+      "advice": "Prioritize resistance training for maintaining health as you age.",
+      "how_to": "Incorporate regular resistance exercises such as sitting on a wall or getting up and down from a chair and/or lifting weights to maintain muscle mass."
+    },
+    {
+      "advice": "Eat the whole fruit instead of drinking juice.",
+      "how_to": "Substitute juice with whole fruits to get all of the benefits from chewing and the fiber from the fruits."
+    }
+  ],
+  "memorable_stories": [
+    "Giles Yeo recounts traveling and always eating a large bowl of carbs (rice or noodles) when stressed.",
+    "The guest shares a story of seeing children with genetic mutations causing them to be severely obese due to a lack of communication between fat and the brain, which has led him to study the genetic of obesity",
+    "The guest describes a time where Canadian, Swedish, and Australian Vegans bombarded him with hate emails when he said that there is a safe does of animal-based proteins."
+  ],
+  "contrarian_claims": [
+    "Orange juice can be worse than Coca-Cola because it is seen as healthy.",
+    "Exercise is not a good weight loss strategy.",
+    "There is no health at every size"
+  ],
+  "episode_id": "the-weight-loss-scientist-youve-been-lied-to-about-calories-dieting-losing-weight-giles-yeo",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - The Weight Loss Scientist: You've Been LIED To About Calories, Dieting & Losing Weight: Giles Yeo",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/the-weight-loss-scientist-youve-been-lied-to-about-calories-dieting-losing-weight-giles-yeo",
+  "processed_at": "2026-03-19T21:55:54"
+}

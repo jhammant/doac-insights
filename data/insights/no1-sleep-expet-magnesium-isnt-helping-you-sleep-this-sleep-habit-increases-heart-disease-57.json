@@ -1,0 +1,94 @@
+{
+  "guest_name": "Matthew Walker",
+  "expertise_area": "Neuroscience",
+  "key_insights": [
+    {
+      "insight": "Catch-up sleep on the weekend can reduce cardiovascular disease risk for those short on sleep during the week.",
+      "quote": "In the people who were short sleeping during the week, but long-sleeping at the weekend, they had a 20% reduced cardiovascular disease risk relative to the people who were short-sleeping during the week, but also, short sleeping at the weekend.",
+      "importance": "high"
+    },
+    {
+      "insight": "Banking sleep (sleeping more in advance) can significantly reduce the negative effects of upcoming sleep deprivation.",
+      "quote": "People who had built up this credit, this savings account of sleep in the days in the week beforehand, they suffered about 40% less of an impairment relative to the people who had not created any savings plan.",
+      "importance": "high"
+    },
+    {
+      "insight": "Digital detox one hour before bed can significantly improve sleep quality; focus less on blue light, more on engaging content.",
+      "quote": "One hour before bed, try to limit activating social media engagement, email, and text messages that are going to trigger you.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Go to bed and wake up at the same time every day, including weekends, is essential for good sleep and impacts all-cause mortality.",
+      "quote": "Go to bed and wake up at the same time, no matter whether it's the weekday or the weekend, regularity is king.",
+      "importance": "high"
+    },
+    {
+      "insight": "Dimming lights one hour before bed is crucial, and dropping the light below 30 lux, especially using warm yellow light, can increase REM sleep.",
+      "quote": "90 minutes before bed, they turned down the lights to below 30 looks, and they pulled out all of the blue light...increase their REM sleep by 18%.",
+      "importance": "medium"
+    },
+    {
+      "insight": "REM sleep is essential for emotional processing and creativity, and it becomes more prominent in the second half of the night.",
+      "quote": "As you push through to the second half of the night, now that seesaw balance shifts over, and you spend much more of your time in REM sleep in the second half of the night.",
+      "importance": "high"
+    },
+    {
+      "insight": "A new class of sleeping medication, DORA drugs, dials down wakefulness by affecting orexin in the brainstem, potentially more beneficial than sedatives like Ambien.",
+      "quote": "These new drugs...act like a clever set of chemical fingers.They go down into the brain stem where this sort of erexin is being released.And they just dial down the volume on awakefulness.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Nightmares, particularly frequent ones, are a strong indicator of suicidal tendencies and warrant professional help.",
+      "quote": "If short sleep has 150% higher likelihood of suicideality, having nightmares has an 800% higher likelihood of suicidal tendencies associated with it.",
+      "importance": "high"
+    }
+  ],
+  "topics": [
+    "health",
+    "psychology",
+    "habits",
+    "science",
+    "technology",
+    "fitness",
+    "productivity",
+    "mindset"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Implement a 'digital detox' one hour before bed.",
+      "how_to": "Turn off or limit engaging with social media, emails, and text messages an hour before sleeping; listening to a podcast is ok."
+    },
+    {
+      "advice": "Maintain a consistent sleep schedule.",
+      "how_to": "Go to bed and wake up within a 30-minute window every day, even on weekends."
+    },
+    {
+      "advice": "Dim the lights in your house an hour before bed.",
+      "how_to": "Turn off most lights an hour before bed, aiming for below 30 lux with warm, yellow light."
+    },
+    {
+      "advice": "Practice meditation, box breathing, or body scans if you wake up in the middle of the night.",
+      "how_to": "Use a guided meditation app, try breathing exercises (inhale for 5, hold for 6, exhale for 7), or do a body scan, focusing on relaxing each part of your body."
+    },
+    {
+      "advice": "If dealing with repetitive nightmares, seek Image Rehearsal Therapy (IRT)",
+      "how_to": "Work with a therapist to recall and actively rewrite the nightmare's narrative with a modified outcome."
+    }
+  ],
+  "memorable_stories": [
+    "Team member puts house on Airbnb while traveling.",
+    "The story of Clive Wearing, the man with amnesia who only remembered his wife, to highlight the importance of cherishing relationships and avoiding complacency.",
+    "The presenter's friend using personal 'end dates' to inform how to process conflict"
+  ],
+  "contrarian_claims": [
+    "The blue light from devices is less of a problem than the attention-capturing nature of the devices themselves.",
+    "Counting sheep is a bad idea for improving sleep.",
+    "The myth of 8 hours - 7 to 9 is a good range to aim for.",
+    "Melatonin is not a sleep inducer but rather a timing signal, and high doses can confuse the morning brain."
+  ],
+  "episode_id": "no1-sleep-expet-magnesium-isnt-helping-you-sleep-this-sleep-habit-increases-heart-disease-57",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - No.1 Sleep Expet: Magnesium Isn’t Helping You Sleep! This Sleep Habit Increases Heart Disease 57%",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/no1-sleep-expet-magnesium-isnt-helping-you-sleep-this-sleep-habit-increases-heart-disease-57",
+  "processed_at": "2026-03-19T21:29:10"
+}

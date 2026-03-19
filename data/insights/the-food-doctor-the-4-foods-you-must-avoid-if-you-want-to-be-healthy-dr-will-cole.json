@@ -1,0 +1,89 @@
+{
+  "guest_name": "Dr. Will Cole",
+  "expertise_area": "Functional Medicine",
+  "key_insights": [
+    {
+      "insight": "Functional medicine interprets labs using a thinner, optimal reference range, rather than the average range derived from people with health problems.",
+      "quote": "So in functional medicine, we're looking at optimal, not average.",
+      "importance": "high"
+    },
+    {
+      "insight": "The vast majority of health problems are lifestyle-driven, stemming from diet, stress, sleep, and toxin exposure.",
+      "quote": "The vast majority of health problems that people are seeing are lifestyle driven, meaning that the foods we eat or not eating, our stress levels, our sleep, our exposure to toxins, these epigenetic lifestyle things are really what's fueling what is plaguing our society",
+      "importance": "high"
+    },
+    {
+      "insight": "Chronic inflammation is associated with many health problems, including autoimmune issues, metabolic issues, cancer, heart disease, and mental health issues.",
+      "quote": "Chronic inflammation, it's associated with just about every health problem under the sun...you're looking at autoimmune issues, metabolic issues like type 2 diabetes. And you look at cancer, heart disease, to mental health issues.",
+      "importance": "high"
+    },
+    {
+      "insight": "The gut and the brain are inextricably linked through the gut-brain axis, influencing both physical and mental health.",
+      "quote": "Our gut and brain are actually formed from the same fetal tissue...and they're inextricably linked for the rest of our life through what's known as the gut-brain axis, or the connection between the gut and the brain.",
+      "importance": "high"
+    },
+    {
+      "insight": "Intergenerational trauma is real and can be passed down through epigenetic changes, increasing the likelihood of health issues in descendants.",
+      "quote": "Intergenerational trauma or transgenerational trauma, looking at how trauma is literally stored in the cells and then passed on through family lines is very much science.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Self-compassion can attenuate the inflammatory response in the body during stressful situations.",
+      "quote": "The people that practiced self-compassion during this time had the lowest levels of inflammation.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Conventional medicine often separates mental and physical health, which is an incomplete approach to healing.",
+      "quote": "In the West, we still like to separate mental health from physical health...we have to realize that mental health is physical health and our brain is a part of our body just like anything else.",
+      "importance": "medium"
+    },
+    {
+      "insight": "The gut microbiome plays a critical role in regulating neurotransmitters, the immune system, and overall health.",
+      "quote": "If you care about mental health, if you care about your overall health as far as inflammation is concerned, if you care about your weight and your energy levels, you have to care about the microbiome. Because if it's not healthy, you're not healthy.",
+      "importance": "high"
+    }
+  ],
+  "topics": [
+    "health",
+    "psychology",
+    "relationships",
+    "habits",
+    "science",
+    "fitness",
+    "mindset",
+    "communication"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Incorporate soups and stews into your diet to calm gut-centric inflammation and provide easily digestible nutrients.",
+      "how_to": "Choose fiber-rich vegetables, your favorite protein, and a broth of your choice (bone broth or plant-based broth) and cook them together. Make soups and stews a regular part of your weekly meal plan."
+    },
+    {
+      "advice": "Practice breathwork and meditation to support vagal tone and improve the gut-brain axis connection.",
+      "how_to": "Engage in simple meditation or breathwork exercises regularly. Pick an \"act of stillness\" and stay consistent with it."
+    },
+    {
+      "advice": "Prioritize foods that 'love you back' while minimizing the 'inflammatory core four' (gluten-containing grains, industrial seed oils, conventional dairy, and sugar).",
+      "how_to": "Focus on whole, unprocessed foods like fiber-rich vegetables and clean protein. Reduce consumption of gluten-containing grains, industrial seed oils, conventional dairy, and sugar. Be mindful of added sugars in all forms."
+    },
+    {
+      "advice": "Consider intermittent fasting to train your metabolism to be more resilient.",
+      "how_to": "Have an intentional time where you're not eating, and break your fast a little bit later in the day or end your eating window in mid-afternoon."
+    }
+  ],
+  "memorable_stories": [
+    "Dr. Cole's story about using his first paycheck at 16 to buy superfoods.",
+    "Dr. Cole's story of his son meditating, demonstrating the impact of parental example.",
+    "Anecdote about the prophetic nature of the Pixar film, WALL-E."
+  ],
+  "contrarian_claims": [
+    "Industrial seed oils are not inherently bad but are overconsumed, leading to omega imbalances.",
+    "Juice detoxes, while better than the standard American diet, are not necessarily optimal for long-term health due to the lack of fiber.",
+    "Burnout has become a badge of honor in our culture, deifying status and material success over health."
+  ],
+  "episode_id": "the-food-doctor-the-4-foods-you-must-avoid-if-you-want-to-be-healthy-dr-will-cole",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - The Food Doctor: The 4 Foods You MUST Avoid If You Want To Be Healthy! - Dr. Will Cole",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/the-food-doctor-the-4-foods-you-must-avoid-if-you-want-to-be-healthy-dr-will-cole",
+  "processed_at": "2026-03-19T21:44:09"
+}

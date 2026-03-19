@@ -1,0 +1,83 @@
+{
+  "guest_name": "Sasha Lord",
+  "expertise_area": "Event Management and Nightlife",
+  "key_insights": [
+    {
+      "insight": "Success requires being in the right place at the right time, and being receptive to opportunities.",
+      "quote": "I think being in the right place at the right time, I also think as well... what was that right place? The Hacienda.",
+      "importance": "medium"
+    },
+    {
+      "insight": "The pressure of entrepreneurship can be immense, especially with a large team depending on you.",
+      "quote": "The more you succeed, the more pressure does come on your shoulders.",
+      "importance": "high"
+    },
+    {
+      "insight": "Negative events can have a lasting impact and require difficult decisions about responsibility and moving forward.",
+      "quote": "People didn't realize that when you go through something like that, it actually affects you really badly.",
+      "importance": "high"
+    },
+    {
+      "insight": "True friends are those who support you regardless of your financial situation or professional status.",
+      "quote": "My true friends... they don't care if I've got five p to my name, they don't care if I've got five millions money, they're my friends.",
+      "importance": "high"
+    },
+    {
+      "insight": "It is difficult to fully commit to both a business and a personal relationship, often requiring a choice between the two.",
+      "quote": "I think it is impossible to throw your life into your work and at the same time, hand in hand, have a very successful personal relationship. I don't think that's possible.",
+      "importance": "high"
+    },
+    {
+      "insight": "Perfectionism can be a driver, but it's important to balance standards with the reality of constraints.",
+      "quote": "I like everything to be perfect and if it's not perfect, it really pisses me off because it means you could do better.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Many people have great ideas but lack the courage to act on them, often preferring the safety of a stable job.",
+      "quote": "I know so many people who work 9 to 5 jobs but actually have great ideas... and they never actually do it.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Entrepreneurship is not for everyone; some people may find more happiness and balance in a traditional job.",
+      "quote": "I don't think entrepreneurship is for everybody, because I don't think some people would enjoy... things being tough.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "business",
+    "relationships",
+    "leadership",
+    "mindset",
+    "habits",
+    "psychology"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Write down challenges to work through them methodically.",
+      "how_to": "If you have five or six challenges to get through, write them down, go through each one, and then cross them off as you resolve them."
+    },
+    {
+      "advice": "Surround yourself with supportive, like-minded people.",
+      "how_to": "Cut out negative influences and actively seek out individuals who share your vision and encourage your goals."
+    },
+    {
+      "advice": "If you have a good idea, pursue it.",
+      "how_to": "Don't let fear of failure or the comfort of a stable job prevent you from taking action on your ideas."
+    }
+  ],
+  "memorable_stories": [
+    "Meeting his old teacher, Mr. McGuinness, at the Hacienda.",
+    "The petrol bombing of Sankeys Soap the night before reopening.",
+    "The death of a clubber at Warehouse Project and the resulting press scrutiny.",
+    "Frank Ocean refusing to go on stage at Parklife until a technical issue was resolved, followed by a city-wide tram shutdown."
+  ],
+  "contrarian_claims": [
+    "It is impossible to throw your life into your work and at the same time, have a very successful personal relationship.",
+    "He knew he would be successful despite his A-Level results."
+  ],
+  "episode_id": "e12-sacha-lords-diary-the-king-of-nightlife",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - E12: Sacha Lord's Diary - The King of Nightlife",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/e12-sacha-lords-diary-the-king-of-nightlife",
+  "processed_at": "2026-03-19T20:26:43"
+}

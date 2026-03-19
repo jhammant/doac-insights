@@ -1,0 +1,104 @@
+{
+  "guest_name": "Robert Greene",
+  "expertise_area": "Human Psychology, Strategy, Power",
+  "key_insights": [
+    {
+      "insight": "The most crucial decision one makes in life is finding their purpose or 'life's task', as fulfillment and happiness stem from this realization.",
+      "quote": "I make the point that it is the most important decision in your life,figuring out what you were destined for, why you were born,what you were created for, what makes you unique. And I say that everything from that realization, from that understanding kind of stems from that. Your sense of fulfillment, your happiness, everything will come from that one realization.",
+      "importance": "high"
+    },
+    {
+      "insight": "To discover your 'life's task', resist cultural pressures, focus inward on your genuine interests, and look for things that excited you as a child.",
+      "quote": "You have to resist the pull that our culture gives you...pay less attention to what other people are doing...and to go inward and think about yourself and think about what you love and what your interests are...You had it when you were a child...You have to dig and dig and dig and find those bones and those relics and those artifacts from your past, the things that really excite you.",
+      "importance": "high"
+    },
+    {
+      "insight": "Prolonged planning without action stems from a fear of failure and the responsibilities that success brings.",
+      "quote": "Because you're afraid of failure, quite honestly...if you're successful, you now have responsibility, you now have a reputation,you now have succeeded and your next venture could fail.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Living in the 'realm of possibility' without facing real-world limits prevents skill development and toughness necessary for success.",
+      "quote": "But the way the world works is you don't achieve anything unless you have limits. Having limits and hitting that wall and that resistance is what makes you learn is what makes you great is how the human brain functions.",
+      "importance": "high"
+    },
+    {
+      "insight": "In the 21st century, acquiring skills is more valuable than chasing money or reputation early in your career.",
+      "quote": "But what you really want to do in this world, in the 21st century in our decade, is skills. You want to be learning skills. The more skills you have...Skills are the gold of the 21st century.",
+      "importance": "high"
+    },
+    {
+      "insight": "True happiness comes from a long-term perspective, trading short-term pleasure for long-term fulfillment.",
+      "quote": "But if your sense of pleasure and happiness is only like here, from the present moment to here, it's gonna be very hard to get out of that.But if your sense of pleasure and happiness is here. Long term. Yeah. Then you've got power, you've got maneuverability, you have room to maneuver. And that's that'sthe key to the whole thing.",
+      "importance": "high"
+    },
+    {
+      "insight": "Admitting and understanding envy is crucial for managing it, turning it into emulation or practicing 'mitfreude' – finding joy in others' success.",
+      "quote": "The main thing with envy is to admit that you feel it...instead of festering with that ugly emotion, make that a spur, instead of envy,feel what's called emulation...So instead of feeling envy,try and feel happy for the other person.",
+      "importance": "medium"
+    },
+    {
+      "insight": "The cultural emphasis on celebrity and the lack of purpose contributes to powerlessness, loneliness and addiction, particularly among young men.",
+      "quote": "I think our culture promotes all kinds of bad values.It emphasizes fame and celebrity.It doesn't talk about discipline.It doesn't give young men a sense of purpose and direction...This sense of powerlessness, loneliness, isolation,addiction, aimlessness?",
+      "importance": "medium"
+    },
+    {
+      "insight": "It's not bad to be lonely, actually it's extremely important in life to be alone sometimes and to be able to be on your own and to think about yourself and to come to terms with who you are and to embrace what makes you different. Don't think of it as something terribly negative in your life.",
+      "quote": "It's not a bad thing necessarily to be lonely. Extremely important in life to be alone sometimes and to be able to be on yourown and to think about yourself and to kind of come to terms with who you areand to embrace what makes you different...So don't think of it as something necessarily terribly negative in your life.",
+      "importance": "medium"
+    },
+    {
+      "insight": "The ability to think for yourself, separate from groupthink and emotional reasoning, is a sign of strength and real masculinity.",
+      "quote": "Being masculine is being able to step back and go,this isn't necessarily the right thing to do.I have to think about it.I have to do something that's more productive, that's positive.I have to criticize myself sometimes.Weak people can't criticize themselves.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "psychology",
+    "habits",
+    "relationships",
+    "leadership",
+    "business",
+    "mindset",
+    "money",
+    "health",
+    "creativity"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "If you are stuck in a dead-end job, carve out two hours each night to explore a new field online and consider taking night school classes to pivot.",
+      "how_to": "Dedicate specific time each night to online research, network and explore educational opportunities for a career change"
+    },
+    {
+      "advice": "If you have a good idea, stop thinking about it and start doing it immediately. Failure is valuable.",
+      "how_to": "Launch your idea within 24 hours. Plan to learn from your mistakes as you continue, instead of avoiding them"
+    },
+    {
+      "advice": "Force yourself to interact with people and get out of your phone to improve social skills.",
+      "how_to": "Schedule 10 social interactions each month, prioritizing face-to-face over virtual encounters. Focus on observing body language and nonverbal communication."
+    },
+    {
+      "advice": "Practice 'As if' strategy when you are around people. Create a world where every aspect of life feels enlivening, and people will move towards you.",
+      "how_to": "Visualize this reality. Before entering a room, imagine it, and move through as if this reality were the case."
+    }
+  ],
+  "memorable_stories": [
+    "Robert Greene recounts his personal struggles with finding purpose, describing a near rock-bottom experience in Italy that led to his book 'The 48 Laws of Power'.",
+    "Robert tells a story about Dov Charney, founder of American Apparel, whose inability to stop working eventually led to the company's downfall due to over-leveraging.",
+    "Robert tells an anecdote about working with 50 Cent, highlighting his intense discipline and focus which are hidden behind the glamourous rap star image.",
+    "Robert details an anecdote from his time as a young journalist in Nicaragua covering the Sandinista revolution, reflecting on the intoxicating yet dangerous nature of groupthink.",
+    "Robert recalls the story of Christopher Columbus who faked nobility to secure funding for his voyage to America as an example of creating the appearance of power."
+  ],
+  "contrarian_claims": [
+    "Envy is deeply ingrained in all of us, and always wanting to be better and superior to others is the most motivating factor of 90% of human behavior.",
+    "Everyone has narcissistic tendencies and a manipulative side; there are no saints in this world.",
+    "Social media is a nuclear bomb for envy, infesting all aspects of life but nobody admits it.",
+    "It's not the worst thing to be lonely.",
+    "Masculinity is self-control."
+  ],
+  "episode_id": "the-manipulation-expert-youre-setting-your-child-up-for-misery-most-people-dont-realise-theyre-narcissists",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - The Manipulation Expert: You're Setting Your Child Up For Misery! Most People Don't Realise They're Narcissists!",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/the-manipulation-expert-youre-setting-your-child-up-for-misery-most-people-dont-realise-theyre-narcissists",
+  "processed_at": "2026-03-19T21:49:01"
+}

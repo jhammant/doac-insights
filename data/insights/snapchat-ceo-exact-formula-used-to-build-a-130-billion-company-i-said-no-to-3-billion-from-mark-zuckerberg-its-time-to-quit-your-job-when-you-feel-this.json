@@ -1,0 +1,96 @@
+{
+  "guest_name": "Evan Spiegel",
+  "expertise_area": "Technology Entrepreneurship",
+  "key_insights": [
+    {
+      "insight": "Focus on maximizing the rate of learning to improve decision-making and adapt quickly.",
+      "quote": "I think ultimately you have to maximize your rate of learning. I mean, that's just critical.",
+      "importance": "high"
+    },
+    {
+      "insight": "The secret to a successful small design team is generating as many ideas as possible, because the best way to have a good idea is to have a lot of ideas.",
+      "quote": "And what ultimately happens on our design teamis that 99% of ideas are not good, but 1% is.And we really abide by that idea of like,or the concept that like the best way to have a good ideais to have lots of ideas.",
+      "importance": "high"
+    },
+    {
+      "insight": "In international market penetration, prioritize following existing organic growth and engaging local creators over forcing entry.",
+      "quote": "Oftentimes what we've done with Snapchat is actually follow the growth.So looking for countries where people have already started using the product,already love it, are giving us a bunch of feedback.",
+      "importance": "medium"
+    },
+    {
+      "insight": "When making design choices, prioritize speed and ease of use to encourage adoption and communication.",
+      "quote": "So I think what was more important than hearing feedbackof hey, I want a way to add a captionor express more on the Snap,the way that we implemented that feedbackand designed something really fast and easy to useis why that black bar caption is now, I think, synonymous with Snapchat",
+      "importance": "medium"
+    },
+    {
+      "insight": "Adaptability is more valuable than specific domain expertise in early-stage employees.",
+      "quote": "And so I think now one of the things we're always looking forin the interview process is adaptability, right?",
+      "importance": "medium"
+    },
+    {
+      "insight": "Focus on building a platform that is more than just a product or feature because it creates more value in the long term.",
+      "quote": "I think it's really important to very, very quickly evolve from being just a productor just a feature to becoming a platform or an ecosystem.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Prioritize problems that are hard to copy in order to differentiate yourself from competitors.",
+      "quote": "If we're going to innovate,if we're going to make new products, we ought to make things that are really difficult tocopy, that take a long time to copy, that are really hard to do.",
+      "importance": "medium"
+    },
+    {
+      "insight": "When implementing company values, ensure they are embedded in hiring, promotion, and performance evaluation processes, not just as words on a wall.",
+      "quote": "And so I think if we had been way faster at just saying,hey, these are our values and what we stand for,this is what it looks like in practice.And if you're not living up to that,this isn't the right home for you,like that would have helped shape the culture a lot faster.",
+      "importance": "high"
+    },
+    {
+      "insight": "The ability to act quickly and fix mistakes is more important than simply making the right decision in the first place",
+      "quote": "I think sometimes people are too focused on makingthe right decision and not as focused on fixing itif they're wrong.",
+      "importance": "high"
+    }
+  ],
+  "topics": [
+    "business",
+    "technology",
+    "entrepreneurship",
+    "leadership",
+    "relationships",
+    "habits",
+    "mindset",
+    "productivity",
+    "communication",
+    "psychology",
+    "creativity",
+    "money"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Conduct 'Council' meetings based on the Crossroads School model to foster connection and open communication.",
+      "how_to": "Gather a small group (10-12) in a circle on the floor. Implement three rules: Speak from the heart, listen from the heart, and be spontaneous. Use turn-based storytelling with simple prompts like 'How was your weekend?'"
+    },
+    {
+      "advice": "Implement a policy in your company where everyone is required to present an idea during design critiques, to foster creativity from the very start.",
+      "how_to": "Require all design-team members, even on their first day, to present an idea at weekly design critiques."
+    },
+    {
+      "advice": "Go after extremely big opportunities.",
+      "how_to": "Do not focus on cash flow, think of ways to create an business that reaches millions or billions of people around the world."
+    }
+  ],
+  "memorable_stories": [
+    "Evan describes his childhood hotel creation in their living room.",
+    "The story of Snapchat's accidental 3-day outage and subsequent user return.",
+    "The story of living in the Blue House on Venice boardwalk, interacting with users daily.",
+    "The anecdote about one of Evan's sons walking into a meeting fully nude holding two oreo's",
+    "The story of Evan finding out one of the lawyers did not think snapchat was a good idea because he joined the call early"
+  ],
+  "contrarian_claims": [
+    "That there is no such thing as a brilliant jerk",
+    "That to be a creative person, you need kindness in the workplace",
+    "That it's a good thing if you feel like you've got more to learn"
+  ],
+  "episode_id": "snapchat-ceo-exact-formula-used-to-build-a-130-billion-company-i-said-no-to-3-billion-from-mark-zuckerberg-its-time-to-quit-your-job-when-you-feel-this",
+  "episode_title": "The Diary Of A CEO with Steven Bartlett - Snapchat CEO: Exact Formula Used To Build A $130 Billion Company! I Said No To $3 Billion From Mark Zuckerberg! It’s Time To Quit Your Job When You Feel This!",
+  "episode_date": "",
+  "episode_url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/snapchat-ceo-exact-formula-used-to-build-a-130-billion-company-i-said-no-to-3-billion-from-mark-zuckerberg-its-time-to-quit-your-job-when-you-feel-this",
+  "processed_at": "2026-03-19T21:37:51"
+}
