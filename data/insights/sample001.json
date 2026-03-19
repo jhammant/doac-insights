@@ -1,0 +1,69 @@
+{
+  "guest_name": "Not specified",
+  "expertise_area": "Stress Management & Well-being",
+  "key_insights": [
+    {
+      "insight": "Chronic stress significantly alters brain structure, negatively impacting decision-making and increasing anxiety.",
+      "quote": "Chronic stress literally rewires your brain. It shrinks your hippocampus, it enlarges your amygdala, it makes you more anxious and less capable of making good decisions.",
+      "importance": "high"
+    },
+    {
+      "insight": "True happiness stems from contentment and reducing expectations, not from constant achievement.",
+      "quote": "Happiness is not about achieving more, it's about wanting less.",
+      "importance": "high"
+    },
+    {
+      "insight": "Happiness can be mathematically represented as the ratio between perception of events and expectations.",
+      "quote": "Your happiness is equal to or greater than your perception of the events of your life minus your expectations of how life should be.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Recognizing that thoughts are transient and separate from one's core identity is key to managing anxiety.",
+      "quote": "Understand that your thoughts are not you. You are the observer of your thoughts.",
+      "importance": "high"
+    },
+    {
+      "insight": "Focusing on what is within one's control can significantly reduce stress levels.",
+      "quote": "Control what you can control. You can't control the traffic, but you can control when you leave. You can't control other people, but you can control your reactions.",
+      "importance": "high"
+    },
+    {
+      "insight": "Stress is a significant contributor to major health issues.",
+      "quote": "When I look at the data, 70% of heart attacks are stress-related.",
+      "importance": "high"
+    }
+  ],
+  "topics": [
+    "health",
+    "psychology",
+    "mindset",
+    "habits",
+    "productivity"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Practice daily gratitude",
+      "how_to": "Write down three things you are grateful for every morning."
+    },
+    {
+      "advice": "Observe your thoughts without identifying with them",
+      "how_to": "When anxiety arises, acknowledge it but recognize it as a fleeting thought, like a passing cloud."
+    },
+    {
+      "advice": "Focus on controlling what you can",
+      "how_to": "Identify elements in your life that are causing stress and determine which you can influence and actively adjust them."
+    }
+  ],
+  "memorable_stories": [
+    "Personal experience of the speaker after the death of their son changed their definition of happiness."
+  ],
+  "contrarian_claims": [
+    "Happiness is not about achieving more, but about wanting less.",
+    "Glorifying busy-ness and wearing exhaustion as a badge of honor is detrimental to well-being."
+  ],
+  "episode_id": "sample001",
+  "episode_title": "E203: Mo Gawdat: A WARNING about Stress, Anxiety & Depression! This Is Causing 70% Of Heart Attacks!",
+  "episode_date": "20240115",
+  "episode_url": "https://www.youtube.com/watch?v=sample001",
+  "processed_at": "2026-03-19T12:45:05"
+}

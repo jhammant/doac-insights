@@ -1,0 +1,37 @@
+{
+  "Neuroscience": [
+    {
+      "guest": "Not specified in text",
+      "episode_id": "sample002",
+      "episode_title": "E195: The Exercise Neuroscientist: NEW RESEARCH, The Shocking Link Between Exercise And Dementia!"
+    }
+  ],
+  "Personal Finance": [
+    {
+      "guest": "Unknown",
+      "episode_id": "sample005",
+      "episode_title": "E156: The Financial Expert: How To Get So Rich You Never Have To Work Again!"
+    }
+  ],
+  "Stress Management & Well-being": [
+    {
+      "guest": "Not specified",
+      "episode_id": "sample001",
+      "episode_title": "E203: Mo Gawdat: A WARNING about Stress, Anxiety & Depression! This Is Causing 70% Of Heart Attacks!"
+    }
+  ],
+  "Business Strategy": [
+    {
+      "guest": "Not specified",
+      "episode_id": "sample003",
+      "episode_title": "E187: Simon Sinek: The Number One Reason Why You're Not Succeeding | E187"
+    }
+  ],
+  "Fertility Medicine": [
+    {
+      "guest": "Unknown",
+      "episode_id": "sample004",
+      "episode_title": "E178: The Fertility Doctor: Top 5 Things Harming Your Fertility & How To Fix Them!"
+    }
+  ]
+}

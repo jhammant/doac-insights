@@ -1,0 +1,216 @@
+[
+  {
+    "theme": "Productivity",
+    "count": 8,
+    "episode_count": 4,
+    "insights": [
+      {
+        "text": "a single workout can immediately improve mood, focus, and attentional flexibility.",
+        "quote": "We have new research showing that a single workout can immediately improve your mood, your focus, and your ability to shift and focus attention.",
+        "importance": "high",
+        "episode_id": "sample002",
+        "episode_title": "E195: The Exercise Neuroscientist: NEW RESEARCH, The Shocking Link Between Exercise And Dementia!",
+        "guest": "Not specified in text"
+      },
+      {
+        "text": "exercise strengthens the prefrontal cortex, enhancing decision-making and focus.",
+        "quote": "You strengthen the prefrontal cortex, which helps with decision making and focus.",
+        "importance": "medium",
+        "episode_id": "sample002",
+        "episode_title": "E195: The Exercise Neuroscientist: NEW RESEARCH, The Shocking Link Between Exercise And Dementia!",
+        "guest": "Not specified in text"
+      },
+      {
+        "text": "most mainstream financial advice focuses on cutting back, while true wealth building emphasizes earning more and consistent investing.",
+        "quote": "The advice is always about cutting back, about sacrifice, about denying yourself. But here's what actually makes you rich: earning more and investing consistently.",
+        "importance": "high",
+        "episode_id": "sample005",
+        "episode_title": "E156: The Financial Expert: How To Get So Rich You Never Have To Work Again!",
+        "guest": "Unknown"
+      },
+      {
+        "text": "focus on large financial wins such as salary negotiation and career choices, rather than obsessing over minor expenses.",
+        "quote": "A $5 latte is not the problem. Not asking for a $10,000 raise is the problem.",
+        "importance": "high",
+        "episode_id": "sample005",
+        "episode_title": "E156: The Financial Expert: How To Get So Rich You Never Have To Work Again!",
+        "guest": "Unknown"
+      },
+      {
+        "text": "compounding returns over a long time horizon is key to building substantial wealth.",
+        "quote": "If you invest $500 a month from age 25 to 65 in the stock market averaging 8% returns, you'll have over $1.5 million.",
+        "importance": "high",
+        "episode_id": "sample005",
+        "episode_title": "E156: The Financial Expert: How To Get So Rich You Never Have To Work Again!",
+        "guest": "Unknown"
+      },
+      {
+        "text": "focusing on what is within one's control can significantly reduce stress levels.",
+        "quote": "Control what you can control. You can't control the traffic, but you can control when you leave. You can't control other people, but you can control your reactions.",
+        "importance": "high",
+        "episode_id": "sample001",
+        "episode_title": "E203: Mo Gawdat: A WARNING about Stress, Anxiety & Depression! This Is Causing 70% Of Heart Attacks!",
+        "guest": "Not specified"
+      },
+      {
+        "text": "adopting an infinite mindset involves focusing on longevity, continuous improvement, and building something lasting rather than short-term wins.",
+        "quote": "When you play with an infinite mindset, everything changes. You're not trying to beat the competition, you're trying to outlast them. You're not trying to be the best, you're trying to be better. You're not focused on short-term wins, you're focused on building something that lasts.",
+        "importance": "high",
+        "episode_id": "sample003",
+        "episode_title": "E187: Simon Sinek: The Number One Reason Why You're Not Succeeding | E187",
+        "guest": "Not specified"
+      },
+      {
+        "text": "infinite leaders focus on empowering their team and building a strong environment for collective growth, rather than personal recognition.",
+        "quote": "A finite leader wants to be the smartest person in the room. An infinite leader wants to build the smartest room.",
+        "importance": "medium",
+        "episode_id": "sample003",
+        "episode_title": "E187: Simon Sinek: The Number One Reason Why You're Not Succeeding | E187",
+        "guest": "Not specified"
+      }
+    ],
+    "guests": [
+      "Not specified",
+      "Unknown",
+      "Not specified in text"
+    ]
+  },
+  {
+    "theme": "Brain Health",
+    "count": 5,
+    "episode_count": 3,
+    "insights": [
+      {
+        "text": "regular exercise can reduce the risk of dementia by up to 30%.",
+        "quote": "We're seeing data that shows regular exercise can reduce your risk of dementia by up to 30%.",
+        "importance": "high",
+        "episode_id": "sample002",
+        "episode_title": "E195: The Exercise Neuroscientist: NEW RESEARCH, The Shocking Link Between Exercise And Dementia!",
+        "guest": "Not specified in text"
+      },
+      {
+        "text": "exercise increases blood flow to the brain and releases growth factors like bdnf.",
+        "quote": "When you exercise, you increase blood flow to your brain. You release growth factors like BDNF - brain-derived neurotrophic factor - which is like fertilizer for your brain cells.",
+        "importance": "medium",
+        "episode_id": "sample002",
+        "episode_title": "E195: The Exercise Neuroscientist: NEW RESEARCH, The Shocking Link Between Exercise And Dementia!",
+        "guest": "Not specified in text"
+      },
+      {
+        "text": "exercise promotes neurogenesis in the hippocampus, improving long-term memory.",
+        "quote": "You grow new brain cells in the hippocampus, which is critical for long-term memory.",
+        "importance": "medium",
+        "episode_id": "sample002",
+        "episode_title": "E195: The Exercise Neuroscientist: NEW RESEARCH, The Shocking Link Between Exercise And Dementia!",
+        "guest": "Not specified in text"
+      },
+      {
+        "text": "chronic stress significantly alters brain structure, negatively impacting decision-making and increasing anxiety.",
+        "quote": "Chronic stress literally rewires your brain. It shrinks your hippocampus, it enlarges your amygdala, it makes you more anxious and less capable of making good decisions.",
+        "importance": "high",
+        "episode_id": "sample001",
+        "episode_title": "E203: Mo Gawdat: A WARNING about Stress, Anxiety & Depression! This Is Causing 70% Of Heart Attacks!",
+        "guest": "Not specified"
+      },
+      {
+        "text": "exposure to environmental toxins like plastics and pesticides can disrupt the endocrine system and affect fertility.",
+        "quote": "Plastics, pesticides, endocrine disruptors - they're everywhere.",
+        "importance": "medium",
+        "episode_id": "sample004",
+        "episode_title": "E178: The Fertility Doctor: Top 5 Things Harming Your Fertility & How To Fix Them!",
+        "guest": "Unknown"
+      }
+    ],
+    "guests": [
+      "Not specified",
+      "Unknown",
+      "Not specified in text"
+    ]
+  },
+  {
+    "theme": "Stress Management",
+    "count": 5,
+    "episode_count": 2,
+    "insights": [
+      {
+        "text": "chronic stress significantly alters brain structure, negatively impacting decision-making and increasing anxiety.",
+        "quote": "Chronic stress literally rewires your brain. It shrinks your hippocampus, it enlarges your amygdala, it makes you more anxious and less capable of making good decisions.",
+        "importance": "high",
+        "episode_id": "sample001",
+        "episode_title": "E203: Mo Gawdat: A WARNING about Stress, Anxiety & Depression! This Is Causing 70% Of Heart Attacks!",
+        "guest": "Not specified"
+      },
+      {
+        "text": "recognizing that thoughts are transient and separate from one's core identity is key to managing anxiety.",
+        "quote": "Understand that your thoughts are not you. You are the observer of your thoughts.",
+        "importance": "high",
+        "episode_id": "sample001",
+        "episode_title": "E203: Mo Gawdat: A WARNING about Stress, Anxiety & Depression! This Is Causing 70% Of Heart Attacks!",
+        "guest": "Not specified"
+      },
+      {
+        "text": "focusing on what is within one's control can significantly reduce stress levels.",
+        "quote": "Control what you can control. You can't control the traffic, but you can control when you leave. You can't control other people, but you can control your reactions.",
+        "importance": "high",
+        "episode_id": "sample001",
+        "episode_title": "E203: Mo Gawdat: A WARNING about Stress, Anxiety & Depression! This Is Causing 70% Of Heart Attacks!",
+        "guest": "Not specified"
+      },
+      {
+        "text": "stress is a significant contributor to major health issues.",
+        "quote": "When I look at the data, 70% of heart attacks are stress-related.",
+        "importance": "high",
+        "episode_id": "sample001",
+        "episode_title": "E203: Mo Gawdat: A WARNING about Stress, Anxiety & Depression! This Is Causing 70% Of Heart Attacks!",
+        "guest": "Not specified"
+      },
+      {
+        "text": "chronic stress impairs hormonal balance, ovulation, and sperm production, hindering conception.",
+        "quote": "Chronic stress affects your hormones. It affects ovulation. It affects sperm production.",
+        "importance": "medium",
+        "episode_id": "sample004",
+        "episode_title": "E178: The Fertility Doctor: Top 5 Things Harming Your Fertility & How To Fix Them!",
+        "guest": "Unknown"
+      }
+    ],
+    "guests": [
+      "Not specified",
+      "Unknown"
+    ]
+  },
+  {
+    "theme": "Learning",
+    "count": 3,
+    "episode_count": 2,
+    "insights": [
+      {
+        "text": "exercise increases blood flow to the brain and releases growth factors like bdnf.",
+        "quote": "When you exercise, you increase blood flow to your brain. You release growth factors like BDNF - brain-derived neurotrophic factor - which is like fertilizer for your brain cells.",
+        "importance": "medium",
+        "episode_id": "sample002",
+        "episode_title": "E195: The Exercise Neuroscientist: NEW RESEARCH, The Shocking Link Between Exercise And Dementia!",
+        "guest": "Not specified in text"
+      },
+      {
+        "text": "shifting personal success metrics from finite goals to lasting impact and personal growth is crucial for an infinite mindset.",
+        "quote": "Am I helping people? Am I building something that will outlast me? Am I making decisions today that my future self will be proud of?",
+        "importance": "high",
+        "episode_id": "sample003",
+        "episode_title": "E187: Simon Sinek: The Number One Reason Why You're Not Succeeding | E187",
+        "guest": "Not specified"
+      },
+      {
+        "text": "infinite leaders focus on empowering their team and building a strong environment for collective growth, rather than personal recognition.",
+        "quote": "A finite leader wants to be the smartest person in the room. An infinite leader wants to build the smartest room.",
+        "importance": "medium",
+        "episode_id": "sample003",
+        "episode_title": "E187: Simon Sinek: The Number One Reason Why You're Not Succeeding | E187",
+        "guest": "Not specified"
+      }
+    ],
+    "guests": [
+      "Not specified",
+      "Not specified in text"
+    ]
+  }
+]

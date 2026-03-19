@@ -1,0 +1,64 @@
+{
+  "guest_name": "Unknown",
+  "expertise_area": "Fertility Medicine",
+  "key_insights": [
+    {
+      "insight": "Female fertility declines significantly after age 35, a critical factor in family planning.",
+      "quote": "The biological reality is that female fertility declines significantly after 35.",
+      "importance": "high"
+    },
+    {
+      "insight": "Extremes of weight, both underweight and overweight, negatively impact fertility in both men and women.",
+      "quote": "Both being significantly underweight and significantly overweight can impact fertility.",
+      "importance": "high"
+    },
+    {
+      "insight": "Chronic stress impairs hormonal balance, ovulation, and sperm production, hindering conception.",
+      "quote": "Chronic stress affects your hormones. It affects ovulation. It affects sperm production.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Exposure to environmental toxins like plastics and pesticides can disrupt the endocrine system and affect fertility.",
+      "quote": "Plastics, pesticides, endocrine disruptors - they're everywhere.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Early intervention is crucial; seek professional help after one year of trying if under 35, or after six months if over 35.",
+      "quote": "If you're under 35 and haven't conceived after a year of trying, get evaluated. If you're over 35, don't wait more than six months.",
+      "importance": "high"
+    }
+  ],
+  "topics": [
+    "health",
+    "relationships",
+    "habits",
+    "science"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Achieve and maintain a healthy weight to optimize hormone balance and reproductive function.",
+      "how_to": "Aim for a BMI within the healthy range through balanced diet and regular exercise. Even a 5-10% weight loss can make a difference."
+    },
+    {
+      "advice": "Minimize exposure to environmental toxins by making simple swaps in your daily routine.",
+      "how_to": "Use glass containers instead of plastic, buy organic produce when possible (focusing on the \"dirty dozen\"), and filter your drinking water."
+    },
+    {
+      "advice": "Actively manage stress to support hormonal balance and reproductive health.",
+      "how_to": "Prioritize sleep, incorporate stress-reducing activities like meditation or yoga into your routine, and consider professional counseling if needed."
+    },
+    {
+      "advice": "Seek professional evaluation for fertility issues promptly based on age.",
+      "how_to": "Consult a fertility specialist after 12 months of trying to conceive if under 35, or after 6 months if 35 or older."
+    }
+  ],
+  "memorable_stories": [],
+  "contrarian_claims": [
+    "The emphasis that women's ovaries 'didn't get the memo' about modern gender equality, highlighting the biological clock's disregard for societal progress."
+  ],
+  "episode_id": "sample004",
+  "episode_title": "E178: The Fertility Doctor: Top 5 Things Harming Your Fertility & How To Fix Them!",
+  "episode_date": "20230912",
+  "episode_url": "https://www.youtube.com/watch?v=sample004",
+  "processed_at": "2026-03-19T12:45:28"
+}

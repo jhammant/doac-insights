@@ -1,0 +1,154 @@
+{
+  "topic_counts": {
+    "habits": 5,
+    "health": 3,
+    "mindset": 3,
+    "psychology": 2,
+    "science": 2,
+    "productivity": 2,
+    "business": 2,
+    "fitness": 1,
+    "money": 1,
+    "leadership": 1,
+    "relationships": 1
+  },
+  "topic_episodes": {
+    "health": [
+      {
+        "id": "sample002",
+        "title": "E195: The Exercise Neuroscientist: NEW RESEARCH, The Shocking Link Between Exercise And Dementia!",
+        "guest": "Not specified in text"
+      },
+      {
+        "id": "sample001",
+        "title": "E203: Mo Gawdat: A WARNING about Stress, Anxiety & Depression! This Is Causing 70% Of Heart Attacks!",
+        "guest": "Not specified"
+      },
+      {
+        "id": "sample004",
+        "title": "E178: The Fertility Doctor: Top 5 Things Harming Your Fertility & How To Fix Them!",
+        "guest": "Unknown"
+      }
+    ],
+    "psychology": [
+      {
+        "id": "sample002",
+        "title": "E195: The Exercise Neuroscientist: NEW RESEARCH, The Shocking Link Between Exercise And Dementia!",
+        "guest": "Not specified in text"
+      },
+      {
+        "id": "sample001",
+        "title": "E203: Mo Gawdat: A WARNING about Stress, Anxiety & Depression! This Is Causing 70% Of Heart Attacks!",
+        "guest": "Not specified"
+      }
+    ],
+    "fitness": [
+      {
+        "id": "sample002",
+        "title": "E195: The Exercise Neuroscientist: NEW RESEARCH, The Shocking Link Between Exercise And Dementia!",
+        "guest": "Not specified in text"
+      }
+    ],
+    "science": [
+      {
+        "id": "sample002",
+        "title": "E195: The Exercise Neuroscientist: NEW RESEARCH, The Shocking Link Between Exercise And Dementia!",
+        "guest": "Not specified in text"
+      },
+      {
+        "id": "sample004",
+        "title": "E178: The Fertility Doctor: Top 5 Things Harming Your Fertility & How To Fix Them!",
+        "guest": "Unknown"
+      }
+    ],
+    "habits": [
+      {
+        "id": "sample002",
+        "title": "E195: The Exercise Neuroscientist: NEW RESEARCH, The Shocking Link Between Exercise And Dementia!",
+        "guest": "Not specified in text"
+      },
+      {
+        "id": "sample005",
+        "title": "E156: The Financial Expert: How To Get So Rich You Never Have To Work Again!",
+        "guest": "Unknown"
+      },
+      {
+        "id": "sample001",
+        "title": "E203: Mo Gawdat: A WARNING about Stress, Anxiety & Depression! This Is Causing 70% Of Heart Attacks!",
+        "guest": "Not specified"
+      },
+      {
+        "id": "sample003",
+        "title": "E187: Simon Sinek: The Number One Reason Why You're Not Succeeding | E187",
+        "guest": "Not specified"
+      },
+      {
+        "id": "sample004",
+        "title": "E178: The Fertility Doctor: Top 5 Things Harming Your Fertility & How To Fix Them!",
+        "guest": "Unknown"
+      }
+    ],
+    "mindset": [
+      {
+        "id": "sample002",
+        "title": "E195: The Exercise Neuroscientist: NEW RESEARCH, The Shocking Link Between Exercise And Dementia!",
+        "guest": "Not specified in text"
+      },
+      {
+        "id": "sample001",
+        "title": "E203: Mo Gawdat: A WARNING about Stress, Anxiety & Depression! This Is Causing 70% Of Heart Attacks!",
+        "guest": "Not specified"
+      },
+      {
+        "id": "sample003",
+        "title": "E187: Simon Sinek: The Number One Reason Why You're Not Succeeding | E187",
+        "guest": "Not specified"
+      }
+    ],
+    "money": [
+      {
+        "id": "sample005",
+        "title": "E156: The Financial Expert: How To Get So Rich You Never Have To Work Again!",
+        "guest": "Unknown"
+      }
+    ],
+    "productivity": [
+      {
+        "id": "sample005",
+        "title": "E156: The Financial Expert: How To Get So Rich You Never Have To Work Again!",
+        "guest": "Unknown"
+      },
+      {
+        "id": "sample001",
+        "title": "E203: Mo Gawdat: A WARNING about Stress, Anxiety & Depression! This Is Causing 70% Of Heart Attacks!",
+        "guest": "Not specified"
+      }
+    ],
+    "business": [
+      {
+        "id": "sample005",
+        "title": "E156: The Financial Expert: How To Get So Rich You Never Have To Work Again!",
+        "guest": "Unknown"
+      },
+      {
+        "id": "sample003",
+        "title": "E187: Simon Sinek: The Number One Reason Why You're Not Succeeding | E187",
+        "guest": "Not specified"
+      }
+    ],
+    "leadership": [
+      {
+        "id": "sample003",
+        "title": "E187: Simon Sinek: The Number One Reason Why You're Not Succeeding | E187",
+        "guest": "Not specified"
+      }
+    ],
+    "relationships": [
+      {
+        "id": "sample004",
+        "title": "E178: The Fertility Doctor: Top 5 Things Harming Your Fertility & How To Fix Them!",
+        "guest": "Unknown"
+      }
+    ]
+  }
+}

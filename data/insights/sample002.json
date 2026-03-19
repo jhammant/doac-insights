@@ -1,0 +1,63 @@
+{
+  "guest_name": "Not specified in text",
+  "expertise_area": "Neuroscience",
+  "key_insights": [
+    {
+      "insight": "A single workout can immediately improve mood, focus, and attentional flexibility.",
+      "quote": "We have new research showing that a single workout can immediately improve your mood, your focus, and your ability to shift and focus attention.",
+      "importance": "high"
+    },
+    {
+      "insight": "Regular exercise can reduce the risk of dementia by up to 30%.",
+      "quote": "We're seeing data that shows regular exercise can reduce your risk of dementia by up to 30%.",
+      "importance": "high"
+    },
+    {
+      "insight": "Exercise increases blood flow to the brain and releases growth factors like BDNF.",
+      "quote": "When you exercise, you increase blood flow to your brain. You release growth factors like BDNF - brain-derived neurotrophic factor - which is like fertilizer for your brain cells.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Exercise promotes neurogenesis in the hippocampus, improving long-term memory.",
+      "quote": "You grow new brain cells in the hippocampus, which is critical for long-term memory.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Exercise strengthens the prefrontal cortex, enhancing decision-making and focus.",
+      "quote": "You strengthen the prefrontal cortex, which helps with decision making and focus.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Exercise can be as effective as antidepressants for mild to moderate depression.",
+      "quote": "We're seeing that exercise can be as effective as antidepressants for mild to moderate depression.",
+      "importance": "high"
+    }
+  ],
+  "topics": [
+    "health",
+    "psychology",
+    "fitness",
+    "science",
+    "habits",
+    "mindset"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Engage in at least 30 minutes of aerobic exercise three to four times a week.",
+      "how_to": "Choose activities like walking, dancing, or swimming that elevate your heart rate."
+    },
+    {
+      "advice": "Start with just five minutes of exercise if you're feeling depressed.",
+      "how_to": "Commit to a very short duration to overcome initial resistance, as momentum builds once you begin."
+    }
+  ],
+  "memorable_stories": [],
+  "contrarian_claims": [
+    "Exercise is the most transformative thing you can do for your brain today."
+  ],
+  "episode_id": "sample002",
+  "episode_title": "E195: The Exercise Neuroscientist: NEW RESEARCH, The Shocking Link Between Exercise And Dementia!",
+  "episode_date": "20231208",
+  "episode_url": "https://www.youtube.com/watch?v=sample002",
+  "processed_at": "2026-03-19T12:45:16"
+}

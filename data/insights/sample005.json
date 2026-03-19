@@ -1,0 +1,66 @@
+{
+  "guest_name": "Unknown",
+  "expertise_area": "Personal Finance",
+  "key_insights": [
+    {
+      "insight": "Most mainstream financial advice focuses on cutting back, while true wealth building emphasizes earning more and consistent investing.",
+      "quote": "The advice is always about cutting back, about sacrifice, about denying yourself. But here's what actually makes you rich: earning more and investing consistently.",
+      "importance": "high"
+    },
+    {
+      "insight": "Automating investments ensures consistency and removes emotional barriers to investing.",
+      "quote": "Your investments should happen automatically every month before you even see the money.",
+      "importance": "high"
+    },
+    {
+      "insight": "Focus on large financial wins such as salary negotiation and career choices, rather than obsessing over minor expenses.",
+      "quote": "A $5 latte is not the problem. Not asking for a $10,000 raise is the problem.",
+      "importance": "high"
+    },
+    {
+      "insight": "Investing in low-cost index funds and holding them for the long term is a proven strategy for wealth creation.",
+      "quote": "The data is crystal clear: over long periods, index funds beat actively managed funds 90% of the time after fees.",
+      "importance": "high"
+    },
+    {
+      "insight": "Compounding returns over a long time horizon is key to building substantial wealth.",
+      "quote": "If you invest $500 a month from age 25 to 65 in the stock market averaging 8% returns, you'll have over $1.5 million.",
+      "importance": "high"
+    },
+    {
+      "insight": "Aggressively increasing income early in one's career through job hopping and negotiation is crucial.",
+      "quote": "Earn more aggressively in your 20s and 30s. Job hop if you need to - it's the fastest way to increase your income.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "money",
+    "habits",
+    "productivity",
+    "business"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Automate your investment contributions.",
+      "how_to": "Set up automatic monthly transfers from your checking account to your investment account before you have a chance to spend the money."
+    },
+    {
+      "advice": "Negotiate your salary aggressively when starting a new job or during performance reviews.",
+      "how_to": "Research the market rate for your position and experience level using sites like Glassdoor or Salary.com. Practice your negotiation skills and be prepared to walk away if your needs aren't met."
+    },
+    {
+      "advice": "Invest in diversified index funds.",
+      "how_to": "Open a brokerage account and invest in low-cost index funds that track the S&P 500 or the total stock market. Consider using a robo-advisor to automate the process."
+    }
+  ],
+  "memorable_stories": [],
+  "contrarian_claims": [
+    "Most financial advice is designed to keep people poor and scared.",
+    "Cutting back and sacrifice are not the primary drivers of wealth."
+  ],
+  "episode_id": "sample005",
+  "episode_title": "E156: The Financial Expert: How To Get So Rich You Never Have To Work Again!",
+  "episode_date": "20230628",
+  "episode_url": "https://www.youtube.com/watch?v=sample005",
+  "processed_at": "2026-03-19T12:45:35"
+}

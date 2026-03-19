@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DOAC Insights - Diary of a CEO Knowledge Base</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <h1>🎙️ DOAC Insights</h1>
+            <p class="subtitle">AI-powered analysis of every Diary of a CEO podcast episode</p>
+            <nav class="nav">
+                <a href="#consensus" class="nav-link active" data-view="consensus">Top Insights</a>
+                <a href="#episodes" class="nav-link" data-view="episodes">Episodes</a>
+                <a href="#topics" class="nav-link" data-view="topics">Topics</a>
+                <a href="#contrarian" class="nav-link" data-view="contrarian">Contrarian Corner</a>
+                <a href="#advice" class="nav-link" data-view="advice">Actionable Advice</a>
+            </nav>
+        </header>
+
+        <!-- Search Bar -->
+        <div class="search-container">
+            <input type="text" id="searchInput" class="search-input" placeholder="Search insights, guests, topics...">
+            <button id="searchBtn" class="search-btn">Search</button>
+        </div>
+
+        <!-- Content Views -->
+        <main class="main-content">
+            <!-- Consensus View (Default) -->
+            <div id="consensusView" class="view active">
+                <h2>Top Consensus Insights</h2>
+                <p class="view-description">The most validated learnings shared by multiple guests</p>
+                <div id="consensusList" class="consensus-list"></div>
+            </div>
+
+            <!-- Episodes View -->
+            <div id="episodesView" class="view">
+                <h2>All Episodes</h2>
+                <p class="view-description">Browse all analyzed podcast episodes</p>
+                <div class="filters">
+                    <select id="topicFilter" class="filter-select">
+                        <option value="">All Topics</option>
+                    </select>
+                    <select id="expertiseFilter" class="filter-select">
+                        <option value="">All Expertise</option>
+                    </select>
+                </div>
+                <div id="episodesList" class="episodes-list"></div>
+            </div>
+
+            <!-- Topics View -->
+            <div id="topicsView" class="view">
+                <h2>Topics Explorer</h2>
+                <p class="view-description">Explore insights by category</p>
+                <div id="topicsList" class="topics-list"></div>
+            </div>
+
+            <!-- Contrarian View -->
+            <div id="contrarianView" class="view">
+                <h2>Contrarian Corner</h2>
+                <p class="view-description">Surprising and unconventional viewpoints</p>
+                <div id="contrarianList" class="contrarian-list"></div>
+            </div>
+
+            <!-- Advice View -->
+            <div id="adviceView" class="view">
+                <h2>Actionable Advice</h2>
+                <p class="view-description">Practical recommendations you can implement today</p>
+                <div class="filters">
+                    <select id="adviceTopicFilter" class="filter-select">
+                        <option value="">All Topics</option>
+                    </select>
+                </div>
+                <div id="adviceList" class="advice-list"></div>
+            </div>
+
+            <!-- Search Results View -->
+            <div id="searchView" class="view">
+                <h2>Search Results</h2>
+                <div id="searchResults" class="search-results"></div>
+            </div>
+        </main>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <p>Data sourced from <a href="https://www.youtube.com/@TheDiaryOfACEO" target="_blank">The Diary of a CEO</a> podcast by Steven Bartlett</p>
+            <p>This is an unofficial fan project for educational purposes</p>
+        </footer>
+    </div>
+
+    <!-- Modal for Insight Details -->
+    <div id="insightModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <div id="modalBody"></div>
+        </div>
+    </div>
+
+    <script src="js/app.js"></script>
+</body>
+</html>

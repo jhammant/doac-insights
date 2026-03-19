@@ -1,0 +1,59 @@
+{
+  "guest_name": "Not specified",
+  "expertise_area": "Business Strategy",
+  "key_insights": [
+    {
+      "insight": "Most businesses operate with a finite mindset (trying to win) in an infinite game where there is no true end.",
+      "quote": "Most people are playing finite games in infinite contexts. Business is an infinite game. There's no winning in business. There's no finish line.",
+      "importance": "high"
+    },
+    {
+      "insight": "Adopting an infinite mindset involves focusing on longevity, continuous improvement, and building something lasting rather than short-term wins.",
+      "quote": "When you play with an infinite mindset, everything changes. You're not trying to beat the competition, you're trying to outlast them. You're not trying to be the best, you're trying to be better. You're not focused on short-term wins, you're focused on building something that lasts.",
+      "importance": "high"
+    },
+    {
+      "insight": "Current business culture often reinforces finite thinking through metrics like quarterly earnings and rankings, hindering long-term success.",
+      "quote": "The problem is our entire business culture is built on finite thinking. We celebrate being number one. We give bonuses based on quarterly performance.",
+      "importance": "medium"
+    },
+    {
+      "insight": "Shifting personal success metrics from finite goals to lasting impact and personal growth is crucial for an infinite mindset.",
+      "quote": "Am I helping people? Am I building something that will outlast me? Am I making decisions today that my future self will be proud of?",
+      "importance": "high"
+    },
+    {
+      "insight": "Infinite leaders focus on empowering their team and building a strong environment for collective growth, rather than personal recognition.",
+      "quote": "A finite leader wants to be the smartest person in the room. An infinite leader wants to build the smartest room.",
+      "importance": "medium"
+    }
+  ],
+  "topics": [
+    "business",
+    "leadership",
+    "mindset",
+    "habits"
+  ],
+  "actionable_advice": [
+    {
+      "advice": "Shift from comparing yourself to others to focusing on personal improvement.",
+      "how_to": "Instead of asking \"How can I be the best?\" ask \"How can I be better than I was yesterday?\""
+    },
+    {
+      "advice": "Refocus your efforts on building something valuable instead of defeating competition.",
+      "how_to": "Instead of asking “How do I beat the competition?” ask “How do I build something worth building?”"
+    }
+  ],
+  "memorable_stories": [
+    "The speaker's personal shift from measuring success by finite metrics (book sales, followers) to infinite metrics (helping people, building something lasting)."
+  ],
+  "contrarian_claims": [
+    "The conventional business focus on being 'number one' and prioritizing short-term results is detrimental to long-term success.",
+    "Caring about your legacy is less important than the team you leave behind."
+  ],
+  "episode_id": "sample003",
+  "episode_title": "E187: Simon Sinek: The Number One Reason Why You're Not Succeeding | E187",
+  "episode_date": "20231025",
+  "episode_url": "https://www.youtube.com/watch?v=sample003",
+  "processed_at": "2026-03-19T12:45:22"
+}
