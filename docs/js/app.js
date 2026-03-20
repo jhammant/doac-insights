@@ -1,6 +1,21 @@
 // DOAC Insights Web App
 // Main application logic
 
+// Helper: generate YouTube search link from episode title/guest
+function ytLink(title, guest) {
+    const q = encodeURIComponent((guest || '') + ' diary of a ceo');
+    return `https://www.youtube.com/@TheDiaryOfACEO/search?query=${q}`;
+}
+
+function spotifyLink() {
+    return 'https://open.spotify.com/show/7iQXmUT7XGuZSzAMjoNWlX';
+}
+
+function episodeLinks(title, guest) {
+    const yt = ytLink(title, guest);
+    return `<a href="${yt}" target="_blank" title="Find on YouTube" style="text-decoration:none;">▶️</a> <a href="${spotifyLink()}" target="_blank" title="Spotify" style="text-decoration:none;">🎧</a>`;
+}
+
 class DOACInsights {
     constructor() {
         this.data = {
@@ -225,12 +240,7 @@ class DOACInsights {
                                     ${ex.text ? `<p style="margin-bottom: 8px;">${ex.text}</p>` : ''}
                                     ${ex.quote ? `<div class="quote">"${ex.quote}"</div>` : ''}
                                     <small style="color: var(--text-secondary);">
-                                        — ${ex.guest}
-                                        ${ex.episode_url ? `
-                                            (<a href="${ex.episode_url}" target="_blank" style="color: var(--accent-primary); text-decoration: none;">${ex.episode_title}</a>)
-                                        ` : `
-                                            (${ex.episode_title || ''})
-                                        `}
+                                        — ${ex.guest} ${episodeLinks(ex.episode_title, ex.guest)}
                                     </small>
                                 </div>
                             `).join('')}
@@ -291,15 +301,10 @@ class DOACInsights {
                         </summary>
                         <div style="margin-top: 10px;">
                             ${guest.episodes.map(ep => `
-                                ${ep.url ? `
-                                    <a href="${ep.url}" target="_blank" class="guest-episode-link">
-                                        ${ep.title}
-                                    </a>
-                                ` : `
-                                    <div class="guest-episode-link" style="cursor: default;">
-                                        ${ep.title}
-                                    </div>
-                                `}
+                                <div class="guest-episode-link" style="display:flex; align-items:center; gap:8px;">
+                                    <span style="flex:1;">${ep.title}</span>
+                                    ${episodeLinks(ep.title, guest.name)}
+                                </div>
                             `).join('')}
                         </div>
                     </details>
@@ -317,7 +322,7 @@ class DOACInsights {
 
         container.innerHTML = this.data.episodes.map(episode => `
             <div class="card">
-                <h3 class="card-title">${episode.title}</h3>
+                <h3 class="card-title">${episode.title} ${episodeLinks(episode.title, episode.guest)}</h3>
                 <div class="card-meta">
                     <p><strong>Guest:</strong> ${episode.guest}</p>
                     ${episode.topics && episode.topics.length > 0 ? `
@@ -362,15 +367,9 @@ class DOACInsights {
                     <p style="font-size: 1.1rem; margin-bottom: 15px;">${item.claim}</p>
                     <div class="card-meta">
                         <p><strong>${item.guest}</strong></p>
-                        ${item.episode_url ? `
-                            <p style="font-size: 0.9rem;">
-                                <a href="${item.episode_url}" target="_blank" style="color: var(--accent-primary); text-decoration: none;">
-                                    ${item.episode_title}
-                                </a>
-                            </p>
-                        ` : `
-                            <p style="color: var(--text-secondary); font-size: 0.9rem;">${item.episode_title}</p>
-                        `}
+                                                <p style="color: var(--text-secondary); font-size: 0.9rem;">
+                            ${item.episode_title} ${episodeLinks(item.episode_title, item.guest)}
+                        </p>
                     </div>
                 </div>
             </div>
@@ -411,14 +410,10 @@ class DOACInsights {
                         ` : item.guest ? `
                             <p><strong>${item.guest}</strong></p>
                         ` : ''}
-                        ${item.episode_urls && item.episode_urls.length > 0 && item.episode_urls[0] ? `
+                        ${item.episode_title ? `
                             <p style="font-size: 0.85rem; margin-top: 5px;">
-                                <a href="${item.episode_urls[0]}" target="_blank" style="color: var(--accent-primary); text-decoration: none;">
-                                    View Episode →
-                                </a>
+                                ${item.episode_title} ${episodeLinks(item.episode_title, item.guest)}
                             </p>
-                        ` : item.episode_title ? `
-                            <p style="font-size: 0.85rem;">${item.episode_title}</p>
                         ` : ''}
                         ${item.topics && item.topics.length > 0 ? `
                             <div style="margin-top: 10px;">
@@ -502,15 +497,9 @@ class DOACInsights {
                             ${result.data.quote ? `<div class="quote">"${result.data.quote}"</div>` : ''}
                             <div class="card-meta">
                                 <p><strong>${result.data.guest}</strong></p>
-                                ${result.data.episode_url ? `
-                                    <p style="font-size: 0.85rem;">
-                                        <a href="${result.data.episode_url}" target="_blank" style="color: var(--accent-primary); text-decoration: none;">
-                                            ${result.data.episode_title}
-                                        </a>
+                                                                <p style="font-size: 0.85rem;">
+                                        ${result.data.episode_title} ${episodeLinks(result.data.episode_title, result.data.guest)}
                                     </p>
-                                ` : `
-                                    <p style="font-size: 0.85rem;">${result.data.episode_title}</p>
-                                `}
                             </div>
                         </div>
                     `;
@@ -525,11 +514,9 @@ class DOACInsights {
                                 ` : result.data.guest ? `
                                     <p><strong>${result.data.guest}</strong></p>
                                 ` : ''}
-                                ${result.data.episode_urls && result.data.episode_urls.length > 0 && result.data.episode_urls[0] ? `
+                                ${result.data.episode_title ? `
                                     <p style="font-size: 0.85rem; margin-top: 5px;">
-                                        <a href="${result.data.episode_urls[0]}" target="_blank" style="color: var(--accent-primary); text-decoration: none;">
-                                            View Episode →
-                                        </a>
+                                        ${result.data.episode_title} ${episodeLinks(result.data.episode_title, result.data.guest)}
                                     </p>
                                 ` : ''}
                             </div>
@@ -554,7 +541,7 @@ class DOACInsights {
             <div>
                 ${episodes.map(ep => `
                     <div style="padding: 15px; background: var(--bg-dark); border-radius: 10px; margin-bottom: 15px;">
-                        <p style="font-weight: 600; margin-bottom: 5px;">${ep.title}</p>
+                        <p style="font-weight: 600; margin-bottom: 5px;">${ep.title} ${episodeLinks(ep.title, ep.guest)}</p>
                         <p style="color: var(--text-secondary); font-size: 0.9rem;">Guest: ${ep.guest}</p>
                     </div>
                 `).join('')}
