@@ -201,9 +201,9 @@ class DOACInsights {
             <div class="card">
                 <div class="card-header">
                     <div style="flex: 1;">
-                        <h3 class="card-title">${item.claim}</h3>
+                        <h3 class="card-title">${item.claim || item.theme || 'Untitled'}</h3>
                         <div class="card-meta" style="margin-top: 10px;">
-                            <span class="badge badge-count">${item.guest_count} guest${item.guest_count !== 1 ? 's' : ''} agree</span>
+                            <span class="badge badge-count">${item.guest_count || (item.guests && item.guests.length) || item.count || 0} guest${(item.guest_count || (item.guests && item.guests.length) || item.count || 0) !== 1 ? 's' : ''} agree</span>
                             <span class="badge badge-count">${item.episode_count} episode${item.episode_count !== 1 ? 's' : ''}</span>
                         </div>
                     </div>
@@ -217,18 +217,19 @@ class DOACInsights {
                             ${item.topics.map(topic => `<span class="badge badge-topic">${topic}</span>`).join('')}
                         </div>
                     ` : ''}
-                    ${item.examples && item.examples.length > 0 ? `
+                    ${(item.examples || item.insights || []).length > 0 ? `
                         <div class="insights-preview">
-                            <strong style="color: var(--text-secondary); font-size: 0.9rem;">Examples:</strong>
-                            ${item.examples.slice(0, 3).map(ex => `
+                            <strong style="color: var(--text-secondary); font-size: 0.9rem;">Key Insights:</strong>
+                            ${(item.examples || item.insights || []).slice(0, 3).map(ex => `
                                 <div style="margin-top: 15px; padding: 15px; background: var(--bg-dark); border-radius: 10px;">
+                                    ${ex.text ? `<p style="margin-bottom: 8px;">${ex.text}</p>` : ''}
                                     ${ex.quote ? `<div class="quote">"${ex.quote}"</div>` : ''}
                                     <small style="color: var(--text-secondary);">
                                         — ${ex.guest}
                                         ${ex.episode_url ? `
                                             (<a href="${ex.episode_url}" target="_blank" style="color: var(--accent-primary); text-decoration: none;">${ex.episode_title}</a>)
                                         ` : `
-                                            (${ex.episode_title})
+                                            (${ex.episode_title || ''})
                                         `}
                                     </small>
                                 </div>
