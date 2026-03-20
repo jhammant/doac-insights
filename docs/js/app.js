@@ -236,7 +236,7 @@ class DOACInsights {
                         <div class="insights-preview">
                             <strong style="color: var(--text-secondary); font-size: 0.9rem;">Key Insights:</strong>
                             ${(item.examples || item.insights || []).slice(0, 3).map(ex => `
-                                <div style="margin-top: 15px; padding: 15px; background: var(--bg-dark); border-radius: 10px;">
+                                <div style="margin-top: 15px; padding: 15px; background: var(--bg-hover); border-radius: 10px;">
                                     ${ex.text ? `<p style="margin-bottom: 8px;">${ex.text}</p>` : ''}
                                     ${ex.quote ? `<div class="quote">"${ex.quote}"</div>` : ''}
                                     <small style="color: var(--text-secondary);">
@@ -540,7 +540,7 @@ class DOACInsights {
             </p>
             <div>
                 ${episodes.map(ep => `
-                    <div style="padding: 15px; background: var(--bg-dark); border-radius: 10px; margin-bottom: 15px;">
+                    <div style="padding: 15px; background: var(--bg-hover); border-radius: 10px; margin-bottom: 15px;">
                         <p style="font-weight: 600; margin-bottom: 5px;">${ep.title} ${episodeLinks(ep.title, ep.guest)}</p>
                         <p style="color: var(--text-secondary); font-size: 0.9rem;">Guest: ${ep.guest}</p>
                     </div>
