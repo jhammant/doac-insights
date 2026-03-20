@@ -1,19 +1,25 @@
 // DOAC Insights Web App
 // Main application logic
 
-// Helper: generate YouTube search link from episode title/guest
-function ytLink(title, guest) {
+// Episode URL map (loaded from data)
+let _episodeUrls = {};
+
+async function loadEpisodeUrls() {
+    try {
+        _episodeUrls = await fetch('data/episode_urls.json').then(r => r.json());
+    } catch(e) { console.warn('Could not load episode URLs'); }
+}
+
+function episodeLinks(title, guest, episodeId) {
+    const urls = _episodeUrls[episodeId];
+    if (urls) {
+        const ytIcon = urls.youtube.includes('watch') ? '▶️' : '🔍';
+        const ytTitle = urls.youtube.includes('watch') ? 'Watch on YouTube' : 'Search on YouTube';
+        return `<a href="${urls.youtube}" target="_blank" title="${ytTitle}" style="text-decoration:none;">${ytIcon}</a> <a href="${urls.spotify}" target="_blank" title="Listen on Spotify" style="text-decoration:none;">🎧</a>`;
+    }
+    // Fallback: search by guest name
     const q = encodeURIComponent((guest || '') + ' diary of a ceo');
-    return `https://www.youtube.com/@TheDiaryOfACEO/search?query=${q}`;
-}
-
-function spotifyLink() {
-    return 'https://open.spotify.com/show/7iQXmUT7XGuZSzAMjoNWlX';
-}
-
-function episodeLinks(title, guest) {
-    const yt = ytLink(title, guest);
-    return `<a href="${yt}" target="_blank" title="Find on YouTube" style="text-decoration:none;">▶️</a> <a href="${spotifyLink()}" target="_blank" title="Spotify" style="text-decoration:none;">🎧</a>`;
+    return `<a href="https://www.youtube.com/@TheDiaryOfACEO/search?query=${q}" target="_blank" title="Search on YouTube" style="text-decoration:none;">🔍</a> <a href="https://open.spotify.com/show/7iQXmUT7XGuZSzAMjoNWlX" target="_blank" title="Spotify" style="text-decoration:none;">🎧</a>`;
 }
 
 class DOACInsights {
@@ -32,6 +38,7 @@ class DOACInsights {
     }
 
     async init() {
+        await loadEpisodeUrls();
         await this.loadData();
         this.setupEventListeners();
         this.renderView('consensus');
@@ -240,7 +247,7 @@ class DOACInsights {
                                     ${ex.text ? `<p style="margin-bottom: 8px;">${ex.text}</p>` : ''}
                                     ${ex.quote ? `<div class="quote">"${ex.quote}"</div>` : ''}
                                     <small style="color: var(--text-secondary);">
-                                        — ${ex.guest} ${episodeLinks(ex.episode_title, ex.guest)}
+                                        — ${ex.guest} ${episodeLinks(ex.episode_title, ex.guest, ex.episode_id)}
                                     </small>
                                 </div>
                             `).join('')}
@@ -303,7 +310,7 @@ class DOACInsights {
                             ${guest.episodes.map(ep => `
                                 <div class="guest-episode-link" style="display:flex; align-items:center; gap:8px;">
                                     <span style="flex:1;">${ep.title}</span>
-                                    ${episodeLinks(ep.title, guest.name)}
+                                    ${episodeLinks(ep.title, guest.name, ep.id)}
                                 </div>
                             `).join('')}
                         </div>
@@ -322,7 +329,7 @@ class DOACInsights {
 
         container.innerHTML = this.data.episodes.map(episode => `
             <div class="card">
-                <h3 class="card-title">${episode.title} ${episodeLinks(episode.title, episode.guest)}</h3>
+                <h3 class="card-title">${episode.title} ${episodeLinks(episode.title, episode.guest, episode.id)}</h3>
                 <div class="card-meta">
                     <p><strong>Guest:</strong> ${episode.guest}</p>
                     ${episode.topics && episode.topics.length > 0 ? `
@@ -368,7 +375,7 @@ class DOACInsights {
                     <div class="card-meta">
                         <p><strong>${item.guest}</strong></p>
                                                 <p style="color: var(--text-secondary); font-size: 0.9rem;">
-                            ${item.episode_title} ${episodeLinks(item.episode_title, item.guest)}
+                            ${item.episode_title} ${episodeLinks(item.episode_title, item.guest, item.episode_id)}
                         </p>
                     </div>
                 </div>
@@ -412,7 +419,7 @@ class DOACInsights {
                         ` : ''}
                         ${item.episode_title ? `
                             <p style="font-size: 0.85rem; margin-top: 5px;">
-                                ${item.episode_title} ${episodeLinks(item.episode_title, item.guest)}
+                                ${item.episode_title} ${episodeLinks(item.episode_title, item.guest, item.episode_id)}
                             </p>
                         ` : ''}
                         ${item.topics && item.topics.length > 0 ? `
@@ -498,7 +505,7 @@ class DOACInsights {
                             <div class="card-meta">
                                 <p><strong>${result.data.guest}</strong></p>
                                                                 <p style="font-size: 0.85rem;">
-                                        ${result.data.episode_title} ${episodeLinks(result.data.episode_title, result.data.guest)}
+                                        ${result.data.episode_title} ${episodeLinks(result.data.episode_title, result.data.guest, result.data.episode_id)}
                                     </p>
                             </div>
                         </div>
@@ -516,7 +523,7 @@ class DOACInsights {
                                 ` : ''}
                                 ${result.data.episode_title ? `
                                     <p style="font-size: 0.85rem; margin-top: 5px;">
-                                        ${result.data.episode_title} ${episodeLinks(result.data.episode_title, result.data.guest)}
+                                        ${result.data.episode_title} ${episodeLinks(result.data.episode_title, result.data.guest, result.data.episode_id)}
                                     </p>
                                 ` : ''}
                             </div>
@@ -541,7 +548,7 @@ class DOACInsights {
             <div>
                 ${episodes.map(ep => `
                     <div style="padding: 15px; background: var(--bg-hover); border-radius: 10px; margin-bottom: 15px;">
-                        <p style="font-weight: 600; margin-bottom: 5px;">${ep.title} ${episodeLinks(ep.title, ep.guest)}</p>
+                        <p style="font-weight: 600; margin-bottom: 5px;">${ep.title} ${episodeLinks(ep.title, ep.guest, ep.id)}</p>
                         <p style="color: var(--text-secondary); font-size: 0.9rem;">Guest: ${ep.guest}</p>
                     </div>
                 `).join('')}
