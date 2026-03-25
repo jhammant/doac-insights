@@ -1,5 +1,578 @@
 [
   {
+    "name": "Stephen Bartlett",
+    "episode_count": 20,
+    "episodes": [
+      {
+        "id": "everything-2020-taught-me-part-2",
+        "title": "The Diary Of A CEO with Steven Bartlett - Everything 2020 Taught Me (part 2)",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/everything-2020-taught-me-part-2"
+      },
+      {
+        "id": "e38-a-simple-mindset-secret-less-routine-more-life",
+        "title": "The Diary Of A CEO with Steven Bartlett - E38: A Simple Mindset Secret + Less Routine, More Life",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/e38-a-simple-mindset-secret-less-routine-more-life"
+      },
+      {
+        "id": "5-scientific-rules-for-making-breaking-habits-in-2023",
+        "title": "The Diary Of A CEO with Steven Bartlett - 5 Scientific Rules for Making & Breaking Habits in 2023!",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/5-scientific-rules-for-making-breaking-habits-in-2023"
+      },
+      {
+        "id": "e5-the-battle-with-self-doubt",
+        "title": "The Diary Of A CEO with Steven Bartlett - E5: The Battle With Self Doubt",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/e5-the-battle-with-self-doubt"
+      },
+      {
+        "id": "e23-i-am-a-slave-my-fear-and-therapy",
+        "title": "The Diary Of A CEO with Steven Bartlett - E23: I am a Slave, My Fear and Therapy",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/e23-i-am-a-slave-my-fear-and-therapy"
+      },
+      {
+        "id": "e25-we-are-the-burnout-generation",
+        "title": "The Diary Of A CEO with Steven Bartlett - E25: We are the Burnout Generation",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/e25-we-are-the-burnout-generation"
+      },
+      {
+        "id": "why-were-getting-more-depressed-anxious-and-lonely",
+        "title": "The Diary Of A CEO with Steven Bartlett - Why We're Getting More Depressed, Anxious and Lonely",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/why-were-getting-more-depressed-anxious-and-lonely"
+      },
+      {
+        "id": "e31-entrepreneurialism-is-a-disease",
+        "title": "The Diary Of A CEO with Steven Bartlett - E31: Entrepreneurialism is a Disease",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/e31-entrepreneurialism-is-a-disease"
+      },
+      {
+        "id": "i-tested-positive",
+        "title": "The Diary Of A CEO with Steven Bartlett - I Tested Positive...",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/i-tested-positive"
+      },
+      {
+        "id": "e44-the-lessons-we-must-learn-before-2020",
+        "title": "The Diary Of A CEO with Steven Bartlett - E44: The lessons we MUST learn before 2020.",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/e44-the-lessons-we-must-learn-before-2020"
+      },
+      {
+        "id": "everything-2020-taught-me-part-1",
+        "title": "The Diary Of A CEO with Steven Bartlett - Everything 2020 Taught Me (Part 1)",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/everything-2020-taught-me-part-1"
+      },
+      {
+        "id": "e40-the-day-my-dream-came-true",
+        "title": "The Diary Of A CEO with Steven Bartlett - E40: The Day My Dream Came True",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/e40-the-day-my-dream-came-true"
+      },
+      {
+        "id": "moment-23-why-you-should-embrace-failure-elizabeth-day",
+        "title": "The Diary Of A CEO with Steven Bartlett - Moment 23 - Why You Should Embrace Failure: Elizabeth Day",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-23-why-you-should-embrace-failure-elizabeth-day"
+      },
+      {
+        "id": "how-i-make-12-million-a-year-from-this-podcast",
+        "title": "The Diary Of A CEO with Steven Bartlett - How I Make $1.2 Million A Year From This Podcast",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/how-i-make-12-million-a-year-from-this-podcast"
+      },
+      {
+        "id": "e21-mental-health-mistakes-and-my-apologies",
+        "title": "The Diary Of A CEO with Steven Bartlett - E21: Mental Health, Mistakes and My Apologies",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/e21-mental-health-mistakes-and-my-apologies"
+      },
+      {
+        "id": "e47-the-solution-to-all-of-your-problems",
+        "title": "The Diary Of A CEO with Steven Bartlett - E47: The Solution To All Of Your Problems",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/e47-the-solution-to-all-of-your-problems"
+      },
+      {
+        "id": "e42-heres-how-to-stop-being-your-own-worst-enemy",
+        "title": "The Diary Of A CEO with Steven Bartlett - E42: Here's How To Stop Being Your Own Worst Enemy",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/e42-heres-how-to-stop-being-your-own-worst-enemy"
+      },
+      {
+        "id": "steven-sharess-his-secret-diary-dealing-with-liam-paynes-death-my-big-relationship-issue-these-4-words-saved-me",
+        "title": "The Diary Of A CEO with Steven Bartlett - Steven Shares\u2019s His Secret Diary: Dealing With Liam Payne\u2019s Death, My Big Relationship Issue, These 4 Words Saved Me!",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/steven-sharess-his-secret-diary-dealing-with-liam-paynes-death-my-big-relationship-issue-these-4-words-saved-me"
+      },
+      {
+        "id": "e33-i-made-a-mistake",
+        "title": "The Diary Of A CEO with Steven Bartlett - E33: I Made A Mistake",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/e33-i-made-a-mistake"
+      },
+      {
+        "id": "extremely-honest-qa",
+        "title": "The Diary Of A CEO with Steven Bartlett - Extremely Honest Q&A",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/extremely-honest-qa"
+      }
+    ],
+    "topics": [
+      "business",
+      "communication",
+      "creativity",
+      "fitness",
+      "habits",
+      "health",
+      "leadership",
+      "mindset",
+      "money",
+      "productivity",
+      "psychology",
+      "relationships",
+      "science",
+      "technology"
+    ],
+    "insights_count": 164,
+    "advice_count": 79,
+    "expertise": "Business Strategy"
+  },
+  {
+    "name": "Steven Bartlett",
+    "episode_count": 14,
+    "episodes": [
+      {
+        "id": "the-top-7-belly-fat-burning-hacks-for-2024-that-are-proven-to-work",
+        "title": "The Diary Of A CEO with Steven Bartlett - The Top 7 Belly Fat Burning Hacks For 2024 That Are PROVEN To Work!",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/the-top-7-belly-fat-burning-hacks-for-2024-that-are-proven-to-work"
+      },
+      {
+        "id": "e45-i-have-never-shared-this-before",
+        "title": "The Diary Of A CEO with Steven Bartlett - E45: I Have NEVER Shared This Before.",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/e45-i-have-never-shared-this-before"
+      },
+      {
+        "id": "e36-ambition-motivation-and-imposter-syndrome",
+        "title": "The Diary Of A CEO with Steven Bartlett - E36: Ambition, Motivation and Imposter Syndrome",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/e36-ambition-motivation-and-imposter-syndrome"
+      },
+      {
+        "id": "moment-4-how-i-discovered-a-more-grateful-perspective",
+        "title": "The Diary Of A CEO with Steven Bartlett - Moment 4 - How I Discovered A More Grateful Perspective",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-4-how-i-discovered-a-more-grateful-perspective"
+      },
+      {
+        "id": "e8-advice-from-elon-musk-warren-buffet-and-steve-jobs",
+        "title": "The Diary Of A CEO with Steven Bartlett - E8: Advice from Elon Musk, Warren Buffet and Steve Jobs",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/e8-advice-from-elon-musk-warren-buffet-and-steve-jobs"
+      },
+      {
+        "id": "6-best-pieces-of-business-advice-that-made-me-millions",
+        "title": "The Diary Of A CEO with Steven Bartlett - 6 BEST Pieces Of Business Advice That Made Me Millions",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/6-best-pieces-of-business-advice-that-made-me-millions"
+      },
+      {
+        "id": "e16-i-am-jealous-of-death",
+        "title": "The Diary Of A CEO with Steven Bartlett - E16: I Am Jealous Of Death",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/e16-i-am-jealous-of-death"
+      },
+      {
+        "id": "how-we-built-a-200m-company-at-27-years-old",
+        "title": "The Diary Of A CEO with Steven Bartlett - How We Built A $200m Company At 27 Years Old",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/how-we-built-a-200m-company-at-27-years-old"
+      },
+      {
+        "id": "e2-happiness-meditation-weird-wins",
+        "title": "The Diary Of A CEO with Steven Bartlett - E2: Happiness, Meditation & Weird Wins",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/e2-happiness-meditation-weird-wins"
+      },
+      {
+        "id": "moment-43-the-key-to-overcoming-imposter-syndrome",
+        "title": "The Diary Of A CEO with Steven Bartlett - Moment 43 - The Key To Overcoming Imposter Syndrome",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-43-the-key-to-overcoming-imposter-syndrome"
+      },
+      {
+        "id": "moment-11-the-secret-to-finding-consistent-motivation",
+        "title": "The Diary Of A CEO with Steven Bartlett - Moment 11 - The Secret To Finding Consistent Motivation",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-11-the-secret-to-finding-consistent-motivation"
+      },
+      {
+        "id": "e17-marriage-mental-health-masturbation",
+        "title": "The Diary Of A CEO with Steven Bartlett - E17: Marriage, Mental Health, Masturbation",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/e17-marriage-mental-health-masturbation"
+      },
+      {
+        "id": "the-top-7-money-making-hacks-for-2025-that-are-proven-to-work-do-not-buy-a-house-do-this-instead",
+        "title": "The Diary Of A CEO with Steven Bartlett - The Top 7 Money Making Hacks For 2025 That Are PROVEN To Work! Do Not Buy A House! Do This Instead!",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/the-top-7-money-making-hacks-for-2025-that-are-proven-to-work-do-not-buy-a-house-do-this-instead"
+      },
+      {
+        "id": "e1-sacrifice-worklife-balance-purpose",
+        "title": "The Diary Of A CEO with Steven Bartlett - E1: Sacrifice, Work/Life Balance & Purpose",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/e1-sacrifice-worklife-balance-purpose"
+      }
+    ],
+    "topics": [
+      "business",
+      "communication",
+      "creativity",
+      "finance",
+      "fitness",
+      "habits",
+      "health",
+      "leadership",
+      "mindset",
+      "money",
+      "nutrition",
+      "productivity",
+      "psychology",
+      "relationships",
+      "science",
+      "spirituality",
+      "technology"
+    ],
+    "insights_count": 115,
+    "advice_count": 59,
+    "expertise": "Business Strategy"
+  },
+  {
+    "name": "Not applicable",
+    "episode_count": 11,
+    "episodes": [
+      {
+        "id": "moment-44-ben-francis-knowing-this-will-accelerate-your-business",
+        "title": "The Diary Of A CEO with Steven Bartlett - Moment 44 - Ben Francis: Knowing This Will Accelerate Your Business",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-44-ben-francis-knowing-this-will-accelerate-your-business"
+      },
+      {
+        "id": "moment-76-the-number-one-cause-of-anxiety-today-tom-bilyeu",
+        "title": "The Diary Of A CEO with Steven Bartlett - Moment 76 - The Number One Cause Of Anxiety Today: Tom Bilyeu",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-76-the-number-one-cause-of-anxiety-today-tom-bilyeu"
+      },
+      {
+        "id": "moment-160-menopause-expert-theyre-not-telling-you-the-full-truth-no-ones-talking-about-this-mary-claire-haver",
+        "title": "The Diary Of A CEO with Steven Bartlett - Moment 160: Menopause Expert: They're Not Telling You The Full Truth! \"No Ones Talking About This\": Mary Claire Haver",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-160-menopause-expert-theyre-not-telling-you-the-full-truth-no-ones-talking-about-this-mary-claire-haver"
+      },
+      {
+        "id": "moment-27-how-to-become-the-person-you-want-to-be-prof-steve-peters",
+        "title": "The Diary Of A CEO with Steven Bartlett - Moment 27 - How To Become The Person You Want To Be: Prof. Steve Peters",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-27-how-to-become-the-person-you-want-to-be-prof-steve-peters"
+      },
+      {
+        "id": "moment-90-the-incredible-unexpected-power-of-vulnerability-matthew-hussey",
+        "title": "The Diary Of A CEO with Steven Bartlett - Moment 90 - The Incredible & Unexpected Power Of Vulnerability: Matthew Hussey",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-90-the-incredible-unexpected-power-of-vulnerability-matthew-hussey"
+      },
+      {
+        "id": "moment-13-i-have-a-secret-to-tell-you",
+        "title": "The Diary Of A CEO with Steven Bartlett - Moment 13 - I Have a Secret To Tell You",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-13-i-have-a-secret-to-tell-you"
+      },
+      {
+        "id": "moment-98-the-one-thing-all-successful-leaders-have-and-you-can-too-whitney-wolf-herd",
+        "title": "The Diary Of A CEO with Steven Bartlett - Moment 98 - The One Thing All Successful Leaders Have (And You Can Too!): Whitney Wolf Herd",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-98-the-one-thing-all-successful-leaders-have-and-you-can-too-whitney-wolf-herd"
+      },
+      {
+        "id": "moment-125-the-marketing-professor-the-biggest-business-mistake-youre-probably-making-without-realising-it",
+        "title": "The Diary Of A CEO with Steven Bartlett - Moment 125: The Marketing Professor: The Biggest Business Mistake You\u2019re Probably Making Without Realising It",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-125-the-marketing-professor-the-biggest-business-mistake-youre-probably-making-without-realising-it"
+      },
+      {
+        "id": "moment-176-5-red-flags-of-a-secret-narcissist-the-narcissism-doctor",
+        "title": "The Diary Of A CEO with Steven Bartlett - Moment 176: 5 RED FLAGS Of A Secret Narcissist: The Narcissism Doctor",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-176-5-red-flags-of-a-secret-narcissist-the-narcissism-doctor"
+      },
+      {
+        "id": "moment-53-why-doing-this-is-more-important-than-ever-before-johann-hari",
+        "title": "The Diary Of A CEO with Steven Bartlett - Moment 53 - Why Doing This Is More Important Than Ever Before: Johann Hari",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-53-why-doing-this-is-more-important-than-ever-before-johann-hari"
+      },
+      {
+        "id": "moment-69-people-pleasing-is-hurting-you-lewis-howes",
+        "title": "The Diary Of A CEO with Steven Bartlett - Moment 69 - People Pleasing Is Hurting You: Lewis Howes",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-69-people-pleasing-is-hurting-you-lewis-howes"
+      }
+    ],
+    "topics": [
+      "business",
+      "communication",
+      "habits",
+      "health",
+      "leadership",
+      "marketing",
+      "mindset",
+      "money",
+      "productivity",
+      "psychology",
+      "relationships",
+      "science",
+      "technology"
+    ],
+    "insights_count": 76,
+    "advice_count": 26,
+    "expertise": "Relationships and Personal Development"
+  },
+  {
+    "name": "Not Available",
+    "episode_count": 10,
+    "episodes": [
+      {
+        "id": "moment-151-neuroscientist-reveals-the-3-things-you-need-to-do-for-a-fulfilling-life-tali-sharot",
+        "title": "The Diary Of A CEO with Steven Bartlett - Moment 151: Neuroscientist Reveals The 3 Things You Need To Do For A Fulfilling Life: Tali Sharot",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-151-neuroscientist-reveals-the-3-things-you-need-to-do-for-a-fulfilling-life-tali-sharot"
+      },
+      {
+        "id": "moment-22-how-to-turn-your-ambition-into-action-jamil-qureshi",
+        "title": "The Diary Of A CEO with Steven Bartlett - Moment 22 - How To Turn Your Ambition Into Action: Jamil Qureshi",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-22-how-to-turn-your-ambition-into-action-jamil-qureshi"
+      },
+      {
+        "id": "moment-88-daily-habits-that-everyone-needs-to-hear-will-ahmed",
+        "title": "The Diary Of A CEO with Steven Bartlett - Moment 88 - Daily Habits That Everyone Needs To Hear: Will Ahmed",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-88-daily-habits-that-everyone-needs-to-hear-will-ahmed"
+      },
+      {
+        "id": "moment-38-happiness-is-a-choice-the-controversial-truth-mo-gawdat",
+        "title": "The Diary Of A CEO with Steven Bartlett - Moment 38 - Happiness Is A Choice: The Controversial Truth: Mo Gawdat",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-38-happiness-is-a-choice-the-controversial-truth-mo-gawdat"
+      },
+      {
+        "id": "moment-47-the-power-of-good-communication-nick-jenkins",
+        "title": "The Diary Of A CEO with Steven Bartlett - Moment 47 - The Power of Good Communication: Nick Jenkins",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-47-the-power-of-good-communication-nick-jenkins"
+      },
+      {
+        "id": "most-replayed-moment-can-creatine-offset-sleep-deprivation-is-it-really-the-best-supplement",
+        "title": "The Diary Of A CEO with Steven Bartlett - Most Replayed Moment: Can Creatine Offset Sleep Deprivation? Is It Really The Best Supplement?",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/most-replayed-moment-can-creatine-offset-sleep-deprivation-is-it-really-the-best-supplement"
+      },
+      {
+        "id": "moment-8-julian-hearn-on-how-he-avoided-burnout-whilst-building-huel",
+        "title": "The Diary Of A CEO with Steven Bartlett - Moment 8 - Julian Hearn on How He Avoided Burnout Whilst Building Huel",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-8-julian-hearn-on-how-he-avoided-burnout-whilst-building-huel"
+      },
+      {
+        "id": "moment-93-a-happiness-secret-you-need-to-know-scott-galloway",
+        "title": "The Diary Of A CEO with Steven Bartlett - Moment 93 - A Happiness Secret You Need To Know: Scott Galloway",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-93-a-happiness-secret-you-need-to-know-scott-galloway"
+      },
+      {
+        "id": "moment-28-how-to-overcome-your-limiting-beliefs-anna-hemmings",
+        "title": "The Diary Of A CEO with Steven Bartlett - Moment 28 - How To Overcome Your Limiting Beliefs: Anna Hemmings",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-28-how-to-overcome-your-limiting-beliefs-anna-hemmings"
+      },
+      {
+        "id": "moment-199-5-warning-signs-your-body-needs-more-nutrients-mindy-pelz",
+        "title": "The Diary Of A CEO with Steven Bartlett - Moment 199: 5 Warning Signs Your Body Needs More Nutrients: Mindy Pelz",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-199-5-warning-signs-your-body-needs-more-nutrients-mindy-pelz"
+      }
+    ],
+    "topics": [
+      "business",
+      "communication",
+      "fitness",
+      "habits",
+      "health",
+      "leadership",
+      "mindset",
+      "productivity",
+      "psychology",
+      "relationships",
+      "science",
+      "sleep",
+      "technology"
+    ],
+    "insights_count": 66,
+    "advice_count": 30,
+    "expertise": "Health & Wellness"
+  },
+  {
+    "name": "Not Applicable",
+    "episode_count": 10,
+    "episodes": [
+      {
+        "id": "moment-139-your-inner-voice-is-limiting-you-how-to-control-the-negative-inner-thoughts-mo-gowdat",
+        "title": "The Diary Of A CEO with Steven Bartlett - Moment 139: \"Your Inner Voice Is Limiting You!\" How To Control The Negative Inner Thoughts: Mo Gowdat",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-139-your-inner-voice-is-limiting-you-how-to-control-the-negative-inner-thoughts-mo-gowdat"
+      },
+      {
+        "id": "moment-14-grace-beverley-on-what-it-takes-to-build-a-business",
+        "title": "The Diary Of A CEO with Steven Bartlett - Moment 14 - Grace Beverley On What It Takes To Build A Business",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-14-grace-beverley-on-what-it-takes-to-build-a-business"
+      },
+      {
+        "id": "moment-123-11-extremely-damaging-things-you-need-to-avoid-for-a-healthy-brain-dr-amen",
+        "title": "The Diary Of A CEO with Steven Bartlett - Moment 123: 11 Extremely Damaging Things You NEED To Avoid For A Healthy Brain: Dr Amen",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-123-11-extremely-damaging-things-you-need-to-avoid-for-a-healthy-brain-dr-amen"
+      },
+      {
+        "id": "moment-26-eddie-hearn-dont-forget-what-really-matters",
+        "title": "The Diary Of A CEO with Steven Bartlett - Moment 26 - Eddie Hearn: Don\u2019t Forget What REALLY Matters",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-26-eddie-hearn-dont-forget-what-really-matters"
+      },
+      {
+        "id": "moment-158-what-is-the-best-cheap-coffee-coffee-expert-reveals-in-blind-taste-test-james-hoffman",
+        "title": "The Diary Of A CEO with Steven Bartlett - Moment 158: What is The Best Cheap Coffee? Coffee Expert Reveals In Blind Taste Test: James Hoffman",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-158-what-is-the-best-cheap-coffee-coffee-expert-reveals-in-blind-taste-test-james-hoffman"
+      },
+      {
+        "id": "moment-104-neil-degrasse-tysons-unusual-explanation-for-life-on-earth",
+        "title": "The Diary Of A CEO with Steven Bartlett - Moment 104 - Neil deGrasse Tyson\u2019s Unusual Explanation For Life On Earth",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-104-neil-degrasse-tysons-unusual-explanation-for-life-on-earth"
+      },
+      {
+        "id": "moment-173-the-simple-way-people-make-money-without-working-harder-the-money-making-expert",
+        "title": "The Diary Of A CEO with Steven Bartlett - Moment 173: The SIMPLE Way People Make MONEY Without Working Harder!: The Money Making Expert",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-173-the-simple-way-people-make-money-without-working-harder-the-money-making-expert"
+      },
+      {
+        "id": "life-changing-lessons-from-100-of-the-worlds-greatest-minds",
+        "title": "The Diary Of A CEO with Steven Bartlett - Life Changing Lessons From 100 Of The World\u2019s Greatest Minds",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/life-changing-lessons-from-100-of-the-worlds-greatest-minds"
+      },
+      {
+        "id": "moment-171-stop-doing-this-its-ruining-your-sex-life",
+        "title": "The Diary Of A CEO with Steven Bartlett - Moment 171: STOP DOING THIS! It's Ruining Your Sex Life",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-171-stop-doing-this-its-ruining-your-sex-life"
+      },
+      {
+        "id": "moment-68-do-this-if-you-dont-like-your-job-marcus-buckingham",
+        "title": "The Diary Of A CEO with Steven Bartlett - Moment 68 - Do This If You Don\u2019t Like Your Job: Marcus Buckingham",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-68-do-this-if-you-dont-like-your-job-marcus-buckingham"
+      }
+    ],
+    "topics": [
+      "business",
+      "communication",
+      "habits",
+      "health",
+      "leadership",
+      "mindset",
+      "money",
+      "productivity",
+      "psychology",
+      "relationships",
+      "science"
+    ],
+    "insights_count": 69,
+    "advice_count": 33,
+    "expertise": "Career Development"
+  },
+  {
+    "name": "Not provided",
+    "episode_count": 8,
+    "episodes": [
+      {
+        "id": "moment-116-the-one-type-of-trauma-you-cannot-heal-from-professor-steven-peters",
+        "title": "The Diary Of A CEO with Steven Bartlett - Moment 116 - The ONE Type Of Trauma You Cannot Heal From: Professor Steven Peters",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-116-the-one-type-of-trauma-you-cannot-heal-from-professor-steven-peters"
+      },
+      {
+        "id": "most-replayed-moment-this-diet-could-fix-your-mental-health-dr-georgia-ede",
+        "title": "The Diary Of A CEO with Steven Bartlett - Most Replayed Moment: This Diet Could Fix Your Mental Health! - Dr Georgia Ede",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/most-replayed-moment-this-diet-could-fix-your-mental-health-dr-georgia-ede"
+      },
+      {
+        "id": "moment-82-michael-jordan-kobe-bryant-always-won-because-of-this-tim-grover",
+        "title": "The Diary Of A CEO with Steven Bartlett - Moment 82 - Michael Jordan & Kobe Bryant ALWAYS Won Because Of This: Tim Grover",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-82-michael-jordan-kobe-bryant-always-won-because-of-this-tim-grover"
+      },
+      {
+        "id": "moment-153-happiness-engineer-explains-the-exact-formula-for-happiness-mo-gowdat",
+        "title": "The Diary Of A CEO with Steven Bartlett - Moment 153: Happiness Engineer Explains The Exact Formula For Happiness: Mo Gowdat",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-153-happiness-engineer-explains-the-exact-formula-for-happiness-mo-gowdat"
+      },
+      {
+        "id": "moment-81-malcolm-gladwell-what-you-thought-about-happiness-and-fulfilment-is-wrong",
+        "title": "The Diary Of A CEO with Steven Bartlett -  Moment 81 - Malcolm Gladwell: What You Thought About Happiness and Fulfilment is Wrong",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-81-malcolm-gladwell-what-you-thought-about-happiness-and-fulfilment-is-wrong"
+      },
+      {
+        "id": "moment-31-how-to-instantly-improve-your-creativity-bruce-daisley",
+        "title": "The Diary Of A CEO with Steven Bartlett - Moment 31 - How To Instantly Improve Your Creativity: Bruce Daisley",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-31-how-to-instantly-improve-your-creativity-bruce-daisley"
+      },
+      {
+        "id": "most-replayed-moment-why-does-commitment-feel-so-scary-how-to-build-a-strong-lasting-relationship",
+        "title": "The Diary Of A CEO with Steven Bartlett - Most Replayed Moment: Why Does Commitment Feel So Scary? How to Build a Strong, Lasting Relationship",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/most-replayed-moment-why-does-commitment-feel-so-scary-how-to-build-a-strong-lasting-relationship"
+      },
+      {
+        "id": "moment-168-stop-doing-this-its-killing-your-sleep-the-fitness-scientist",
+        "title": "The Diary Of A CEO with Steven Bartlett - Moment 168: STOP Doing THIS! It's Killing Your Sleep!: The Fitness Scientist",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-168-stop-doing-this-its-killing-your-sleep-the-fitness-scientist"
+      }
+    ],
+    "topics": [
+      "business",
+      "communication",
+      "creativity",
+      "habits",
+      "health",
+      "leadership",
+      "mindset",
+      "productivity",
+      "psychology",
+      "relationships",
+      "science"
+    ],
+    "insights_count": 55,
+    "advice_count": 26,
+    "expertise": "Circadian Biology"
+  },
+  {
+    "name": "Steve Bartlett",
+    "episode_count": 8,
+    "episodes": [
+      {
+        "id": "e9-social-media-is-destroying-our-society",
+        "title": "The Diary Of A CEO with Steven Bartlett - E9: Social Media Is Destroying Our Society",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/e9-social-media-is-destroying-our-society"
+      },
+      {
+        "id": "e4-this-podcast-has-been-getting-me-in-trouble",
+        "title": "The Diary Of A CEO with Steven Bartlett - E4: This Podcast Has Been Getting Me In Trouble..",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/e4-this-podcast-has-been-getting-me-in-trouble"
+      },
+      {
+        "id": "moment-65-jimmy-carr-on-knowing-youre-enough",
+        "title": "The Diary Of A CEO with Steven Bartlett - Moment 65 - Jimmy Carr On Knowing You're Enough",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-65-jimmy-carr-on-knowing-youre-enough"
+      },
+      {
+        "id": "e3-relationships-being-an-entrepreneur-is-an-illness-cryptocurrency",
+        "title": "The Diary Of A CEO with Steven Bartlett - E3: Relationships, Being An Entrepreneur Is An Illness & Cryptocurrency",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/e3-relationships-being-an-entrepreneur-is-an-illness-cryptocurrency"
+      },
+      {
+        "id": "e11-i-have-a-huge-announcement-to-make",
+        "title": "The Diary Of A CEO with Steven Bartlett - E11: I have a huge announcement to make...",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/e11-i-have-a-huge-announcement-to-make"
+      },
+      {
+        "id": "e27-adopt-a-culture-of-winning",
+        "title": "The Diary Of A CEO with Steven Bartlett - E27: Adopt a culture of WINNING",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/e27-adopt-a-culture-of-winning"
+      },
+      {
+        "id": "e29-build-sandcastles-out-of-bullsht",
+        "title": "The Diary Of A CEO with Steven Bartlett - E29: Build Sandcastles out of Bullsh*t",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/e29-build-sandcastles-out-of-bullsht"
+      },
+      {
+        "id": "e13-why-were-all-fcked-up",
+        "title": "The Diary Of A CEO with Steven Bartlett - E13: Why We're All F*cked Up",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/e13-why-were-all-fcked-up"
+      }
+    ],
+    "topics": [
+      "business",
+      "communication",
+      "fitness",
+      "habits",
+      "health",
+      "leadership",
+      "mindset",
+      "money",
+      "productivity",
+      "psychology",
+      "relationships",
+      "technology"
+    ],
+    "insights_count": 65,
+    "advice_count": 34,
+    "expertise": "Business Strategy"
+  },
+  {
     "name": "Simon Sinek",
     "episode_count": 8,
     "episodes": [
@@ -124,6 +697,63 @@
     "expertise": "Business Strategy"
   },
   {
+    "name": "Not available",
+    "episode_count": 7,
+    "episodes": [
+      {
+        "id": "most-replayed-moment-simple-breathing-techniques-to-reduce-stress-fast-james-nestor",
+        "title": "The Diary Of A CEO with Steven Bartlett - Most Replayed Moment: Simple Breathing Techniques To Reduce Stress Fast! - James Nestor",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/most-replayed-moment-simple-breathing-techniques-to-reduce-stress-fast-james-nestor"
+      },
+      {
+        "id": "moment-186-why-you-have-no-friends-simon-sinek",
+        "title": "The Diary Of A CEO with Steven Bartlett - Moment 186: Why You Have No Friends: Simon Sinek",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-186-why-you-have-no-friends-simon-sinek"
+      },
+      {
+        "id": "moment-183-the-warning-signs-your-body-needs-more-nutrients-dr-mindy-pelz",
+        "title": "The Diary Of A CEO with Steven Bartlett - Moment 183: The Warning Signs Your Body Needs More Nutrients: Dr Mindy Pelz",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-183-the-warning-signs-your-body-needs-more-nutrients-dr-mindy-pelz"
+      },
+      {
+        "id": "moment-20-jim-chapman-on-how-he-overcame-his-failure-anxiety",
+        "title": "The Diary Of A CEO with Steven Bartlett - Moment 20 - Jim Chapman on How He Overcame His Failure Anxiety",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-20-jim-chapman-on-how-he-overcame-his-failure-anxiety"
+      },
+      {
+        "id": "moment-143-this-is-why-you-cant-lose-weight-daniel-lieberman",
+        "title": "The Diary Of A CEO with Steven Bartlett - Moment 143: This Is Why You Can't Lose Weight: Daniel Lieberman",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-143-this-is-why-you-cant-lose-weight-daniel-lieberman"
+      },
+      {
+        "id": "moment-35-why-youre-not-a-failure-elizabeth-day",
+        "title": "The Diary Of A CEO with Steven Bartlett - Moment 35 - Why You\u2019re (Not) A Failure: Elizabeth Day",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-35-why-youre-not-a-failure-elizabeth-day"
+      },
+      {
+        "id": "most-replayed-moment-buddhist-monk-reveals-how-to-break-free-from-pain-and-anger",
+        "title": "The Diary Of A CEO with Steven Bartlett - Most Replayed Moment: Buddhist Monk Reveals How To Break Free From Pain and Anger!",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/most-replayed-moment-buddhist-monk-reveals-how-to-break-free-from-pain-and-anger"
+      }
+    ],
+    "topics": [
+      "communication",
+      "fitness",
+      "habits",
+      "health",
+      "mindset",
+      "productivity",
+      "psychology",
+      "relationships",
+      "science",
+      "spirituality",
+      "technology"
+    ],
+    "insights_count": 45,
+    "advice_count": 24,
+    "expertise": "Buddhism, Meditation"
+  },
+  {
     "name": "Scott Galloway",
     "episode_count": 6,
     "episodes": [
@@ -228,6 +858,59 @@
     "insights_count": 53,
     "advice_count": 21,
     "expertise": "Strategy and Human Behavior"
+  },
+  {
+    "name": "Most Replayed Moment",
+    "episode_count": 6,
+    "episodes": [
+      {
+        "id": "most-replayed-moment-the-truth-behind-healthy-food-labels-dr-chris-van-tulleken",
+        "title": "The Diary Of A CEO with Steven Bartlett - Most Replayed Moment: The Truth Behind \"Healthy\" Food Labels - Dr. Chris Van Tulleken",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/most-replayed-moment-the-truth-behind-healthy-food-labels-dr-chris-van-tulleken"
+      },
+      {
+        "id": "most-replayed-moment-are-your-household-and-beauty-products-secretly-toxic-dr-yvonne-burkart",
+        "title": "The Diary Of A CEO with Steven Bartlett - Most Replayed Moment: Are Your Household And Beauty Products Secretly Toxic? Dr Yvonne Burkart",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/most-replayed-moment-are-your-household-and-beauty-products-secretly-toxic-dr-yvonne-burkart"
+      },
+      {
+        "id": "most-replayed-moment-anxiety-is-just-a-prediction-rewrite-old-stories-and-build-emotional-safety",
+        "title": "The Diary Of A CEO with Steven Bartlett - Most Replayed Moment: Anxiety Is Just A Prediction! Rewrite Old Stories and Build Emotional Safety",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/most-replayed-moment-anxiety-is-just-a-prediction-rewrite-old-stories-and-build-emotional-safety"
+      },
+      {
+        "id": "most-replayed-moment-no1-eye-doctor-reveals-the-truth-about-dark-circles-diet-and-blue-light",
+        "title": "The Diary Of A CEO with Steven Bartlett - Most Replayed Moment: No.1 Eye Doctor Reveals The Truth About Dark Circles, Diet and Blue Light!",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/most-replayed-moment-no1-eye-doctor-reveals-the-truth-about-dark-circles-diet-and-blue-light"
+      },
+      {
+        "id": "most-replayed-moment-instantly-calm-your-anxiety-dr-martha-beck",
+        "title": "The Diary Of A CEO with Steven Bartlett - Most Replayed Moment: Instantly Calm Your Anxiety -  Dr. Martha Beck",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/most-replayed-moment-instantly-calm-your-anxiety-dr-martha-beck"
+      },
+      {
+        "id": "most-replayed-moment-tim-dillons-brutal-truth-about-genz",
+        "title": "The Diary Of A CEO with Steven Bartlett - Most Replayed Moment: Tim Dillon\u2019s Brutal Truth About Gen\u2011Z",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/most-replayed-moment-tim-dillons-brutal-truth-about-genz"
+      }
+    ],
+    "topics": [
+      "business",
+      "communication",
+      "creativity",
+      "fitness",
+      "habits",
+      "health",
+      "mindset",
+      "money",
+      "psychology",
+      "relationships",
+      "science",
+      "technology"
+    ],
+    "insights_count": 46,
+    "advice_count": 20,
+    "expertise": "Culture Commentary"
   },
   {
     "name": "Jay Shetty",
@@ -738,6 +1421,41 @@
     "insights_count": 22,
     "advice_count": 11,
     "expertise": "Trauma and Addiction"
+  },
+  {
+    "name": "Unavailable",
+    "episode_count": 3,
+    "episodes": [
+      {
+        "id": "moment-36-how-to-create-great-ideas-marcia-kilgore",
+        "title": "The Diary Of A CEO with Steven Bartlett - Moment 36 - How To Create Great Ideas: Marcia Kilgore",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-36-how-to-create-great-ideas-marcia-kilgore"
+      },
+      {
+        "id": "moment-34-the-key-to-finding-true-love-ali-abdaal",
+        "title": "The Diary Of A CEO with Steven Bartlett - Moment 34 - The Key To Finding True Love: Ali Abdaal",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-34-the-key-to-finding-true-love-ali-abdaal"
+      },
+      {
+        "id": "moment-40-the-solution-to-all-of-your-problems",
+        "title": "The Diary Of A CEO with Steven Bartlett - Moment 40 - The Solution To All Of Your Problems",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-40-the-solution-to-all-of-your-problems"
+      }
+    ],
+    "topics": [
+      "business",
+      "creativity",
+      "fitness",
+      "habits",
+      "health",
+      "leadership",
+      "mindset",
+      "psychology",
+      "relationships"
+    ],
+    "insights_count": 19,
+    "advice_count": 8,
+    "expertise": "Mindset"
   },
   {
     "name": "Greg Hoffman",
@@ -4784,25 +5502,6 @@
     "expertise": "Psychiatry and Computational Neuroscience"
   },
   {
-    "name": "Rochelle (Unclear last name)",
-    "episode_count": 1,
-    "episodes": [
-      {
-        "id": "moment-54-how-you-should-make-every-big-decision-rochelle-humes",
-        "title": "The Diary Of A CEO with Steven Bartlett - Moment 54 - How You Should Make Every Big Decision: Rochelle Humes",
-        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-54-how-you-should-make-every-big-decision-rochelle-humes"
-      }
-    ],
-    "topics": [
-      "business",
-      "leadership",
-      "mindset"
-    ],
-    "insights_count": 4,
-    "advice_count": 2,
-    "expertise": "Leadership"
-  },
-  {
     "name": "Roaul Pal, Humphrey Yang, Jaspreet Singh",
     "episode_count": 1,
     "episodes": [
@@ -7972,29 +8671,6 @@
     "expertise": "Buddhist Monk"
   },
   {
-    "name": "Unclear, multiple speakers",
-    "episode_count": 1,
-    "episodes": [
-      {
-        "id": "moment-190-everything-you-definitely-dont-know-about-marketing-but-should-from-4-world-leading-experts",
-        "title": "The Diary Of A CEO with Steven Bartlett - Moment 190: Everything You Definitely Don\u2019t Know About Marketing (But Should), From 4 World Leading Experts!",
-        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-190-everything-you-definitely-dont-know-about-marketing-but-should-from-4-world-leading-experts"
-      }
-    ],
-    "topics": [
-      "advertising",
-      "branding",
-      "business",
-      "communication",
-      "marketing",
-      "mindset",
-      "technology"
-    ],
-    "insights_count": 8,
-    "advice_count": 4,
-    "expertise": "Marketing and Branding"
-  },
-  {
     "name": "Konstantin Kisin",
     "episode_count": 1,
     "episodes": [
@@ -10909,6 +11585,26 @@
     "expertise": "Therapy"
   },
   {
+    "name": "Not applicable, the speaker is the host discussing their own work",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "moment-2-nir-eyal-on-how-to-stop-procrastinating",
+        "title": "The Diary Of A CEO with Steven Bartlett - Moment 2 - Nir Eyal On How To Stop Procrastinating",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-2-nir-eyal-on-how-to-stop-procrastinating"
+      }
+    ],
+    "topics": [
+      "habits",
+      "mindset",
+      "productivity",
+      "psychology"
+    ],
+    "insights_count": 6,
+    "advice_count": 2,
+    "expertise": "Productivity, Behavioral Psychology"
+  },
+  {
     "name": "Stephen",
     "episode_count": 1,
     "episodes": [
@@ -12819,12 +13515,17 @@
   },
   {
     "name": "Rochelle Humes",
-    "episode_count": 1,
+    "episode_count": 2,
     "episodes": [
       {
         "id": "rochelle-humes-learning-to-be-at-peace-with-uncertainty",
         "title": "The Diary Of A CEO with Steven Bartlett - Rochelle Humes: Learning To Be At Peace With Uncertainty",
         "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/rochelle-humes-learning-to-be-at-peace-with-uncertainty"
+      },
+      {
+        "id": "moment-54-how-you-should-make-every-big-decision-rochelle-humes",
+        "title": "The Diary Of A CEO with Steven Bartlett - Moment 54 - How You Should Make Every Big Decision: Rochelle Humes",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-54-how-you-should-make-every-big-decision-rochelle-humes"
       }
     ],
     "topics": [
@@ -13195,5 +13896,100 @@
     "insights_count": 8,
     "advice_count": 2,
     "expertise": "Astrophysics"
+  },
+  {
+    "name": "Tracey Cox",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "moment-128-how-to-fix-your-sexless-relationship-tracey-cox",
+        "title": "The Diary Of A CEO with Steven Bartlett - Moment 128: How To Fix Your Sexless Relationship: Tracey Cox",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-128-how-to-fix-your-sexless-relationship-tracey-cox"
+      }
+    ],
+    "expertise": "Health & Nutrition",
+    "insights_count": 21,
+    "advice_count": 7,
+    "topics": [
+      "communication",
+      "fitness",
+      "habits",
+      "health",
+      "mindset",
+      "psychology",
+      "relationships",
+      "science"
+    ]
+  },
+  {
+    "name": "Bessel Van Der Kolk",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "most-replayed-moment-can-eye-movements-heal-trauma-bessel-van-der-kolk-explains-emdr-therapy",
+        "title": "The Diary Of A CEO with Steven Bartlett - Most Replayed Moment: Can Eye Movements Heal Trauma? Bessel Van Der Kolk Explains EMDR Therapy!",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/most-replayed-moment-can-eye-movements-heal-trauma-bessel-van-der-kolk-explains-emdr-therapy"
+      }
+    ],
+    "expertise": "Health & Nutrition",
+    "insights_count": 21,
+    "advice_count": 7,
+    "topics": [
+      "communication",
+      "fitness",
+      "habits",
+      "health",
+      "mindset",
+      "psychology",
+      "relationships",
+      "science"
+    ]
+  },
+  {
+    "name": "Dr. Jason Fung",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "most-replayed-moment-calories-in-calories-out-is-a-myth-why-most-diets-fail-dr-jason-fung",
+        "title": "The Diary Of A CEO with Steven Bartlett - Most Replayed Moment: Calories In, Calories Out Is A Myth! Why Most Diets Fail - Dr. Jason Fung",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/most-replayed-moment-calories-in-calories-out-is-a-myth-why-most-diets-fail-dr-jason-fung"
+      }
+    ],
+    "expertise": "Health & Nutrition",
+    "insights_count": 21,
+    "advice_count": 7,
+    "topics": [
+      "communication",
+      "fitness",
+      "habits",
+      "health",
+      "mindset",
+      "psychology",
+      "relationships",
+      "science"
+    ]
+  },
+  {
+    "name": "Multiple Experts (Panel)",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "moment-190-everything-you-definitely-dont-know-about-marketing-but-should-from-4-world-leading-experts",
+        "title": "The Diary Of A CEO with Steven Bartlett - Moment 190: Everything You Definitely Don\u2019t Know About Marketing (But Should), From 4 World Leading Experts!",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-190-everything-you-definitely-dont-know-about-marketing-but-should-from-4-world-leading-experts"
+      }
+    ],
+    "expertise": "Marketing and Branding",
+    "insights_count": 8,
+    "advice_count": 4,
+    "topics": [
+      "advertising",
+      "branding",
+      "business",
+      "communication",
+      "marketing",
+      "mindset",
+      "technology"
+    ]
   }
 ]

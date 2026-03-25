@@ -4,8 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>DOAC Insights - Diary of a CEO Knowledge Base</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;0,700;1,400&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/styles.css">
 <script>new Image().src='https://echo.ai.hammant.io/t.gif?s=doac-insights&p='+encodeURIComponent(location.pathname+location.search)+'&r='+encodeURIComponent(document.referrer)+'&t='+Date.now();</script>
 </head>
@@ -13,8 +11,8 @@
     <div class="container">
         <!-- Header -->
         <header class="header">
-            <h1>🎙️ DOAC <span>Insights</span></h1>
-            <p class="subtitle">What 500+ world-class guests agree on — distilled from every episode</p>
+            <h1>🎙️ DOAC Insights</h1>
+            <p class="subtitle">AI-powered analysis of every Diary of a CEO podcast episode</p>
             <nav class="nav">
                 <a href="#consensus" class="nav-link active" data-view="consensus">Top Insights</a>
                 <a href="#guests" class="nav-link" data-view="guests">Guests</a>
@@ -24,6 +22,14 @@
                 <a href="#advice" class="nav-link" data-view="advice">Actionable Advice</a>
             </nav>
         </header>
+
+        <!-- Quote of the Day -->
+        <div class="quote-of-the-day" id="quoteOfTheDay">
+            <div class="qotd-icon">💬</div>
+            <blockquote class="qotd-text" id="qotdText"></blockquote>
+            <div class="qotd-attribution" id="qotdAttribution"></div>
+            <button class="qotd-refresh" id="qotdRefresh" title="New quote">↻</button>
+        </div>
 
         <!-- Stats Header -->
         <div class="stats-header" id="statsHeader">
@@ -68,9 +74,14 @@
                     <select id="guestExpertiseFilter" class="filter-select">
                         <option value="">All Expertise Areas</option>
                     </select>
-                    <input type="text" id="guestSearch" class="search-input" placeholder="Search guests..." style="margin-left: 10px; max-width: 300px;">
+                    <input type="text" id="guestSearch" class="search-input filter-search" placeholder="Search guests...">
                 </div>
-                <div id="guestsList" class="guests-list"></div>
+                <div id="guestsList" class="guests-grid"></div>
+            </div>
+
+            <!-- Guest Profile View -->
+            <div id="guestProfileView" class="view">
+                <div id="guestProfileContent"></div>
             </div>
 
             <!-- Episodes View -->
@@ -124,7 +135,7 @@
         <!-- Footer -->
         <footer class="footer">
             <p>Data sourced from <a href="https://www.youtube.com/@TheDiaryOfACEO" target="_blank">The Diary of a CEO</a> podcast by Steven Bartlett</p>
-            <p>Not affiliated with, endorsed by, or connected to The Diary of a CEO, Steven Bartlett, or Flight Story. This is an independent fan project for educational and commentary purposes only.</p>
+            <p>This is an unofficial fan project for educational purposes</p>
         </footer>
     </div>
 

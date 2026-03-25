@@ -23,6 +23,14 @@
             </nav>
         </header>
 
+        <!-- Quote of the Day -->
+        <div class="quote-of-the-day" id="quoteOfTheDay">
+            <div class="qotd-icon">💬</div>
+            <blockquote class="qotd-text" id="qotdText"></blockquote>
+            <div class="qotd-attribution" id="qotdAttribution"></div>
+            <button class="qotd-refresh" id="qotdRefresh" title="New quote">↻</button>
+        </div>
+
         <!-- Stats Header -->
         <div class="stats-header" id="statsHeader">
             <div class="stat-card">
@@ -66,9 +74,14 @@
                     <select id="guestExpertiseFilter" class="filter-select">
                         <option value="">All Expertise Areas</option>
                     </select>
-                    <input type="text" id="guestSearch" class="search-input" placeholder="Search guests..." style="margin-left: 10px; max-width: 300px;">
+                    <input type="text" id="guestSearch" class="search-input filter-search" placeholder="Search guests...">
                 </div>
-                <div id="guestsList" class="guests-list"></div>
+                <div id="guestsList" class="guests-grid"></div>
+            </div>
+
+            <!-- Guest Profile View -->
+            <div id="guestProfileView" class="view">
+                <div id="guestProfileContent"></div>
             </div>
 
             <!-- Episodes View -->

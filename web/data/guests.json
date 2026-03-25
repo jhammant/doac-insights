@@ -1385,40 +1385,6 @@
     "expertise": "Relationships"
   },
   {
-    "name": "Unspecified",
-    "episode_count": 3,
-    "episodes": [
-      {
-        "id": "moment-128-how-to-fix-your-sexless-relationship-tracey-cox",
-        "title": "The Diary Of A CEO with Steven Bartlett - Moment 128: How To Fix Your Sexless Relationship: Tracey Cox",
-        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-128-how-to-fix-your-sexless-relationship-tracey-cox"
-      },
-      {
-        "id": "most-replayed-moment-can-eye-movements-heal-trauma-bessel-van-der-kolk-explains-emdr-therapy",
-        "title": "The Diary Of A CEO with Steven Bartlett - Most Replayed Moment: Can Eye Movements Heal Trauma? Bessel Van Der Kolk Explains EMDR Therapy!",
-        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/most-replayed-moment-can-eye-movements-heal-trauma-bessel-van-der-kolk-explains-emdr-therapy"
-      },
-      {
-        "id": "most-replayed-moment-calories-in-calories-out-is-a-myth-why-most-diets-fail-dr-jason-fung",
-        "title": "The Diary Of A CEO with Steven Bartlett - Most Replayed Moment: Calories In, Calories Out Is A Myth! Why Most Diets Fail - Dr. Jason Fung",
-        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/most-replayed-moment-calories-in-calories-out-is-a-myth-why-most-diets-fail-dr-jason-fung"
-      }
-    ],
-    "topics": [
-      "communication",
-      "fitness",
-      "habits",
-      "health",
-      "mindset",
-      "psychology",
-      "relationships",
-      "science"
-    ],
-    "insights_count": 21,
-    "advice_count": 7,
-    "expertise": "Health & Nutrition"
-  },
-  {
     "name": "Gabor Mat\u00e9",
     "episode_count": 3,
     "episodes": [
@@ -5536,25 +5502,6 @@
     "expertise": "Psychiatry and Computational Neuroscience"
   },
   {
-    "name": "Rochelle (Unclear last name)",
-    "episode_count": 1,
-    "episodes": [
-      {
-        "id": "moment-54-how-you-should-make-every-big-decision-rochelle-humes",
-        "title": "The Diary Of A CEO with Steven Bartlett - Moment 54 - How You Should Make Every Big Decision: Rochelle Humes",
-        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-54-how-you-should-make-every-big-decision-rochelle-humes"
-      }
-    ],
-    "topics": [
-      "business",
-      "leadership",
-      "mindset"
-    ],
-    "insights_count": 4,
-    "advice_count": 2,
-    "expertise": "Leadership"
-  },
-  {
     "name": "Roaul Pal, Humphrey Yang, Jaspreet Singh",
     "episode_count": 1,
     "episodes": [
@@ -8722,29 +8669,6 @@
     "insights_count": 8,
     "advice_count": 4,
     "expertise": "Buddhist Monk"
-  },
-  {
-    "name": "Unclear, multiple speakers",
-    "episode_count": 1,
-    "episodes": [
-      {
-        "id": "moment-190-everything-you-definitely-dont-know-about-marketing-but-should-from-4-world-leading-experts",
-        "title": "The Diary Of A CEO with Steven Bartlett - Moment 190: Everything You Definitely Don\u2019t Know About Marketing (But Should), From 4 World Leading Experts!",
-        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-190-everything-you-definitely-dont-know-about-marketing-but-should-from-4-world-leading-experts"
-      }
-    ],
-    "topics": [
-      "advertising",
-      "branding",
-      "business",
-      "communication",
-      "marketing",
-      "mindset",
-      "technology"
-    ],
-    "insights_count": 8,
-    "advice_count": 4,
-    "expertise": "Marketing and Branding"
   },
   {
     "name": "Konstantin Kisin",
@@ -13591,12 +13515,17 @@
   },
   {
     "name": "Rochelle Humes",
-    "episode_count": 1,
+    "episode_count": 2,
     "episodes": [
       {
         "id": "rochelle-humes-learning-to-be-at-peace-with-uncertainty",
         "title": "The Diary Of A CEO with Steven Bartlett - Rochelle Humes: Learning To Be At Peace With Uncertainty",
         "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/rochelle-humes-learning-to-be-at-peace-with-uncertainty"
+      },
+      {
+        "id": "moment-54-how-you-should-make-every-big-decision-rochelle-humes",
+        "title": "The Diary Of A CEO with Steven Bartlett - Moment 54 - How You Should Make Every Big Decision: Rochelle Humes",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-54-how-you-should-make-every-big-decision-rochelle-humes"
       }
     ],
     "topics": [
@@ -13967,5 +13896,100 @@
     "insights_count": 8,
     "advice_count": 2,
     "expertise": "Astrophysics"
+  },
+  {
+    "name": "Tracey Cox",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "moment-128-how-to-fix-your-sexless-relationship-tracey-cox",
+        "title": "The Diary Of A CEO with Steven Bartlett - Moment 128: How To Fix Your Sexless Relationship: Tracey Cox",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-128-how-to-fix-your-sexless-relationship-tracey-cox"
+      }
+    ],
+    "expertise": "Health & Nutrition",
+    "insights_count": 21,
+    "advice_count": 7,
+    "topics": [
+      "communication",
+      "fitness",
+      "habits",
+      "health",
+      "mindset",
+      "psychology",
+      "relationships",
+      "science"
+    ]
+  },
+  {
+    "name": "Bessel Van Der Kolk",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "most-replayed-moment-can-eye-movements-heal-trauma-bessel-van-der-kolk-explains-emdr-therapy",
+        "title": "The Diary Of A CEO with Steven Bartlett - Most Replayed Moment: Can Eye Movements Heal Trauma? Bessel Van Der Kolk Explains EMDR Therapy!",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/most-replayed-moment-can-eye-movements-heal-trauma-bessel-van-der-kolk-explains-emdr-therapy"
+      }
+    ],
+    "expertise": "Health & Nutrition",
+    "insights_count": 21,
+    "advice_count": 7,
+    "topics": [
+      "communication",
+      "fitness",
+      "habits",
+      "health",
+      "mindset",
+      "psychology",
+      "relationships",
+      "science"
+    ]
+  },
+  {
+    "name": "Dr. Jason Fung",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "most-replayed-moment-calories-in-calories-out-is-a-myth-why-most-diets-fail-dr-jason-fung",
+        "title": "The Diary Of A CEO with Steven Bartlett - Most Replayed Moment: Calories In, Calories Out Is A Myth! Why Most Diets Fail - Dr. Jason Fung",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/most-replayed-moment-calories-in-calories-out-is-a-myth-why-most-diets-fail-dr-jason-fung"
+      }
+    ],
+    "expertise": "Health & Nutrition",
+    "insights_count": 21,
+    "advice_count": 7,
+    "topics": [
+      "communication",
+      "fitness",
+      "habits",
+      "health",
+      "mindset",
+      "psychology",
+      "relationships",
+      "science"
+    ]
+  },
+  {
+    "name": "Multiple Experts (Panel)",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "id": "moment-190-everything-you-definitely-dont-know-about-marketing-but-should-from-4-world-leading-experts",
+        "title": "The Diary Of A CEO with Steven Bartlett - Moment 190: Everything You Definitely Don\u2019t Know About Marketing (But Should), From 4 World Leading Experts!",
+        "url": "https://podscripts.co/podcasts/the-diary-of-a-ceo-with-steven-bartlett/moment-190-everything-you-definitely-dont-know-about-marketing-but-should-from-4-world-leading-experts"
+      }
+    ],
+    "expertise": "Marketing and Branding",
+    "insights_count": 8,
+    "advice_count": 4,
+    "topics": [
+      "advertising",
+      "branding",
+      "business",
+      "communication",
+      "marketing",
+      "mindset",
+      "technology"
+    ]
   }
 ]
